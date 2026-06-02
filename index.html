@@ -2,8 +2,16 @@
 <html lang="de">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, viewport-fit=cover" />
   <meta name="color-scheme" content="light" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Polizei Berlin" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#10263f" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="assets/favicon.png" type="image/png" />
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
   <title>Polizei Berlin – Meldungen</title>
   <style>
     :root{
@@ -27,10 +35,22 @@
       --max:1040px;
     }
     *{box-sizing:border-box}
-    html,body{margin:0;padding:0;background:var(--bg);color:var(--text)}
-    body{font:16px/1.48 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+    html,body{margin:0;padding:0;height:100%;background:var(--bg);color:var(--text)}
+    html{overscroll-behavior:none}
+    body{
+      font:16px/1.48 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+      -webkit-font-smoothing:antialiased;
+      text-rendering:optimizeLegibility;
+      -webkit-user-select:none;
+      user-select:none;
+      -webkit-touch-callout:none;
+      -webkit-tap-highlight-color:transparent;
+      touch-action:manipulation;
+    }
     a{color:inherit;text-decoration:none}
     button,input{font:inherit}
+    input{-webkit-user-select:text;user-select:text}
+    ::selection{background:transparent;color:inherit}
 
     .app{max-width:var(--max);margin:0 auto;min-height:100vh}
     .topbar{
@@ -330,8 +350,8 @@
     function renderHero(item) {
       if (!item) return;
       const status = statusForAge(item.publishedAt);
-      els.heroBadge.textContent = item.category === 'Verkehr' ? 'Verkehr' : status.label;
-      els.heroBadge.className = `badge ${status.className}`;
+      els.heroBadge.textContent = 'Top-Meldung';
+      els.heroBadge.className = 'badge red';
       els.heroTime.textContent = `${formatClock(item.publishedAt)} · ${formatRelative(item.publishedAt)}`;
       els.heroTitle.textContent = item.title;
       els.heroSummary.textContent = item.summary;
@@ -339,6 +359,8 @@
         <span>Quelle: Polizei Berlin</span>
         <span>·</span>
         <span>Zuletzt geprüft ${state.data.source.checkedTime}</span>
+        <span>·</span>
+        <span class="link">${escapeHtml(item.category)} · ${escapeHtml(status.label)}</span>
         <span>·</span>
         <a class="link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener">Original öffnen</a>
       `;
@@ -348,19 +370,23 @@
       if (!items.length) {
         els.feed.innerHTML = `
           <div class="empty">
-            <strong>Keine Treffer</strong>
-            Bitte Filter oder Suche anpassen. Die Anzeige bleibt bewusst ruhig und zeigt nur den letzten verlässlichen Stand.
+            <strong>Keine weiteren Meldungen</strong>
+            Die Top-Meldung steht oben. Wenn du suchst oder filterst, erscheint nur der jeweils nächste Treffer hier darunter.
           </div>
         `;
-        els.resultCount.textContent = '0 Meldungen';
+        els.resultCount.textContent = '0 weitere Meldungen';
         return;
       }
 
       const showAll = state.query.length > 0 || state.category !== 'Alle';
-      const displayItems = showAll ? items : items.slice(0, DEFAULT_LIMIT);
-      els.resultCount.textContent = showAll
-        ? `${items.length} Meldungen`
-        : `${displayItems.length} von ${items.length} Meldungen`;
+      const displayItems = showAll ? items.slice(1) : items.slice(1, DEFAULT_LIMIT + 1);
+      if (showAll) {
+        els.resultCount.textContent = `${displayItems.length} weitere Meldungen`;
+      } else {
+        els.resultCount.textContent = displayItems.length
+          ? `${displayItems.length} weitere von ${items.length - 1}`
+          : '0 weitere Meldungen';
+      }
 
       const cards = displayItems.map(item => {
         const status = statusForAge(item.publishedAt);
@@ -388,11 +414,11 @@
         `;
       }).join('');
 
-      const moreBox = (!showAll && items.length > DEFAULT_LIMIT)
+      const moreBox = (!showAll && items.length - 1 > DEFAULT_LIMIT)
         ? `
           <div class="empty">
             <strong>Mehr Meldungen im Archiv</strong>
-            Es werden zunächst die frischesten Einträge gezeigt. Für die vollständige Liste bitte die offizielle Polizeiseite öffnen.
+            Es werden zunächst die frischesten Einträge unter der Top-Meldung gezeigt. Für die vollständige Liste bitte die offizielle Polizeiseite öffnen.
             <div style="margin-top:10px"><a class="action" href="https://www.berlin.de/polizei/polizeimeldungen/" target="_blank" rel="noopener">Offizielles Archiv öffnen</a></div>
           </div>
         `
@@ -457,6 +483,13 @@
       state.category = btn.dataset.cat;
       render();
     });
+
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js', { scope: './' })
+          .catch(err => console.warn('Service worker registration failed:', err));
+      });
+    }
 
     loadData();
   </script>
