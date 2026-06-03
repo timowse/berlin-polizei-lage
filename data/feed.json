@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-03T05:21:12.100902+00:00",
-    "checkedTime": "05:21 Uhr",
+    "checkedAt": "2026-06-03T10:20:48.392823+00:00",
+    "checkedTime": "10:20 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mit Auto der Mutter vor Polizei geflüchtet",
-    "latestPublishedAt": "2026-06-02T14:52:36+00:00"
+    "latestTitle": "Zwei Männer durch Schüsse verletzt – Zielfahndung nimmt einen Tatverdächtigen fest",
+    "latestPublishedAt": "2026-06-03T08:35:00+00:00"
   },
   "items": [
+    {
+      "title": "Zwei Männer durch Schüsse verletzt – Zielfahndung nimmt einen Tatverdächtigen fest",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651624.php",
+      "publishedAt": "2026-06-03T08:35:00+00:00",
+      "publishedLabel": "03.06.2026 08:35",
+      "summary": "Nach intensiven Ermittlungen wegen Schussabgaben vom 10.03.2026 in Kreuzberg konnte vorgestern Nachmittag ein Tatverdächtiger in Schöneberg gefasst werden.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634658.php",
+      "publishedAt": "2026-06-03T07:36:00+00:00",
+      "publishedLabel": "03.06.2026 07:36",
+      "summary": "Mit der Veröffentlichung von Lichtbildern bittet die Polizei Berlin um Mithilfe bei der Identifizierung von 18 Personen.",
+      "category": "Einsatz"
+    },
     {
       "title": "Mit Auto der Mutter vor Polizei geflüchtet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676744.php",
@@ -55,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668704.php",
       "publishedAt": "2026-06-01T14:10:00+00:00",
       "publishedLabel": "01.06.2026 14:10",
-      "summary": "Im Zusammenhang mit den andauernden Ermittlungen wegen eines Gewaltverbrechens vom 23.04.26 in Waidmannslust konnte ein zweiter TV ermittelt werden.",
+      "summary": "Mutmaßliches Gewaltverbrechen – Zweiter Tatverdächtiger in Untersuchungshaft",
       "category": "Fahndung"
     },
     {
@@ -79,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675995.php",
       "publishedAt": "2026-06-01T08:54:22+00:00",
       "publishedLabel": "01.06.2026 08:54",
-      "summary": "Einsatzkräfte nahmen gestern in Wedding einen Mann fest, der zwei Frauen beleidigte.",
+      "summary": "Beleidigung mit rassistischem Hintergrund und tätlicher Angriff auf Polizeivollzugsbeamte",
       "category": "Ermittlung"
     },
     {
@@ -137,22 +153,6 @@
       "publishedLabel": "30.05.2026 12:04",
       "summary": "In der vergangenen Nacht kam es zu einer Schussabgabe durch einen Beamten, als er von einem flüchtenden Fahrer eines Autos angefahren wurde.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Verkehrsunfall während einer Eilfahrt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675846.php",
-      "publishedAt": "2026-05-30T10:08:29+00:00",
-      "publishedLabel": "30.05.2026 10:08",
-      "summary": "Während einer Eilfahrt eines Rettungswagens ereignete sich gestern Mittag ein Verkehrsunfall in Wittenau.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Schüsse auf 23-Jährigen - Mordkommission ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654500.php",
-      "publishedAt": "2026-05-29T14:55:00+00:00",
-      "publishedLabel": "29.05.2026 14:55",
-      "summary": "Die 5. Mordkommission des Landeskriminalamtes hat in der vergangenen Nacht die Ermittlungen zu einem versuchten Tötungsdelikt in Kreuzberg übernommen.",
-      "category": "Ermittlung"
     }
   ]
 }
