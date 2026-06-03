@@ -66,7 +66,7 @@ def infer_category(title: str, summary: str) -> str:
         ("Verkehr", ["verkehr", "unfall", "sperrung", "stau", "brücke", "bruecke", "a100", "fahrzeug", "auto", "fußgänger", "fussgänger", "radfahrer", "bahn", "s-bahn", "u-bahn", "tram", "bus"]),
         ("Fahndung", ["fahndung", "gesucht", "vermisst", "zeugen", "tatverdächt", "tatverdaecht", "hinweis"]),
         ("Ermittlung", ["ermittlung", "ermitteln", "brand", "diebstahl", "raub", "angriff", "drogen", "betrug", "beschädigung", "sachbeschädigung", "verletz", "festnahme"]),
-        ("Einsatz", ["einsatz", "polizei", "streife", "beamte", "sichert", "kontrolle", "festnahme"]),
+        ("Einsatz", ["einsatz", "polizei", "streife", "beamte", "sichert", "kontrolle"]),
     ]
     for category, keywords in rules:
         if any(k in text for k in keywords):

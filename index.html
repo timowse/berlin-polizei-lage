@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <meta name="color-scheme" content="light" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -190,8 +190,8 @@
           <div class="headline-line" id="headlineLine">Zuletzt geprüft …</div>
         </div>
         <div class="tools" aria-label="Schnellaktionen">
-          <button class="tool" type="button" title="Suche"><span>⌕</span><span>Suche</span></button>
-          <button class="tool" type="button" title="Filter"><span>☰</span><span>Filter</span></button>
+          <button class="tool" type="button" id="searchBtn" title="Suche" aria-label="Zur Suche springen"><span aria-hidden="true">⌕</span><span>Suche</span></button>
+          <button class="tool" type="button" id="filterBtn" title="Filter" aria-label="Zu den Filtern springen"><span aria-hidden="true">☰</span><span>Filter</span></button>
         </div>
       </div>
     </header>
@@ -227,7 +227,7 @@
               </label>
               <button class="tool" type="button" id="resetBtn"><span>↺</span><span>Zurücksetzen</span></button>
             </div>
-            <div class="chip-row" id="chips" role="tablist" aria-label="Kategorien">
+            <div class="chip-row" id="chips" role="group" aria-label="Kategorien">
               <button class="chip active" type="button" data-cat="Alle" aria-pressed="true">Alle</button>
               <button class="chip" type="button" data-cat="Verkehr" aria-pressed="false">Verkehr</button>
               <button class="chip" type="button" data-cat="Einsatz" aria-pressed="false">Einsatz</button>
@@ -274,7 +274,6 @@
       category: 'Alle'
     };
 
-    const categoryOrder = ['Alle', 'Verkehr', 'Einsatz', 'Fahndung', 'Ermittlung', 'Sonstiges'];
     const DEFAULT_LIMIT = 8;
 
     const els = {
@@ -291,6 +290,8 @@
       feed: document.getElementById('feed'),
       resultCount: document.getElementById('resultCount'),
       resetBtn: document.getElementById('resetBtn'),
+      searchBtn: document.getElementById('searchBtn'),
+      filterBtn: document.getElementById('filterBtn'),
     };
 
     function escapeHtml(text) {
@@ -309,6 +310,10 @@
         if (keywords.some(k => text.includes(k))) return cat;
       }
       return 'Sonstiges';
+    }
+
+    function itemCategory(item) {
+      return item.category || inferCategory(item.title, item.summary);
     }
 
     function formatClock(iso) {
@@ -340,8 +345,9 @@
     function filteredItems() {
       if (!state.data) return [];
       return state.data.items.filter(item => {
-        const matchesCategory = state.category === 'Alle' || item.category === state.category;
-        const haystack = `${item.title} ${item.summary} ${item.category}`.toLowerCase();
+        const category = itemCategory(item);
+        const matchesCategory = state.category === 'Alle' || category === state.category;
+        const haystack = `${item.title} ${item.summary} ${category}`.toLowerCase();
         const matchesQuery = !state.query || haystack.includes(state.query.toLowerCase());
         return matchesCategory && matchesQuery;
       });
@@ -358,12 +364,21 @@
       els.heroMeta.innerHTML = `
         <span>Quelle: Polizei Berlin</span>
         <span>·</span>
-        <span>Zuletzt geprüft ${state.data.source.checkedTime}</span>
+        <span>Zuletzt geprüft ${escapeHtml(state.data.source.checkedTime)}</span>
         <span>·</span>
-        <span class="link">${escapeHtml(item.category)} · ${escapeHtml(status.label)}</span>
+        <span class="link">${escapeHtml(itemCategory(item))} · ${escapeHtml(status.label)}</span>
         <span>·</span>
         <a class="link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener">Original öffnen</a>
       `;
+    }
+
+    function renderHeroState(badge, badgeClass, time, title, summary) {
+      els.heroBadge.textContent = badge;
+      els.heroBadge.className = `badge ${badgeClass}`;
+      els.heroTime.textContent = time;
+      els.heroTitle.textContent = title;
+      els.heroSummary.textContent = summary;
+      els.heroMeta.innerHTML = '<span>Quelle: Polizei Berlin</span>';
     }
 
     function renderFeed(items) {
@@ -396,7 +411,7 @@
         return `
           <article class="card">
             <div class="card-top">
-              <span class="badge ${badgeClass}">${escapeHtml(item.category)}</span>
+              <span class="badge ${badgeClass}">${escapeHtml(itemCategory(item))}</span>
               <span class="badge ${badgeClass === 'gray' ? 'gray' : 'blue'}">${escapeHtml(status.label)}</span>
             </div>
             <h4>${escapeHtml(item.title)}</h4>
@@ -440,9 +455,24 @@
       els.dataStatus.textContent = state.data.source.statusLabel || 'Aktuell';
       els.lastCheck.textContent = state.data.source.checkedTime;
       const items = filteredItems();
-      renderHero(items[0] || state.data.items[0]);
-      renderFeed(items);
       updateChips();
+
+      const isFiltered = state.query.length > 0 || state.category !== 'Alle';
+      if (!items.length) {
+        if (isFiltered) {
+          renderHeroState('Keine Treffer', 'gray', '—', 'Keine passende Meldung',
+            'Für deine Suche oder Filterauswahl gibt es aktuell keine Meldung. Setze die Filter zurück, um wieder alle Meldungen zu sehen.');
+        } else {
+          renderHeroState('Keine Meldungen', 'gray', '—', 'Aktuell keine Meldungen',
+            'Es liegen derzeit keine Meldungen vor. Sobald die Quelle aktualisiert wird, erscheinen sie hier.');
+        }
+        els.feed.innerHTML = '';
+        els.resultCount.textContent = '0 Meldungen';
+        return;
+      }
+
+      renderHero(items[0]);
+      renderFeed(items);
     }
 
     async function loadData() {
@@ -452,9 +482,12 @@
         state.data = await res.json();
         render();
       } catch (err) {
+        console.warn('Feed konnte nicht geladen werden:', err);
         els.dataStatus.textContent = 'Daten nicht verfügbar';
         els.lastCheck.textContent = '–';
         els.headlineLine.textContent = 'Die offizielle Quelle konnte gerade nicht geladen werden.';
+        renderHeroState('Offline', 'gray', '—', 'Daten aktuell nicht abrufbar',
+          'Die offizielle Quelle konnte gerade nicht geladen werden. Bitte später erneut versuchen.');
         els.feed.innerHTML = `
           <div class="empty">
             <strong>Daten aktuell nicht abrufbar</strong>
@@ -482,6 +515,15 @@
       if (!btn) return;
       state.category = btn.dataset.cat;
       render();
+    });
+
+    els.searchBtn.addEventListener('click', () => {
+      els.query.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      els.query.focus();
+    });
+
+    els.filterBtn.addEventListener('click', () => {
+      els.chips.scrollIntoView({ behavior: 'smooth', block: 'center' });
     });
 
     if ('serviceWorker' in navigator) {
