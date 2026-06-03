@@ -41,23 +41,30 @@
       font:16px/1.48 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
       -webkit-font-smoothing:antialiased;
       text-rendering:optimizeLegibility;
-      -webkit-user-select:none;
-      user-select:none;
-      -webkit-touch-callout:none;
       -webkit-tap-highlight-color:transparent;
       touch-action:manipulation;
     }
     a{color:inherit;text-decoration:none}
     button,input{font:inherit}
+    button,.chip,.tool{-webkit-user-select:none;user-select:none}
     input{-webkit-user-select:text;user-select:text}
-    ::selection{background:transparent;color:inherit}
+    ::selection{background:rgba(46,94,140,.18);color:inherit}
+    :focus-visible{outline:2px solid var(--blue);outline-offset:2px;border-radius:6px}
+    @media (prefers-reduced-motion: reduce){
+      *{scroll-behavior:auto !important;transition:none !important;animation:none !important}
+    }
 
-    .app{max-width:var(--max);margin:0 auto;min-height:100vh}
+    .app{
+      max-width:var(--max);margin:0 auto;min-height:100vh;
+      padding-left:env(safe-area-inset-left);
+      padding-right:env(safe-area-inset-right);
+    }
     .topbar{
       position:sticky;top:0;z-index:30;
       background:rgba(247,244,239,.9);
       backdrop-filter:saturate(180%) blur(16px);
       border-bottom:1px solid rgba(220,226,232,.75);
+      padding-top:env(safe-area-inset-top);
     }
     .topbar-inner{padding:14px 16px 12px;display:flex;align-items:flex-end;justify-content:space-between;gap:12px}
     .brand{min-width:0}
@@ -76,10 +83,11 @@
     .content{padding:14px 14px 24px}
     .status-strip{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-bottom:12px}
     .status-pill{
-      background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:11px 12px;box-shadow:var(--shadow-soft)
+      background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:11px 12px;box-shadow:var(--shadow-soft);
+      min-width:0
     }
     .status-pill .l{font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:800;margin-bottom:4px}
-    .status-pill .v{font-size:14px;font-weight:800;color:var(--navy)}
+    .status-pill .v{font-size:14px;font-weight:800;color:var(--navy);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 
     .layout{display:grid;grid-template-columns:minmax(0,1fr);gap:12px;align-items:start}
     .main{min-width:0}
@@ -156,7 +164,34 @@
     .empty{padding:18px;color:var(--muted)}
     .empty strong{display:block;color:var(--navy);margin-bottom:4px}
 
-    .footer{padding:18px 16px 30px;color:var(--muted);font-size:12.5px;text-align:center}
+    .footer{padding:18px 16px calc(30px + env(safe-area-inset-bottom));color:var(--muted);font-size:12.5px;text-align:center}
+
+    /* Interaction states */
+    .tool,.chip{cursor:pointer;transition:background .15s ease, border-color .15s ease, color .15s ease, box-shadow .15s ease, transform .06s ease}
+    .tool:hover{background:#f1f5f9}
+    .tool:active{transform:translateY(1px)}
+    .chip:hover:not(.active){background:#f3f7fa;border-color:#c7d2dc}
+    .chip:active{transform:translateY(1px)}
+    .search{transition:border-color .15s ease, box-shadow .15s ease}
+    .search:focus-within{border-color:var(--blue);box-shadow:0 0 0 3px rgba(46,94,140,.16)}
+    .card{transition:box-shadow .18s ease, border-color .18s ease, transform .06s ease}
+    .card[data-href]{cursor:pointer}
+    .card[data-href]:hover{box-shadow:0 14px 30px rgba(16,38,63,.10);border-color:#cfd8e1}
+    .card[data-href]:active{transform:translateY(1px)}
+    .card h4 a{color:inherit}
+    .action{transition:color .15s ease}
+    .action:hover{text-decoration:underline}
+
+    /* Rail: live Lagebild */
+    .rail-stats{display:grid;gap:10px;margin-top:4px}
+    .rail-stat{display:grid;grid-template-columns:1fr auto;align-items:center;gap:4px 10px;font-size:12.5px}
+    .rail-stat .name{font-weight:800;color:var(--navy)}
+    .rail-stat .num{color:var(--muted);font-weight:800;font-variant-numeric:tabular-nums}
+    .rail-bar{grid-column:1/-1;height:6px;border-radius:999px;background:var(--soft-gray);overflow:hidden}
+    .rail-bar > i{display:block;height:100%;border-radius:999px;background:var(--blue);transition:width .3s ease}
+    .rail-latest a{display:block;font-weight:800;color:var(--navy);font-size:14px;line-height:1.25;letter-spacing:-.01em}
+    .rail-latest a:hover{text-decoration:underline}
+    .rail-empty{color:var(--muted);font-size:13px}
 
     @media (min-width: 880px){
       .topbar-inner{padding:16px 20px 14px}
@@ -245,20 +280,23 @@
           <section class="feed" id="feed" aria-live="polite"></section>
         </section>
 
-        <aside class="rail" aria-label="Hinweise zur Anzeige">
+        <aside class="rail" aria-label="Lagebild und Quelle">
+          <section class="rail-card" aria-live="polite">
+            <h4>Lagebild</h4>
+            <div class="rail-stats" id="railStats">
+              <div class="rail-empty">Wird geladen …</div>
+            </div>
+          </section>
           <section class="rail-card">
-            <h4>Status</h4>
-            <p>Die Anzeige zeigt nur offiziell bestätigte Meldungen. Wenn die Quelle später aktualisiert wird, bleibt die vorherige Version im Verlauf nachvollziehbar.</p>
-            <div class="line"><strong>Zuletzt geprüft</strong> im aktuellen Datenstand.</div>
+            <h4>Neueste Meldung</h4>
+            <div class="rail-latest" id="railLatest">
+              <div class="rail-empty">Wird geladen …</div>
+            </div>
           </section>
           <section class="rail-card">
             <h4>Originalquelle</h4>
-            <p>Jede Meldung verlinkt auf die offizielle Seite der Polizei Berlin. So bleibt die Quelle transparent und überprüfbar.</p>
-            <div class="line"><strong>RSS / HTML</strong> als Basis für die Übernahme.</div>
-          </section>
-          <section class="rail-card">
-            <h4>Hinweis</h4>
-            <p>Ruhiges, reduziertes Layout: viel Luft, klare Typografie, keine lauten Effekte. Auf dem iPhone bleibt alles leicht scannbar.</p>
+            <p>Jede Meldung verlinkt direkt auf die offizielle Seite der Polizei Berlin – so bleibt die Quelle transparent und überprüfbar.</p>
+            <div class="line"><a class="action" href="https://www.berlin.de/polizei/polizeimeldungen/" target="_blank" rel="noopener">Offizielles Archiv öffnen ↗</a></div>
           </section>
         </aside>
       </div>
@@ -292,7 +330,20 @@
       resetBtn: document.getElementById('resetBtn'),
       searchBtn: document.getElementById('searchBtn'),
       filterBtn: document.getElementById('filterBtn'),
+      railStats: document.getElementById('railStats'),
+      railLatest: document.getElementById('railLatest'),
     };
+
+    const CATEGORY_COLOR = {
+      Verkehr: '#2e5e8c',
+      Einsatz: '#10263f',
+      Fahndung: '#9f1e25',
+      Ermittlung: '#b06a1f',
+      Sonstiges: '#6b7682',
+    };
+
+    const prefersReducedMotion = () =>
+      window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
     function escapeHtml(text) {
       return String(text || '').replace(/[&<>"]/g, s => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[s]));
@@ -358,6 +409,7 @@
       const status = statusForAge(item.publishedAt);
       els.heroBadge.textContent = 'Top-Meldung';
       els.heroBadge.className = 'badge red';
+      els.heroTime.style.display = '';
       els.heroTime.textContent = `${formatClock(item.publishedAt)} · ${formatRelative(item.publishedAt)}`;
       els.heroTitle.textContent = item.title;
       els.heroSummary.textContent = item.summary;
@@ -372,10 +424,10 @@
       `;
     }
 
-    function renderHeroState(badge, badgeClass, time, title, summary) {
+    function renderHeroState(badge, badgeClass, title, summary) {
       els.heroBadge.textContent = badge;
       els.heroBadge.className = `badge ${badgeClass}`;
-      els.heroTime.textContent = time;
+      els.heroTime.style.display = 'none';
       els.heroTitle.textContent = title;
       els.heroSummary.textContent = summary;
       els.heroMeta.innerHTML = '<span>Quelle: Polizei Berlin</span>';
@@ -408,13 +460,14 @@
         const badgeClass = status.className;
         const timeText = `${formatClock(item.publishedAt)} · ${formatRelative(item.publishedAt)}`;
         const summary = item.summary || item.title;
+        const link = escapeHtml(item.link);
         return `
-          <article class="card">
+          <article class="card" data-href="${link}">
             <div class="card-top">
               <span class="badge ${badgeClass}">${escapeHtml(itemCategory(item))}</span>
               <span class="badge ${badgeClass === 'gray' ? 'gray' : 'blue'}">${escapeHtml(status.label)}</span>
             </div>
-            <h4>${escapeHtml(item.title)}</h4>
+            <h4><a href="${link}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></h4>
             <p class="summary">${escapeHtml(summary)}</p>
             <div class="card-meta">
               <span>Veröffentlicht ${escapeHtml(timeText)}</span>
@@ -423,7 +476,7 @@
             </div>
             <div class="footerline">
               <span>Quelle: Polizei Berlin</span>
-              <a class="action" href="${escapeHtml(item.link)}" target="_blank" rel="noopener">Original öffnen</a>
+              <a class="action" href="${link}" target="_blank" rel="noopener">Original öffnen</a>
             </div>
           </article>
         `;
@@ -449,21 +502,55 @@
       });
     }
 
+    function renderRail() {
+      if (!state.data || !state.data.items.length) {
+        if (els.railStats) els.railStats.innerHTML = '<div class="rail-empty">Keine Daten verfügbar.</div>';
+        if (els.railLatest) els.railLatest.innerHTML = '<div class="rail-empty">—</div>';
+        return;
+      }
+      const items = state.data.items;
+      const counts = {};
+      items.forEach(it => {
+        const c = itemCategory(it);
+        counts[c] = (counts[c] || 0) + 1;
+      });
+      const max = Math.max(...Object.values(counts));
+      const rows = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+      els.railStats.innerHTML = rows.map(([name, n]) => {
+        const pct = Math.max(8, Math.round((n / max) * 100));
+        const color = CATEGORY_COLOR[name] || CATEGORY_COLOR.Sonstiges;
+        return `
+          <div class="rail-stat">
+            <span class="name">${escapeHtml(name)}</span>
+            <span class="num">${n}</span>
+            <span class="rail-bar"><i style="width:${pct}%;background:${color}"></i></span>
+          </div>
+        `;
+      }).join('');
+
+      const latest = items[0];
+      els.railLatest.innerHTML = `
+        <a href="${escapeHtml(latest.link)}" target="_blank" rel="noopener">${escapeHtml(latest.title)}</a>
+        <div class="line">${escapeHtml(formatClock(latest.publishedAt))} · ${escapeHtml(formatRelative(latest.publishedAt))} · ${escapeHtml(itemCategory(latest))}</div>
+      `;
+    }
+
     function render() {
       if (!state.data) return;
       els.headlineLine.textContent = `Zuletzt geprüft ${state.data.source.checkedTime} · ${state.data.source.count} Meldungen · Quelle: Polizei Berlin`;
       els.dataStatus.textContent = state.data.source.statusLabel || 'Aktuell';
       els.lastCheck.textContent = state.data.source.checkedTime;
+      renderRail();
       const items = filteredItems();
       updateChips();
 
       const isFiltered = state.query.length > 0 || state.category !== 'Alle';
       if (!items.length) {
         if (isFiltered) {
-          renderHeroState('Keine Treffer', 'gray', '—', 'Keine passende Meldung',
+          renderHeroState('Keine Treffer', 'gray', 'Keine passende Meldung',
             'Für deine Suche oder Filterauswahl gibt es aktuell keine Meldung. Setze die Filter zurück, um wieder alle Meldungen zu sehen.');
         } else {
-          renderHeroState('Keine Meldungen', 'gray', '—', 'Aktuell keine Meldungen',
+          renderHeroState('Keine Meldungen', 'gray', 'Aktuell keine Meldungen',
             'Es liegen derzeit keine Meldungen vor. Sobald die Quelle aktualisiert wird, erscheinen sie hier.');
         }
         els.feed.innerHTML = '';
@@ -483,11 +570,12 @@
         render();
       } catch (err) {
         console.warn('Feed konnte nicht geladen werden:', err);
-        els.dataStatus.textContent = 'Daten nicht verfügbar';
+        els.dataStatus.textContent = 'Offline';
         els.lastCheck.textContent = '–';
         els.headlineLine.textContent = 'Die offizielle Quelle konnte gerade nicht geladen werden.';
-        renderHeroState('Offline', 'gray', '—', 'Daten aktuell nicht abrufbar',
+        renderHeroState('Offline', 'gray', 'Daten aktuell nicht abrufbar',
           'Die offizielle Quelle konnte gerade nicht geladen werden. Bitte später erneut versuchen.');
+        renderRail();
         els.feed.innerHTML = `
           <div class="empty">
             <strong>Daten aktuell nicht abrufbar</strong>
@@ -517,13 +605,22 @@
       render();
     });
 
+    els.feed.addEventListener('click', (e) => {
+      if (e.target.closest('a')) return;                                  // real links handle themselves
+      if (window.getSelection && String(window.getSelection()).length) return; // don't hijack text selection
+      const card = e.target.closest('.card[data-href]');
+      if (card) window.open(card.dataset.href, '_blank', 'noopener');
+    });
+
     els.searchBtn.addEventListener('click', () => {
-      els.query.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      const behavior = prefersReducedMotion() ? 'auto' : 'smooth';
+      els.query.scrollIntoView({ behavior, block: 'center' });
       els.query.focus();
     });
 
     els.filterBtn.addEventListener('click', () => {
-      els.chips.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      const behavior = prefersReducedMotion() ? 'auto' : 'smooth';
+      els.chips.scrollIntoView({ behavior, block: 'center' });
     });
 
     if ('serviceWorker' in navigator) {

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'berlin-polizei-lage-v2';
+const CACHE_NAME = 'berlin-polizei-lage-v3';
 const PRECACHE = [
   './',
   './index.html',
