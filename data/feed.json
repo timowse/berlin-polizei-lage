@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-03T10:20:48.392823+00:00",
-    "checkedTime": "10:20 Uhr",
+    "checkedAt": "2026-06-03T15:17:36.641454+00:00",
+    "checkedTime": "15:17 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Zwei Männer durch Schüsse verletzt – Zielfahndung nimmt einen Tatverdächtigen fest",
-    "latestPublishedAt": "2026-06-03T08:35:00+00:00"
+    "latestTitle": "Motorradfahrer lebensbedrohlich verletzt",
+    "latestPublishedAt": "2026-06-03T13:48:00+00:00"
   },
   "items": [
+    {
+      "title": "Motorradfahrer lebensbedrohlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677281.php",
+      "publishedAt": "2026-06-03T13:48:00+00:00",
+      "publishedLabel": "03.06.2026 13:48",
+      "summary": "Gestern Nachmittag erlitt ein Motorradfahrer durch einen Verkehrsunfall in Mitte lebensbedrohliche Verletzungen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Fahrzeuge mit Steinen beworfen – Mann festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677275.php",
+      "publishedAt": "2026-06-03T13:46:00+00:00",
+      "publishedLabel": "03.06.2026 13:46",
+      "summary": "Ein offenbar alkoholisierter Mann soll gestern Nachmittag in Nikolassee Steine auf Fahrzeuge geworfen haben.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Verdächtige Männer festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677080.php",
+      "publishedAt": "2026-06-03T10:37:43+00:00",
+      "publishedLabel": "03.06.2026 10:37",
+      "summary": "Polizeieinsatzkräfte wurden gestern Abend nach Marzahn alarmiert, da sich in der Nähe einer Bankfiliale zwei verdächtige Männer aufhielten.",
+      "category": "Einsatz"
+    },
     {
       "title": "Zwei Männer durch Schüsse verletzt – Zielfahndung nimmt einen Tatverdächtigen fest",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651624.php",
@@ -71,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668704.php",
       "publishedAt": "2026-06-01T14:10:00+00:00",
       "publishedLabel": "01.06.2026 14:10",
-      "summary": "Mutmaßliches Gewaltverbrechen – Zweiter Tatverdächtiger in Untersuchungshaft",
+      "summary": "Im Zusammenhang mit den andauernden Ermittlungen wegen eines Gewaltverbrechens vom 23.04.26 in Waidmannslust konnte ein zweiter TV ermittelt werden.",
       "category": "Fahndung"
     },
     {
@@ -95,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675995.php",
       "publishedAt": "2026-06-01T08:54:22+00:00",
       "publishedLabel": "01.06.2026 08:54",
-      "summary": "Beleidigung mit rassistischem Hintergrund und tätlicher Angriff auf Polizeivollzugsbeamte",
+      "summary": "Einsatzkräfte nahmen gestern in Wedding einen Mann fest, der zwei Frauen beleidigte.",
       "category": "Ermittlung"
     },
     {
@@ -129,30 +153,6 @@
       "publishedLabel": "30.05.2026 14:40",
       "summary": "In Wilmersdorf erlitt ein Heranwachsender während der gestrigen Mittagsstunden im Verlauf einer Auseinandersetzung eine Stichverletzung.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Radfahrerinnen zusammengestoßen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675849.php",
-      "publishedAt": "2026-05-30T14:28:03+00:00",
-      "publishedLabel": "30.05.2026 14:28",
-      "summary": "Gestern Abend stießen auf dem Tempelhofer Feld zwei Radfahrerinnen zusammen und erlitten Verletzungen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Tätlicher Angriff auf Einsatzkräfte – DEIG-Einsatz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675848.php",
-      "publishedAt": "2026-05-30T12:33:48+00:00",
-      "publishedLabel": "30.05.2026 12:33",
-      "summary": "Nach einem Drogenhandel nahmen Einsatzkräfte vergangene Nacht zwei Männer in Friedrichshain fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Polizist von flüchtendem Auto angefahren – Schussabgabe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675847.php",
-      "publishedAt": "2026-05-30T12:04:47+00:00",
-      "publishedLabel": "30.05.2026 12:04",
-      "summary": "In der vergangenen Nacht kam es zu einer Schussabgabe durch einen Beamten, als er von einem flüchtenden Fahrer eines Autos angefahren wurde.",
-      "category": "Verkehr"
     }
   ]
 }
