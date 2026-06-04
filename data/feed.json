@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-04T08:56:41.258700+00:00",
-    "checkedTime": "08:56 Uhr",
+    "checkedAt": "2026-06-04T12:06:39.889775+00:00",
+    "checkedTime": "12:06 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Auseinandersetzung im Volkspark – Zeuginnen und Zeugen gesucht",
-    "latestPublishedAt": "2026-06-04T08:00:00+00:00"
+    "latestTitle": "Durchsuchungen wegen Verdachts des Menschenhandels und der Arbeitsausbeutung",
+    "latestPublishedAt": "2026-06-04T11:46:04+00:00"
   },
   "items": [
+    {
+      "title": "Durchsuchungen wegen Verdachts des Menschenhandels und der Arbeitsausbeutung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677603.php",
+      "publishedAt": "2026-06-04T11:46:04+00:00",
+      "publishedLabel": "04.06.2026 11:46",
+      "summary": "Gestern früh wurden im Auftrag der Staatsanwaltschaft drei Durchsuchungsbeschlüsse wegen des Verdachts des Menschenhandels zur Arbeitsausbeutung vollstreckt.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Frauen sexuell belästigt und Dienstwagen beschädigt – Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677618.php",
+      "publishedAt": "2026-06-04T10:58:00+00:00",
+      "publishedLabel": "04.06.2026 10:58",
+      "summary": "Gestern Mittag kam es in Charlottenburg zu einer Beschädigung eines Einsatzwagens der Polizei.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Auseinandersetzung im Volkspark – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672171.php",
@@ -103,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668704.php",
       "publishedAt": "2026-06-01T14:10:00+00:00",
       "publishedLabel": "01.06.2026 14:10",
-      "summary": "Im Zusammenhang mit den andauernden Ermittlungen wegen eines Gewaltverbrechens vom 23.04.26 in Waidmannslust konnte ein zweiter TV ermittelt werden.",
+      "summary": "Mutmaßliches Gewaltverbrechen – Zweiter Tatverdächtiger in Untersuchungshaft",
       "category": "Fahndung"
     },
     {
@@ -119,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676098.php",
       "publishedAt": "2026-06-01T10:39:19+00:00",
       "publishedLabel": "01.06.2026 10:39",
-      "summary": "In Hermsdorf wurden gestern Vormittag ein Motorradfahrer und seine Mitfahrerin bei einem Verkehrsunfall verletzt.",
+      "summary": "Motorradfahrer und Sozia bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -127,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675995.php",
       "publishedAt": "2026-06-01T08:54:22+00:00",
       "publishedLabel": "01.06.2026 08:54",
-      "summary": "Einsatzkräfte nahmen gestern in Wedding einen Mann fest, der zwei Frauen beleidigte.",
+      "summary": "Beleidigung mit rassistischem Hintergrund und tätlicher Angriff auf Polizeivollzugsbeamte",
       "category": "Ermittlung"
     },
     {
@@ -137,22 +153,6 @@
       "publishedLabel": "01.06.2026 06:32",
       "summary": "Zwei Unbekannte stehen im Verdacht, zwischen dem 24.01.2025 und dem 03.02.2025 Bankkarten entwendet zu haben und Bargeldabhebungen getätigt zu haben.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Supermarkt-Mitarbeiter mit Schreckschusswaffe bedroht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675861.php",
-      "publishedAt": "2026-05-31T10:40:00+00:00",
-      "publishedLabel": "31.05.2026 10:40",
-      "summary": "Gestern Abend nahmen Einsatzkräfte des Polizeiabschnitts 13 einen Mann fest, der in Rosenthal einen Supermarkt-Mitarbeiter mit einer Waffe bedroht haben soll.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Festnahmen nach Schüssen in die Luft",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675852.php",
-      "publishedAt": "2026-05-30T14:45:50+00:00",
-      "publishedLabel": "30.05.2026 14:45",
-      "summary": "In der vergangenen Nacht nahmen Einsatzkräfte drei Männer fest, nachdem in Wedding in die Luft geschossen worden sein soll.",
-      "category": "Ermittlung"
     }
   ]
 }
