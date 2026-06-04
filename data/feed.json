@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-04T04:58:21.265288+00:00",
-    "checkedTime": "04:58 Uhr",
+    "checkedAt": "2026-06-04T08:56:41.258700+00:00",
+    "checkedTime": "08:56 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Motorradfahrer lebensbedrohlich verletzt",
-    "latestPublishedAt": "2026-06-03T13:48:00+00:00"
+    "latestTitle": "Auseinandersetzung im Volkspark – Zeuginnen und Zeugen gesucht",
+    "latestPublishedAt": "2026-06-04T08:00:00+00:00"
   },
   "items": [
+    {
+      "title": "Auseinandersetzung im Volkspark – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672171.php",
+      "publishedAt": "2026-06-04T08:00:00+00:00",
+      "publishedLabel": "04.06.2026 08:00",
+      "summary": "Am Montag, den 18.05.2026, gegen 19:00 Uhr, wurden bei einer Auseinandersetzung im Volkspark Hasenheide zwei Männer durch Messerstiche schwer verletzt.",
+      "category": "Fahndung"
+    },
     {
       "title": "Motorradfahrer lebensbedrohlich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677281.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-05-30T14:45:50+00:00",
       "publishedLabel": "30.05.2026 14:45",
       "summary": "In der vergangenen Nacht nahmen Einsatzkräfte drei Männer fest, nachdem in Wedding in die Luft geschossen worden sein soll.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "In Auseinandersetzung lebensgefährlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675851.php",
-      "publishedAt": "2026-05-30T14:40:34+00:00",
-      "publishedLabel": "30.05.2026 14:40",
-      "summary": "In Wilmersdorf erlitt ein Heranwachsender während der gestrigen Mittagsstunden im Verlauf einer Auseinandersetzung eine Stichverletzung.",
       "category": "Ermittlung"
     }
   ]
