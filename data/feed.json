@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-04T12:06:39.889775+00:00",
-    "checkedTime": "12:06 Uhr",
+    "checkedAt": "2026-06-04T15:40:03.740996+00:00",
+    "checkedTime": "15:40 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Durchsuchungen wegen Verdachts des Menschenhandels und der Arbeitsausbeutung",
-    "latestPublishedAt": "2026-06-04T11:46:04+00:00"
+    "latestTitle": "Polizeibeamtin angegriffen und verletzt",
+    "latestPublishedAt": "2026-06-04T15:34:37+00:00"
   },
   "items": [
+    {
+      "title": "Polizeibeamtin angegriffen und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677884.php",
+      "publishedAt": "2026-06-04T15:34:37+00:00",
+      "publishedLabel": "04.06.2026 15:34",
+      "summary": "Einsatzkräfte nahmen vergangene Nacht in Kreuzberg einen Jugendlichen fest.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mann mit Messer verletzt – Tatverdächtige festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677786.php",
+      "publishedAt": "2026-06-04T14:02:46+00:00",
+      "publishedLabel": "04.06.2026 14:02",
+      "summary": "Polizeieinsatzkräfte bemerkten in der vergangenen Nacht in Kreuzberg eine körperliche Auseinandersetzung.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Spezialeinsatzkräfte nehmen bewaffneten Mann fest",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677670.php",
+      "publishedAt": "2026-06-04T12:34:48+00:00",
+      "publishedLabel": "04.06.2026 12:34",
+      "summary": "Gestern Nachmittag nahmen Spezialeinsatzkräfte einen bewaffneten Mann in seiner Wohnung in Hellersdorf fest.",
+      "category": "Einsatz"
+    },
     {
       "title": "Durchsuchungen wegen Verdachts des Menschenhandels und der Arbeitsausbeutung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677603.php",
@@ -119,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668704.php",
       "publishedAt": "2026-06-01T14:10:00+00:00",
       "publishedLabel": "01.06.2026 14:10",
-      "summary": "Mutmaßliches Gewaltverbrechen – Zweiter Tatverdächtiger in Untersuchungshaft",
+      "summary": "Im Zusammenhang mit den andauernden Ermittlungen wegen eines Gewaltverbrechens vom 23.04.26 in Waidmannslust konnte ein zweiter TV ermittelt werden.",
       "category": "Fahndung"
     },
     {
@@ -129,30 +153,6 @@
       "publishedLabel": "01.06.2026 12:12",
       "summary": "In Neukölln wurde gestern Nachmittag ein Radfahrer bei einem Verkehrsunfall verletzt.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Motorradfahrer und Sozia bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676098.php",
-      "publishedAt": "2026-06-01T10:39:19+00:00",
-      "publishedLabel": "01.06.2026 10:39",
-      "summary": "Motorradfahrer und Sozia bei Verkehrsunfall verletzt",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Beleidigung mit rassistischem Hintergrund und tätlicher Angriff auf Polizeivollzugsbeamte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675995.php",
-      "publishedAt": "2026-06-01T08:54:22+00:00",
-      "publishedLabel": "01.06.2026 08:54",
-      "summary": "Beleidigung mit rassistischem Hintergrund und tätlicher Angriff auf Polizeivollzugsbeamte",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Diebstahl und Computerbetrug – Wer erkennt die Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675894.php",
-      "publishedAt": "2026-06-01T06:32:20+00:00",
-      "publishedLabel": "01.06.2026 06:32",
-      "summary": "Zwei Unbekannte stehen im Verdacht, zwischen dem 24.01.2025 und dem 03.02.2025 Bankkarten entwendet zu haben und Bargeldabhebungen getätigt zu haben.",
-      "category": "Fahndung"
     }
   ]
 }
