@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-05T13:29:13.860980+00:00",
-    "checkedTime": "13:29 Uhr",
+    "checkedAt": "2026-06-05T16:14:33.049490+00:00",
+    "checkedTime": "16:14 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verkehrsunfall nach medizinischem Notfall",
-    "latestPublishedAt": "2026-06-05T12:50:00+00:00"
+    "latestTitle": "Ermittlungen gegen eine Dienstkraft der Polizei Berlin wegen des Verdachts eines Gewaltdelikts",
+    "latestPublishedAt": "2026-06-05T15:17:00+00:00"
   },
   "items": [
+    {
+      "title": "Ermittlungen gegen eine Dienstkraft der Polizei Berlin wegen des Verdachts eines Gewaltdelikts",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678391.php",
+      "publishedAt": "2026-06-05T15:17:00+00:00",
+      "publishedLabel": "05.06.2026 15:17",
+      "summary": "Im Zusammenhang mit einem Gewaltdelikt ermittelt seit heute Nachmittag ein Fachkommissariat des Landeskriminalamtes gegen einen Polizeibeamten des Landes Berlin",
+      "category": "Ermittlung"
+    },
     {
       "title": "Verkehrsunfall nach medizinischem Notfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678324.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-06-02T14:52:36+00:00",
       "publishedLabel": "02.06.2026 14:52",
       "summary": "In der vergangenen Nacht flüchtete ein Jugendlicher in Friedrichshagen – am Steuer sitzend – mit dem Auto seiner Mutter vor der Polizei.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Fußgänger bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676527.php",
-      "publishedAt": "2026-06-02T09:57:14+00:00",
-      "publishedLabel": "02.06.2026 09:57",
-      "summary": "Bei einem Verkehrsunfall in Lichtenberg wurde ein Fußgänger gestern Abend erheblich verletzt.",
       "category": "Verkehr"
     }
   ]
