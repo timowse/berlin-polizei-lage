@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-05T10:15:18.531790+00:00",
-    "checkedTime": "10:15 Uhr",
+    "checkedAt": "2026-06-05T13:29:13.860980+00:00",
+    "checkedTime": "13:29 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Schussabgaben auf Personen – Zeuginnen und Zeugen gesucht",
-    "latestPublishedAt": "2026-06-05T09:20:00+00:00"
+    "latestTitle": "Verkehrsunfall nach medizinischem Notfall",
+    "latestPublishedAt": "2026-06-05T12:50:00+00:00"
   },
   "items": [
+    {
+      "title": "Verkehrsunfall nach medizinischem Notfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678324.php",
+      "publishedAt": "2026-06-05T12:50:00+00:00",
+      "publishedLabel": "05.06.2026 12:50",
+      "summary": "Ein medizinischer Notfall eines Autofahrers führte gestern Nachmittag in Mariendorf zu einem Verkehrsunfall mit drei beteiligten Fahrzeugen.",
+      "category": "Verkehr"
+    },
     {
       "title": "Schussabgaben auf Personen – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674077.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-06-02T09:57:14+00:00",
       "publishedLabel": "02.06.2026 09:57",
       "summary": "Bei einem Verkehrsunfall in Lichtenberg wurde ein Fußgänger gestern Abend erheblich verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Autofahrer fährt Kind an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676477.php",
-      "publishedAt": "2026-06-02T09:16:11+00:00",
-      "publishedLabel": "02.06.2026 09:16",
-      "summary": "Gestern Mittag wurde ein Kind bei einem Verkehrsunfall in Zehlendorf verletzt.",
       "category": "Verkehr"
     }
   ]
