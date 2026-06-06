@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-06T11:54:28.563594+00:00",
-    "checkedTime": "11:54 Uhr",
+    "checkedAt": "2026-06-06T13:47:50.056761+00:00",
+    "checkedTime": "13:47 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Tödlicher Verkehrsunfall",
-    "latestPublishedAt": "2026-06-06T10:32:11+00:00"
+    "latestTitle": "Sachbeschädigung an Zugangstor zum Görlitzer Park",
+    "latestPublishedAt": "2026-06-06T13:03:44+00:00"
   },
   "items": [
+    {
+      "title": "Sachbeschädigung an Zugangstor zum Görlitzer Park",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678402.php",
+      "publishedAt": "2026-06-06T13:03:44+00:00",
+      "publishedLabel": "06.06.2026 13:03",
+      "summary": "In der vergangenen Nacht wurde eine Beschädigung an einem Tor des Görlitzer Parks in Kreuzberg festgestellt.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Tödlicher Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678401.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "03.06.2026 10:37",
       "summary": "Polizeieinsatzkräfte wurden gestern Abend nach Marzahn alarmiert, da sich in der Nähe einer Bankfiliale zwei verdächtige Männer aufhielten.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Zwei Männer durch Schüsse verletzt – Zielfahndung nimmt einen Tatverdächtigen fest",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651624.php",
-      "publishedAt": "2026-06-03T08:35:00+00:00",
-      "publishedLabel": "03.06.2026 08:35",
-      "summary": "Nach intensiven Ermittlungen wegen Schussabgaben vom 10.03.2026 in Kreuzberg konnte vorgestern Nachmittag ein Tatverdächtiger in Schöneberg gefasst werden.",
-      "category": "Fahndung"
     }
   ]
 }
