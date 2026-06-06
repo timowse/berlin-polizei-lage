@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-06T13:47:50.056761+00:00",
-    "checkedTime": "13:47 Uhr",
+    "checkedAt": "2026-06-06T15:02:34.100346+00:00",
+    "checkedTime": "15:02 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Sachbeschädigung an Zugangstor zum Görlitzer Park",
-    "latestPublishedAt": "2026-06-06T13:03:44+00:00"
+    "latestTitle": "Einsatzwagen der Polizei verunglückt – acht Verletzte",
+    "latestPublishedAt": "2026-06-06T14:52:18+00:00"
   },
   "items": [
+    {
+      "title": "Einsatzwagen der Polizei verunglückt – acht Verletzte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678405.php",
+      "publishedAt": "2026-06-06T14:52:18+00:00",
+      "publishedLabel": "06.06.2026 14:52",
+      "summary": "Heute früh kam es in Kreuzberg zu einem Verkehrsunfall mit einem Polizeifahrzeug, bei dem acht Personen, davon sieben Polizeieinsatzkräfte, verletzt wurden.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mann flüchtet im Auto vor Polizeikontrolle - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678404.php",
+      "publishedAt": "2026-06-06T14:11:17+00:00",
+      "publishedLabel": "06.06.2026 14:11",
+      "summary": "Ein Mann, der sich einer Verkehrskontrolle entzog, wurde in der vergangenen Nacht in Gropiusstadt festgenommen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mann geschlagen und getreten - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678403.php",
+      "publishedAt": "2026-06-06T14:03:34+00:00",
+      "publishedLabel": "06.06.2026 14:03",
+      "summary": "Heute früh wurden Einsatzkräfte des Polizeiabschnitts 36 zu einer gefährlichen Körperverletzung nach Köpenick alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Sachbeschädigung an Zugangstor zum Görlitzer Park",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678402.php",
@@ -129,30 +153,6 @@
       "publishedLabel": "04.06.2026 08:00",
       "summary": "Am Montag, den 18.05.2026, gegen 19:00 Uhr, wurden bei einer Auseinandersetzung im Volkspark Hasenheide zwei Männer durch Messerstiche schwer verletzt.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Motorradfahrer lebensbedrohlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677281.php",
-      "publishedAt": "2026-06-03T13:48:00+00:00",
-      "publishedLabel": "03.06.2026 13:48",
-      "summary": "Gestern Nachmittag erlitt ein Motorradfahrer durch einen Verkehrsunfall in Mitte lebensbedrohliche Verletzungen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Fahrzeuge mit Steinen beworfen – Mann festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677275.php",
-      "publishedAt": "2026-06-03T13:46:00+00:00",
-      "publishedLabel": "03.06.2026 13:46",
-      "summary": "Ein offenbar alkoholisierter Mann soll gestern Nachmittag in Nikolassee Steine auf Fahrzeuge geworfen haben.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Verdächtige Männer festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677080.php",
-      "publishedAt": "2026-06-03T10:37:43+00:00",
-      "publishedLabel": "03.06.2026 10:37",
-      "summary": "Polizeieinsatzkräfte wurden gestern Abend nach Marzahn alarmiert, da sich in der Nähe einer Bankfiliale zwei verdächtige Männer aufhielten.",
-      "category": "Einsatz"
     }
   ]
 }
