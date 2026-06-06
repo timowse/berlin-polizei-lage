@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-06T10:21:12.641837+00:00",
-    "checkedTime": "10:21 Uhr",
+    "checkedAt": "2026-06-06T11:54:28.563594+00:00",
+    "checkedTime": "11:54 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Ermittlungen gegen eine Dienstkraft der Polizei Berlin wegen des Verdachts eines Gewaltdelikts",
-    "latestPublishedAt": "2026-06-05T15:17:00+00:00"
+    "latestTitle": "Tödlicher Verkehrsunfall",
+    "latestPublishedAt": "2026-06-06T10:32:11+00:00"
   },
   "items": [
+    {
+      "title": "Tödlicher Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678401.php",
+      "publishedAt": "2026-06-06T10:32:11+00:00",
+      "publishedLabel": "06.06.2026 10:32",
+      "summary": "In der vergangenen Nacht verstarb eine Frau in Folge eines Verkehrsunfalls in Niederschönhausen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Stichverletzung erlitten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678400.php",
+      "publishedAt": "2026-06-06T10:30:16+00:00",
+      "publishedLabel": "06.06.2026 10:30",
+      "summary": "Gestern Vormittag erlitt ein Mann in Haselhorst eine Stichverletzung.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Ermittlungen gegen eine Dienstkraft der Polizei Berlin wegen des Verdachts eines Gewaltdelikts",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678391.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "03.06.2026 08:35",
       "summary": "Nach intensiven Ermittlungen wegen Schussabgaben vom 10.03.2026 in Kreuzberg konnte vorgestern Nachmittag ein Tatverdächtiger in Schöneberg gefasst werden.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634658.php",
-      "publishedAt": "2026-06-03T07:36:00+00:00",
-      "publishedLabel": "03.06.2026 07:36",
-      "summary": "Mit der Veröffentlichung von Lichtbildern bittet die Polizei Berlin um Mithilfe bei der Identifizierung von 18 Personen.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Mit Auto der Mutter vor Polizei geflüchtet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676744.php",
-      "publishedAt": "2026-06-02T14:52:36+00:00",
-      "publishedLabel": "02.06.2026 14:52",
-      "summary": "In der vergangenen Nacht flüchtete ein Jugendlicher in Friedrichshagen – am Steuer sitzend – mit dem Auto seiner Mutter vor der Polizei.",
-      "category": "Verkehr"
     }
   ]
 }
