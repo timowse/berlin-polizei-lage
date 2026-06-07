@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-07T09:51:29.378733+00:00",
-    "checkedTime": "09:51 Uhr",
+    "checkedAt": "2026-06-07T11:48:53.894960+00:00",
+    "checkedTime": "11:48 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Besonders schwerer Landfriedensbruch",
-    "latestPublishedAt": "2026-06-06T15:08:34+00:00"
+    "latestTitle": "Steine von Autobahnbrücke getreten",
+    "latestPublishedAt": "2026-06-07T11:04:00+00:00"
   },
   "items": [
+    {
+      "title": "Steine von Autobahnbrücke getreten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678413.php",
+      "publishedAt": "2026-06-07T11:04:00+00:00",
+      "publishedLabel": "07.06.2026 11:04",
+      "summary": "Polizeikräfte nahmen gestern Nachmittag eine 73-jährige Person fest, die im Verdacht steht, von einer Brücke aus Steine auf die BAB 100 getreten zu haben.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mehrere Einsatzkräfte angegriffen und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678412.php",
+      "publishedAt": "2026-06-07T10:49:00+00:00",
+      "publishedLabel": "07.06.2026 10:49",
+      "summary": "In Friedrichshain wurden in der vergangenen Nacht mehrere Einsatzkräfte angegriffen und verletzt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Motorradfahrer bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678411.php",
+      "publishedAt": "2026-06-07T10:26:00+00:00",
+      "publishedLabel": "07.06.2026 10:26",
+      "summary": "Ein Motorradfahrer wurde gestern Vormittag bei einem Verkehrsunfall in Pankow verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Bei Verkehrsunfall lebensgefährlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678410.php",
+      "publishedAt": "2026-06-07T10:06:00+00:00",
+      "publishedLabel": "07.06.2026 10:06",
+      "summary": "In Lichterfelde wurde gestern Nachmittag eine Fußgängerin bei einem Verkehrsunfall lebensgefährlich verletzt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Besonders schwerer Landfriedensbruch",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678406.php",
@@ -120,38 +152,6 @@
       "publishedAt": "2026-06-04T15:34:37+00:00",
       "publishedLabel": "04.06.2026 15:34",
       "summary": "Einsatzkräfte nahmen vergangene Nacht in Kreuzberg einen Jugendlichen fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann mit Messer verletzt – Tatverdächtige festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677786.php",
-      "publishedAt": "2026-06-04T14:02:46+00:00",
-      "publishedLabel": "04.06.2026 14:02",
-      "summary": "Polizeieinsatzkräfte bemerkten in der vergangenen Nacht in Kreuzberg eine körperliche Auseinandersetzung.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Spezialeinsatzkräfte nehmen bewaffneten Mann fest",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677670.php",
-      "publishedAt": "2026-06-04T12:34:48+00:00",
-      "publishedLabel": "04.06.2026 12:34",
-      "summary": "Gestern Nachmittag nahmen Spezialeinsatzkräfte einen bewaffneten Mann in seiner Wohnung in Hellersdorf fest.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Durchsuchungen wegen Verdachts des Menschenhandels und der Arbeitsausbeutung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677603.php",
-      "publishedAt": "2026-06-04T11:46:04+00:00",
-      "publishedLabel": "04.06.2026 11:46",
-      "summary": "Gestern früh wurden im Auftrag der Staatsanwaltschaft drei Durchsuchungsbeschlüsse wegen des Verdachts des Menschenhandels zur Arbeitsausbeutung vollstreckt.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Frauen sexuell belästigt und Dienstwagen beschädigt – Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677618.php",
-      "publishedAt": "2026-06-04T10:58:00+00:00",
-      "publishedLabel": "04.06.2026 10:58",
-      "summary": "Gestern Mittag kam es in Charlottenburg zu einer Beschädigung eines Einsatzwagens der Polizei.",
       "category": "Ermittlung"
     }
   ]
