@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-07T19:26:13.589222+00:00",
-    "checkedTime": "19:26 Uhr",
+    "checkedAt": "2026-06-07T20:47:09.812300+00:00",
+    "checkedTime": "20:47 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Steine von Autobahnbrücke getreten",
     "latestPublishedAt": "2026-06-07T11:04:00+00:00"
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678101.php",
       "publishedAt": "2026-06-05T08:46:00+00:00",
       "publishedLabel": "05.06.2026 08:46",
-      "summary": "Schwangere Beifahrerin nach Verkehrsunfall im Krankenhaus",
+      "summary": "Gestern Nachmittag wurden ein Mann, ein Kind und eine schwangere Frau bei einem Verkehrsunfall in Lichterfelde verletzt.",
       "category": "Verkehr"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678095.php",
       "publishedAt": "2026-06-05T08:40:00+00:00",
       "publishedLabel": "05.06.2026 08:40",
-      "summary": "Nach Fahrstreifenwechsel mitgeschleift – Kradfahrer im Krankenhaus",
+      "summary": "Gestern Mittag ereignete sich ein Verkehrsunfall in Wedding.",
       "category": "Verkehr"
     },
     {
