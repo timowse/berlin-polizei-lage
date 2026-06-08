@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-08T05:13:32.865285+00:00",
-    "checkedTime": "05:13 Uhr",
+    "checkedAt": "2026-06-08T09:58:09.468516+00:00",
+    "checkedTime": "09:58 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Steine von Autobahnbrücke getreten",
-    "latestPublishedAt": "2026-06-07T11:04:00+00:00"
+    "latestTitle": "Feuer in Sporthalle",
+    "latestPublishedAt": "2026-06-08T09:46:18+00:00"
   },
   "items": [
+    {
+      "title": "Feuer in Sporthalle",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678690.php",
+      "publishedAt": "2026-06-08T09:46:18+00:00",
+      "publishedLabel": "08.06.2026 09:46",
+      "summary": "Am Samstagabend, den 6. Juni 2026, kam es in einer Sporthalle einer Schule im Märkischen Viertel zu einem Brand.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt die Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678449.php",
+      "publishedAt": "2026-06-08T06:55:43+00:00",
+      "publishedLabel": "08.06.2026 06:55",
+      "summary": "Mit Bildern bittet die Polizei Berlin um Mithilfe bei der Suche nach zwei unbekannten Tatverdächtigen zu einem Trickbetrug am 18. September 2025 in Biesdorf.",
+      "category": "Fahndung"
+    },
     {
       "title": "Steine von Autobahnbrücke getreten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678413.php",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-06-05T08:42:00+00:00",
       "publishedLabel": "05.06.2026 08:42",
       "summary": "In der vergangenen Nacht nahm die Polizei einen Mann nach Schussabgaben in Wannsee fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Nach Fahrstreifenwechsel mitgeschleift – Kradfahrer im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678095.php",
-      "publishedAt": "2026-06-05T08:40:00+00:00",
-      "publishedLabel": "05.06.2026 08:40",
-      "summary": "Gestern Mittag ereignete sich ein Verkehrsunfall in Wedding.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Polizeibeamtin angegriffen und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677884.php",
-      "publishedAt": "2026-06-04T15:34:37+00:00",
-      "publishedLabel": "04.06.2026 15:34",
-      "summary": "Einsatzkräfte nahmen vergangene Nacht in Kreuzberg einen Jugendlichen fest.",
       "category": "Ermittlung"
     }
   ]
