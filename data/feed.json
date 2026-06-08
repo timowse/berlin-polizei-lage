@@ -3,27 +3,51 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-08T09:58:09.468516+00:00",
-    "checkedTime": "09:58 Uhr",
+    "checkedAt": "2026-06-08T21:51:10.325753+00:00",
+    "checkedTime": "21:51 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Feuer in Sporthalle",
-    "latestPublishedAt": "2026-06-08T09:46:18+00:00"
+    "latestTitle": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
+    "latestPublishedAt": "2026-06-08T14:12:00+00:00"
   },
   "items": [
+    {
+      "title": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634658.php",
+      "publishedAt": "2026-06-08T14:12:00+00:00",
+      "publishedLabel": "08.06.2026 14:12",
+      "summary": "Mit der Veröffentlichung von Lichtbildern bittet die Polizei Berlin um Mithilfe bei der Identifizierung von 18 Personen.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Fahrradfahrer und E-Scooter-Fahrer verunfallt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679027.php",
+      "publishedAt": "2026-06-08T13:45:15+00:00",
+      "publishedLabel": "08.06.2026 13:45",
+      "summary": "In der Nacht von Samstag zu Sonntag wurde ein Fahrradfahrer bei einem Verkehrsunfall in Friedrichshain erheblich verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Festnahme nach Räderdiebstahl",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678762.php",
+      "publishedAt": "2026-06-08T10:43:35+00:00",
+      "publishedLabel": "08.06.2026 10:43",
+      "summary": "Nach einem Räderdiebstahl gestern Morgen in Mitte nahmen Polizeieinsatzkräfte einen Mann fest.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Feuer in Sporthalle",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678690.php",
       "publishedAt": "2026-06-08T09:46:18+00:00",
       "publishedLabel": "08.06.2026 09:46",
-      "summary": "Am Samstagabend, den 6. Juni 2026, kam es in einer Sporthalle einer Schule im Märkischen Viertel zu einem Brand.",
-      "category": "Ermittlung"
+      "summary": "Feuer in Sporthalle",
+      "category": "Sonstiges"
     },
     {
       "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt die Tatverdächtigen?",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678449.php",
       "publishedAt": "2026-06-08T06:55:43+00:00",
       "publishedLabel": "08.06.2026 06:55",
-      "summary": "Mit Bildern bittet die Polizei Berlin um Mithilfe bei der Suche nach zwei unbekannten Tatverdächtigen zu einem Trickbetrug am 18. September 2025 in Biesdorf.",
+      "summary": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt die Tatverdächtigen?",
       "category": "Fahndung"
     },
     {
@@ -31,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678413.php",
       "publishedAt": "2026-06-07T11:04:00+00:00",
       "publishedLabel": "07.06.2026 11:04",
-      "summary": "Polizeikräfte nahmen gestern Nachmittag eine 73-jährige Person fest, die im Verdacht steht, von einer Brücke aus Steine auf die BAB 100 getreten zu haben.",
+      "summary": "Steine von Autobahnbrücke getreten",
       "category": "Verkehr"
     },
     {
@@ -47,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678411.php",
       "publishedAt": "2026-06-07T10:26:00+00:00",
       "publishedLabel": "07.06.2026 10:26",
-      "summary": "Ein Motorradfahrer wurde gestern Vormittag bei einem Verkehrsunfall in Pankow verletzt.",
+      "summary": "Motorradfahrer bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -55,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678410.php",
       "publishedAt": "2026-06-07T10:06:00+00:00",
       "publishedLabel": "07.06.2026 10:06",
-      "summary": "In Lichterfelde wurde gestern Nachmittag eine Fußgängerin bei einem Verkehrsunfall lebensgefährlich verletzt.",
+      "summary": "Bei Verkehrsunfall lebensgefährlich verletzt",
       "category": "Verkehr"
     },
     {
@@ -63,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678406.php",
       "publishedAt": "2026-06-06T15:08:34+00:00",
       "publishedLabel": "06.06.2026 15:08",
-      "summary": "In der vergangenen Nacht kam es in Kreuzberg zu einer Auseinandersetzung zwischen mehreren Personen.",
+      "summary": "Besonders schwerer Landfriedensbruch",
       "category": "Sonstiges"
     },
     {
@@ -71,8 +95,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678405.php",
       "publishedAt": "2026-06-06T14:52:18+00:00",
       "publishedLabel": "06.06.2026 14:52",
-      "summary": "Heute früh kam es in Kreuzberg zu einem Verkehrsunfall mit einem Polizeifahrzeug, bei dem acht Personen, davon sieben Polizeieinsatzkräfte, verletzt wurden.",
-      "category": "Verkehr"
+      "summary": "Einsatzwagen der Polizei verunglückt – acht Verletzte",
+      "category": "Ermittlung"
     },
     {
       "title": "Mann flüchtet im Auto vor Polizeikontrolle - Festnahme",
@@ -111,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678400.php",
       "publishedAt": "2026-06-06T10:30:16+00:00",
       "publishedLabel": "06.06.2026 10:30",
-      "summary": "Gestern Vormittag erlitt ein Mann in Haselhorst eine Stichverletzung.",
+      "summary": "Stichverletzung erlitten",
       "category": "Ermittlung"
     },
     {
@@ -119,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678391.php",
       "publishedAt": "2026-06-05T15:17:00+00:00",
       "publishedLabel": "05.06.2026 15:17",
-      "summary": "Im Zusammenhang mit einem Gewaltdelikt ermittelt seit heute Nachmittag ein Fachkommissariat des Landeskriminalamtes gegen einen Polizeibeamten des Landes Berlin",
+      "summary": "Ermittlungen gegen eine Dienstkraft der Polizei Berlin wegen des Verdachts eines Gewaltdelikts",
       "category": "Ermittlung"
     },
     {
@@ -129,30 +153,6 @@
       "publishedLabel": "05.06.2026 12:50",
       "summary": "Ein medizinischer Notfall eines Autofahrers führte gestern Nachmittag in Mariendorf zu einem Verkehrsunfall mit drei beteiligten Fahrzeugen.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Schussabgaben auf Personen – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674077.php",
-      "publishedAt": "2026-06-05T09:20:00+00:00",
-      "publishedLabel": "05.06.2026 09:20",
-      "summary": "Zu mehreren scharfen Schussabgaben in der vergangenen Nacht in Kreuzberg suchen die Staatsanwaltschaft Berlin und die 7. Mordkommission (...)",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Schwangere Beifahrerin nach Verkehrsunfall im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678101.php",
-      "publishedAt": "2026-06-05T08:46:00+00:00",
-      "publishedLabel": "05.06.2026 08:46",
-      "summary": "Gestern Nachmittag wurden ein Mann, ein Kind und eine schwangere Frau bei einem Verkehrsunfall in Lichterfelde verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Festnahme nach Schüssen mit einer Schreckschusswaffe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678097.php",
-      "publishedAt": "2026-06-05T08:42:00+00:00",
-      "publishedLabel": "05.06.2026 08:42",
-      "summary": "In der vergangenen Nacht nahm die Polizei einen Mann nach Schussabgaben in Wannsee fest.",
-      "category": "Ermittlung"
     }
   ]
 }
