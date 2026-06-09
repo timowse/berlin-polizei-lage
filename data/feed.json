@@ -3,13 +3,85 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-08T21:51:10.325753+00:00",
-    "checkedTime": "21:51 Uhr",
+    "checkedAt": "2026-06-09T16:44:35.109266+00:00",
+    "checkedTime": "16:44 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
-    "latestPublishedAt": "2026-06-08T14:12:00+00:00"
+    "latestTitle": "Verstorbene Person nach Wohnungsbrand",
+    "latestPublishedAt": "2026-06-09T13:42:19+00:00"
   },
   "items": [
+    {
+      "title": "Verstorbene Person nach Wohnungsbrand",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679642.php",
+      "publishedAt": "2026-06-09T13:42:19+00:00",
+      "publishedLabel": "09.06.2026 13:42",
+      "summary": "Verstorbene Person nach Wohnungsbrand",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678449.php",
+      "publishedAt": "2026-06-09T13:08:00+00:00",
+      "publishedLabel": "09.06.2026 13:08",
+      "summary": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Kind angefahren – Fahrzeugführer flüchtet vom Unfallort",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679615.php",
+      "publishedAt": "2026-06-09T13:03:14+00:00",
+      "publishedLabel": "09.06.2026 13:03",
+      "summary": "Kind angefahren – Fahrzeugführer flüchtet vom Unfallort",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Fahrradfahrerin fährt Kind an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679603.php",
+      "publishedAt": "2026-06-09T12:49:01+00:00",
+      "publishedLabel": "09.06.2026 12:49",
+      "summary": "Gestern Abend wurde ein Kind bei einem Verkehrsunfall in Grunewald verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Jugendlicher Fensterputzer entpuppt sich als mutmaßlicher Trickdieb",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679475.php",
+      "publishedAt": "2026-06-09T10:48:23+00:00",
+      "publishedLabel": "09.06.2026 10:48",
+      "summary": "Gestern Mittag nahm die Polizei einen mutmaßlichen Trickdieb in Niederschönhausen fest.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Verkehrsunfall zwischen Fahrradfahrer und Motorradfahrer",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679423.php",
+      "publishedAt": "2026-06-09T10:20:52+00:00",
+      "publishedLabel": "09.06.2026 10:20",
+      "summary": "Gestern Nachmittag wurde ein Fahrradfahrer bei einem Verkehrsunfall in Mitte verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Diebstahl und Kartenbetrug – Wer erkennt den Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679254.php",
+      "publishedAt": "2026-06-09T08:30:38+00:00",
+      "publishedLabel": "09.06.2026 08:30",
+      "summary": "Mit Lichtbildern sucht die Polizei Berlin nach einem Mann, der eine am 16. November 2024 in Berlin entwendete Debitkarte rechtswidrig eingesetzt haben soll.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Fahrzeuge in Flammen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679235.php",
+      "publishedAt": "2026-06-09T08:17:41+00:00",
+      "publishedLabel": "09.06.2026 08:17",
+      "summary": "Fahrzeuge in Flammen",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Vermisster Senior wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675296.php",
+      "publishedAt": "2026-06-09T06:45:00+00:00",
+      "publishedLabel": "09.06.2026 06:45",
+      "summary": "Vermisster Senior wieder da",
+      "category": "Fahndung"
+    },
     {
       "title": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634658.php",
@@ -43,19 +115,11 @@
       "category": "Sonstiges"
     },
     {
-      "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt die Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678449.php",
-      "publishedAt": "2026-06-08T06:55:43+00:00",
-      "publishedLabel": "08.06.2026 06:55",
-      "summary": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt die Tatverdächtigen?",
-      "category": "Fahndung"
-    },
-    {
       "title": "Steine von Autobahnbrücke getreten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678413.php",
       "publishedAt": "2026-06-07T11:04:00+00:00",
       "publishedLabel": "07.06.2026 11:04",
-      "summary": "Steine von Autobahnbrücke getreten",
+      "summary": "Polizeikräfte nahmen gestern Nachmittag eine 73-jährige Person fest, die im Verdacht steht, von einer Brücke aus Steine auf die BAB 100 getreten zu haben.",
       "category": "Verkehr"
     },
     {
@@ -63,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678412.php",
       "publishedAt": "2026-06-07T10:49:00+00:00",
       "publishedLabel": "07.06.2026 10:49",
-      "summary": "In Friedrichshain wurden in der vergangenen Nacht mehrere Einsatzkräfte angegriffen und verletzt.",
+      "summary": "Mehrere Einsatzkräfte angegriffen und verletzt",
       "category": "Ermittlung"
     },
     {
@@ -89,70 +153,6 @@
       "publishedLabel": "06.06.2026 15:08",
       "summary": "Besonders schwerer Landfriedensbruch",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Einsatzwagen der Polizei verunglückt – acht Verletzte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678405.php",
-      "publishedAt": "2026-06-06T14:52:18+00:00",
-      "publishedLabel": "06.06.2026 14:52",
-      "summary": "Einsatzwagen der Polizei verunglückt – acht Verletzte",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann flüchtet im Auto vor Polizeikontrolle - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678404.php",
-      "publishedAt": "2026-06-06T14:11:17+00:00",
-      "publishedLabel": "06.06.2026 14:11",
-      "summary": "Ein Mann, der sich einer Verkehrskontrolle entzog, wurde in der vergangenen Nacht in Gropiusstadt festgenommen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mann geschlagen und getreten - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678403.php",
-      "publishedAt": "2026-06-06T14:03:34+00:00",
-      "publishedLabel": "06.06.2026 14:03",
-      "summary": "Heute früh wurden Einsatzkräfte des Polizeiabschnitts 36 zu einer gefährlichen Körperverletzung nach Köpenick alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Sachbeschädigung an Zugangstor zum Görlitzer Park",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678402.php",
-      "publishedAt": "2026-06-06T13:03:44+00:00",
-      "publishedLabel": "06.06.2026 13:03",
-      "summary": "In der vergangenen Nacht wurde eine Beschädigung an einem Tor des Görlitzer Parks in Kreuzberg festgestellt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Tödlicher Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678401.php",
-      "publishedAt": "2026-06-06T10:32:11+00:00",
-      "publishedLabel": "06.06.2026 10:32",
-      "summary": "In der vergangenen Nacht verstarb eine Frau in Folge eines Verkehrsunfalls in Niederschönhausen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Stichverletzung erlitten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678400.php",
-      "publishedAt": "2026-06-06T10:30:16+00:00",
-      "publishedLabel": "06.06.2026 10:30",
-      "summary": "Stichverletzung erlitten",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Ermittlungen gegen eine Dienstkraft der Polizei Berlin wegen des Verdachts eines Gewaltdelikts",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678391.php",
-      "publishedAt": "2026-06-05T15:17:00+00:00",
-      "publishedLabel": "05.06.2026 15:17",
-      "summary": "Ermittlungen gegen eine Dienstkraft der Polizei Berlin wegen des Verdachts eines Gewaltdelikts",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Verkehrsunfall nach medizinischem Notfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678324.php",
-      "publishedAt": "2026-06-05T12:50:00+00:00",
-      "publishedLabel": "05.06.2026 12:50",
-      "summary": "Ein medizinischer Notfall eines Autofahrers führte gestern Nachmittag in Mariendorf zu einem Verkehrsunfall mit drei beteiligten Fahrzeugen.",
-      "category": "Verkehr"
     }
   ]
 }
