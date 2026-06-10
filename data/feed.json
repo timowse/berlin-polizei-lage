@@ -3,19 +3,51 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-10T08:39:28.112882+00:00",
-    "checkedTime": "08:39 Uhr",
+    "checkedAt": "2026-06-10T18:40:20.187218+00:00",
+    "checkedTime": "18:40 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Ein Tatverdächtiger nach räuberischem Diebstahl identifiziert",
-    "latestPublishedAt": "2026-06-10T08:00:00+00:00"
+    "latestTitle": "Netzwerk aufgedeckt - Durchsuchungsbeschlüsse gegen den illegalen Handel mit Betäubungsmitteln vollstreckt",
+    "latestPublishedAt": "2026-06-10T14:52:55+00:00"
   },
   "items": [
+    {
+      "title": "Netzwerk aufgedeckt - Durchsuchungsbeschlüsse gegen den illegalen Handel mit Betäubungsmitteln vollstreckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680378.php",
+      "publishedAt": "2026-06-10T14:52:55+00:00",
+      "publishedLabel": "10.06.2026 14:52",
+      "summary": "Polizei und Staatsanwaltschaft Berlin vollstreckten gestern mit rund 250 Einsatzkräften aus Berlin, Sachsen und Brandenburg insgesamt 16 (...)",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Widerstand geleistet – Distanz-Elektroimpulsgerät (DEIG) eingesetzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680295.php",
+      "publishedAt": "2026-06-10T13:04:00+00:00",
+      "publishedLabel": "10.06.2026 13:04",
+      "summary": "Gestern Abend nahmen Einsatzkräfte in Neukölln zwei Männer fest.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Not-OP nach Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680286.php",
+      "publishedAt": "2026-06-10T12:52:00+00:00",
+      "publishedLabel": "10.06.2026 12:52",
+      "summary": "In Schöneberg kam es gestern Abend zu einem Verkehrsunfall, bei dem ein Rollerfahrer schwerste Verletzungen erlitt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Festnahme nach Taschendiebstahl",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680282.php",
+      "publishedAt": "2026-06-10T12:46:00+00:00",
+      "publishedLabel": "10.06.2026 12:46",
+      "summary": "Gestern Nachmittag nahmen Einsatzkräfte einen Heranwachsenden nach einem schweren Taschendiebstahl in Friedrichshain fest.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Ein Tatverdächtiger nach räuberischem Diebstahl identifiziert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674985.php",
       "publishedAt": "2026-06-10T08:00:00+00:00",
       "publishedLabel": "10.06.2026 08:00",
-      "summary": "Ein Tatverdächtiger nach räuberischem Diebstahl identifiziert",
+      "summary": "Einer der beiden Tatverdächtigen zu einem räuberischen Diebstahl am 10.12.2025 konnte identifiziert werden.",
       "category": "Fahndung"
     },
     {
@@ -23,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679642.php",
       "publishedAt": "2026-06-09T13:42:19+00:00",
       "publishedLabel": "09.06.2026 13:42",
-      "summary": "Verstorbene Person nach Wohnungsbrand",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte von Feuerwehr und Polizei zu einem Brand nach Wittenau alarmiert.",
       "category": "Ermittlung"
     },
     {
@@ -31,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678449.php",
       "publishedAt": "2026-06-09T13:08:00+00:00",
       "publishedLabel": "09.06.2026 13:08",
-      "summary": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
+      "summary": "Mit Bildern bittet die Polizei Berlin um Mithilfe bei der Suche nach einem unbekannten Tatverdächtigen zu einem Trickbetrug am 18. September 2025 in Biesdorf.",
       "category": "Fahndung"
     },
     {
@@ -39,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679615.php",
       "publishedAt": "2026-06-09T13:03:14+00:00",
       "publishedLabel": "09.06.2026 13:03",
-      "summary": "Kind angefahren – Fahrzeugführer flüchtet vom Unfallort",
+      "summary": "Bei einem Verkehrsunfall gestern Abend in Wedding wurde ein Kind verletzt.",
       "category": "Verkehr"
     },
     {
@@ -55,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679475.php",
       "publishedAt": "2026-06-09T10:48:23+00:00",
       "publishedLabel": "09.06.2026 10:48",
-      "summary": "Jugendlicher Fensterputzer entpuppt sich als mutmaßlicher Trickdieb",
-      "category": "Sonstiges"
+      "summary": "Gestern Mittag nahm die Polizei einen mutmaßlichen Trickdieb in Niederschönhausen fest.",
+      "category": "Einsatz"
     },
     {
       "title": "Verkehrsunfall zwischen Fahrradfahrer und Motorradfahrer",
@@ -79,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679235.php",
       "publishedAt": "2026-06-09T08:17:41+00:00",
       "publishedLabel": "09.06.2026 08:17",
-      "summary": "Fahrzeuge in Flammen",
+      "summary": "In der vergangenen Nacht kam es zu einem Brand an mehreren Fahrzeugen in Kreuzberg.",
       "category": "Verkehr"
     },
     {
@@ -87,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675296.php",
       "publishedAt": "2026-06-09T06:45:00+00:00",
       "publishedLabel": "09.06.2026 06:45",
-      "summary": "Vermisster Senior wieder da",
+      "summary": "Der seit dem 21. Mai 2026 vermisste Senior ist wieder zurück.",
       "category": "Fahndung"
     },
     {
@@ -95,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634658.php",
       "publishedAt": "2026-06-08T14:12:00+00:00",
       "publishedLabel": "08.06.2026 14:12",
-      "summary": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
+      "summary": "Mit der Veröffentlichung von Lichtbildern bittet die Polizei Berlin um Mithilfe bei der Identifizierung von 18 Personen.",
       "category": "Einsatz"
     },
     {
@@ -119,40 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678690.php",
       "publishedAt": "2026-06-08T09:46:18+00:00",
       "publishedLabel": "08.06.2026 09:46",
-      "summary": "Feuer in Sporthalle",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Steine von Autobahnbrücke getreten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678413.php",
-      "publishedAt": "2026-06-07T11:04:00+00:00",
-      "publishedLabel": "07.06.2026 11:04",
-      "summary": "Steine von Autobahnbrücke getreten",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mehrere Einsatzkräfte angegriffen und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678412.php",
-      "publishedAt": "2026-06-07T10:49:00+00:00",
-      "publishedLabel": "07.06.2026 10:49",
-      "summary": "Mehrere Einsatzkräfte angegriffen und verletzt",
+      "summary": "Am Samstagabend, den 6. Juni 2026, kam es in einer Sporthalle einer Schule im Märkischen Viertel zu einem Brand.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Motorradfahrer bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678411.php",
-      "publishedAt": "2026-06-07T10:26:00+00:00",
-      "publishedLabel": "07.06.2026 10:26",
-      "summary": "Motorradfahrer bei Verkehrsunfall verletzt",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Bei Verkehrsunfall lebensgefährlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678410.php",
-      "publishedAt": "2026-06-07T10:06:00+00:00",
-      "publishedLabel": "07.06.2026 10:06",
-      "summary": "Bei Verkehrsunfall lebensgefährlich verletzt",
-      "category": "Verkehr"
     }
   ]
 }
