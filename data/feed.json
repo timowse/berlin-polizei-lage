@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-09T16:44:35.109266+00:00",
-    "checkedTime": "16:44 Uhr",
+    "checkedAt": "2026-06-10T08:39:28.112882+00:00",
+    "checkedTime": "08:39 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verstorbene Person nach Wohnungsbrand",
-    "latestPublishedAt": "2026-06-09T13:42:19+00:00"
+    "latestTitle": "Ein Tatverdächtiger nach räuberischem Diebstahl identifiziert",
+    "latestPublishedAt": "2026-06-10T08:00:00+00:00"
   },
   "items": [
+    {
+      "title": "Ein Tatverdächtiger nach räuberischem Diebstahl identifiziert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674985.php",
+      "publishedAt": "2026-06-10T08:00:00+00:00",
+      "publishedLabel": "10.06.2026 08:00",
+      "summary": "Ein Tatverdächtiger nach räuberischem Diebstahl identifiziert",
+      "category": "Fahndung"
+    },
     {
       "title": "Verstorbene Person nach Wohnungsbrand",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679642.php",
@@ -47,8 +55,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679475.php",
       "publishedAt": "2026-06-09T10:48:23+00:00",
       "publishedLabel": "09.06.2026 10:48",
-      "summary": "Gestern Mittag nahm die Polizei einen mutmaßlichen Trickdieb in Niederschönhausen fest.",
-      "category": "Einsatz"
+      "summary": "Jugendlicher Fensterputzer entpuppt sich als mutmaßlicher Trickdieb",
+      "category": "Sonstiges"
     },
     {
       "title": "Verkehrsunfall zwischen Fahrradfahrer und Motorradfahrer",
@@ -87,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634658.php",
       "publishedAt": "2026-06-08T14:12:00+00:00",
       "publishedLabel": "08.06.2026 14:12",
-      "summary": "Mit der Veröffentlichung von Lichtbildern bittet die Polizei Berlin um Mithilfe bei der Identifizierung von 18 Personen.",
+      "summary": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
       "category": "Einsatz"
     },
     {
@@ -119,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678413.php",
       "publishedAt": "2026-06-07T11:04:00+00:00",
       "publishedLabel": "07.06.2026 11:04",
-      "summary": "Polizeikräfte nahmen gestern Nachmittag eine 73-jährige Person fest, die im Verdacht steht, von einer Brücke aus Steine auf die BAB 100 getreten zu haben.",
+      "summary": "Steine von Autobahnbrücke getreten",
       "category": "Verkehr"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "07.06.2026 10:06",
       "summary": "Bei Verkehrsunfall lebensgefährlich verletzt",
       "category": "Verkehr"
-    },
-    {
-      "title": "Besonders schwerer Landfriedensbruch",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678406.php",
-      "publishedAt": "2026-06-06T15:08:34+00:00",
-      "publishedLabel": "06.06.2026 15:08",
-      "summary": "Besonders schwerer Landfriedensbruch",
-      "category": "Sonstiges"
     }
   ]
 }
