@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-11T06:24:44.636466+00:00",
-    "checkedTime": "06:24 Uhr",
+    "checkedAt": "2026-06-11T11:10:16.636802+00:00",
+    "checkedTime": "11:10 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Netzwerk aufgedeckt - Durchsuchungsbeschlüsse gegen den illegalen Handel mit Betäubungsmitteln vollstreckt",
-    "latestPublishedAt": "2026-06-10T14:52:55+00:00"
+    "latestTitle": "Mann mit tödlichen Stichverletzungen in Bäckerei aufgefunden",
+    "latestPublishedAt": "2026-06-11T10:22:10+00:00"
   },
   "items": [
+    {
+      "title": "Mann mit tödlichen Stichverletzungen in Bäckerei aufgefunden",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
+      "publishedAt": "2026-06-11T10:22:10+00:00",
+      "publishedLabel": "11.06.2026 10:22",
+      "summary": "Die 1. Mordkommission des Landeskriminalamts und die Staatsanwaltschaft Berlin haben die Ermittlungen zu einem Tötungsdelikt in Wedding übernommen.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Notoperation nach Angriff mit Messer",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680627.php",
+      "publishedAt": "2026-06-11T09:23:40+00:00",
+      "publishedLabel": "11.06.2026 09:23",
+      "summary": "In der vergangenen Nacht verletzte ein Mann einen anderen Mann in Marzahn mutmaßlich mit einem Messer.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mehrere Verletzte nach Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680585.php",
+      "publishedAt": "2026-06-11T09:00:53+00:00",
+      "publishedLabel": "11.06.2026 09:00",
+      "summary": "Bei einem Verkehrsunfall in Wilmersdorf wurden gestern Abend vier Menschen verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mit Stichwunden zurückgelassen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680503.php",
+      "publishedAt": "2026-06-11T07:58:09+00:00",
+      "publishedLabel": "11.06.2026 07:58",
+      "summary": "Ein 19-Jähriger soll in der vergangenen Nacht in Hellersdorf von mehreren Personen angegriffen und mit Stichwunden zurückgelassen worden sein.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Netzwerk aufgedeckt - Durchsuchungsbeschlüsse gegen den illegalen Handel mit Betäubungsmitteln vollstreckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680378.php",
@@ -121,38 +153,6 @@
       "publishedLabel": "09.06.2026 06:45",
       "summary": "Der seit dem 21. Mai 2026 vermisste Senior ist wieder zurück.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634658.php",
-      "publishedAt": "2026-06-08T14:12:00+00:00",
-      "publishedLabel": "08.06.2026 14:12",
-      "summary": "Mit der Veröffentlichung von Lichtbildern bittet die Polizei Berlin um Mithilfe bei der Identifizierung von 18 Personen.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Fahrradfahrer und E-Scooter-Fahrer verunfallt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679027.php",
-      "publishedAt": "2026-06-08T13:45:15+00:00",
-      "publishedLabel": "08.06.2026 13:45",
-      "summary": "In der Nacht von Samstag zu Sonntag wurde ein Fahrradfahrer bei einem Verkehrsunfall in Friedrichshain erheblich verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Festnahme nach Räderdiebstahl",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678762.php",
-      "publishedAt": "2026-06-08T10:43:35+00:00",
-      "publishedLabel": "08.06.2026 10:43",
-      "summary": "Nach einem Räderdiebstahl gestern Morgen in Mitte nahmen Polizeieinsatzkräfte einen Mann fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Feuer in Sporthalle",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678690.php",
-      "publishedAt": "2026-06-08T09:46:18+00:00",
-      "publishedLabel": "08.06.2026 09:46",
-      "summary": "Am Samstagabend, den 6. Juni 2026, kam es in einer Sporthalle einer Schule im Märkischen Viertel zu einem Brand.",
-      "category": "Ermittlung"
     }
   ]
 }
