@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-11T11:10:16.636802+00:00",
-    "checkedTime": "11:10 Uhr",
+    "checkedAt": "2026-06-11T14:58:24.842088+00:00",
+    "checkedTime": "14:58 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann mit tödlichen Stichverletzungen in Bäckerei aufgefunden",
-    "latestPublishedAt": "2026-06-11T10:22:10+00:00"
+    "latestTitle": "Mutmaßliche Autoeinbrecher festgenommen",
+    "latestPublishedAt": "2026-06-11T14:20:55+00:00"
   },
   "items": [
+    {
+      "title": "Mutmaßliche Autoeinbrecher festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680918.php",
+      "publishedAt": "2026-06-11T14:20:55+00:00",
+      "publishedLabel": "11.06.2026 14:20",
+      "summary": "Heute früh wurden in Prenzlauer Berg zwei Männer nach einem mutmaßlichen Diebstahlsversuch festgenommen.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mann mit tödlichen Stichverletzungen in Bäckerei aufgefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "09.06.2026 08:17",
       "summary": "In der vergangenen Nacht kam es zu einem Brand an mehreren Fahrzeugen in Kreuzberg.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Vermisster Senior wieder da",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675296.php",
-      "publishedAt": "2026-06-09T06:45:00+00:00",
-      "publishedLabel": "09.06.2026 06:45",
-      "summary": "Der seit dem 21. Mai 2026 vermisste Senior ist wieder zurück.",
-      "category": "Fahndung"
     }
   ]
 }
