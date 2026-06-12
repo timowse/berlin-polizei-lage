@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-12T09:15:43.826179+00:00",
-    "checkedTime": "09:15 Uhr",
+    "checkedAt": "2026-06-12T12:35:58.903715+00:00",
+    "checkedTime": "12:35 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mutmaßliche Autoeinbrecher festgenommen",
-    "latestPublishedAt": "2026-06-11T14:20:55+00:00"
+    "latestTitle": "Durchsuchungsbeschlüsse wegen Erpressung vollstreckt",
+    "latestPublishedAt": "2026-06-12T12:17:53+00:00"
   },
   "items": [
+    {
+      "title": "Durchsuchungsbeschlüsse wegen Erpressung vollstreckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681336.php",
+      "publishedAt": "2026-06-12T12:17:53+00:00",
+      "publishedLabel": "12.06.2026 12:17",
+      "summary": "Ermittlerinnen und Ermittler der BAO Ferrum vollstreckten im Auftrag der Ermittlungsgruppe Telum mehrere richterliche Durchsuchungsbeschlüsse.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Vorläufige Festnahme nach Schussabgabe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681234.php",
+      "publishedAt": "2026-06-12T09:40:00+00:00",
+      "publishedLabel": "12.06.2026 09:40",
+      "summary": "Nach mehreren Schussabgaben in Gesundbrunnen nahmen Polizeikräfte gestern Abend einen Jugendlichen fest.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Autofahrer fährt Kind an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681179.php",
+      "publishedAt": "2026-06-12T08:50:00+00:00",
+      "publishedLabel": "12.06.2026 08:50",
+      "summary": "Gestern Nachmittag ereignete sich ein Verkehrsunfall in Schmargendorf.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mutmaßliche Autoeinbrecher festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680918.php",
@@ -63,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680295.php",
       "publishedAt": "2026-06-10T13:04:00+00:00",
       "publishedLabel": "10.06.2026 13:04",
-      "summary": "Gestern Abend nahmen Einsatzkräfte in Neukölln zwei Männer fest.",
-      "category": "Einsatz"
+      "summary": "Widerstand geleistet – Distanz-Elektroimpulsgerät (DEIG) eingesetzt",
+      "category": "Sonstiges"
     },
     {
       "title": "Not-OP nach Verkehrsunfall",
@@ -79,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680282.php",
       "publishedAt": "2026-06-10T12:46:00+00:00",
       "publishedLabel": "10.06.2026 12:46",
-      "summary": "Gestern Nachmittag nahmen Einsatzkräfte einen Heranwachsenden nach einem schweren Taschendiebstahl in Friedrichshain fest.",
+      "summary": "Festnahme nach Taschendiebstahl",
       "category": "Ermittlung"
     },
     {
@@ -129,30 +153,6 @@
       "publishedLabel": "09.06.2026 10:48",
       "summary": "Gestern Mittag nahm die Polizei einen mutmaßlichen Trickdieb in Niederschönhausen fest.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Verkehrsunfall zwischen Fahrradfahrer und Motorradfahrer",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679423.php",
-      "publishedAt": "2026-06-09T10:20:52+00:00",
-      "publishedLabel": "09.06.2026 10:20",
-      "summary": "Gestern Nachmittag wurde ein Fahrradfahrer bei einem Verkehrsunfall in Mitte verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Diebstahl und Kartenbetrug – Wer erkennt den Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679254.php",
-      "publishedAt": "2026-06-09T08:30:38+00:00",
-      "publishedLabel": "09.06.2026 08:30",
-      "summary": "Mit Lichtbildern sucht die Polizei Berlin nach einem Mann, der eine am 16. November 2024 in Berlin entwendete Debitkarte rechtswidrig eingesetzt haben soll.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Fahrzeuge in Flammen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679235.php",
-      "publishedAt": "2026-06-09T08:17:41+00:00",
-      "publishedLabel": "09.06.2026 08:17",
-      "summary": "In der vergangenen Nacht kam es zu einem Brand an mehreren Fahrzeugen in Kreuzberg.",
-      "category": "Verkehr"
     }
   ]
 }
