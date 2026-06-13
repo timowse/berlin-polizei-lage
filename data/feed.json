@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-13T09:43:02.947062+00:00",
-    "checkedTime": "09:43 Uhr",
+    "checkedAt": "2026-06-13T11:43:25.116795+00:00",
+    "checkedTime": "11:43 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mutmaßliche Angreifer nach Polizeieinsatz festgenommen",
-    "latestPublishedAt": "2026-06-12T13:26:33+00:00"
+    "latestTitle": "Mann bei Auseinandersetzung verletzt – drei Tatverdächtige festgenommen",
+    "latestPublishedAt": "2026-06-13T11:17:55+00:00"
   },
   "items": [
+    {
+      "title": "Mann bei Auseinandersetzung verletzt – drei Tatverdächtige festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681437.php",
+      "publishedAt": "2026-06-13T11:17:55+00:00",
+      "publishedLabel": "13.06.2026 11:17",
+      "summary": "In der vergangenen Nacht wurde ein Mann bei einer Auseinandersetzung in Wedding verletzt.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Bewaffneter Überfall auf Schnellrestaurant",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681436.php",
+      "publishedAt": "2026-06-13T10:26:39+00:00",
+      "publishedLabel": "13.06.2026 10:26",
+      "summary": "In der vergangenen Nacht wurden Mitarbeitende eines Schnellrestaurants in Köpenick überfallen.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mutmaßliche Angreifer nach Polizeieinsatz festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681383.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "09.06.2026 13:08",
       "summary": "Mit Bildern bittet die Polizei Berlin um Mithilfe bei der Suche nach einem unbekannten Tatverdächtigen zu einem Trickbetrug am 18. September 2025 in Biesdorf.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Kind angefahren – Fahrzeugführer flüchtet vom Unfallort",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679615.php",
-      "publishedAt": "2026-06-09T13:03:14+00:00",
-      "publishedLabel": "09.06.2026 13:03",
-      "summary": "Bei einem Verkehrsunfall gestern Abend in Wedding wurde ein Kind verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Fahrradfahrerin fährt Kind an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679603.php",
-      "publishedAt": "2026-06-09T12:49:01+00:00",
-      "publishedLabel": "09.06.2026 12:49",
-      "summary": "Gestern Abend wurde ein Kind bei einem Verkehrsunfall in Grunewald verletzt.",
-      "category": "Verkehr"
     }
   ]
 }
