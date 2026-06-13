@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-13T11:43:25.116795+00:00",
-    "checkedTime": "11:43 Uhr",
+    "checkedAt": "2026-06-13T13:14:32.032370+00:00",
+    "checkedTime": "13:14 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann bei Auseinandersetzung verletzt – drei Tatverdächtige festgenommen",
-    "latestPublishedAt": "2026-06-13T11:17:55+00:00"
+    "latestTitle": "Zeugenaufruf nach tödlichen Stichverletzungen",
+    "latestPublishedAt": "2026-06-13T13:03:00+00:00"
   },
   "items": [
+    {
+      "title": "Zeugenaufruf nach tödlichen Stichverletzungen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
+      "publishedAt": "2026-06-13T13:03:00+00:00",
+      "publishedLabel": "13.06.2026 13:03",
+      "summary": "Am Abend des 10. Juni 2026 wurde ein 61-jähriger Mann bei einer Bäckerei in der Gerichtsstraße 52 in 13347 Berlin-Wedding Opfer eines Tötungsdelikts.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Frau mit Kopftuch fremdenfeindlich beleidigt und mit Messer bedroht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681439.php",
+      "publishedAt": "2026-06-13T12:58:40+00:00",
+      "publishedLabel": "13.06.2026 12:58",
+      "summary": "Gestern Nachmittag soll eine Frau in Kreuzberg fremdenfeindlich beleidigt und mit einem Messer bedroht worden sein.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Mann bei Auseinandersetzung verletzt – drei Tatverdächtige festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681437.php",
@@ -65,14 +81,6 @@
       "publishedLabel": "11.06.2026 14:20",
       "summary": "Heute früh wurden in Prenzlauer Berg zwei Männer nach einem mutmaßlichen Diebstahlsversuch festgenommen.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Mann mit tödlichen Stichverletzungen in Bäckerei aufgefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
-      "publishedAt": "2026-06-11T10:22:10+00:00",
-      "publishedLabel": "11.06.2026 10:22",
-      "summary": "Die 1. Mordkommission des Landeskriminalamts und die Staatsanwaltschaft Berlin haben die Ermittlungen zu einem Tötungsdelikt in Wedding übernommen.",
-      "category": "Ermittlung"
     },
     {
       "title": "Notoperation nach Angriff mit Messer",
@@ -145,14 +153,6 @@
       "publishedLabel": "09.06.2026 13:42",
       "summary": "In der vergangenen Nacht wurden Einsatzkräfte von Feuerwehr und Polizei zu einem Brand nach Wittenau alarmiert.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678449.php",
-      "publishedAt": "2026-06-09T13:08:00+00:00",
-      "publishedLabel": "09.06.2026 13:08",
-      "summary": "Mit Bildern bittet die Polizei Berlin um Mithilfe bei der Suche nach einem unbekannten Tatverdächtigen zu einem Trickbetrug am 18. September 2025 in Biesdorf.",
-      "category": "Fahndung"
     }
   ]
 }
