@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-13T16:51:52.325815+00:00",
-    "checkedTime": "16:51 Uhr",
+    "checkedAt": "2026-06-13T18:09:21.194963+00:00",
+    "checkedTime": "18:09 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Zeugenaufruf nach tödlichen Stichverletzungen",
     "latestPublishedAt": "2026-06-13T13:03:00+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
       "publishedAt": "2026-06-13T13:03:00+00:00",
       "publishedLabel": "13.06.2026 13:03",
-      "summary": "Zeugenaufruf nach tödlichen Stichverletzungen",
+      "summary": "Am Abend des 10. Juni 2026 wurde ein 61-jähriger Mann bei einer Bäckerei in der Gerichtstraße 52 in 13347 Berlin-Wedding Opfer eines Tötungsdelikts.",
       "category": "Fahndung"
     },
     {
@@ -55,15 +55,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681336.php",
       "publishedAt": "2026-06-12T12:17:53+00:00",
       "publishedLabel": "12.06.2026 12:17",
-      "summary": "Durchsuchungsbeschlüsse wegen Erpressung vollstreckt",
-      "category": "Sonstiges"
+      "summary": "Ermittlerinnen und Ermittler der BAO Ferrum vollstreckten im Auftrag der Ermittlungsgruppe Telum mehrere richterliche Durchsuchungsbeschlüsse.",
+      "category": "Ermittlung"
     },
     {
       "title": "Vorläufige Festnahme nach Schussabgabe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681234.php",
       "publishedAt": "2026-06-12T09:40:00+00:00",
       "publishedLabel": "12.06.2026 09:40",
-      "summary": "Vorläufige Festnahme nach Schussabgabe",
+      "summary": "Nach mehreren Schussabgaben in Gesundbrunnen nahmen Polizeikräfte gestern Abend einen Jugendlichen fest.",
       "category": "Ermittlung"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680918.php",
       "publishedAt": "2026-06-11T14:20:55+00:00",
       "publishedLabel": "11.06.2026 14:20",
-      "summary": "Mutmaßliche Autoeinbrecher festgenommen",
+      "summary": "Heute früh wurden in Prenzlauer Berg zwei Männer nach einem mutmaßlichen Diebstahlsversuch festgenommen.",
       "category": "Verkehr"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680282.php",
       "publishedAt": "2026-06-10T12:46:00+00:00",
       "publishedLabel": "10.06.2026 12:46",
-      "summary": "Festnahme nach Taschendiebstahl",
+      "summary": "Gestern Nachmittag nahmen Einsatzkräfte einen Heranwachsenden nach einem schweren Taschendiebstahl in Friedrichshain fest.",
       "category": "Ermittlung"
     },
     {
