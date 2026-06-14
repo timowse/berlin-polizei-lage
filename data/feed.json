@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-14T12:24:07.855253+00:00",
-    "checkedTime": "12:24 Uhr",
+    "checkedAt": "2026-06-14T14:41:45.126421+00:00",
+    "checkedTime": "14:41 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Festnahme nach Verdacht des unerlaubten Handels mit Betäubungsmitteln",
-    "latestPublishedAt": "2026-06-14T11:43:24+00:00"
+    "latestTitle": "Mit einem Einsatzwagen zusammengestoßen und verletzt",
+    "latestPublishedAt": "2026-06-14T12:39:55+00:00"
   },
   "items": [
+    {
+      "title": "Mit einem Einsatzwagen zusammengestoßen und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681446.php",
+      "publishedAt": "2026-06-14T12:39:55+00:00",
+      "publishedLabel": "14.06.2026 12:39",
+      "summary": "Einsatzkräfte stoppten vergangene Nacht einen flüchtigen Kradfahrer in Karlshorst.",
+      "category": "Verkehr"
+    },
     {
       "title": "Festnahme nach Verdacht des unerlaubten Handels mit Betäubungsmitteln",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681445.php",
@@ -31,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
       "publishedAt": "2026-06-13T13:03:00+00:00",
       "publishedLabel": "13.06.2026 13:03",
-      "summary": "Zeugenaufruf nach tödlichen Stichverletzungen",
+      "summary": "Am Abend des 10. Juni 2026 wurde ein 61-jähriger Mann bei einer Bäckerei in der Gerichtstraße 52 in 13347 Berlin-Wedding Opfer eines Tötungsdelikts.",
       "category": "Fahndung"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "10.06.2026 12:52",
       "summary": "In Schöneberg kam es gestern Abend zu einem Verkehrsunfall, bei dem ein Rollerfahrer schwerste Verletzungen erlitt.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Festnahme nach Taschendiebstahl",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680282.php",
-      "publishedAt": "2026-06-10T12:46:00+00:00",
-      "publishedLabel": "10.06.2026 12:46",
-      "summary": "Gestern Nachmittag nahmen Einsatzkräfte einen Heranwachsenden nach einem schweren Taschendiebstahl in Friedrichshain fest.",
-      "category": "Ermittlung"
     }
   ]
 }
