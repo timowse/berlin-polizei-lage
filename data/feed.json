@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-14T10:26:34.785824+00:00",
-    "checkedTime": "10:26 Uhr",
+    "checkedAt": "2026-06-14T12:24:07.855253+00:00",
+    "checkedTime": "12:24 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann erlitt Stichverletzungen",
-    "latestPublishedAt": "2026-06-14T10:19:19+00:00"
+    "latestTitle": "Festnahme nach Verdacht des unerlaubten Handels mit Betäubungsmitteln",
+    "latestPublishedAt": "2026-06-14T11:43:24+00:00"
   },
   "items": [
+    {
+      "title": "Festnahme nach Verdacht des unerlaubten Handels mit Betäubungsmitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681445.php",
+      "publishedAt": "2026-06-14T11:43:24+00:00",
+      "publishedLabel": "14.06.2026 11:43",
+      "summary": "Ein mutmaßlicher Drogenhändler, der sich gestern Vormittag in Oberschöneweide verschanzte, wurde unter Zuhilfenahme eines Diensthundes festgenommen.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Mann erlitt Stichverletzungen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681444.php",
@@ -23,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
       "publishedAt": "2026-06-13T13:03:00+00:00",
       "publishedLabel": "13.06.2026 13:03",
-      "summary": "Am Abend des 10. Juni 2026 wurde ein 61-jähriger Mann bei einer Bäckerei in der Gerichtstraße 52 in 13347 Berlin-Wedding Opfer eines Tötungsdelikts.",
+      "summary": "Zeugenaufruf nach tödlichen Stichverletzungen",
       "category": "Fahndung"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "10.06.2026 12:46",
       "summary": "Gestern Nachmittag nahmen Einsatzkräfte einen Heranwachsenden nach einem schweren Taschendiebstahl in Friedrichshain fest.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Ein Tatverdächtiger nach räuberischem Diebstahl identifiziert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674985.php",
-      "publishedAt": "2026-06-10T08:00:00+00:00",
-      "publishedLabel": "10.06.2026 08:00",
-      "summary": "Einer der beiden Tatverdächtigen zu einem räuberischen Diebstahl am 10.12.2025 konnte identifiziert werden.",
-      "category": "Fahndung"
     }
   ]
 }
