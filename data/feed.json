@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-15T07:35:30.903399+00:00",
-    "checkedTime": "07:35 Uhr",
+    "checkedAt": "2026-06-15T13:37:47.980667+00:00",
+    "checkedTime": "13:37 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mit einem Einsatzwagen zusammengestoßen und verletzt",
-    "latestPublishedAt": "2026-06-14T12:39:55+00:00"
+    "latestTitle": "Durchsuchungen und Haftbefehle wegen bandenmäßiger Urkundenfälschung",
+    "latestPublishedAt": "2026-06-15T13:27:27+00:00"
   },
   "items": [
+    {
+      "title": "Durchsuchungen und Haftbefehle wegen bandenmäßiger Urkundenfälschung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681910.php",
+      "publishedAt": "2026-06-15T13:27:27+00:00",
+      "publishedLabel": "15.06.2026 13:27",
+      "summary": "Heute früh vollstreckten rund 220 Kräfte im Auftrag der StA Berlin mehrere Durchsuchungsbeschlüsse sowie fünf von der StA erwirkte Haftbefehle.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Mann leistet nach Verkehrsunfallflucht Widerstand gegen Einsatzkräfte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681872.php",
+      "publishedAt": "2026-06-15T12:48:30+00:00",
+      "publishedLabel": "15.06.2026 12:48",
+      "summary": "Gestern Nachmittag kam es in Britz nach einer Verkehrsunfallflucht zu Widerstandshandlungen gegenüber Polizeieinsatzkräften.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mit Schreckschusswaffe vom Balkon geschossen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681851.php",
+      "publishedAt": "2026-06-15T12:35:09+00:00",
+      "publishedLabel": "15.06.2026 12:35",
+      "summary": "Gestern Abend kam es in Niederschöneweide zu mehreren Schussabgaben mit einer Schreckschusswaffe.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Polizei Berlin erlässt Allgemeinverfügung zum 17. Juni 2026",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681744.php",
+      "publishedAt": "2026-06-15T11:19:07+00:00",
+      "publishedLabel": "15.06.2026 11:19",
+      "summary": "Zum Schutz Gedenkortes für die polnischen Opfer der nationalsozialistischen Unrechts- und Gewaltherrschaft hat die Polizei eine Allgemeinverfügung erlassen.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Mehrere Fahrzeuge in Brand gesetzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681512.php",
+      "publishedAt": "2026-06-15T07:27:36+00:00",
+      "publishedLabel": "15.06.2026 07:27",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Berliner Feuerwehr und der Polizei zu einem Brand nach Alt-Hohenschönhausen alarmiert.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mit einem Einsatzwagen zusammengestoßen und verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681446.php",
@@ -113,46 +153,6 @@
       "publishedLabel": "11.06.2026 09:23",
       "summary": "In der vergangenen Nacht verletzte ein Mann einen anderen Mann in Marzahn mutmaßlich mit einem Messer.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Mehrere Verletzte nach Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680585.php",
-      "publishedAt": "2026-06-11T09:00:53+00:00",
-      "publishedLabel": "11.06.2026 09:00",
-      "summary": "Bei einem Verkehrsunfall in Wilmersdorf wurden gestern Abend vier Menschen verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mit Stichwunden zurückgelassen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680503.php",
-      "publishedAt": "2026-06-11T07:58:09+00:00",
-      "publishedLabel": "11.06.2026 07:58",
-      "summary": "Ein 19-Jähriger soll in der vergangenen Nacht in Hellersdorf von mehreren Personen angegriffen und mit Stichwunden zurückgelassen worden sein.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Netzwerk aufgedeckt - Durchsuchungsbeschlüsse gegen den illegalen Handel mit Betäubungsmitteln vollstreckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680378.php",
-      "publishedAt": "2026-06-10T14:52:55+00:00",
-      "publishedLabel": "10.06.2026 14:52",
-      "summary": "Polizei und Staatsanwaltschaft Berlin vollstreckten gestern mit rund 250 Einsatzkräften aus Berlin, Sachsen und Brandenburg insgesamt 16 (...)",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Widerstand geleistet – Distanz-Elektroimpulsgerät (DEIG) eingesetzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680295.php",
-      "publishedAt": "2026-06-10T13:04:00+00:00",
-      "publishedLabel": "10.06.2026 13:04",
-      "summary": "Gestern Abend nahmen Einsatzkräfte in Neukölln zwei Männer fest.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Not-OP nach Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680286.php",
-      "publishedAt": "2026-06-10T12:52:00+00:00",
-      "publishedLabel": "10.06.2026 12:52",
-      "summary": "In Schöneberg kam es gestern Abend zu einem Verkehrsunfall, bei dem ein Rollerfahrer schwerste Verletzungen erlitt.",
-      "category": "Verkehr"
     }
   ]
 }
