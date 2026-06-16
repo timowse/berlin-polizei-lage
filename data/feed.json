@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-16T07:42:41.898240+00:00",
-    "checkedTime": "07:42 Uhr",
+    "checkedAt": "2026-06-16T17:37:17.609266+00:00",
+    "checkedTime": "17:37 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Festnahme nach bewaffnetem Raubüberfall",
-    "latestPublishedAt": "2026-06-15T13:39:16+00:00"
+    "latestTitle": "Randalierer im Kaufhaus festgenommen",
+    "latestPublishedAt": "2026-06-16T12:41:13+00:00"
   },
   "items": [
+    {
+      "title": "Randalierer im Kaufhaus festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682367.php",
+      "publishedAt": "2026-06-16T12:41:13+00:00",
+      "publishedLabel": "16.06.2026 12:41",
+      "summary": "Gestern Nachmittag wurden Polizeikräfte zu einer randalierenden Person nach Schöneberg gerufen.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Flasche auf Einsatzwagen geworfen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682286.php",
+      "publishedAt": "2026-06-16T10:45:43+00:00",
+      "publishedLabel": "16.06.2026 10:45",
+      "summary": "Durch einen Flaschenwurf wurde gestern Abend in Kreuzberg ein Einsatzfahrzeug der Polizeidirektion 5 (City) beschädigt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Israelfeindliche Farbschmiererei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682094.php",
+      "publishedAt": "2026-06-16T08:25:15+00:00",
+      "publishedLabel": "16.06.2026 08:25",
+      "summary": "Gestern Abend alarmierte eine Zeugin in Schöneberg die Polizei zu mehreren Farbschmierereien.",
+      "category": "Einsatz"
+    },
     {
       "title": "Festnahme nach bewaffnetem Raubüberfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681920.php",
@@ -129,30 +153,6 @@
       "publishedLabel": "12.06.2026 12:17",
       "summary": "Ermittlerinnen und Ermittler der BAO Ferrum vollstreckten im Auftrag der Ermittlungsgruppe Telum mehrere richterliche Durchsuchungsbeschlüsse.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Vorläufige Festnahme nach Schussabgabe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681234.php",
-      "publishedAt": "2026-06-12T09:40:00+00:00",
-      "publishedLabel": "12.06.2026 09:40",
-      "summary": "Nach mehreren Schussabgaben in Gesundbrunnen nahmen Polizeikräfte gestern Abend einen Jugendlichen fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Autofahrer fährt Kind an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681179.php",
-      "publishedAt": "2026-06-12T08:50:00+00:00",
-      "publishedLabel": "12.06.2026 08:50",
-      "summary": "Gestern Nachmittag ereignete sich ein Verkehrsunfall in Schmargendorf.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mutmaßliche Autoeinbrecher festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680918.php",
-      "publishedAt": "2026-06-11T14:20:55+00:00",
-      "publishedLabel": "11.06.2026 14:20",
-      "summary": "Heute früh wurden in Prenzlauer Berg zwei Männer nach einem mutmaßlichen Diebstahlsversuch festgenommen.",
-      "category": "Verkehr"
     }
   ]
 }
