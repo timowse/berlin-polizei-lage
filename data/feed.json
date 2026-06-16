@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-16T20:31:44.040583+00:00",
-    "checkedTime": "20:31 Uhr",
+    "checkedAt": "2026-06-16T22:34:02.502144+00:00",
+    "checkedTime": "22:34 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Randalierer im Kaufhaus festgenommen",
     "latestPublishedAt": "2026-06-16T12:41:13+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681872.php",
       "publishedAt": "2026-06-15T12:48:30+00:00",
       "publishedLabel": "15.06.2026 12:48",
-      "summary": "Gestern Nachmittag kam es in Britz nach einer Verkehrsunfallflucht zu Widerstandshandlungen gegenüber Polizeieinsatzkräften.",
+      "summary": "Mann leistet nach Verkehrsunfallflucht Widerstand gegen Einsatzkräfte",
       "category": "Verkehr"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681744.php",
       "publishedAt": "2026-06-15T11:19:07+00:00",
       "publishedLabel": "15.06.2026 11:19",
-      "summary": "Zum Schutz Gedenkortes für die polnischen Opfer der nationalsozialistischen Unrechts- und Gewaltherrschaft hat die Polizei eine Allgemeinverfügung erlassen.",
+      "summary": "Polizei Berlin erlässt Allgemeinverfügung zum 17. Juni 2026",
       "category": "Einsatz"
     },
     {
@@ -87,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681446.php",
       "publishedAt": "2026-06-14T12:39:55+00:00",
       "publishedLabel": "14.06.2026 12:39",
-      "summary": "Einsatzkräfte stoppten vergangene Nacht einen flüchtigen Kradfahrer in Karlshorst.",
-      "category": "Verkehr"
+      "summary": "Mit einem Einsatzwagen zusammengestoßen und verletzt",
+      "category": "Ermittlung"
     },
     {
       "title": "Festnahme nach Verdacht des unerlaubten Handels mit Betäubungsmitteln",
