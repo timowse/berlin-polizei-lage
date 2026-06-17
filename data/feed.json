@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-17T14:00:09.242256+00:00",
-    "checkedTime": "14:00 Uhr",
+    "checkedAt": "2026-06-17T17:16:06.961866+00:00",
+    "checkedTime": "17:16 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Junge Frau vermisst – Polizei bittet um Mithilfe",
-    "latestPublishedAt": "2026-06-17T12:19:20+00:00"
+    "latestTitle": "Fußgänger nach Verkehrsunfall notoperiert",
+    "latestPublishedAt": "2026-06-17T14:26:00+00:00"
   },
   "items": [
+    {
+      "title": "Fußgänger nach Verkehrsunfall notoperiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682951.php",
+      "publishedAt": "2026-06-17T14:26:00+00:00",
+      "publishedLabel": "17.06.2026 14:26",
+      "summary": "Bei einem Verkehrsunfall in Moabit ist gestern Abend ein Fußgänger erheblich verletzt worden.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Allgemeinverfügung anlässlich des zweiten nationalen Veteranentages – Einschränkungen im Berliner Regierungsviertel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682948.php",
+      "publishedAt": "2026-06-17T14:13:00+00:00",
+      "publishedLabel": "17.06.2026 14:13",
+      "summary": "Anlässlich des in Mitte stattfindenden zweiten nationalen Veteranentages wird es zu umfangreichen Sicherheitsmaßnahmen und Verkehrssperrungen kommen.",
+      "category": "Verkehr"
+    },
     {
       "title": "Junge Frau vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682776.php",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-06-13T13:03:00+00:00",
       "publishedLabel": "13.06.2026 13:03",
       "summary": "Am Abend des 10. Juni 2026 wurde ein 61-jähriger Mann bei einer Bäckerei in der Gerichtstraße 52 in 13347 Berlin-Wedding Opfer eines Tötungsdelikts.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Frau mit Kopftuch fremdenfeindlich beleidigt und mit Messer bedroht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681439.php",
-      "publishedAt": "2026-06-13T12:58:40+00:00",
-      "publishedLabel": "13.06.2026 12:58",
-      "summary": "Gestern Nachmittag soll eine Frau in Kreuzberg fremdenfeindlich beleidigt und mit einem Messer bedroht worden sein.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Mann bei Auseinandersetzung verletzt – drei Tatverdächtige festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681437.php",
-      "publishedAt": "2026-06-13T11:17:55+00:00",
-      "publishedLabel": "13.06.2026 11:17",
-      "summary": "In der vergangenen Nacht wurde ein Mann bei einer Auseinandersetzung in Wedding verletzt.",
       "category": "Fahndung"
     }
   ]
