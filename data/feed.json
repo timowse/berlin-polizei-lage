@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-16T22:34:02.502144+00:00",
-    "checkedTime": "22:34 Uhr",
+    "checkedAt": "2026-06-17T00:03:27.019133+00:00",
+    "checkedTime": "00:03 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Randalierer im Kaufhaus festgenommen",
     "latestPublishedAt": "2026-06-16T12:41:13+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681872.php",
       "publishedAt": "2026-06-15T12:48:30+00:00",
       "publishedLabel": "15.06.2026 12:48",
-      "summary": "Mann leistet nach Verkehrsunfallflucht Widerstand gegen Einsatzkräfte",
+      "summary": "Gestern Nachmittag kam es in Britz nach einer Verkehrsunfallflucht zu Widerstandshandlungen gegenüber Polizeieinsatzkräften.",
       "category": "Verkehr"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681744.php",
       "publishedAt": "2026-06-15T11:19:07+00:00",
       "publishedLabel": "15.06.2026 11:19",
-      "summary": "Polizei Berlin erlässt Allgemeinverfügung zum 17. Juni 2026",
+      "summary": "Zum Schutz Gedenkortes für die polnischen Opfer der nationalsozialistischen Unrechts- und Gewaltherrschaft hat die Polizei eine Allgemeinverfügung erlassen.",
       "category": "Einsatz"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681512.php",
       "publishedAt": "2026-06-15T07:27:36+00:00",
       "publishedLabel": "15.06.2026 07:27",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Berliner Feuerwehr und der Polizei zu einem Brand nach Alt-Hohenschönhausen alarmiert.",
+      "summary": "Mehrere Fahrzeuge in Brand gesetzt",
       "category": "Verkehr"
     },
     {
@@ -87,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681446.php",
       "publishedAt": "2026-06-14T12:39:55+00:00",
       "publishedLabel": "14.06.2026 12:39",
-      "summary": "Mit einem Einsatzwagen zusammengestoßen und verletzt",
-      "category": "Ermittlung"
+      "summary": "Einsatzkräfte stoppten vergangene Nacht einen flüchtigen Kradfahrer in Karlshorst.",
+      "category": "Verkehr"
     },
     {
       "title": "Festnahme nach Verdacht des unerlaubten Handels mit Betäubungsmitteln",
