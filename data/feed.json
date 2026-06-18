@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-18T10:57:07.871098+00:00",
-    "checkedTime": "10:57 Uhr",
+    "checkedAt": "2026-06-18T14:15:50.192590+00:00",
+    "checkedTime": "14:15 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Fußgänger nach Verkehrsunfall notoperiert",
-    "latestPublishedAt": "2026-06-17T14:26:00+00:00"
+    "latestTitle": "Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum stellen bei Durchsuchungen fünf scharfe Schusswaffen sicher",
+    "latestPublishedAt": "2026-06-18T13:15:48+00:00"
   },
   "items": [
+    {
+      "title": "Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum stellen bei Durchsuchungen fünf scharfe Schusswaffen sicher",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683468.php",
+      "publishedAt": "2026-06-18T13:15:48+00:00",
+      "publishedLabel": "18.06.2026 13:15",
+      "summary": "Die BAO Ferrum des Landeskriminalamts Berlin und die EG Telum der Staatsanwaltschaft Berlin haben gestern nach intensiven Ermittlungen wegen des Verdachts (...)",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Schüsse auf eine Gaststätte in Tempelhof",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683417.php",
+      "publishedAt": "2026-06-18T12:22:38+00:00",
+      "publishedLabel": "18.06.2026 12:22",
+      "summary": "In der vergangenen Nacht stellten Polizeikräfte Einschüsse in der Fassade einer Gaststätte in Tempelhof fest.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Reizstoff in Linienbus versprüht – Mehrere Fahrgäste verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683403.php",
+      "publishedAt": "2026-06-18T12:18:28+00:00",
+      "publishedLabel": "18.06.2026 12:18",
+      "summary": "Bei einer Auseinandersetzung in einem Linienbus der BVG im Ortsteil Gropiusstadt sind gestern Nachmittag mehrere Fahrgäste durch versprühten Reizstoff (...)",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Gebissen und Widerstand geleistet – zwei Polizeibeamte verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683388.php",
+      "publishedAt": "2026-06-18T12:10:54+00:00",
+      "publishedLabel": "18.06.2026 12:10",
+      "summary": "Gestern Vormittag leistete ein Mann in Charlottenburg Widerstand und verletzte dabei zwei Polizisten.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Fußgänger nach Verkehrsunfall notoperiert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682951.php",
@@ -103,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681851.php",
       "publishedAt": "2026-06-15T12:35:09+00:00",
       "publishedLabel": "15.06.2026 12:35",
-      "summary": "Mit Schreckschusswaffe vom Balkon geschossen",
+      "summary": "Gestern Abend kam es in Niederschöneweide zu mehreren Schussabgaben mit einer Schreckschusswaffe.",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681744.php",
       "publishedAt": "2026-06-15T11:19:07+00:00",
       "publishedLabel": "15.06.2026 11:19",
-      "summary": "Polizei Berlin erlässt Allgemeinverfügung zum 17. Juni 2026",
+      "summary": "Zum Schutz Gedenkortes für die polnischen Opfer der nationalsozialistischen Unrechts- und Gewaltherrschaft hat die Polizei eine Allgemeinverfügung erlassen.",
       "category": "Einsatz"
     },
     {
@@ -121,38 +153,6 @@
       "publishedLabel": "15.06.2026 07:27",
       "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Berliner Feuerwehr und der Polizei zu einem Brand nach Alt-Hohenschönhausen alarmiert.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Mit einem Einsatzwagen zusammengestoßen und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681446.php",
-      "publishedAt": "2026-06-14T12:39:55+00:00",
-      "publishedLabel": "14.06.2026 12:39",
-      "summary": "Einsatzkräfte stoppten vergangene Nacht einen flüchtigen Kradfahrer in Karlshorst.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Festnahme nach Verdacht des unerlaubten Handels mit Betäubungsmitteln",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681445.php",
-      "publishedAt": "2026-06-14T11:43:24+00:00",
-      "publishedLabel": "14.06.2026 11:43",
-      "summary": "Festnahme nach Verdacht des unerlaubten Handels mit Betäubungsmitteln",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann erlitt Stichverletzungen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681444.php",
-      "publishedAt": "2026-06-14T10:19:19+00:00",
-      "publishedLabel": "14.06.2026 10:19",
-      "summary": "Mann erlitt Stichverletzungen",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Zeugenaufruf nach tödlichen Stichverletzungen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
-      "publishedAt": "2026-06-13T13:03:00+00:00",
-      "publishedLabel": "13.06.2026 13:03",
-      "summary": "Zeugenaufruf nach tödlichen Stichverletzungen",
-      "category": "Fahndung"
     }
   ]
 }
