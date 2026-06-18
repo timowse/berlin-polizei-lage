@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-18T06:28:44.068633+00:00",
-    "checkedTime": "06:28 Uhr",
+    "checkedAt": "2026-06-18T10:57:07.871098+00:00",
+    "checkedTime": "10:57 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Fußgänger nach Verkehrsunfall notoperiert",
     "latestPublishedAt": "2026-06-17T14:26:00+00:00"
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681851.php",
       "publishedAt": "2026-06-15T12:35:09+00:00",
       "publishedLabel": "15.06.2026 12:35",
-      "summary": "Gestern Abend kam es in Niederschöneweide zu mehreren Schussabgaben mit einer Schreckschusswaffe.",
+      "summary": "Mit Schreckschusswaffe vom Balkon geschossen",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681744.php",
       "publishedAt": "2026-06-15T11:19:07+00:00",
       "publishedLabel": "15.06.2026 11:19",
-      "summary": "Zum Schutz Gedenkortes für die polnischen Opfer der nationalsozialistischen Unrechts- und Gewaltherrschaft hat die Polizei eine Allgemeinverfügung erlassen.",
+      "summary": "Polizei Berlin erlässt Allgemeinverfügung zum 17. Juni 2026",
       "category": "Einsatz"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681445.php",
       "publishedAt": "2026-06-14T11:43:24+00:00",
       "publishedLabel": "14.06.2026 11:43",
-      "summary": "Ein mutmaßlicher Drogenhändler, der sich gestern Vormittag in Oberschöneweide verschanzte, wurde unter Zuhilfenahme eines Diensthundes festgenommen.",
+      "summary": "Festnahme nach Verdacht des unerlaubten Handels mit Betäubungsmitteln",
       "category": "Ermittlung"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681444.php",
       "publishedAt": "2026-06-14T10:19:19+00:00",
       "publishedLabel": "14.06.2026 10:19",
-      "summary": "Ein Mann erlitt gestern Morgen in Schöneberg mehrere Stichverletzungen.",
+      "summary": "Mann erlitt Stichverletzungen",
       "category": "Ermittlung"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
       "publishedAt": "2026-06-13T13:03:00+00:00",
       "publishedLabel": "13.06.2026 13:03",
-      "summary": "Am Abend des 10. Juni 2026 wurde ein 61-jähriger Mann bei einer Bäckerei in der Gerichtstraße 52 in 13347 Berlin-Wedding Opfer eines Tötungsdelikts.",
+      "summary": "Zeugenaufruf nach tödlichen Stichverletzungen",
       "category": "Fahndung"
     }
   ]
