@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-19T05:21:22.750733+00:00",
-    "checkedTime": "05:21 Uhr",
+    "checkedAt": "2026-06-19T09:59:56.120584+00:00",
+    "checkedTime": "09:59 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum stellen bei Durchsuchungen fünf scharfe Schusswaffen sicher",
-    "latestPublishedAt": "2026-06-18T13:15:48+00:00"
+    "latestTitle": "Verkehrsunfall nach mutmaßlichem Driftmanöver",
+    "latestPublishedAt": "2026-06-18T14:50:00+00:00"
   },
   "items": [
+    {
+      "title": "Verkehrsunfall nach mutmaßlichem Driftmanöver",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683586.php",
+      "publishedAt": "2026-06-18T14:50:00+00:00",
+      "publishedLabel": "18.06.2026 14:50",
+      "summary": "Gestern Nachmittag verlor ein Autofahrer in Wilmersdorf bei einem Verkehrsunfall die Kontrolle über sein Fahrzeug und verletzte zwei weitere Personen.",
+      "category": "Verkehr"
+    },
     {
       "title": "Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum stellen bei Durchsuchungen fünf scharfe Schusswaffen sicher",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683468.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "15.06.2026 11:19",
       "summary": "Zum Schutz Gedenkortes für die polnischen Opfer der nationalsozialistischen Unrechts- und Gewaltherrschaft hat die Polizei eine Allgemeinverfügung erlassen.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Mehrere Fahrzeuge in Brand gesetzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681512.php",
-      "publishedAt": "2026-06-15T07:27:36+00:00",
-      "publishedLabel": "15.06.2026 07:27",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Berliner Feuerwehr und der Polizei zu einem Brand nach Alt-Hohenschönhausen alarmiert.",
-      "category": "Verkehr"
     }
   ]
 }
