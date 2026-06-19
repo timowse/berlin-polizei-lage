@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-19T09:59:56.120584+00:00",
-    "checkedTime": "09:59 Uhr",
+    "checkedAt": "2026-06-19T13:44:02.317093+00:00",
+    "checkedTime": "13:44 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verkehrsunfall nach mutmaßlichem Driftmanöver",
-    "latestPublishedAt": "2026-06-18T14:50:00+00:00"
+    "latestTitle": "Polizeikontrolle entzogen und Verkehrsunfälle verursacht",
+    "latestPublishedAt": "2026-06-19T10:57:00+00:00"
   },
   "items": [
+    {
+      "title": "Polizeikontrolle entzogen und Verkehrsunfälle verursacht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683870.php",
+      "publishedAt": "2026-06-19T10:57:00+00:00",
+      "publishedLabel": "19.06.2026 10:57",
+      "summary": "Ein 19-Jähriger hat sich in der vergangenen Nacht einer Polizeikontrolle in Wilmersdorf entzogen und mehrere Unfälle verursacht.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Angegriffen, randaliert und Einsatzfahrzeug beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683863.php",
+      "publishedAt": "2026-06-19T10:50:00+00:00",
+      "publishedLabel": "19.06.2026 10:50",
+      "summary": "Gestern Nachmittag wurden in Steglitz zwei Männer festgenommen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mann in hilflosem Zustand noch nicht identifiziert - Polizei bittet erneut um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1552535.php",
+      "publishedAt": "2026-06-19T10:04:00+00:00",
+      "publishedLabel": "19.06.2026 10:04",
+      "summary": "Der Mitte März 2025 in Steglitz in hilflosem Zustand aufgefundene Mann konnte noch immer nicht identifiziert werden.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Drei Verletzte Personen nach Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683808.php",
+      "publishedAt": "2026-06-19T09:43:00+00:00",
+      "publishedLabel": "19.06.2026 09:43",
+      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Pankow wurden drei Personen verletzt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Verkehrsunfall nach mutmaßlichem Driftmanöver",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683586.php",
@@ -121,38 +153,6 @@
       "publishedLabel": "15.06.2026 13:39",
       "summary": "Gestern Nachmittag nahmen Spezialkräfte in Adlershof einen mutmaßlichen Raubtäter nach intensiven Ermittlungen an dessen Wohnanschrift fest.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Durchsuchungen und Haftbefehle wegen bandenmäßiger Urkundenfälschung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681910.php",
-      "publishedAt": "2026-06-15T13:27:27+00:00",
-      "publishedLabel": "15.06.2026 13:27",
-      "summary": "Heute früh vollstreckten rund 220 Kräfte im Auftrag der StA Berlin mehrere Durchsuchungsbeschlüsse sowie fünf von der StA erwirkte Haftbefehle.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Mann leistet nach Verkehrsunfallflucht Widerstand gegen Einsatzkräfte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681872.php",
-      "publishedAt": "2026-06-15T12:48:30+00:00",
-      "publishedLabel": "15.06.2026 12:48",
-      "summary": "Gestern Nachmittag kam es in Britz nach einer Verkehrsunfallflucht zu Widerstandshandlungen gegenüber Polizeieinsatzkräften.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mit Schreckschusswaffe vom Balkon geschossen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681851.php",
-      "publishedAt": "2026-06-15T12:35:09+00:00",
-      "publishedLabel": "15.06.2026 12:35",
-      "summary": "Gestern Abend kam es in Niederschöneweide zu mehreren Schussabgaben mit einer Schreckschusswaffe.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Polizei Berlin erlässt Allgemeinverfügung zum 17. Juni 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681744.php",
-      "publishedAt": "2026-06-15T11:19:07+00:00",
-      "publishedLabel": "15.06.2026 11:19",
-      "summary": "Zum Schutz Gedenkortes für die polnischen Opfer der nationalsozialistischen Unrechts- und Gewaltherrschaft hat die Polizei eine Allgemeinverfügung erlassen.",
-      "category": "Einsatz"
     }
   ]
 }
