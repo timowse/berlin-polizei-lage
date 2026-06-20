@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-20T06:23:15.128445+00:00",
-    "checkedTime": "06:23 Uhr",
+    "checkedAt": "2026-06-20T09:49:13.113937+00:00",
+    "checkedTime": "09:49 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Polizeikontrolle entzogen und Verkehrsunfälle verursacht",
-    "latestPublishedAt": "2026-06-19T10:57:00+00:00"
+    "latestTitle": "Frau geschlagen, getreten und fremdenfeindlich beleidigt",
+    "latestPublishedAt": "2026-06-20T09:17:00+00:00"
   },
   "items": [
+    {
+      "title": "Frau geschlagen, getreten und fremdenfeindlich beleidigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684083.php",
+      "publishedAt": "2026-06-20T09:17:00+00:00",
+      "publishedLabel": "20.06.2026 09:17",
+      "summary": "Frau geschlagen, getreten und fremdenfeindlich beleidigt",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Bei schwerem Raub verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684082.php",
+      "publishedAt": "2026-06-20T09:10:00+00:00",
+      "publishedLabel": "20.06.2026 09:10",
+      "summary": "Bei schwerem Raub verletzt",
+      "category": "Ermittlung"
+    },
     {
       "title": "Polizeikontrolle entzogen und Verkehrsunfälle verursacht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683870.php",
@@ -55,8 +71,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683468.php",
       "publishedAt": "2026-06-18T13:15:48+00:00",
       "publishedLabel": "18.06.2026 13:15",
-      "summary": "Die BAO Ferrum des Landeskriminalamts Berlin und die EG Telum der Staatsanwaltschaft Berlin haben gestern nach intensiven Ermittlungen wegen des Verdachts (...)",
-      "category": "Ermittlung"
+      "summary": "Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum stellen bei Durchsuchungen fünf scharfe Schusswaffen sicher",
+      "category": "Sonstiges"
     },
     {
       "title": "Schüsse auf eine Gaststätte in Tempelhof",
@@ -87,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682951.php",
       "publishedAt": "2026-06-17T14:26:00+00:00",
       "publishedLabel": "17.06.2026 14:26",
-      "summary": "Bei einem Verkehrsunfall in Moabit ist gestern Abend ein Fußgänger erheblich verletzt worden.",
+      "summary": "Fußgänger nach Verkehrsunfall notoperiert",
       "category": "Verkehr"
     },
     {
@@ -137,22 +153,6 @@
       "publishedLabel": "16.06.2026 10:45",
       "summary": "Durch einen Flaschenwurf wurde gestern Abend in Kreuzberg ein Einsatzfahrzeug der Polizeidirektion 5 (City) beschädigt.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Israelfeindliche Farbschmiererei",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682094.php",
-      "publishedAt": "2026-06-16T08:25:15+00:00",
-      "publishedLabel": "16.06.2026 08:25",
-      "summary": "Gestern Abend alarmierte eine Zeugin in Schöneberg die Polizei zu mehreren Farbschmierereien.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Festnahme nach bewaffnetem Raubüberfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681920.php",
-      "publishedAt": "2026-06-15T13:39:16+00:00",
-      "publishedLabel": "15.06.2026 13:39",
-      "summary": "Gestern Nachmittag nahmen Spezialkräfte in Adlershof einen mutmaßlichen Raubtäter nach intensiven Ermittlungen an dessen Wohnanschrift fest.",
-      "category": "Ermittlung"
     }
   ]
 }
