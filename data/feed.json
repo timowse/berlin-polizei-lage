@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-21T13:25:00.285261+00:00",
-    "checkedTime": "13:25 Uhr",
+    "checkedAt": "2026-06-21T15:27:02.034990+00:00",
+    "checkedTime": "15:27 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Antisemitischer Angriff – Geschlagen und bespuckt",
-    "latestPublishedAt": "2026-06-21T12:31:48+00:00"
+    "latestTitle": "Politiker an Informationsstand mit Eiern beworfen",
+    "latestPublishedAt": "2026-06-21T14:36:24+00:00"
   },
   "items": [
+    {
+      "title": "Politiker an Informationsstand mit Eiern beworfen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684094.php",
+      "publishedAt": "2026-06-21T14:36:24+00:00",
+      "publishedLabel": "21.06.2026 14:36",
+      "summary": "Gestern Vormittag wurde ein Mitglied des Berliner Abgeordnetenhauses in Friedrichshain angegriffen.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Antisemitischer Angriff – Geschlagen und bespuckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684088.php",
@@ -103,8 +111,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683468.php",
       "publishedAt": "2026-06-18T13:15:48+00:00",
       "publishedLabel": "18.06.2026 13:15",
-      "summary": "Die BAO Ferrum des Landeskriminalamts Berlin und die EG Telum der Staatsanwaltschaft Berlin haben gestern nach intensiven Ermittlungen wegen des Verdachts (...)",
-      "category": "Ermittlung"
+      "summary": "Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum stellen bei Durchsuchungen fünf scharfe Schusswaffen sicher",
+      "category": "Sonstiges"
     },
     {
       "title": "Schüsse auf eine Gaststätte in Tempelhof",
@@ -145,14 +153,6 @@
       "publishedLabel": "17.06.2026 14:13",
       "summary": "Anlässlich des in Mitte stattfindenden zweiten nationalen Veteranentages wird es zu umfangreichen Sicherheitsmaßnahmen und Verkehrssperrungen kommen.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Junge Frau vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682776.php",
-      "publishedAt": "2026-06-17T12:19:20+00:00",
-      "publishedLabel": "17.06.2026 12:19",
-      "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach einer jungen Frau in hilfloser Lage.",
-      "category": "Fahndung"
     }
   ]
 }
