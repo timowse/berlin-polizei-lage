@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-21T11:35:53.679858+00:00",
-    "checkedTime": "11:35 Uhr",
+    "checkedAt": "2026-06-21T13:25:00.285261+00:00",
+    "checkedTime": "13:25 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann bei Raub verletzt",
-    "latestPublishedAt": "2026-06-20T11:41:00+00:00"
+    "latestTitle": "Antisemitischer Angriff – Geschlagen und bespuckt",
+    "latestPublishedAt": "2026-06-21T12:31:48+00:00"
   },
   "items": [
+    {
+      "title": "Antisemitischer Angriff – Geschlagen und bespuckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684088.php",
+      "publishedAt": "2026-06-21T12:31:48+00:00",
+      "publishedLabel": "21.06.2026 12:31",
+      "summary": "Einem 31-Jährigen wird vorgeworfen, gestern Nachmittag in Charlottenburg mehrere Personen antisemitisch beleidigt, bedroht und körperlich angegriffen zu haben.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Tödlich verletzter Fußgänger nach Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684087.php",
+      "publishedAt": "2026-06-21T12:28:42+00:00",
+      "publishedLabel": "21.06.2026 12:28",
+      "summary": "In der vergangenen Nacht ereignete sich in Friedrichsfelde ein schwerer Verkehrsunfall zwischen einer Fußgängerin, einem Fußgänger und einem Motorradfahrer.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mann bei Raub verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684086.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "17.06.2026 12:19",
       "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach einer jungen Frau in hilfloser Lage.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Seniorin bei Bremsmanöver in Linienbus verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682628.php",
-      "publishedAt": "2026-06-17T09:19:36+00:00",
-      "publishedLabel": "17.06.2026 09:19",
-      "summary": "Gestern Nachmittag wurde eine Seniorin bei einem Verkehrsunfall in Lichtenrade verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Einbrecher mithilfe des DEIG festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682621.php",
-      "publishedAt": "2026-06-17T09:15:43+00:00",
-      "publishedLabel": "17.06.2026 09:15",
-      "summary": "Gestern Nachmittag nahmen Einsatzkräfte in Steglitz einen mutmaßlichen Einbrecher mithilfe des Distanzelektroimpulsgeräts (DEIG) fest.",
-      "category": "Einsatz"
     }
   ]
 }
