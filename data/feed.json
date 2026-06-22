@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-22T14:34:56.094813+00:00",
-    "checkedTime": "14:34 Uhr",
+    "checkedAt": "2026-06-22T16:14:41.634130+00:00",
+    "checkedTime": "16:14 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Auf Tauben geschossen – mehrere Druckluftwaffen beschlagnahmt",
-    "latestPublishedAt": "2026-06-22T14:25:02+00:00"
+    "latestTitle": "Tötungsdelikt in Bäckerei – Tatverdächtiger festgenommen",
+    "latestPublishedAt": "2026-06-22T14:38:00+00:00"
   },
   "items": [
+    {
+      "title": "Tötungsdelikt in Bäckerei – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
+      "publishedAt": "2026-06-22T14:38:00+00:00",
+      "publishedLabel": "22.06.2026 14:38",
+      "summary": "Im Zusammenhang mit einem Tötungsdelikt vom 10. Juni 2026 in Wedding wurde am vergangenen Freitagnachmittag ein Mann in der Keithstraße festgenommen.",
+      "category": "Fahndung"
+    },
     {
       "title": "Auf Tauben geschossen – mehrere Druckluftwaffen beschlagnahmt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684582.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "19.06.2026 10:50",
       "summary": "Gestern Nachmittag wurden in Steglitz zwei Männer festgenommen.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Mann in hilflosem Zustand noch nicht identifiziert - Polizei bittet erneut um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1552535.php",
-      "publishedAt": "2026-06-19T10:04:00+00:00",
-      "publishedLabel": "19.06.2026 10:04",
-      "summary": "Der Mitte März 2025 in Steglitz in hilflosem Zustand aufgefundene Mann konnte noch immer nicht identifiziert werden.",
-      "category": "Einsatz"
     }
   ]
 }
