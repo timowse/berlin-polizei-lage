@@ -3,13 +3,61 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-22T12:35:43.708128+00:00",
-    "checkedTime": "12:35 Uhr",
+    "checkedAt": "2026-06-22T14:34:56.094813+00:00",
+    "checkedTime": "14:34 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Sechs Verletzte nach Verkehrsunfall – Säugling in Lebensgefahr",
-    "latestPublishedAt": "2026-06-22T08:40:35+00:00"
+    "latestTitle": "Auf Tauben geschossen – mehrere Druckluftwaffen beschlagnahmt",
+    "latestPublishedAt": "2026-06-22T14:25:02+00:00"
   },
   "items": [
+    {
+      "title": "Auf Tauben geschossen – mehrere Druckluftwaffen beschlagnahmt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684582.php",
+      "publishedAt": "2026-06-22T14:25:02+00:00",
+      "publishedLabel": "22.06.2026 14:25",
+      "summary": "Ein Mann soll in der Nacht auf Sonntag in Charlottenburg Tauben in seinem Wohnhaus erschossen haben.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Nach Auseinandersetzung und Widerstand – DEIG eingesetzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684576.php",
+      "publishedAt": "2026-06-22T14:21:57+00:00",
+      "publishedLabel": "22.06.2026 14:21",
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte des Polizeiabschnitts 24 zu einer gegenwärtigen Bedrohung nach Charlottenburg alarmiert.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Sprengstoffexplosion – BAO Ferrum ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684571.php",
+      "publishedAt": "2026-06-22T14:07:00+00:00",
+      "publishedLabel": "22.06.2026 14:07",
+      "summary": "Eine oder mehrere unbekannte Personen führten vergangene Nacht eine Sprengstoffexplosion im Stadtteil Wedding herbei.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Dreizehnjährige vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684525.php",
+      "publishedAt": "2026-06-22T13:34:32+00:00",
+      "publishedLabel": "22.06.2026 13:34",
+      "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach der dreizehnjährigen Mojda SAFDARI.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Verkehrsunfall mit Fahrzeug der Berliner Feuerwehr - Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684469.php",
+      "publishedAt": "2026-06-22T12:56:01+00:00",
+      "publishedLabel": "22.06.2026 12:56",
+      "summary": "Nach einem Verkehrsunfall, der sich am 20. Juni 2026 in Wilmersdorf ereignet hat, wendet sich die Polizei Berlin mit einem Zeugenaufruf an die Öffentlichkeit.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Tankstelle überfallen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684463.php",
+      "publishedAt": "2026-06-22T12:52:59+00:00",
+      "publishedLabel": "22.06.2026 12:52",
+      "summary": "Zwei bisher Unbekannte überfielen in der vergangenen Nacht eine Tankstelle in Lankwitz.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Sechs Verletzte nach Verkehrsunfall – Säugling in Lebensgefahr",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684224.php",
@@ -105,54 +153,6 @@
       "publishedLabel": "19.06.2026 10:04",
       "summary": "Der Mitte März 2025 in Steglitz in hilflosem Zustand aufgefundene Mann konnte noch immer nicht identifiziert werden.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Drei Verletzte Personen nach Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683808.php",
-      "publishedAt": "2026-06-19T09:43:00+00:00",
-      "publishedLabel": "19.06.2026 09:43",
-      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Pankow wurden drei Personen verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Verkehrsunfall nach mutmaßlichem Driftmanöver",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683586.php",
-      "publishedAt": "2026-06-18T14:50:00+00:00",
-      "publishedLabel": "18.06.2026 14:50",
-      "summary": "Gestern Nachmittag verlor ein Autofahrer in Wilmersdorf bei einem Verkehrsunfall die Kontrolle über sein Fahrzeug und verletzte zwei weitere Personen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum stellen bei Durchsuchungen fünf scharfe Schusswaffen sicher",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683468.php",
-      "publishedAt": "2026-06-18T13:15:48+00:00",
-      "publishedLabel": "18.06.2026 13:15",
-      "summary": "Die BAO Ferrum des Landeskriminalamts Berlin und die EG Telum der Staatsanwaltschaft Berlin haben gestern nach intensiven Ermittlungen wegen des Verdachts (...)",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Schüsse auf eine Gaststätte in Tempelhof",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683417.php",
-      "publishedAt": "2026-06-18T12:22:38+00:00",
-      "publishedLabel": "18.06.2026 12:22",
-      "summary": "In der vergangenen Nacht stellten Polizeikräfte Einschüsse in der Fassade einer Gaststätte in Tempelhof fest.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Reizstoff in Linienbus versprüht – Mehrere Fahrgäste verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683403.php",
-      "publishedAt": "2026-06-18T12:18:28+00:00",
-      "publishedLabel": "18.06.2026 12:18",
-      "summary": "Bei einer Auseinandersetzung in einem Linienbus der BVG im Ortsteil Gropiusstadt sind gestern Nachmittag mehrere Fahrgäste durch versprühten Reizstoff (...)",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Gebissen und Widerstand geleistet – zwei Polizeibeamte verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683388.php",
-      "publishedAt": "2026-06-18T12:10:54+00:00",
-      "publishedLabel": "18.06.2026 12:10",
-      "summary": "Gestern Vormittag leistete ein Mann in Charlottenburg Widerstand und verletzte dabei zwei Polizisten.",
-      "category": "Ermittlung"
     }
   ]
 }
