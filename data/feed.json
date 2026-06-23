@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-23T08:56:46.685965+00:00",
-    "checkedTime": "08:56 Uhr",
+    "checkedAt": "2026-06-23T10:21:20.071143+00:00",
+    "checkedTime": "10:21 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mehrere Verletzte nach Verkehrsunfall",
     "latestPublishedAt": "2026-06-23T08:18:00+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684571.php",
       "publishedAt": "2026-06-22T14:07:00+00:00",
       "publishedLabel": "22.06.2026 14:07",
-      "summary": "Eine oder mehrere unbekannte Personen führten vergangene Nacht eine Sprengstoffexplosion im Stadtteil Wedding herbei.",
+      "summary": "Sprengstoffexplosion – BAO Ferrum ermittelt",
       "category": "Sonstiges"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684525.php",
       "publishedAt": "2026-06-22T13:34:32+00:00",
       "publishedLabel": "22.06.2026 13:34",
-      "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach der dreizehnjährigen Mojda SAFDARI.",
+      "summary": "Dreizehnjährige vermisst – Polizei bittet um Mithilfe",
       "category": "Fahndung"
     },
     {
