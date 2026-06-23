@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-23T22:31:34.578454+00:00",
-    "checkedTime": "22:31 Uhr",
+    "checkedAt": "2026-06-23T23:03:45.285608+00:00",
+    "checkedTime": "23:03 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Fußgänger nach Verkehrsunfall im Krankenhaus verstorben",
     "latestPublishedAt": "2026-06-23T14:22:00+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682951.php",
       "publishedAt": "2026-06-23T14:22:00+00:00",
       "publishedLabel": "23.06.2026 14:22",
-      "summary": "Der 35-jährige Fußgänger erlag heute früh seinen Verletzungen, die er bei einem Verkehrsunfall am Dienstag, den 16. Juni 2026 erlitten hatte.",
+      "summary": "Fußgänger nach Verkehrsunfall im Krankenhaus verstorben",
       "category": "Verkehr"
     },
     {
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684724.php",
       "publishedAt": "2026-06-23T08:18:00+00:00",
       "publishedLabel": "23.06.2026 08:18",
-      "summary": "Bei einem Verkehrsunfall wurden gestern Nachmittag mehrere Personen in Neukölln verletzt.",
+      "summary": "Mehrere Verletzte nach Verkehrsunfall",
       "category": "Verkehr"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684224.php",
       "publishedAt": "2026-06-22T08:40:35+00:00",
       "publishedLabel": "22.06.2026 08:40",
-      "summary": "Sechs Verletzte nach Verkehrsunfall – Säugling in Lebensgefahr",
+      "summary": "Gestern Abend kam es in Reinickendorf zu einem Verkehrsunfall, bei dem ein Säugling lebensgefährlich verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -151,8 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684083.php",
       "publishedAt": "2026-06-20T09:17:00+00:00",
       "publishedLabel": "20.06.2026 09:17",
-      "summary": "Frau geschlagen, getreten und fremdenfeindlich beleidigt",
-      "category": "Sonstiges"
+      "summary": "Zu einer gefährlichen Körperverletzung gestern Nachmittag in Kreuzberg hat der Polizeiliche Staatsschutz die Ermittlungen übernommen.",
+      "category": "Ermittlung"
     }
   ]
 }
