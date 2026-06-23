@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-23T10:21:20.071143+00:00",
-    "checkedTime": "10:21 Uhr",
+    "checkedAt": "2026-06-23T11:35:15.403768+00:00",
+    "checkedTime": "11:35 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mehrere Verletzte nach Verkehrsunfall",
-    "latestPublishedAt": "2026-06-23T08:18:00+00:00"
+    "latestTitle": "Fußgängerin nach Verkehrsunfall verstorben",
+    "latestPublishedAt": "2026-06-23T10:39:00+00:00"
   },
   "items": [
+    {
+      "title": "Fußgängerin nach Verkehrsunfall verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684087.php",
+      "publishedAt": "2026-06-23T10:39:00+00:00",
+      "publishedLabel": "23.06.2026 10:39",
+      "summary": "Die 85-jährige Fußgängerin, die am vergangenen Sonnabend bei einem Unfall in Friedrichsfelde lebensgefährlich verletzt wurde, ist gestern verstorben.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mehrere Verletzte nach Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684724.php",
@@ -55,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684571.php",
       "publishedAt": "2026-06-22T14:07:00+00:00",
       "publishedLabel": "22.06.2026 14:07",
-      "summary": "Sprengstoffexplosion – BAO Ferrum ermittelt",
+      "summary": "Eine oder mehrere unbekannte Personen führten vergangene Nacht eine Sprengstoffexplosion im Stadtteil Wedding herbei.",
       "category": "Sonstiges"
     },
     {
@@ -63,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684525.php",
       "publishedAt": "2026-06-22T13:34:32+00:00",
       "publishedLabel": "22.06.2026 13:34",
-      "summary": "Dreizehnjährige vermisst – Polizei bittet um Mithilfe",
+      "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach der dreizehnjährigen Mojda SAFDARI.",
       "category": "Fahndung"
     },
     {
@@ -115,14 +123,6 @@
       "category": "Ermittlung"
     },
     {
-      "title": "Tödlich verletzter Fußgänger nach Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684087.php",
-      "publishedAt": "2026-06-21T12:28:42+00:00",
-      "publishedLabel": "21.06.2026 12:28",
-      "summary": "In der vergangenen Nacht ereignete sich in Friedrichsfelde ein schwerer Verkehrsunfall zwischen einer Fußgängerin, einem Fußgänger und einem Motorradfahrer.",
-      "category": "Verkehr"
-    },
-    {
       "title": "Mann bei Raub verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684086.php",
       "publishedAt": "2026-06-20T11:41:00+00:00",
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684082.php",
       "publishedAt": "2026-06-20T09:10:00+00:00",
       "publishedLabel": "20.06.2026 09:10",
-      "summary": "Gestern Abend wurde in Reinickendorf ein Mann bei einem Raub derart verletzt, dass er zur stationären Behandlung in ein Krankenhaus kam.",
+      "summary": "Bei schwerem Raub verletzt",
       "category": "Ermittlung"
     }
   ]
