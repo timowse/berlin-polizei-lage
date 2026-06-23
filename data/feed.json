@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-23T00:03:12.596818+00:00",
-    "checkedTime": "00:03 Uhr",
+    "checkedAt": "2026-06-23T01:13:18.004659+00:00",
+    "checkedTime": "01:13 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Tötungsdelikt in Bäckerei – Tatverdächtiger festgenommen",
     "latestPublishedAt": "2026-06-22T14:38:00+00:00"
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684571.php",
       "publishedAt": "2026-06-22T14:07:00+00:00",
       "publishedLabel": "22.06.2026 14:07",
-      "summary": "Eine oder mehrere unbekannte Personen führten vergangene Nacht eine Sprengstoffexplosion im Stadtteil Wedding herbei.",
+      "summary": "Sprengstoffexplosion – BAO Ferrum ermittelt",
       "category": "Sonstiges"
     },
     {
@@ -47,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684525.php",
       "publishedAt": "2026-06-22T13:34:32+00:00",
       "publishedLabel": "22.06.2026 13:34",
-      "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach der dreizehnjährigen Mojda SAFDARI.",
+      "summary": "Dreizehnjährige vermisst – Polizei bittet um Mithilfe",
       "category": "Fahndung"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684463.php",
       "publishedAt": "2026-06-22T12:52:59+00:00",
       "publishedLabel": "22.06.2026 12:52",
-      "summary": "Tankstelle überfallen",
+      "summary": "Zwei bisher Unbekannte überfielen in der vergangenen Nacht eine Tankstelle in Lankwitz.",
       "category": "Sonstiges"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684224.php",
       "publishedAt": "2026-06-22T08:40:35+00:00",
       "publishedLabel": "22.06.2026 08:40",
-      "summary": "Sechs Verletzte nach Verkehrsunfall – Säugling in Lebensgefahr",
+      "summary": "Gestern Abend kam es in Reinickendorf zu einem Verkehrsunfall, bei dem ein Säugling lebensgefährlich verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -127,15 +127,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684083.php",
       "publishedAt": "2026-06-20T09:17:00+00:00",
       "publishedLabel": "20.06.2026 09:17",
-      "summary": "Frau geschlagen, getreten und fremdenfeindlich beleidigt",
-      "category": "Sonstiges"
+      "summary": "Zu einer gefährlichen Körperverletzung gestern Nachmittag in Kreuzberg hat der Polizeiliche Staatsschutz die Ermittlungen übernommen.",
+      "category": "Ermittlung"
     },
     {
       "title": "Bei schwerem Raub verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684082.php",
       "publishedAt": "2026-06-20T09:10:00+00:00",
       "publishedLabel": "20.06.2026 09:10",
-      "summary": "Bei schwerem Raub verletzt",
+      "summary": "Gestern Abend wurde in Reinickendorf ein Mann bei einem Raub derart verletzt, dass er zur stationären Behandlung in ein Krankenhaus kam.",
       "category": "Ermittlung"
     },
     {
