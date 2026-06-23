@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-23T07:49:36.198735+00:00",
-    "checkedTime": "07:49 Uhr",
+    "checkedAt": "2026-06-23T08:56:46.685965+00:00",
+    "checkedTime": "08:56 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Tötungsdelikt in Bäckerei – Tatverdächtiger festgenommen",
-    "latestPublishedAt": "2026-06-22T14:38:00+00:00"
+    "latestTitle": "Mehrere Verletzte nach Verkehrsunfall",
+    "latestPublishedAt": "2026-06-23T08:18:00+00:00"
   },
   "items": [
+    {
+      "title": "Mehrere Verletzte nach Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684724.php",
+      "publishedAt": "2026-06-23T08:18:00+00:00",
+      "publishedLabel": "23.06.2026 08:18",
+      "summary": "Bei einem Verkehrsunfall wurden gestern Nachmittag mehrere Personen in Neukölln verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Kind bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684697.php",
+      "publishedAt": "2026-06-23T06:32:00+00:00",
+      "publishedLabel": "23.06.2026 06:32",
+      "summary": "Gestern Morgen wurde bei einem Verkehrsunfall in Moabit ein Kind verletzt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Tötungsdelikt in Bäckerei – Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "20.06.2026 09:10",
       "summary": "Gestern Abend wurde in Reinickendorf ein Mann bei einem Raub derart verletzt, dass er zur stationären Behandlung in ein Krankenhaus kam.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Polizeikontrolle entzogen und Verkehrsunfälle verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683870.php",
-      "publishedAt": "2026-06-19T10:57:00+00:00",
-      "publishedLabel": "19.06.2026 10:57",
-      "summary": "Ein 19-Jähriger hat sich in der vergangenen Nacht einer Polizeikontrolle in Wilmersdorf entzogen und mehrere Unfälle verursacht.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Angegriffen, randaliert und Einsatzfahrzeug beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683863.php",
-      "publishedAt": "2026-06-19T10:50:00+00:00",
-      "publishedLabel": "19.06.2026 10:50",
-      "summary": "Gestern Nachmittag wurden in Steglitz zwei Männer festgenommen.",
-      "category": "Verkehr"
     }
   ]
 }
