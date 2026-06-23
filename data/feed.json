@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-23T16:35:56.340853+00:00",
-    "checkedTime": "16:35 Uhr",
+    "checkedAt": "2026-06-23T17:23:00.166231+00:00",
+    "checkedTime": "17:23 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Fußgänger nach Verkehrsunfall im Krankenhaus verstorben",
     "latestPublishedAt": "2026-06-23T14:22:00+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684582.php",
       "publishedAt": "2026-06-22T14:25:02+00:00",
       "publishedLabel": "22.06.2026 14:25",
-      "summary": "Ein Mann soll in der Nacht auf Sonntag in Charlottenburg Tauben in seinem Wohnhaus erschossen haben.",
+      "summary": "Auf Tauben geschossen – mehrere Druckluftwaffen beschlagnahmt",
       "category": "Sonstiges"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684571.php",
       "publishedAt": "2026-06-22T14:07:00+00:00",
       "publishedLabel": "22.06.2026 14:07",
-      "summary": "Eine oder mehrere unbekannte Personen führten vergangene Nacht eine Sprengstoffexplosion im Stadtteil Wedding herbei.",
+      "summary": "Sprengstoffexplosion – BAO Ferrum ermittelt",
       "category": "Sonstiges"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684224.php",
       "publishedAt": "2026-06-22T08:40:35+00:00",
       "publishedLabel": "22.06.2026 08:40",
-      "summary": "Sechs Verletzte nach Verkehrsunfall – Säugling in Lebensgefahr",
+      "summary": "Gestern Abend kam es in Reinickendorf zu einem Verkehrsunfall, bei dem ein Säugling lebensgefährlich verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -151,8 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684083.php",
       "publishedAt": "2026-06-20T09:17:00+00:00",
       "publishedLabel": "20.06.2026 09:17",
-      "summary": "Frau geschlagen, getreten und fremdenfeindlich beleidigt",
-      "category": "Sonstiges"
+      "summary": "Zu einer gefährlichen Körperverletzung gestern Nachmittag in Kreuzberg hat der Polizeiliche Staatsschutz die Ermittlungen übernommen.",
+      "category": "Ermittlung"
     }
   ]
 }
