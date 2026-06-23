@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-23T13:35:02.225217+00:00",
-    "checkedTime": "13:35 Uhr",
+    "checkedAt": "2026-06-23T14:34:17.223046+00:00",
+    "checkedTime": "14:34 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Fußgängerin nach Verkehrsunfall verstorben",
-    "latestPublishedAt": "2026-06-23T10:39:00+00:00"
+    "latestTitle": "Fußgänger nach Verkehrsunfall im Krankenhaus verstorben",
+    "latestPublishedAt": "2026-06-23T14:22:00+00:00"
   },
   "items": [
+    {
+      "title": "Fußgänger nach Verkehrsunfall im Krankenhaus verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682951.php",
+      "publishedAt": "2026-06-23T14:22:00+00:00",
+      "publishedLabel": "23.06.2026 14:22",
+      "summary": "Der 35-jährige Fußgänger erlag heute früh seinen Verletzungen, die er bei einem Verkehrsunfall am Dienstag, den 16. Juni 2026 erlitten hatte.",
+      "category": "Verkehr"
+    },
     {
       "title": "Fußgängerin nach Verkehrsunfall verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684087.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-06-20T09:17:00+00:00",
       "publishedLabel": "20.06.2026 09:17",
       "summary": "Zu einer gefährlichen Körperverletzung gestern Nachmittag in Kreuzberg hat der Polizeiliche Staatsschutz die Ermittlungen übernommen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Bei schwerem Raub verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684082.php",
-      "publishedAt": "2026-06-20T09:10:00+00:00",
-      "publishedLabel": "20.06.2026 09:10",
-      "summary": "Gestern Abend wurde in Reinickendorf ein Mann bei einem Raub derart verletzt, dass er zur stationären Behandlung in ein Krankenhaus kam.",
       "category": "Ermittlung"
     }
   ]
