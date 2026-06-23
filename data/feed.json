@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-23T23:03:45.285608+00:00",
-    "checkedTime": "23:03 Uhr",
+    "checkedAt": "2026-06-23T23:34:13.395017+00:00",
+    "checkedTime": "23:34 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Fußgänger nach Verkehrsunfall im Krankenhaus verstorben",
     "latestPublishedAt": "2026-06-23T14:22:00+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682951.php",
       "publishedAt": "2026-06-23T14:22:00+00:00",
       "publishedLabel": "23.06.2026 14:22",
-      "summary": "Fußgänger nach Verkehrsunfall im Krankenhaus verstorben",
+      "summary": "Der 35-jährige Fußgänger erlag heute früh seinen Verletzungen, die er bei einem Verkehrsunfall am Dienstag, den 16. Juni 2026 erlitten hatte.",
       "category": "Verkehr"
     },
     {
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684724.php",
       "publishedAt": "2026-06-23T08:18:00+00:00",
       "publishedLabel": "23.06.2026 08:18",
-      "summary": "Mehrere Verletzte nach Verkehrsunfall",
+      "summary": "Bei einem Verkehrsunfall wurden gestern Nachmittag mehrere Personen in Neukölln verletzt.",
       "category": "Verkehr"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684571.php",
       "publishedAt": "2026-06-22T14:07:00+00:00",
       "publishedLabel": "22.06.2026 14:07",
-      "summary": "Eine oder mehrere unbekannte Personen führten vergangene Nacht eine Sprengstoffexplosion im Stadtteil Wedding herbei.",
+      "summary": "Sprengstoffexplosion – BAO Ferrum ermittelt",
       "category": "Sonstiges"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684525.php",
       "publishedAt": "2026-06-22T13:34:32+00:00",
       "publishedLabel": "22.06.2026 13:34",
-      "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach der dreizehnjährigen Mojda SAFDARI.",
+      "summary": "Dreizehnjährige vermisst – Polizei bittet um Mithilfe",
       "category": "Fahndung"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684224.php",
       "publishedAt": "2026-06-22T08:40:35+00:00",
       "publishedLabel": "22.06.2026 08:40",
-      "summary": "Gestern Abend kam es in Reinickendorf zu einem Verkehrsunfall, bei dem ein Säugling lebensgefährlich verletzt wurde.",
+      "summary": "Sechs Verletzte nach Verkehrsunfall – Säugling in Lebensgefahr",
       "category": "Verkehr"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684084.php",
       "publishedAt": "2026-06-20T11:01:00+00:00",
       "publishedLabel": "20.06.2026 11:01",
-      "summary": "Auto in Gegenverkehr geschleudert – drei Verletzte",
+      "summary": "Nach einem Verkehrsunfall in Friedrichsfelde mussten in der vergangenen Nacht drei Beteiligte in Krankenhäuser gebracht werden.",
       "category": "Verkehr"
     },
     {
