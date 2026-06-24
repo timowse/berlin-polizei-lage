@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-24T08:52:56.303537+00:00",
-    "checkedTime": "08:52 Uhr",
+    "checkedAt": "2026-06-24T10:08:09.619201+00:00",
+    "checkedTime": "10:08 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann nach Gewalttat gesucht – Polizei bittet um Mithilfe",
-    "latestPublishedAt": "2026-06-24T05:01:00+00:00"
+    "latestTitle": "Mutmaßlichen Einbrecher festgenommen",
+    "latestPublishedAt": "2026-06-24T09:29:00+00:00"
   },
   "items": [
+    {
+      "title": "Mutmaßlichen Einbrecher festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685314.php",
+      "publishedAt": "2026-06-24T09:29:00+00:00",
+      "publishedLabel": "24.06.2026 09:29",
+      "summary": "Einsatzkräfte nahmen in der vergangenen Nacht einen mutmaßlichen Einbrecher in Buckow fest.",
+      "category": "Einsatz"
+    },
     {
       "title": "Mann nach Gewalttat gesucht – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1555980.php",
@@ -87,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684525.php",
       "publishedAt": "2026-06-22T13:34:32+00:00",
       "publishedLabel": "22.06.2026 13:34",
-      "summary": "Dreizehnjährige vermisst – Polizei bittet um Mithilfe",
+      "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach der dreizehnjährigen Mojda SAFDARI.",
       "category": "Fahndung"
     },
     {
@@ -103,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684463.php",
       "publishedAt": "2026-06-22T12:52:59+00:00",
       "publishedLabel": "22.06.2026 12:52",
-      "summary": "Tankstelle überfallen",
+      "summary": "Zwei bisher Unbekannte überfielen in der vergangenen Nacht eine Tankstelle in Lankwitz.",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684224.php",
       "publishedAt": "2026-06-22T08:40:35+00:00",
       "publishedLabel": "22.06.2026 08:40",
-      "summary": "Sechs Verletzte nach Verkehrsunfall – Säugling in Lebensgefahr",
+      "summary": "Gestern Abend kam es in Reinickendorf zu einem Verkehrsunfall, bei dem ein Säugling lebensgefährlich verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "20.06.2026 11:41",
       "summary": "Heute früh wurde ein Mann bei einem Raub in Friedrichshain derart verletzt, dass er zur stationären Behandlung in ein Krankenhaus kam.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Auto in Gegenverkehr geschleudert – drei Verletzte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684084.php",
-      "publishedAt": "2026-06-20T11:01:00+00:00",
-      "publishedLabel": "20.06.2026 11:01",
-      "summary": "Nach einem Verkehrsunfall in Friedrichsfelde mussten in der vergangenen Nacht drei Beteiligte in Krankenhäuser gebracht werden.",
-      "category": "Verkehr"
     }
   ]
 }
