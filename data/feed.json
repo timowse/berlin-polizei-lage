@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-24T10:08:09.619201+00:00",
-    "checkedTime": "10:08 Uhr",
+    "checkedAt": "2026-06-24T11:16:06.853581+00:00",
+    "checkedTime": "11:16 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mutmaßlichen Einbrecher festgenommen",
-    "latestPublishedAt": "2026-06-24T09:29:00+00:00"
+    "latestTitle": "Fahrradfahrer bei Verkehrsunfall verletzt",
+    "latestPublishedAt": "2026-06-24T10:09:00+00:00"
   },
   "items": [
+    {
+      "title": "Fahrradfahrer bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685378.php",
+      "publishedAt": "2026-06-24T10:09:00+00:00",
+      "publishedLabel": "24.06.2026 10:09",
+      "summary": "Ein Radfahrer erlitt gestern Abend in Kreuzberg schwere Verletzungen.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mutmaßlichen Einbrecher festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685314.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-06-21T12:31:48+00:00",
       "publishedLabel": "21.06.2026 12:31",
       "summary": "Einem 31-Jährigen wird vorgeworfen, gestern Nachmittag in Charlottenburg mehrere Personen antisemitisch beleidigt, bedroht und körperlich angegriffen zu haben.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann bei Raub verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684086.php",
-      "publishedAt": "2026-06-20T11:41:00+00:00",
-      "publishedLabel": "20.06.2026 11:41",
-      "summary": "Heute früh wurde ein Mann bei einem Raub in Friedrichshain derart verletzt, dass er zur stationären Behandlung in ein Krankenhaus kam.",
       "category": "Ermittlung"
     }
   ]
