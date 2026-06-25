@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-25T00:19:35.507032+00:00",
-    "checkedTime": "00:19 Uhr",
+    "checkedAt": "2026-06-25T01:22:33.011079+00:00",
+    "checkedTime": "01:22 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Fahrradfahrer bei Verkehrsunfall verletzt",
     "latestPublishedAt": "2026-06-24T10:09:00+00:00"
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682951.php",
       "publishedAt": "2026-06-23T14:22:00+00:00",
       "publishedLabel": "23.06.2026 14:22",
-      "summary": "Fußgänger nach Verkehrsunfall im Krankenhaus verstorben",
+      "summary": "Der 35-jährige Fußgänger erlag heute früh seinen Verletzungen, die er bei einem Verkehrsunfall am Dienstag, den 16. Juni 2026 erlitten hatte.",
       "category": "Verkehr"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684571.php",
       "publishedAt": "2026-06-22T14:07:00+00:00",
       "publishedLabel": "22.06.2026 14:07",
-      "summary": "Sprengstoffexplosion – BAO Ferrum ermittelt",
+      "summary": "Eine oder mehrere unbekannte Personen führten vergangene Nacht eine Sprengstoffexplosion im Stadtteil Wedding herbei.",
       "category": "Sonstiges"
     },
     {
