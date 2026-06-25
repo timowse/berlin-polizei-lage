@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-25T09:13:33.425646+00:00",
-    "checkedTime": "09:13 Uhr",
+    "checkedAt": "2026-06-25T10:22:30.549242+00:00",
+    "checkedTime": "10:22 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Fahrradfahrer bei Verkehrsunfall verletzt",
-    "latestPublishedAt": "2026-06-24T10:09:00+00:00"
+    "latestTitle": "Geparktes Fahrzeug in Brand geraten – zwei weitere beschädigt",
+    "latestPublishedAt": "2026-06-25T09:35:30+00:00"
   },
   "items": [
+    {
+      "title": "Geparktes Fahrzeug in Brand geraten – zwei weitere beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685836.php",
+      "publishedAt": "2026-06-25T09:35:30+00:00",
+      "publishedLabel": "25.06.2026 09:35",
+      "summary": "In der vergangenen Nacht geriet in Rudow ein geparktes Fahrzeug in Brand.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Radfahrer bei Sturz verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685827.php",
+      "publishedAt": "2026-06-25T09:28:28+00:00",
+      "publishedLabel": "25.06.2026 09:28",
+      "summary": "Gestern Nachmittag erlitt ein Radfahrer bei einem Verkehrsunfall in Friedrichshain Verletzungen.",
+      "category": "Verkehr"
+    },
     {
       "title": "Fahrradfahrer bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685378.php",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-06-21T15:36:37+00:00",
       "publishedLabel": "21.06.2026 15:36",
       "summary": "In Prenzlauer Berg sollen vergangene Nacht mehrere Männer rassistische und antisemitische Äußerungen getätigt haben.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Politiker an Informationsstand mit Eiern beworfen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684094.php",
-      "publishedAt": "2026-06-21T14:36:24+00:00",
-      "publishedLabel": "21.06.2026 14:36",
-      "summary": "Gestern Vormittag wurde ein Mitglied des Berliner Abgeordnetenhauses in Friedrichshain angegriffen.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Antisemitischer Angriff – Geschlagen und bespuckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684088.php",
-      "publishedAt": "2026-06-21T12:31:48+00:00",
-      "publishedLabel": "21.06.2026 12:31",
-      "summary": "Einem 31-Jährigen wird vorgeworfen, gestern Nachmittag in Charlottenburg mehrere Personen antisemitisch beleidigt, bedroht und körperlich angegriffen zu haben.",
       "category": "Ermittlung"
     }
   ]
