@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-26T21:04:03.535597+00:00",
-    "checkedTime": "21:04 Uhr",
+    "checkedAt": "2026-06-26T21:40:24.334645+00:00",
+    "checkedTime": "21:40 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Jugendliche vermisst – Polizei bittet um Mithilfe",
     "latestPublishedAt": "2026-06-26T13:39:36+00:00"
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684724.php",
       "publishedAt": "2026-06-23T08:18:00+00:00",
       "publishedLabel": "23.06.2026 08:18",
-      "summary": "Bei einem Verkehrsunfall wurden gestern Nachmittag mehrere Personen in Neukölln verletzt.",
+      "summary": "Mehrere Verletzte nach Verkehrsunfall",
       "category": "Verkehr"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
       "publishedAt": "2026-06-22T14:38:00+00:00",
       "publishedLabel": "22.06.2026 14:38",
-      "summary": "Im Zusammenhang mit einem Tötungsdelikt vom 10. Juni 2026 in Wedding wurde am vergangenen Freitagnachmittag ein Mann in der Keithstraße festgenommen.",
+      "summary": "Tötungsdelikt in Bäckerei – Tatverdächtiger festgenommen",
       "category": "Fahndung"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684582.php",
       "publishedAt": "2026-06-22T14:25:02+00:00",
       "publishedLabel": "22.06.2026 14:25",
-      "summary": "Ein Mann soll in der Nacht auf Sonntag in Charlottenburg Tauben in seinem Wohnhaus erschossen haben.",
+      "summary": "Auf Tauben geschossen – mehrere Druckluftwaffen beschlagnahmt",
       "category": "Sonstiges"
     },
     {
