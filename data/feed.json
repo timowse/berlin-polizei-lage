@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-26T13:17:35.144912+00:00",
-    "checkedTime": "13:17 Uhr",
+    "checkedAt": "2026-06-26T14:08:01.983486+00:00",
+    "checkedTime": "14:08 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Geparktes Fahrzeug in Brand geraten – zwei weitere beschädigt",
-    "latestPublishedAt": "2026-06-25T09:35:30+00:00"
+    "latestTitle": "Jugendliche vermisst – Polizei bittet um Mithilfe",
+    "latestPublishedAt": "2026-06-26T13:39:36+00:00"
   },
   "items": [
+    {
+      "title": "Jugendliche vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686646.php",
+      "publishedAt": "2026-06-26T13:39:36+00:00",
+      "publishedLabel": "26.06.2026 13:39",
+      "summary": "Mit der Veröffentlichung eines Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach der 16-jährigen Rebeca MIHAI.",
+      "category": "Fahndung"
+    },
     {
       "title": "Geparktes Fahrzeug in Brand geraten – zwei weitere beschädigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685836.php",
@@ -71,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684724.php",
       "publishedAt": "2026-06-23T08:18:00+00:00",
       "publishedLabel": "23.06.2026 08:18",
-      "summary": "Mehrere Verletzte nach Verkehrsunfall",
+      "summary": "Bei einem Verkehrsunfall wurden gestern Nachmittag mehrere Personen in Neukölln verletzt.",
       "category": "Verkehr"
     },
     {
@@ -119,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684525.php",
       "publishedAt": "2026-06-22T13:34:32+00:00",
       "publishedLabel": "22.06.2026 13:34",
-      "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach der dreizehnjährigen Mojda SAFDARI.",
+      "summary": "Dreizehnjährige vermisst – Polizei bittet um Mithilfe",
       "category": "Fahndung"
     },
     {
@@ -135,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684463.php",
       "publishedAt": "2026-06-22T12:52:59+00:00",
       "publishedLabel": "22.06.2026 12:52",
-      "summary": "Zwei bisher Unbekannte überfielen in der vergangenen Nacht eine Tankstelle in Lankwitz.",
+      "summary": "Tankstelle überfallen",
       "category": "Sonstiges"
     },
     {
@@ -143,16 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684224.php",
       "publishedAt": "2026-06-22T08:40:35+00:00",
       "publishedLabel": "22.06.2026 08:40",
-      "summary": "Gestern Abend kam es in Reinickendorf zu einem Verkehrsunfall, bei dem ein Säugling lebensgefährlich verletzt wurde.",
+      "summary": "Sechs Verletzte nach Verkehrsunfall – Säugling in Lebensgefahr",
       "category": "Verkehr"
-    },
-    {
-      "title": "Ermittlungen nach rassistischen und antisemitischen Vorfällen beim Deutschlandspiel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684095.php",
-      "publishedAt": "2026-06-21T15:36:37+00:00",
-      "publishedLabel": "21.06.2026 15:36",
-      "summary": "In Prenzlauer Berg sollen vergangene Nacht mehrere Männer rassistische und antisemitische Äußerungen getätigt haben.",
-      "category": "Ermittlung"
     }
   ]
 }
