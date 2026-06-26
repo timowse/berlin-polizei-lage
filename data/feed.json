@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-26T22:47:17.267426+00:00",
-    "checkedTime": "22:47 Uhr",
+    "checkedAt": "2026-06-26T23:17:56.943517+00:00",
+    "checkedTime": "23:17 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Jugendliche vermisst – Polizei bittet um Mithilfe",
     "latestPublishedAt": "2026-06-26T13:39:36+00:00"
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682951.php",
       "publishedAt": "2026-06-23T14:22:00+00:00",
       "publishedLabel": "23.06.2026 14:22",
-      "summary": "Fußgänger nach Verkehrsunfall im Krankenhaus verstorben",
+      "summary": "Der 35-jährige Fußgänger erlag heute früh seinen Verletzungen, die er bei einem Verkehrsunfall am Dienstag, den 16. Juni 2026 erlitten hatte.",
       "category": "Verkehr"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
       "publishedAt": "2026-06-22T14:38:00+00:00",
       "publishedLabel": "22.06.2026 14:38",
-      "summary": "Tötungsdelikt in Bäckerei – Tatverdächtiger festgenommen",
+      "summary": "Im Zusammenhang mit einem Tötungsdelikt vom 10. Juni 2026 in Wedding wurde am vergangenen Freitagnachmittag ein Mann in der Keithstraße festgenommen.",
       "category": "Fahndung"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684463.php",
       "publishedAt": "2026-06-22T12:52:59+00:00",
       "publishedLabel": "22.06.2026 12:52",
-      "summary": "Zwei bisher Unbekannte überfielen in der vergangenen Nacht eine Tankstelle in Lankwitz.",
+      "summary": "Tankstelle überfallen",
       "category": "Sonstiges"
     },
     {
