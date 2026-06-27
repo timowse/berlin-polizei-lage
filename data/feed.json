@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-27T12:14:36.973573+00:00",
-    "checkedTime": "12:14 Uhr",
+    "checkedAt": "2026-06-27T12:49:19.845657+00:00",
+    "checkedTime": "12:49 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Fußgängerin unter Straßenbahn eingeklemmt",
-    "latestPublishedAt": "2026-06-27T09:20:00+00:00"
+    "latestTitle": "Gegenseitig beleidigt und geschlagen",
+    "latestPublishedAt": "2026-06-27T11:09:00+00:00"
   },
   "items": [
+    {
+      "title": "Gegenseitig beleidigt und geschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686687.php",
+      "publishedAt": "2026-06-27T11:09:00+00:00",
+      "publishedLabel": "27.06.2026 11:09",
+      "summary": "Vergangene Nacht beleidigten und schlugen sich mehrere Personen in Hellersdorf.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Fußgängerin unter Straßenbahn eingeklemmt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686681.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "22.06.2026 13:34",
       "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach der dreizehnjährigen Mojda SAFDARI.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Verkehrsunfall mit Fahrzeug der Berliner Feuerwehr - Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684469.php",
-      "publishedAt": "2026-06-22T12:56:01+00:00",
-      "publishedLabel": "22.06.2026 12:56",
-      "summary": "Nach einem Verkehrsunfall, der sich am 20. Juni 2026 in Wilmersdorf ereignet hat, wendet sich die Polizei Berlin mit einem Zeugenaufruf an die Öffentlichkeit.",
-      "category": "Verkehr"
     }
   ]
 }
