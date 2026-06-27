@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-27T13:24:50.195216+00:00",
-    "checkedTime": "13:24 Uhr",
+    "checkedAt": "2026-06-27T14:08:30.800469+00:00",
+    "checkedTime": "14:08 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Queerfeindlicher Angriff",
-    "latestPublishedAt": "2026-06-27T13:00:11+00:00"
+    "latestTitle": "Angriff auf Passanten endet mit DEIG-Einsatz",
+    "latestPublishedAt": "2026-06-27T13:53:31+00:00"
   },
   "items": [
+    {
+      "title": "Angriff auf Passanten endet mit DEIG-Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686754.php",
+      "publishedAt": "2026-06-27T13:53:31+00:00",
+      "publishedLabel": "27.06.2026 13:53",
+      "summary": "Heute früh soll ein Mann in Charlottenburg Passanten angegriffen und bei seiner Festnahme Widerstand geleistet haben, der mit einem DEIG beendet werden musste.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Queerfeindlicher Angriff",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686688.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "22.06.2026 14:21",
       "summary": "Gestern Nachmittag wurden Einsatzkräfte des Polizeiabschnitts 24 zu einer gegenwärtigen Bedrohung nach Charlottenburg alarmiert.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Sprengstoffexplosion – BAO Ferrum ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684571.php",
-      "publishedAt": "2026-06-22T14:07:00+00:00",
-      "publishedLabel": "22.06.2026 14:07",
-      "summary": "Eine oder mehrere unbekannte Personen führten vergangene Nacht eine Sprengstoffexplosion im Stadtteil Wedding herbei.",
-      "category": "Sonstiges"
     }
   ]
 }
