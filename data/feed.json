@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-27T15:30:58.960198+00:00",
-    "checkedTime": "15:30 Uhr",
+    "checkedAt": "2026-06-27T16:03:02.523264+00:00",
+    "checkedTime": "16:03 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Angriff auf Passanten endet mit DEIG-Einsatz",
     "latestPublishedAt": "2026-06-27T13:53:31+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686688.php",
       "publishedAt": "2026-06-27T13:00:11+00:00",
       "publishedLabel": "27.06.2026 13:00",
-      "summary": "Heute früh griffen zwei bislang noch unbekannte Männer zwei Personen in Kreuzberg an.",
+      "summary": "Queerfeindlicher Angriff",
       "category": "Ermittlung"
     },
     {
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686687.php",
       "publishedAt": "2026-06-27T11:09:00+00:00",
       "publishedLabel": "27.06.2026 11:09",
-      "summary": "Vergangene Nacht beleidigten und schlugen sich mehrere Personen in Hellersdorf.",
+      "summary": "Gegenseitig beleidigt und geschlagen",
       "category": "Sonstiges"
     },
     {
