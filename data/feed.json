@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-28T12:40:49.205923+00:00",
-    "checkedTime": "12:40 Uhr",
+    "checkedAt": "2026-06-28T13:19:21.279539+00:00",
+    "checkedTime": "13:19 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Gefährliche Körperverletzung nach Streit – Mann mit Stichverletzung im Krankenhaus",
-    "latestPublishedAt": "2026-06-28T12:28:00+00:00"
+    "latestTitle": "Versammlungsgeschehen zu einem angezeigten Aufzug anlässlich des 10. Muharram",
+    "latestPublishedAt": "2026-06-28T13:02:00+00:00"
   },
   "items": [
+    {
+      "title": "Versammlungsgeschehen zu einem angezeigten Aufzug anlässlich des 10. Muharram",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686896.php",
+      "publishedAt": "2026-06-28T13:02:00+00:00",
+      "publishedLabel": "28.06.2026 13:02",
+      "summary": "Gestern Nachmittag fand in Mitte eine angezeigte Versammlung mit dem Titel „Aschura-Marsch“ statt.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Gefährliche Körperverletzung nach Streit – Mann mit Stichverletzung im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686891.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-06-23T10:39:00+00:00",
       "publishedLabel": "23.06.2026 10:39",
       "summary": "Die 85-jährige Fußgängerin, die am vergangenen Sonnabend bei einem Unfall in Friedrichsfelde lebensgefährlich verletzt wurde, ist gestern verstorben.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mehrere Verletzte nach Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684724.php",
-      "publishedAt": "2026-06-23T08:18:00+00:00",
-      "publishedLabel": "23.06.2026 08:18",
-      "summary": "Bei einem Verkehrsunfall wurden gestern Nachmittag mehrere Personen in Neukölln verletzt.",
       "category": "Verkehr"
     }
   ]
