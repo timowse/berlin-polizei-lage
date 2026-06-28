@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-28T09:28:37.177247+00:00",
-    "checkedTime": "09:28 Uhr",
+    "checkedAt": "2026-06-28T10:23:49.170789+00:00",
+    "checkedTime": "10:23 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Angriff auf Passanten endet mit DEIG-Einsatz",
-    "latestPublishedAt": "2026-06-27T13:53:31+00:00"
+    "latestTitle": "Streit eskaliert – Mann mit Stichverletzung im Krankenhaus",
+    "latestPublishedAt": "2026-06-28T09:50:00+00:00"
   },
   "items": [
+    {
+      "title": "Streit eskaliert – Mann mit Stichverletzung im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686878.php",
+      "publishedAt": "2026-06-28T09:50:00+00:00",
+      "publishedLabel": "28.06.2026 09:50",
+      "summary": "Gestern Abend wurde die Polizei nach Moabit alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Angriff auf Passanten endet mit DEIG-Einsatz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686754.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "22.06.2026 14:25",
       "summary": "Ein Mann soll in der Nacht auf Sonntag in Charlottenburg Tauben in seinem Wohnhaus erschossen haben.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Nach Auseinandersetzung und Widerstand – DEIG eingesetzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684576.php",
-      "publishedAt": "2026-06-22T14:21:57+00:00",
-      "publishedLabel": "22.06.2026 14:21",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte des Polizeiabschnitts 24 zu einer gegenwärtigen Bedrohung nach Charlottenburg alarmiert.",
-      "category": "Einsatz"
     }
   ]
 }
