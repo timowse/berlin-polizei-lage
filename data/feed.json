@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-28T10:23:49.170789+00:00",
-    "checkedTime": "10:23 Uhr",
+    "checkedAt": "2026-06-28T11:14:08.885509+00:00",
+    "checkedTime": "11:14 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Streit eskaliert – Mann mit Stichverletzung im Krankenhaus",
-    "latestPublishedAt": "2026-06-28T09:50:00+00:00"
+    "latestTitle": "Angeschossener Jugendlicher im Krankenhaus",
+    "latestPublishedAt": "2026-06-28T10:50:00+00:00"
   },
   "items": [
+    {
+      "title": "Angeschossener Jugendlicher im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686885.php",
+      "publishedAt": "2026-06-28T10:50:00+00:00",
+      "publishedLabel": "28.06.2026 10:50",
+      "summary": "Seit gestern Abend haben die 3. Mordkommission des Landeskriminalamts und die StA die Ermittlungen zu einem versuchten Tötungsdelikt in Steglitz übernommen.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Streit eskaliert – Mann mit Stichverletzung im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686878.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "22.06.2026 14:38",
       "summary": "Im Zusammenhang mit einem Tötungsdelikt vom 10. Juni 2026 in Wedding wurde am vergangenen Freitagnachmittag ein Mann in der Keithstraße festgenommen.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Auf Tauben geschossen – mehrere Druckluftwaffen beschlagnahmt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684582.php",
-      "publishedAt": "2026-06-22T14:25:02+00:00",
-      "publishedLabel": "22.06.2026 14:25",
-      "summary": "Ein Mann soll in der Nacht auf Sonntag in Charlottenburg Tauben in seinem Wohnhaus erschossen haben.",
-      "category": "Sonstiges"
     }
   ]
 }
