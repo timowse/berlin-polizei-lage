@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-28T11:57:27.799542+00:00",
-    "checkedTime": "11:57 Uhr",
+    "checkedAt": "2026-06-28T12:40:49.205923+00:00",
+    "checkedTime": "12:40 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verkehrsunfall mit Polizeibeteiligung",
-    "latestPublishedAt": "2026-06-28T11:19:36+00:00"
+    "latestTitle": "Gefährliche Körperverletzung nach Streit – Mann mit Stichverletzung im Krankenhaus",
+    "latestPublishedAt": "2026-06-28T12:28:00+00:00"
   },
   "items": [
+    {
+      "title": "Gefährliche Körperverletzung nach Streit – Mann mit Stichverletzung im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686891.php",
+      "publishedAt": "2026-06-28T12:28:00+00:00",
+      "publishedLabel": "28.06.2026 12:28",
+      "summary": "In der vergangenen Nacht eskalierte ein Streit an einer Unterkunft für Geflüchtete in Alt-Hohenschönhausen.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Verkehrsunfall mit Polizeibeteiligung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686886.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-06-23T08:18:00+00:00",
       "publishedLabel": "23.06.2026 08:18",
       "summary": "Bei einem Verkehrsunfall wurden gestern Nachmittag mehrere Personen in Neukölln verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Kind bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684697.php",
-      "publishedAt": "2026-06-23T06:32:00+00:00",
-      "publishedLabel": "23.06.2026 06:32",
-      "summary": "Gestern Morgen wurde bei einem Verkehrsunfall in Moabit ein Kind verletzt.",
       "category": "Verkehr"
     }
   ]
