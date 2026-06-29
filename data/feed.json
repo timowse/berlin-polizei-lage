@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-29T13:55:59.275604+00:00",
-    "checkedTime": "13:55 Uhr",
+    "checkedAt": "2026-06-29T15:14:23.363538+00:00",
+    "checkedTime": "15:14 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann nach wechselseitiger gefährlicher Körperverletzung notoperiert",
-    "latestPublishedAt": "2026-06-29T13:46:38+00:00"
+    "latestTitle": "Festnahmen nach räuberischer Erpressung und Schussabgabe – BAO Ferrum ermittelt",
+    "latestPublishedAt": "2026-06-29T14:27:09+00:00"
   },
   "items": [
+    {
+      "title": "Festnahmen nach räuberischer Erpressung und Schussabgabe – BAO Ferrum ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687456.php",
+      "publishedAt": "2026-06-29T14:27:09+00:00",
+      "publishedLabel": "29.06.2026 14:27",
+      "summary": "Nach bisherigen Ermittlungen betraten mehrere maskierte Männer gegen 4:15 Uhr ein Bistro an der Kreuzung Tempelhofer Weg/Gottlieb-Dunkel-Straße.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Mann nach wechselseitiger gefährlicher Körperverletzung notoperiert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687431.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "27.06.2026 09:20",
       "summary": "Durch einen Verkehrsunfall ist eine Jugendliche gestern Mittag in Adlershof unter einer Straßenbahn eingeklemmt worden.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Explosion auf Werkstattgelände",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686680.php",
-      "publishedAt": "2026-06-27T09:11:00+00:00",
-      "publishedLabel": "27.06.2026 09:11",
-      "summary": "In der Nach von Donnerstag auf Freitag explodierte ein Gegenstand auf einem Werkstattgelände in Zehlendorf.",
-      "category": "Sonstiges"
     }
   ]
 }
