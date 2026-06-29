@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-29T05:23:42.100754+00:00",
-    "checkedTime": "05:23 Uhr",
+    "checkedAt": "2026-06-29T07:08:40.726460+00:00",
+    "checkedTime": "07:08 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann erleidet Stichverletzung und Augenreizung – mutmaßlicher Täter flüchtet",
-    "latestPublishedAt": "2026-06-28T14:02:42+00:00"
+    "latestTitle": "Vermisste 16-Jährige wieder da",
+    "latestPublishedAt": "2026-06-29T06:38:00+00:00"
   },
   "items": [
+    {
+      "title": "Vermisste 16-Jährige wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686646.php",
+      "publishedAt": "2026-06-29T06:38:00+00:00",
+      "publishedLabel": "29.06.2026 06:38",
+      "summary": "Mit der Veröffentlichung eines Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach einer 16-jährigen Jugendlichen.",
+      "category": "Fahndung"
+    },
     {
       "title": "Mann erleidet Stichverletzung und Augenreizung – mutmaßlicher Täter flüchtet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686898.php",
@@ -105,14 +113,6 @@
       "publishedLabel": "27.06.2026 09:11",
       "summary": "In der Nach von Donnerstag auf Freitag explodierte ein Gegenstand auf einem Werkstattgelände in Zehlendorf.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Jugendliche vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686646.php",
-      "publishedAt": "2026-06-26T13:39:36+00:00",
-      "publishedLabel": "26.06.2026 13:39",
-      "summary": "Mit der Veröffentlichung eines Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach der 16-jährigen Rebeca MIHAI.",
-      "category": "Fahndung"
     },
     {
       "title": "Geparktes Fahrzeug in Brand geraten – zwei weitere beschädigt",
