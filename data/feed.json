@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-29T10:40:07.834843+00:00",
-    "checkedTime": "10:40 Uhr",
+    "checkedAt": "2026-06-29T12:20:19.085699+00:00",
+    "checkedTime": "12:20 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Kind bei Verkehrsunfall verletzt",
-    "latestPublishedAt": "2026-06-29T09:21:21+00:00"
+    "latestTitle": "Busfahrer verletzt und mit Reizstoff besprüht",
+    "latestPublishedAt": "2026-06-29T11:34:43+00:00"
   },
   "items": [
+    {
+      "title": "Busfahrer verletzt und mit Reizstoff besprüht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687228.php",
+      "publishedAt": "2026-06-29T11:34:43+00:00",
+      "publishedLabel": "29.06.2026 11:34",
+      "summary": "In Johannisthal kam es in der vergangenen Nacht zu einer gefährlichen Körperverletzung.",
+      "category": "Verkehr"
+    },
     {
       "title": "Kind bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687106.php",
@@ -127,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685836.php",
       "publishedAt": "2026-06-25T09:35:30+00:00",
       "publishedLabel": "25.06.2026 09:35",
-      "summary": "Geparktes Fahrzeug in Brand geraten – zwei weitere beschädigt",
+      "summary": "In der vergangenen Nacht geriet in Rudow ein geparktes Fahrzeug in Brand.",
       "category": "Verkehr"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "24.06.2026 10:09",
       "summary": "Ein Radfahrer erlitt gestern Abend in Kreuzberg schwere Verletzungen.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Mutmaßlichen Einbrecher festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685314.php",
-      "publishedAt": "2026-06-24T09:29:00+00:00",
-      "publishedLabel": "24.06.2026 09:29",
-      "summary": "Einsatzkräfte nahmen in der vergangenen Nacht einen mutmaßlichen Einbrecher in Buckow fest.",
-      "category": "Einsatz"
     }
   ]
 }
