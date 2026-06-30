@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-30T10:32:44.593574+00:00",
-    "checkedTime": "10:32 Uhr",
+    "checkedAt": "2026-06-30T11:35:42.477993+00:00",
+    "checkedTime": "11:35 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Tätlicher Angriff und Widerstand - mehrere verletzte Einsatzkräfte",
-    "latestPublishedAt": "2026-06-30T09:46:00+00:00"
+    "latestTitle": "Gemeinsame Präventionsaktion im ÖPNV im Juli 2026",
+    "latestPublishedAt": "2026-06-30T11:03:09+00:00"
   },
   "items": [
+    {
+      "title": "Gemeinsame Präventionsaktion im ÖPNV im Juli 2026",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687787.php",
+      "publishedAt": "2026-06-30T11:03:09+00:00",
+      "publishedLabel": "30.06.2026 11:03",
+      "summary": "In den kommenden zwei Wochen informieren die Netzwerkpartner Prävention im Öffentlichen Personennahverkehr zu verschiedenen Themen der Kriminalprävention.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Raub auf einen Supermarkt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687779.php",
+      "publishedAt": "2026-06-30T10:52:28+00:00",
+      "publishedLabel": "30.06.2026 10:52",
+      "summary": "Gestern Abend wurden Einsatzkräfte zu einem Raub nach Marienfelde alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Tätlicher Angriff und Widerstand - mehrere verletzte Einsatzkräfte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687716.php",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-06-28T10:50:00+00:00",
       "publishedLabel": "28.06.2026 10:50",
       "summary": "Seit gestern Abend haben die 3. Mordkommission des Landeskriminalamts und die StA die Ermittlungen zu einem versuchten Tötungsdelikt in Steglitz übernommen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Streit eskaliert – Mann mit Stichverletzung im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686878.php",
-      "publishedAt": "2026-06-28T09:50:00+00:00",
-      "publishedLabel": "28.06.2026 09:50",
-      "summary": "Gestern Abend wurde die Polizei nach Moabit alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Angriff auf Passanten endet mit DEIG-Einsatz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686754.php",
-      "publishedAt": "2026-06-27T13:53:31+00:00",
-      "publishedLabel": "27.06.2026 13:53",
-      "summary": "Heute früh soll ein Mann in Charlottenburg Passanten angegriffen und bei seiner Festnahme Widerstand geleistet haben, der mit einem DEIG beendet werden musste.",
       "category": "Ermittlung"
     }
   ]
