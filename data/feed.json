@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-06-30T09:14:02.999110+00:00",
-    "checkedTime": "09:14 Uhr",
+    "checkedAt": "2026-06-30T10:32:44.593574+00:00",
+    "checkedTime": "10:32 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Neunjährige vermisst – Polizei bittet um Mithilfe",
-    "latestPublishedAt": "2026-06-30T07:45:08+00:00"
+    "latestTitle": "Tätlicher Angriff und Widerstand - mehrere verletzte Einsatzkräfte",
+    "latestPublishedAt": "2026-06-30T09:46:00+00:00"
   },
   "items": [
+    {
+      "title": "Tätlicher Angriff und Widerstand - mehrere verletzte Einsatzkräfte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687716.php",
+      "publishedAt": "2026-06-30T09:46:00+00:00",
+      "publishedLabel": "30.06.2026 09:46",
+      "summary": "Gestern Nachmittag leistete ein Mann in Prenzlauer Berg Widerstand gegen Einsatzkräfte und griff sie tätlich an.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Polizeibeamtin bei Einsatz angegriffen und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687712.php",
+      "publishedAt": "2026-06-30T09:32:00+00:00",
+      "publishedLabel": "30.06.2026 09:32",
+      "summary": "In der vergangenen Nacht wurde eine Polizeibeamtin in Charlottenburg bei einem Einsatz verletzt.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Neunjährige vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687556.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "27.06.2026 13:53",
       "summary": "Heute früh soll ein Mann in Charlottenburg Passanten angegriffen und bei seiner Festnahme Widerstand geleistet haben, der mit einem DEIG beendet werden musste.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Queerfeindlicher Angriff",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686688.php",
-      "publishedAt": "2026-06-27T13:00:11+00:00",
-      "publishedLabel": "27.06.2026 13:00",
-      "summary": "Heute früh griffen zwei bislang noch unbekannte Männer zwei Personen in Kreuzberg an.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Gegenseitig beleidigt und geschlagen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686687.php",
-      "publishedAt": "2026-06-27T11:09:00+00:00",
-      "publishedLabel": "27.06.2026 11:09",
-      "summary": "Vergangene Nacht beleidigten und schlugen sich mehrere Personen in Hellersdorf.",
-      "category": "Sonstiges"
     }
   ]
 }
