@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-01T22:08:20.460332+00:00",
-    "checkedTime": "22:08 Uhr",
+    "checkedAt": "2026-07-01T22:42:34.130344+00:00",
+    "checkedTime": "22:42 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann durch Flaschenwurf verletzt",
     "latestPublishedAt": "2026-07-01T10:22:10+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688246.php",
       "publishedAt": "2026-07-01T10:22:10+00:00",
       "publishedLabel": "01.07.2026 10:22",
-      "summary": "In der vergangenen Nacht erlitt ein junger Mann in Lichtenberg bei einem Flaschenwurf Verletzungen.",
+      "summary": "Mann durch Flaschenwurf verletzt",
       "category": "Ermittlung"
     },
     {
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687996.php",
       "publishedAt": "2026-06-30T14:00:40+00:00",
       "publishedLabel": "30.06.2026 14:00",
-      "summary": "Heute Morgen wurde ein Kind bei einem Verkehrsunfall in Mahlsdorf verletzt.",
+      "summary": "Kind nach Unfall in Krankenhaus",
       "category": "Verkehr"
     },
     {
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687937.php",
       "publishedAt": "2026-06-30T13:08:58+00:00",
       "publishedLabel": "30.06.2026 13:08",
-      "summary": "Zu einem schweren Landfriedensbruch und weiteren Straftaten kam es in der vergangenen Nacht in Friedrichshain.",
+      "summary": "Schwerer Landfriedensbruch nach Fußball-WM-Aus",
       "category": "Sonstiges"
     },
     {
