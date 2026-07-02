@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-02T11:16:47.700371+00:00",
-    "checkedTime": "11:16 Uhr",
+    "checkedAt": "2026-07-02T13:11:47.262405+00:00",
+    "checkedTime": "13:11 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann durch Flaschenwurf verletzt",
-    "latestPublishedAt": "2026-07-01T10:22:10+00:00"
+    "latestTitle": "Raubüberfall auf Bordell",
+    "latestPublishedAt": "2026-07-02T10:54:00+00:00"
   },
   "items": [
+    {
+      "title": "Raubüberfall auf Bordell",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688809.php",
+      "publishedAt": "2026-07-02T10:54:00+00:00",
+      "publishedLabel": "02.07.2026 10:54",
+      "summary": "In der vergangenen Nacht wurde ein Bordellbetrieb in Gesundbrunnen überfallen.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Mann durch Flaschenwurf verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688246.php",
@@ -103,16 +111,16 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687359.php",
       "publishedAt": "2026-06-29T12:51:29+00:00",
       "publishedLabel": "29.06.2026 12:51",
-      "summary": "Polizeieinsatzkräfte nahmen gestern Nachmittag in Kreuzberg einen Mann fest, der eine scharfe Schusswaffe bei sich trug.",
-      "category": "Einsatz"
+      "summary": "Scharfe Schusswaffe beschlagnahmt",
+      "category": "Sonstiges"
     },
     {
       "title": "Sicherheitskooperation (SiKoop) der Länder führt gemeinsame Aktionswoche gegen Straftaten zum Nachteil von älteren Menschen (SÄM) durch",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687326.php",
       "publishedAt": "2026-06-29T12:26:16+00:00",
       "publishedLabel": "29.06.2026 12:26",
-      "summary": "Die fünf Bundesländer Berlin, Sachsen-Anhalt, Sachsen, Thüringen und Brandenburg kooperieren für mehr Sicherheit.",
-      "category": "Ermittlung"
+      "summary": "Sicherheitskooperation (SiKoop) der Länder führt gemeinsame Aktionswoche gegen Straftaten zum Nachteil von älteren Menschen (SÄM) durch",
+      "category": "Sonstiges"
     },
     {
       "title": "Busfahrer verletzt und mit Reizstoff besprüht",
@@ -145,14 +153,6 @@
       "publishedLabel": "28.06.2026 14:02",
       "summary": "Gestern Abend wurde in Prenzlauer Berg ein Mann bei einer Auseinandersetzung verletzt.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Aus Hochzeitskorso heraus mit Waffe bedroht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686897.php",
-      "publishedAt": "2026-06-28T13:27:28+00:00",
-      "publishedLabel": "28.06.2026 13:27",
-      "summary": "Heute früh soll es während eines Hochzeitskorsos in Lichtenberg zu einer Bedrohung mit Waffe gekommen sein.",
-      "category": "Sonstiges"
     }
   ]
 }
