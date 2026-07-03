@@ -3,19 +3,19 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-03T05:27:42.029133+00:00",
-    "checkedTime": "05:27 Uhr",
+    "checkedAt": "2026-07-03T08:36:18.489348+00:00",
+    "checkedTime": "08:36 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Vermisstenfahndung gelöscht",
+    "latestTitle": "Vermisste 18-Jährige tot aufgefunden",
     "latestPublishedAt": "2026-07-02T15:18:00+00:00"
   },
   "items": [
     {
-      "title": "Vermisstenfahndung gelöscht",
+      "title": "Vermisste 18-Jährige tot aufgefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682776.php",
       "publishedAt": "2026-07-02T15:18:00+00:00",
       "publishedLabel": "02.07.2026 15:18",
-      "summary": "Die seit dem 16. Juni 2026 vermisste 18-Jährige gilt nicht mehr als vermisst.",
+      "summary": "Die seit dem 16. Juni 2026 vermisste 18-Jährige wurde vorgestern Abend tot aufgefunden.",
       "category": "Fahndung"
     },
     {
