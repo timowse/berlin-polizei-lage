@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-03T08:36:18.489348+00:00",
-    "checkedTime": "08:36 Uhr",
+    "checkedAt": "2026-07-03T11:15:31.497454+00:00",
+    "checkedTime": "11:15 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Vermisste 18-Jährige tot aufgefunden",
-    "latestPublishedAt": "2026-07-02T15:18:00+00:00"
+    "latestTitle": "Schussabgabe in Spätkauf-Geschäft",
+    "latestPublishedAt": "2026-07-03T09:38:52+00:00"
   },
   "items": [
+    {
+      "title": "Schussabgabe in Spätkauf-Geschäft",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689286.php",
+      "publishedAt": "2026-07-03T09:38:52+00:00",
+      "publishedLabel": "03.07.2026 09:38",
+      "summary": "Ein Unbekannter hat in der vergangenen Nacht einen Mitarbeiter eines Spätkauf-Geschäfts in Charlottenburg mit einer Waffe bedroht.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Vermisste 18-Jährige tot aufgefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682776.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-06-29T11:34:43+00:00",
       "publishedLabel": "29.06.2026 11:34",
       "summary": "In Johannisthal kam es in der vergangenen Nacht zu einer gefährlichen Körperverletzung.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Kind bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687106.php",
-      "publishedAt": "2026-06-29T09:21:21+00:00",
-      "publishedLabel": "29.06.2026 09:21",
-      "summary": "Bei einem Verkehrsunfall in Haselhorst wurde gestern Nachmittag ein Kind verletzt.",
       "category": "Verkehr"
     }
   ]
