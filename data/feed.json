@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-03T13:16:00.203979+00:00",
-    "checkedTime": "13:16 Uhr",
+    "checkedAt": "2026-07-03T15:29:37.101235+00:00",
+    "checkedTime": "15:29 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Versuchte gefährliche Körperverletzung nach Verkehrsunfall",
-    "latestPublishedAt": "2026-07-03T11:46:32+00:00"
+    "latestTitle": "Mutmaßlich mit Messer verletzt",
+    "latestPublishedAt": "2026-07-03T15:13:44+00:00"
   },
   "items": [
+    {
+      "title": "Mutmaßlich mit Messer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689578.php",
+      "publishedAt": "2026-07-03T15:13:44+00:00",
+      "publishedLabel": "03.07.2026 15:13",
+      "summary": "Gestern Abend soll es in Mariendorf zu einem Angriff mit einer Machete gekommen sein.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Frau bei Wohnungsbrand verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689514.php",
+      "publishedAt": "2026-07-03T13:24:42+00:00",
+      "publishedLabel": "03.07.2026 13:24",
+      "summary": "Gestern Abend ist eine Frau bei einem Wohnungsbrand in Lichterfelde verstorben.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Polizei warnt vor falschen Pflegedienstmitarbeitenden",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689511.php",
+      "publishedAt": "2026-07-03T13:18:55+00:00",
+      "publishedLabel": "03.07.2026 13:18",
+      "summary": "Aktuell stellt die Polizei Berlin im gesamten Stadtgebiet eine auffällig hohe Zahl von Trickdiebstahlstaten durch vermeintliche Pflegedienstmitarbeitende fest.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Versuchte gefährliche Körperverletzung nach Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689414.php",
@@ -129,30 +153,6 @@
       "publishedLabel": "30.06.2026 07:45",
       "summary": "Die Vermisstenstelle der Polizei Berlin bittet um Mithilfe bei der Suche nach Mia RAKIĆ.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Festnahmen nach räuberischer Erpressung und Schussabgabe – BAO Ferrum ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687456.php",
-      "publishedAt": "2026-06-29T14:27:09+00:00",
-      "publishedLabel": "29.06.2026 14:27",
-      "summary": "Nach bisherigen Ermittlungen betraten mehrere maskierte Männer gegen 4:15 Uhr ein Bistro an der Kreuzung Tempelhofer Weg/Gottlieb-Dunkel-Straße.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann nach wechselseitiger gefährlicher Körperverletzung notoperiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687431.php",
-      "publishedAt": "2026-06-29T13:46:38+00:00",
-      "publishedLabel": "29.06.2026 13:46",
-      "summary": "Gestern Abend wurde die Polizei zu einer Schlägerei in Kreuzberg alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Scharfe Schusswaffe beschlagnahmt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687359.php",
-      "publishedAt": "2026-06-29T12:51:29+00:00",
-      "publishedLabel": "29.06.2026 12:51",
-      "summary": "Polizeieinsatzkräfte nahmen gestern Nachmittag in Kreuzberg einen Mann fest, der eine scharfe Schusswaffe bei sich trug.",
-      "category": "Einsatz"
     }
   ]
 }
