@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-03T11:15:31.497454+00:00",
-    "checkedTime": "11:15 Uhr",
+    "checkedAt": "2026-07-03T13:16:00.203979+00:00",
+    "checkedTime": "13:16 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Schussabgabe in Spätkauf-Geschäft",
-    "latestPublishedAt": "2026-07-03T09:38:52+00:00"
+    "latestTitle": "Versuchte gefährliche Körperverletzung nach Verkehrsunfall",
+    "latestPublishedAt": "2026-07-03T11:46:32+00:00"
   },
   "items": [
+    {
+      "title": "Versuchte gefährliche Körperverletzung nach Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689414.php",
+      "publishedAt": "2026-07-03T11:46:32+00:00",
+      "publishedLabel": "03.07.2026 11:46",
+      "summary": "Gestern Abend wurde die Polizei zu einem Verkehrsunfall in Lichtenberg alarmiert.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Durchsuchungen und Festnahme wegen Raubtat am S-Bahnhof Karlshorst",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689392.php",
+      "publishedAt": "2026-07-03T11:22:00+00:00",
+      "publishedLabel": "03.07.2026 11:22",
+      "summary": "Gestern Morgen vollstreckten rund 60 Einsatzkräfte der Polizei Berlin...",
+      "category": "Verkehr"
+    },
     {
       "title": "Schussabgabe in Spätkauf-Geschäft",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689286.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "29.06.2026 12:51",
       "summary": "Polizeieinsatzkräfte nahmen gestern Nachmittag in Kreuzberg einen Mann fest, der eine scharfe Schusswaffe bei sich trug.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Sicherheitskooperation (SiKoop) der Länder führt gemeinsame Aktionswoche gegen Straftaten zum Nachteil von älteren Menschen (SÄM) durch",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687326.php",
-      "publishedAt": "2026-06-29T12:26:16+00:00",
-      "publishedLabel": "29.06.2026 12:26",
-      "summary": "Die fünf Bundesländer Berlin, Sachsen-Anhalt, Sachsen, Thüringen und Brandenburg kooperieren für mehr Sicherheit.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Busfahrer verletzt und mit Reizstoff besprüht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687228.php",
-      "publishedAt": "2026-06-29T11:34:43+00:00",
-      "publishedLabel": "29.06.2026 11:34",
-      "summary": "In Johannisthal kam es in der vergangenen Nacht zu einer gefährlichen Körperverletzung.",
-      "category": "Verkehr"
     }
   ]
 }
