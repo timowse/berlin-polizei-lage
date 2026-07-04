@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-04T14:19:49.203396+00:00",
-    "checkedTime": "14:19 Uhr",
+    "checkedAt": "2026-07-04T15:37:05.297887+00:00",
+    "checkedTime": "15:37 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Scharfe Schusswaffe aus dem Verkehr gezogen",
-    "latestPublishedAt": "2026-07-04T14:02:27+00:00"
+    "latestTitle": "Frau bei Auseinandersetzung mit Messer verletzt",
+    "latestPublishedAt": "2026-07-04T15:00:16+00:00"
   },
   "items": [
+    {
+      "title": "Frau bei Auseinandersetzung mit Messer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689596.php",
+      "publishedAt": "2026-07-04T15:00:16+00:00",
+      "publishedLabel": "04.07.2026 15:00",
+      "summary": "Bei einer Auseinandersetzung in Moabit ist heute Vormittag eine Frau verletzt worden.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Scharfe Schusswaffe aus dem Verkehr gezogen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689592.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "30.06.2026 13:08",
       "summary": "Zu einem schweren Landfriedensbruch und weiteren Straftaten kam es in der vergangenen Nacht in Friedrichshain.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Explosion auf Betriebsgelände – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686680.php",
-      "publishedAt": "2026-06-30T12:32:00+00:00",
-      "publishedLabel": "30.06.2026 12:32",
-      "summary": "Am 26. Juni 2026 kam es auf dem Gelände eines Autohändlers am Kleinmachnower Weg 1 in Zehlendorf zu einer Explosion, die einen hohen Sachschaden verursachte.",
-      "category": "Verkehr"
     }
   ]
 }
