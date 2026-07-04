@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-04T09:55:50.193097+00:00",
-    "checkedTime": "09:55 Uhr",
+    "checkedAt": "2026-07-04T11:35:13.072867+00:00",
+    "checkedTime": "11:35 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mutmaßlich mit Messer verletzt",
-    "latestPublishedAt": "2026-07-03T15:13:44+00:00"
+    "latestTitle": "Mit Reizgas in Straßenbahn gesprüht",
+    "latestPublishedAt": "2026-07-04T10:41:02+00:00"
   },
   "items": [
+    {
+      "title": "Mit Reizgas in Straßenbahn gesprüht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689590.php",
+      "publishedAt": "2026-07-04T10:41:02+00:00",
+      "publishedLabel": "04.07.2026 10:41",
+      "summary": "In der vergangenen Nacht erlitten mehrere Mitfahrende einer Tram in Oberschöneweide Verletzungen, nachdem ein Mann Reizgas versprüht hatte.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Radfahrer bei Verkehrsunfall lebensgefährlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689589.php",
+      "publishedAt": "2026-07-04T10:34:44+00:00",
+      "publishedLabel": "04.07.2026 10:34",
+      "summary": "Bei einem Verkehrsunfall gestern Morgen in Adlershof erlitt ein Radfahrer lebensgefährliche Verletzungen.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mutmaßlich mit Messer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689578.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "30.06.2026 09:46",
       "summary": "Gestern Nachmittag leistete ein Mann in Prenzlauer Berg Widerstand gegen Einsatzkräfte und griff sie tätlich an.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Polizeibeamtin bei Einsatz angegriffen und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687712.php",
-      "publishedAt": "2026-06-30T09:32:00+00:00",
-      "publishedLabel": "30.06.2026 09:32",
-      "summary": "In der vergangenen Nacht wurde eine Polizeibeamtin in Charlottenburg bei einem Einsatz verletzt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Neunjährige vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687556.php",
-      "publishedAt": "2026-06-30T07:45:08+00:00",
-      "publishedLabel": "30.06.2026 07:45",
-      "summary": "Die Vermisstenstelle der Polizei Berlin bittet um Mithilfe bei der Suche nach Mia RAKIĆ.",
-      "category": "Fahndung"
     }
   ]
 }
