@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-04T12:47:31.588236+00:00",
-    "checkedTime": "12:47 Uhr",
+    "checkedAt": "2026-07-04T14:19:49.203396+00:00",
+    "checkedTime": "14:19 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mit Reizgas in Straßenbahn gesprüht",
-    "latestPublishedAt": "2026-07-04T10:41:02+00:00"
+    "latestTitle": "Scharfe Schusswaffe aus dem Verkehr gezogen",
+    "latestPublishedAt": "2026-07-04T14:02:27+00:00"
   },
   "items": [
+    {
+      "title": "Scharfe Schusswaffe aus dem Verkehr gezogen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689592.php",
+      "publishedAt": "2026-07-04T14:02:27+00:00",
+      "publishedLabel": "04.07.2026 14:02",
+      "summary": "Nr. 0804 Polizeieinsatzkräfte stellten gestern Nachmittag in Neukölln eine scharfe Schusswaffe mit Munition sicher. Nach derzeitigem Kenntnisstand beobachteten die Einsatzkräfte gegen 13:40 Uhr im Anita-Berber-Park, wie zwei Männer zwei Frauen etwas übergaben. Wegen des Verdachts des Betäubungsmittelhandels wurden daraufhin alle Personen überprüft. Bei den beiden Frauen im Alter von 38 und 59 Jahren wurden keine Betäubungsmittel aufgefunden. Bei den beiden Männern, 26 und 35 Jahre alt, wurden zwei Mobiltelefone, eine zweistellige Summe Bargeld sowie verschreibungspflichtige Medikamente aufgefunden und beschlagnahmt. In der Nähe der mutmaßlichen Betäubungsmittelübergabe fanden die Polizeieinsatzkräfte bei der Absuche unter einem Baumstamm eine scharfe Schusswaffe mit eingelegtem Magazin sowie dazugehörige Munition. Einige Meter weiter wurde ein kleines Tütchen mit mutmaßlich Amphetamin aufgefunden und alles sichergestellt. Beide Männer kamen für erkennungsdienstliche Maßnahmen in einen Polizeigewahrsam und anschließend wieder auf freien Fuß. Die weiteren Ermittlungen dauern an.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Dreizehnjährige wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684525.php",
+      "publishedAt": "2026-07-04T14:01:00+00:00",
+      "publishedLabel": "04.07.2026 14:01",
+      "summary": "Die seit dem 23. April 2026 vermisste Dreizehnjährige ist in Duisburg wohlbehalten angetroffen worden.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Schüsse auf Firmengebäude und geparktes Fahrzeug",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689591.php",
+      "publishedAt": "2026-07-04T13:19:55+00:00",
+      "publishedLabel": "04.07.2026 13:19",
+      "summary": "Heute Mittag wurden im Ortsteil Wilmersdorf mehrere Einschusslöcher an einem Gebäude einer Firma und einem davor geparkten Firmenfahrzeug festgestellt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mit Reizgas in Straßenbahn gesprüht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689590.php",
@@ -129,30 +153,6 @@
       "publishedLabel": "30.06.2026 12:32",
       "summary": "Am 26. Juni 2026 kam es auf dem Gelände eines Autohändlers am Kleinmachnower Weg 1 in Zehlendorf zu einer Explosion, die einen hohen Sachschaden verursachte.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Gemeinsame Präventionsaktion im ÖPNV im Juli 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687787.php",
-      "publishedAt": "2026-06-30T11:03:09+00:00",
-      "publishedLabel": "30.06.2026 11:03",
-      "summary": "In den kommenden zwei Wochen informieren die Netzwerkpartner Prävention im Öffentlichen Personennahverkehr zu verschiedenen Themen der Kriminalprävention.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Raub auf einen Supermarkt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687779.php",
-      "publishedAt": "2026-06-30T10:52:28+00:00",
-      "publishedLabel": "30.06.2026 10:52",
-      "summary": "Gestern Abend wurden Einsatzkräfte zu einem Raub nach Marienfelde alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Tätlicher Angriff und Widerstand - mehrere verletzte Einsatzkräfte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687716.php",
-      "publishedAt": "2026-06-30T09:46:00+00:00",
-      "publishedLabel": "30.06.2026 09:46",
-      "summary": "Gestern Nachmittag leistete ein Mann in Prenzlauer Berg Widerstand gegen Einsatzkräfte und griff sie tätlich an.",
-      "category": "Ermittlung"
     }
   ]
 }
