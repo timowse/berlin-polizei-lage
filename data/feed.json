@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-05T12:04:09.398495+00:00",
-    "checkedTime": "12:04 Uhr",
+    "checkedAt": "2026-07-05T14:04:58.453988+00:00",
+    "checkedTime": "14:04 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Auseinandersetzung zweier Personengruppen",
-    "latestPublishedAt": "2026-07-05T09:08:01+00:00"
+    "latestTitle": "Zigarettenautomat gesprengt",
+    "latestPublishedAt": "2026-07-05T13:21:07+00:00"
   },
   "items": [
+    {
+      "title": "Zigarettenautomat gesprengt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689621.php",
+      "publishedAt": "2026-07-05T13:21:07+00:00",
+      "publishedLabel": "05.07.2026 13:21",
+      "summary": "In der vergangenen Nacht haben Unbekannte einen Zigarettenautomaten im Hansaviertel gesprengt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Bewaffneter Überfall auf Schnellrestaurant",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689620.php",
+      "publishedAt": "2026-07-05T13:18:17+00:00",
+      "publishedLabel": "05.07.2026 13:18",
+      "summary": "In der vergangenen Nacht kam es zu einem bewaffneten Überfall auf ein Schnellrestaurant in Heinersdorf.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Widerstand gegen Vollstreckungsbeamte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689618.php",
+      "publishedAt": "2026-07-05T12:17:42+00:00",
+      "publishedLabel": "05.07.2026 12:17",
+      "summary": "In der vergangenen Nacht kam es in Neukölln zu einem Angriff auf Polizeikräfte.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Auseinandersetzung zweier Personengruppen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689603.php",
@@ -129,30 +153,6 @@
       "publishedLabel": "02.07.2026 15:18",
       "summary": "Die seit dem 16. Juni 2026 vermisste 18-Jährige wurde vorgestern Abend tot aufgefunden.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Festnahmen nach räuberischer Erpressung von Jugendlichen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688937.php",
-      "publishedAt": "2026-07-02T13:13:33+00:00",
-      "publishedLabel": "02.07.2026 13:13",
-      "summary": "Polizeikräfte des Abschnitts 56 und 57 nahmen in der vergangenen Nacht in Mitte einen Mann und einen Jugendlichen vorläufig fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Raubüberfall auf Bordell",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688809.php",
-      "publishedAt": "2026-07-02T10:54:00+00:00",
-      "publishedLabel": "02.07.2026 10:54",
-      "summary": "In der vergangenen Nacht wurde ein Bordellbetrieb in Gesundbrunnen überfallen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann durch Flaschenwurf verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688246.php",
-      "publishedAt": "2026-07-01T10:22:10+00:00",
-      "publishedLabel": "01.07.2026 10:22",
-      "summary": "In der vergangenen Nacht erlitt ein junger Mann in Lichtenberg bei einem Flaschenwurf Verletzungen.",
-      "category": "Ermittlung"
     }
   ]
 }
