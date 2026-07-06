@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-06T10:59:46.284226+00:00",
-    "checkedTime": "10:59 Uhr",
+    "checkedAt": "2026-07-06T14:32:58.614285+00:00",
+    "checkedTime": "14:32 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Raubüberfall auf Grillimbiss – Polizei bittet um Mithilfe",
-    "latestPublishedAt": "2026-07-06T10:22:00+00:00"
+    "latestTitle": "Mehrere Fahrzeuge in Flammen",
+    "latestPublishedAt": "2026-07-06T14:18:56+00:00"
   },
   "items": [
+    {
+      "title": "Mehrere Fahrzeuge in Flammen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690252.php",
+      "publishedAt": "2026-07-06T14:18:56+00:00",
+      "publishedLabel": "06.07.2026 14:18",
+      "summary": "In der vergangenen Nacht gerieten mehrere Fahrzeuge in Wilhelmstadt in Brand.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Autofahrer fährt mit Fahrzeug mehrfach gegen Tunnelwand und flüchtet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690002.php",
+      "publishedAt": "2026-07-06T11:48:27+00:00",
+      "publishedLabel": "06.07.2026 11:48",
+      "summary": "Gestern früh kam es in Tegel zu einem Verkehrsunfall mit anschließender Unfallflucht.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Tötungsdelikt in Krankenhaus – Mordkommission ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689936.php",
+      "publishedAt": "2026-07-06T11:09:46+00:00",
+      "publishedLabel": "06.07.2026 11:09",
+      "summary": "Gestern Abend kam es in Buckow zu einer tödlichen Auseinandersetzung.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Raubüberfall auf Grillimbiss – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689480.php",
@@ -129,30 +153,6 @@
       "publishedLabel": "03.07.2026 13:24",
       "summary": "Gestern Abend ist eine Frau bei einem Wohnungsbrand in Lichterfelde verstorben.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Polizei warnt vor falschen Pflegedienstmitarbeitenden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689511.php",
-      "publishedAt": "2026-07-03T13:18:55+00:00",
-      "publishedLabel": "03.07.2026 13:18",
-      "summary": "Aktuell stellt die Polizei Berlin im gesamten Stadtgebiet eine auffällig hohe Zahl von Trickdiebstahlstaten durch vermeintliche Pflegedienstmitarbeitende fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Versuchte gefährliche Körperverletzung nach Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689414.php",
-      "publishedAt": "2026-07-03T11:46:32+00:00",
-      "publishedLabel": "03.07.2026 11:46",
-      "summary": "Gestern Abend wurde die Polizei zu einem Verkehrsunfall in Lichtenberg alarmiert.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Durchsuchungen und Festnahme wegen Raubtat am S-Bahnhof Karlshorst",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689392.php",
-      "publishedAt": "2026-07-03T11:22:00+00:00",
-      "publishedLabel": "03.07.2026 11:22",
-      "summary": "Gestern Morgen vollstreckten rund 60 Einsatzkräfte der Polizei Berlin...",
-      "category": "Verkehr"
     }
   ]
 }
