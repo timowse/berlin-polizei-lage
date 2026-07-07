@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-07T01:27:22.013113+00:00",
-    "checkedTime": "01:27 Uhr",
+    "checkedAt": "2026-07-07T08:56:34.650244+00:00",
+    "checkedTime": "08:56 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mehrere Fahrzeuge in Flammen",
-    "latestPublishedAt": "2026-07-06T14:18:56+00:00"
+    "latestTitle": "Fahrradfahrer nach Unfall verletzt",
+    "latestPublishedAt": "2026-07-07T08:37:00+00:00"
   },
   "items": [
+    {
+      "title": "Fahrradfahrer nach Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690501.php",
+      "publishedAt": "2026-07-07T08:37:00+00:00",
+      "publishedLabel": "07.07.2026 08:37",
+      "summary": "Gestern Mittag kam es in Hakenfelde zu einem Verkehrsunfall, bei dem ein Fahrradfahrer verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Raub auf ein Pfandleihhaus – Tatverdächtige flüchten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690458.php",
+      "publishedAt": "2026-07-07T07:42:00+00:00",
+      "publishedLabel": "07.07.2026 07:42",
+      "summary": "Gestern Abend wurden Einsatzkräfte zu einem Raub auf ein Pfandleihhaus in Kreuzberg alarmiert.",
+      "category": "Fahndung"
+    },
     {
       "title": "Mehrere Fahrzeuge in Flammen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690252.php",
@@ -71,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689618.php",
       "publishedAt": "2026-07-05T12:17:42+00:00",
       "publishedLabel": "05.07.2026 12:17",
-      "summary": "In der vergangenen Nacht kam es in Neukölln zu einem Angriff auf Polizeikräfte.",
-      "category": "Ermittlung"
+      "summary": "Widerstand gegen Vollstreckungsbeamte",
+      "category": "Einsatz"
     },
     {
       "title": "Auseinandersetzung zweier Personengruppen",
@@ -137,22 +153,6 @@
       "publishedLabel": "04.07.2026 10:34",
       "summary": "Bei einem Verkehrsunfall gestern Morgen in Adlershof erlitt ein Radfahrer lebensgefährliche Verletzungen.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Mutmaßlich mit Messer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689578.php",
-      "publishedAt": "2026-07-03T15:13:44+00:00",
-      "publishedLabel": "03.07.2026 15:13",
-      "summary": "Gestern Abend soll es in Mariendorf zu einem Angriff mit einer Machete gekommen sein.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Frau bei Wohnungsbrand verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689514.php",
-      "publishedAt": "2026-07-03T13:24:42+00:00",
-      "publishedLabel": "03.07.2026 13:24",
-      "summary": "Gestern Abend ist eine Frau bei einem Wohnungsbrand in Lichterfelde verstorben.",
-      "category": "Ermittlung"
     }
   ]
 }
