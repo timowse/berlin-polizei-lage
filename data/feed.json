@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-07T11:56:40.653832+00:00",
-    "checkedTime": "11:56 Uhr",
+    "checkedAt": "2026-07-07T14:50:45.808463+00:00",
+    "checkedTime": "14:50 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann bei Streit mit Messer verletzt – Tatverdächtige festgenommen",
-    "latestPublishedAt": "2026-07-07T11:49:10+00:00"
+    "latestTitle": "Schleuser sollen Sprachzertifikate gefälscht haben – Durchsuchungsbeschlüsse vollstreckt",
+    "latestPublishedAt": "2026-07-07T13:58:08+00:00"
   },
   "items": [
+    {
+      "title": "Schleuser sollen Sprachzertifikate gefälscht haben – Durchsuchungsbeschlüsse vollstreckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690853.php",
+      "publishedAt": "2026-07-07T13:58:08+00:00",
+      "publishedLabel": "07.07.2026 13:58",
+      "summary": "Im Auftrag der Staatsanwaltschaft Berlin vollstreckten Einsatzkräfte des Landeskriminalamtes Durchsuchungsbeschlüsse.",
+      "category": "Einsatz"
+    },
     {
       "title": "Mann bei Streit mit Messer verletzt – Tatverdächtige festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690695.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "04.07.2026 14:02",
       "summary": "Nr. 0804 Polizeieinsatzkräfte stellten gestern Nachmittag in Neukölln eine scharfe Schusswaffe mit Munition sicher. Nach derzeitigem Kenntnisstand beobachteten die Einsatzkräfte gegen 13:40 Uhr im Anita-Berber-Park, wie zwei Männer zwei Frauen etwas übergaben. Wegen des Verdachts des Betäubungsmittelhandels wurden daraufhin alle Personen überprüft. Bei den beiden Frauen im Alter von 38 und 59 Jahren wurden keine Betäubungsmittel aufgefunden. Bei den beiden Männern, 26 und 35 Jahre alt, wurden zwei Mobiltelefone, eine zweistellige Summe Bargeld sowie verschreibungspflichtige Medikamente aufgefunden und beschlagnahmt. In der Nähe der mutmaßlichen Betäubungsmittelübergabe fanden die Polizeieinsatzkräfte bei der Absuche unter einem Baumstamm eine scharfe Schusswaffe mit eingelegtem Magazin sowie dazugehörige Munition. Einige Meter weiter wurde ein kleines Tütchen mit mutmaßlich Amphetamin aufgefunden und alles sichergestellt. Beide Männer kamen für erkennungsdienstliche Maßnahmen in einen Polizeigewahrsam und anschließend wieder auf freien Fuß. Die weiteren Ermittlungen dauern an.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Dreizehnjährige wieder da",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684525.php",
-      "publishedAt": "2026-07-04T14:01:00+00:00",
-      "publishedLabel": "04.07.2026 14:01",
-      "summary": "Die seit dem 23. April 2026 vermisste Dreizehnjährige ist in Duisburg wohlbehalten angetroffen worden.",
-      "category": "Fahndung"
     }
   ]
 }
