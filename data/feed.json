@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-07T08:56:34.650244+00:00",
-    "checkedTime": "08:56 Uhr",
+    "checkedAt": "2026-07-07T11:56:40.653832+00:00",
+    "checkedTime": "11:56 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Fahrradfahrer nach Unfall verletzt",
-    "latestPublishedAt": "2026-07-07T08:37:00+00:00"
+    "latestTitle": "Mann bei Streit mit Messer verletzt – Tatverdächtige festgenommen",
+    "latestPublishedAt": "2026-07-07T11:49:10+00:00"
   },
   "items": [
+    {
+      "title": "Mann bei Streit mit Messer verletzt – Tatverdächtige festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690695.php",
+      "publishedAt": "2026-07-07T11:49:10+00:00",
+      "publishedLabel": "07.07.2026 11:49",
+      "summary": "Bei einem Streit in Friedrichshain ist gestern Abend ein Mann mit einem Messer verletzt worden.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Unter Drogeneinfluss vor Polizei geflüchtet und Verkehrsunfall verursacht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690627.php",
+      "publishedAt": "2026-07-07T10:53:00+00:00",
+      "publishedLabel": "07.07.2026 10:53",
+      "summary": "Gestern Morgen flüchtete ein Motorrollerfahrer in Schöneberg vor einer Polizeikontrolle und gefährdete dabei zahlreiche Verkehrsteilnehmende.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mann bei Raubüberfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690618.php",
+      "publishedAt": "2026-07-07T10:44:49+00:00",
+      "publishedLabel": "07.07.2026 10:44",
+      "summary": "In der vergangenen Nacht wurde ein Mann in Mitte bei einem Raubüberfall verletzt.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Fahrradfahrer nach Unfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690501.php",
@@ -87,8 +111,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689618.php",
       "publishedAt": "2026-07-05T12:17:42+00:00",
       "publishedLabel": "05.07.2026 12:17",
-      "summary": "Widerstand gegen Vollstreckungsbeamte",
-      "category": "Einsatz"
+      "summary": "In der vergangenen Nacht kam es in Neukölln zu einem Angriff auf Polizeikräfte.",
+      "category": "Ermittlung"
     },
     {
       "title": "Auseinandersetzung zweier Personengruppen",
@@ -129,30 +153,6 @@
       "publishedLabel": "04.07.2026 14:01",
       "summary": "Die seit dem 23. April 2026 vermisste Dreizehnjährige ist in Duisburg wohlbehalten angetroffen worden.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Schüsse auf Firmengebäude und geparktes Fahrzeug",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689591.php",
-      "publishedAt": "2026-07-04T13:19:55+00:00",
-      "publishedLabel": "04.07.2026 13:19",
-      "summary": "Heute Mittag wurden im Ortsteil Wilmersdorf mehrere Einschusslöcher an einem Gebäude einer Firma und einem davor geparkten Firmenfahrzeug festgestellt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mit Reizgas in Straßenbahn gesprüht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689590.php",
-      "publishedAt": "2026-07-04T10:41:02+00:00",
-      "publishedLabel": "04.07.2026 10:41",
-      "summary": "In der vergangenen Nacht erlitten mehrere Mitfahrende einer Tram in Oberschöneweide Verletzungen, nachdem ein Mann Reizgas versprüht hatte.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Radfahrer bei Verkehrsunfall lebensgefährlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689589.php",
-      "publishedAt": "2026-07-04T10:34:44+00:00",
-      "publishedLabel": "04.07.2026 10:34",
-      "summary": "Bei einem Verkehrsunfall gestern Morgen in Adlershof erlitt ein Radfahrer lebensgefährliche Verletzungen.",
-      "category": "Verkehr"
     }
   ]
 }
