@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-08T09:34:03.964743+00:00",
-    "checkedTime": "09:34 Uhr",
+    "checkedAt": "2026-07-08T11:27:42.252952+00:00",
+    "checkedTime": "11:27 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Schleuser sollen Sprachzertifikate gefälscht haben – Durchsuchungsbeschlüsse vollstreckt",
-    "latestPublishedAt": "2026-07-07T13:58:08+00:00"
+    "latestTitle": "Haftbefehl wegen Verstößen gegen das Waffengesetz vollstreckt",
+    "latestPublishedAt": "2026-07-08T10:37:00+00:00"
   },
   "items": [
+    {
+      "title": "Haftbefehl wegen Verstößen gegen das Waffengesetz vollstreckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691180.php",
+      "publishedAt": "2026-07-08T10:37:00+00:00",
+      "publishedLabel": "08.07.2026 10:37",
+      "summary": "Ein 35-Jähriger, der gestern wegen eines ihm zur Last gelegten Verstoßes im Amtsgericht Tiergarten erschien, wurde nach der Verhandlung festgenommen.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "20-Jähriger nach Raubserie in Berlin festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691178.php",
+      "publishedAt": "2026-07-08T09:42:00+00:00",
+      "publishedLabel": "08.07.2026 09:42",
+      "summary": "Ein 20-Jähriger, der gezielt Männer in Berlin zu Dates gelockt und sie dann ausgeraubt haben soll, wurde gestern festgenommen.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Schleuser sollen Sprachzertifikate gefälscht haben – Durchsuchungsbeschlüsse vollstreckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690853.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "04.07.2026 16:10",
       "summary": "In der vergangenen Nacht wurde ein Polizeibeamter bei einer Festnahme in Schmargendorf verletzt.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Frau bei Auseinandersetzung mit Messer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689596.php",
-      "publishedAt": "2026-07-04T15:00:16+00:00",
-      "publishedLabel": "04.07.2026 15:00",
-      "summary": "Bei einer Auseinandersetzung in Moabit ist heute Vormittag eine Frau verletzt worden.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Scharfe Schusswaffe aus dem Verkehr gezogen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689592.php",
-      "publishedAt": "2026-07-04T14:02:27+00:00",
-      "publishedLabel": "04.07.2026 14:02",
-      "summary": "Nr. 0804 Polizeieinsatzkräfte stellten gestern Nachmittag in Neukölln eine scharfe Schusswaffe mit Munition sicher. Nach derzeitigem Kenntnisstand beobachteten die Einsatzkräfte gegen 13:40 Uhr im Anita-Berber-Park, wie zwei Männer zwei Frauen etwas übergaben. Wegen des Verdachts des Betäubungsmittelhandels wurden daraufhin alle Personen überprüft. Bei den beiden Frauen im Alter von 38 und 59 Jahren wurden keine Betäubungsmittel aufgefunden. Bei den beiden Männern, 26 und 35 Jahre alt, wurden zwei Mobiltelefone, eine zweistellige Summe Bargeld sowie verschreibungspflichtige Medikamente aufgefunden und beschlagnahmt. In der Nähe der mutmaßlichen Betäubungsmittelübergabe fanden die Polizeieinsatzkräfte bei der Absuche unter einem Baumstamm eine scharfe Schusswaffe mit eingelegtem Magazin sowie dazugehörige Munition. Einige Meter weiter wurde ein kleines Tütchen mit mutmaßlich Amphetamin aufgefunden und alles sichergestellt. Beide Männer kamen für erkennungsdienstliche Maßnahmen in einen Polizeigewahrsam und anschließend wieder auf freien Fuß. Die weiteren Ermittlungen dauern an.",
-      "category": "Verkehr"
     }
   ]
 }
