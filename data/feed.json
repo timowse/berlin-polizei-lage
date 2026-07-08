@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-08T13:09:55.550383+00:00",
-    "checkedTime": "13:09 Uhr",
+    "checkedAt": "2026-07-08T15:34:21.071691+00:00",
+    "checkedTime": "15:34 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Haftbefehl wegen Verstößen gegen das Waffengesetz vollstreckt",
-    "latestPublishedAt": "2026-07-08T10:37:00+00:00"
+    "latestTitle": "Festnahme nach versuchtem Geschäftseinbruch – Haftbefehl vollstreckt",
+    "latestPublishedAt": "2026-07-08T15:16:26+00:00"
   },
   "items": [
+    {
+      "title": "Festnahme nach versuchtem Geschäftseinbruch – Haftbefehl vollstreckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691414.php",
+      "publishedAt": "2026-07-08T15:16:26+00:00",
+      "publishedLabel": "08.07.2026 15:16",
+      "summary": "In der vergangenen Nacht nahm die Polizei einen jungen Mann nach versuchtem Geschäftseinbruch in Staaken fest.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Verkehrsunfall auf Einsatzfahrt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691411.php",
+      "publishedAt": "2026-07-08T15:04:02+00:00",
+      "publishedLabel": "08.07.2026 15:04",
+      "summary": "Gestern Abend stießen ein Funkstreifenwagen und ein Auto auf einer Kreuzung in Mitte zusammen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Unter dem Einfluss von berauschenden Mitteln zwei Verkehrsunfälle verursacht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691363.php",
+      "publishedAt": "2026-07-08T14:01:38+00:00",
+      "publishedLabel": "08.07.2026 14:01",
+      "summary": "Gestern Abend soll ein mutmaßlich unter berauschenden Mitteln gestandener Autofahrer zwei Verkehrsunfälle in Tempelhof verursacht haben.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Autofahrerinnen ungebremst miteinander kollidiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691360.php",
+      "publishedAt": "2026-07-08T13:58:08+00:00",
+      "publishedLabel": "08.07.2026 13:58",
+      "summary": "Bei einem Verkehrsunfall stießen gestern Nachmittag in Marzahn zwei Autofahrerinnen mit ihren Fahrzeugen zusammen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Vermisstes Mädchen wieder im Kreise der Familie",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687556.php",
+      "publishedAt": "2026-07-08T13:42:00+00:00",
+      "publishedLabel": "08.07.2026 13:42",
+      "summary": "Die seit dem 29. Juni 2026 vermisste Neunjährige erschien heute selbstständig und unversehrt in der Schule.",
+      "category": "Fahndung"
+    },
     {
       "title": "Haftbefehl wegen Verstößen gegen das Waffengesetz vollstreckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691180.php",
@@ -113,46 +153,6 @@
       "publishedLabel": "06.07.2026 09:20",
       "summary": "Gestern Abend wurde in Charlottenburg mutmaßlich mit einer Schreckschusspistole auf einen Mann geschossen.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Zigarettenautomat gesprengt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689621.php",
-      "publishedAt": "2026-07-05T13:21:07+00:00",
-      "publishedLabel": "05.07.2026 13:21",
-      "summary": "In der vergangenen Nacht haben Unbekannte einen Zigarettenautomaten im Hansaviertel gesprengt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Bewaffneter Überfall auf Schnellrestaurant",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689620.php",
-      "publishedAt": "2026-07-05T13:18:17+00:00",
-      "publishedLabel": "05.07.2026 13:18",
-      "summary": "In der vergangenen Nacht kam es zu einem bewaffneten Überfall auf ein Schnellrestaurant in Heinersdorf.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Widerstand gegen Vollstreckungsbeamte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689618.php",
-      "publishedAt": "2026-07-05T12:17:42+00:00",
-      "publishedLabel": "05.07.2026 12:17",
-      "summary": "In der vergangenen Nacht kam es in Neukölln zu einem Angriff auf Polizeikräfte.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Auseinandersetzung zweier Personengruppen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689603.php",
-      "publishedAt": "2026-07-05T09:08:01+00:00",
-      "publishedLabel": "05.07.2026 09:08",
-      "summary": "Gestern Nachmittag kam es in Hellersdorf zu Auseinandersetzungen zwischen zwei Gruppierungen innerhalb des linken Spektrums.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Polizeibeamter bei Festnahme nach mutmaßlichem Drogenhandel verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689597.php",
-      "publishedAt": "2026-07-04T16:10:00+00:00",
-      "publishedLabel": "04.07.2026 16:10",
-      "summary": "In der vergangenen Nacht wurde ein Polizeibeamter bei einer Festnahme in Schmargendorf verletzt.",
-      "category": "Ermittlung"
     }
   ]
 }
