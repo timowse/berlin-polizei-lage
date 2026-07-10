@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-10T07:59:35.092553+00:00",
-    "checkedTime": "07:59 Uhr",
+    "checkedAt": "2026-07-10T11:14:34.787690+00:00",
+    "checkedTime": "11:14 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verkehrsunfall mit Rettungswagen bei Sonder- und Wegerechtsfahrt im Kreuzungsbereich",
-    "latestPublishedAt": "2026-07-09T12:35:57+00:00"
+    "latestTitle": "Ermittlungen wegen queerfeindlichen Angriffs und Beleidigung",
+    "latestPublishedAt": "2026-07-10T09:02:21+00:00"
   },
   "items": [
+    {
+      "title": "Ermittlungen wegen queerfeindlichen Angriffs und Beleidigung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692043.php",
+      "publishedAt": "2026-07-10T09:02:21+00:00",
+      "publishedLabel": "10.07.2026 09:02",
+      "summary": "Gestern Abend wurde eine nicht-binäre Person in Hakenfelde von drei bislang Unbekannten beleidigt und angegriffen.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Verkehrsunfall mit Rettungswagen bei Sonder- und Wegerechtsfahrt im Kreuzungsbereich",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691725.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "07.07.2026 07:42",
       "summary": "Gestern Abend wurden Einsatzkräfte zu einem Raub auf ein Pfandleihhaus in Kreuzberg alarmiert.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Mehrere Fahrzeuge in Flammen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690252.php",
-      "publishedAt": "2026-07-06T14:18:56+00:00",
-      "publishedLabel": "06.07.2026 14:18",
-      "summary": "In der vergangenen Nacht gerieten mehrere Fahrzeuge in Wilhelmstadt in Brand.",
-      "category": "Verkehr"
     }
   ]
 }
