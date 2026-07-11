@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-11T12:31:37.068516+00:00",
-    "checkedTime": "12:31 Uhr",
+    "checkedAt": "2026-07-11T14:07:44.954039+00:00",
+    "checkedTime": "14:07 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Senior in Kleingartenanlage überfallen",
-    "latestPublishedAt": "2026-07-11T12:10:00+00:00"
+    "latestTitle": "E-Scooter-Fahrer und unerlaubt mitfahrende Sozia bei Verkehrsunfall verletzt",
+    "latestPublishedAt": "2026-07-11T12:52:00+00:00"
   },
   "items": [
+    {
+      "title": "E-Scooter-Fahrer und unerlaubt mitfahrende Sozia bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692319.php",
+      "publishedAt": "2026-07-11T12:52:00+00:00",
+      "publishedLabel": "11.07.2026 12:52",
+      "summary": "Gestern Abend wurden ein E-Scooter-Fahrer und seine unerlaubt mitfahrende Sozia bei einem Verkehrsunfall in Mariendorf verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Kind bei Zusammenstoß mit Radfahrer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692318.php",
+      "publishedAt": "2026-07-11T12:49:37+00:00",
+      "publishedLabel": "11.07.2026 12:49",
+      "summary": "Gestern Nachmittag wurde ein Kind bei einem Verkehrsunfall in Friedrichshagen verletzt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Senior in Kleingartenanlage überfallen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692316.php",
@@ -23,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692314.php",
       "publishedAt": "2026-07-11T11:55:00+00:00",
       "publishedLabel": "11.07.2026 11:55",
-      "summary": "Streit eskaliert – Angriff mit Schlagring auf jungen Mann",
+      "summary": "Heute früh wurde die Polizei nach Mitte alarmiert.",
       "category": "Ermittlung"
     },
     {
@@ -71,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691705.php",
       "publishedAt": "2026-07-09T12:18:23+00:00",
       "publishedLabel": "09.07.2026 12:18",
-      "summary": "Jugendliche E-Scooter-Fahrer verletzt",
-      "category": "Ermittlung"
+      "summary": "Gestern Mittag kam es in Kladow zu einem Verkehrsunfall, bei dem ein E-Scooter-Fahrer und sein Mitfahrer verletzt wurden.",
+      "category": "Verkehr"
     },
     {
       "title": "Toter Säugling aufgefunden – Tatverdächtige ermittelt",
@@ -137,22 +153,6 @@
       "publishedLabel": "08.07.2026 09:42",
       "summary": "Ein 20-Jähriger, der gezielt Männer in Berlin zu Dates gelockt und sie dann ausgeraubt haben soll, wurde gestern festgenommen.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Schleuser sollen Sprachzertifikate gefälscht haben – Durchsuchungsbeschlüsse vollstreckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690853.php",
-      "publishedAt": "2026-07-07T13:58:08+00:00",
-      "publishedLabel": "07.07.2026 13:58",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin vollstreckten Einsatzkräfte des Landeskriminalamtes Durchsuchungsbeschlüsse.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Mann bei Streit mit Messer verletzt – Tatverdächtige festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690695.php",
-      "publishedAt": "2026-07-07T11:49:10+00:00",
-      "publishedLabel": "07.07.2026 11:49",
-      "summary": "Bei einem Streit in Friedrichshain ist gestern Abend ein Mann mit einem Messer verletzt worden.",
-      "category": "Fahndung"
     }
   ]
 }
