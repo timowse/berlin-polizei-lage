@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-12T07:18:53.961243+00:00",
-    "checkedTime": "07:18 Uhr",
+    "checkedAt": "2026-07-12T09:21:56.706624+00:00",
+    "checkedTime": "09:21 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "E-Scooter-Fahrer und unerlaubt mitfahrende Sozia bei Verkehrsunfall verletzt",
-    "latestPublishedAt": "2026-07-11T12:52:00+00:00"
+    "latestTitle": "Scharfe Schusswaffe bei Personenüberprüfung im Hosenbund gefunden – Haftbefehl erlassen",
+    "latestPublishedAt": "2026-07-12T09:07:13+00:00"
   },
   "items": [
+    {
+      "title": "Scharfe Schusswaffe bei Personenüberprüfung im Hosenbund gefunden – Haftbefehl erlassen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692328.php",
+      "publishedAt": "2026-07-12T09:07:13+00:00",
+      "publishedLabel": "12.07.2026 09:07",
+      "summary": "Vorgestern Nachmittag nahmen Einsatzkräfte der Brennpunkt- und Präsenzeinheit einen bewaffneten Mann in Neukölln fest.",
+      "category": "Einsatz"
+    },
     {
       "title": "E-Scooter-Fahrer und unerlaubt mitfahrende Sozia bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692319.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "08.07.2026 10:37",
       "summary": "Ein 35-Jähriger, der gestern wegen eines ihm zur Last gelegten Verstoßes im Amtsgericht Tiergarten erschien, wurde nach der Verhandlung festgenommen.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "20-Jähriger nach Raubserie in Berlin festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691178.php",
-      "publishedAt": "2026-07-08T09:42:00+00:00",
-      "publishedLabel": "08.07.2026 09:42",
-      "summary": "Ein 20-Jähriger, der gezielt Männer in Berlin zu Dates gelockt und sie dann ausgeraubt haben soll, wurde gestern festgenommen.",
-      "category": "Ermittlung"
     }
   ]
 }
