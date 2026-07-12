@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-12T12:02:31.548991+00:00",
-    "checkedTime": "12:02 Uhr",
+    "checkedAt": "2026-07-12T13:51:52.996299+00:00",
+    "checkedTime": "13:51 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mit Schusswaffe bedroht - Festnahmen",
-    "latestPublishedAt": "2026-07-12T11:40:23+00:00"
+    "latestTitle": "Verletzter nach Schussabgabe",
+    "latestPublishedAt": "2026-07-12T13:17:31+00:00"
   },
   "items": [
+    {
+      "title": "Verletzter nach Schussabgabe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692338.php",
+      "publishedAt": "2026-07-12T13:17:31+00:00",
+      "publishedLabel": "12.07.2026 13:17",
+      "summary": "Gestern Mittag wurde ein Mann in Oberschöneweide durch einen Schuss erheblich verletzt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Farbschmierereien an Fahrzeugen und Hausfassaden - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692332.php",
+      "publishedAt": "2026-07-12T12:01:47+00:00",
+      "publishedLabel": "12.07.2026 12:01",
+      "summary": "Heute früh kam es im Wedding zu mehreren Sachbeschädigungen durch Farbschmierereien.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mit Schusswaffe bedroht - Festnahmen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692331.php",
@@ -87,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692043.php",
       "publishedAt": "2026-07-10T09:02:21+00:00",
       "publishedLabel": "10.07.2026 09:02",
-      "summary": "Ermittlungen wegen queerfeindlichen Angriffs und Beleidigung",
+      "summary": "Gestern Abend wurde eine nicht-binäre Person in Hakenfelde von drei bislang Unbekannten beleidigt und angegriffen.",
       "category": "Ermittlung"
     },
     {
@@ -136,22 +152,6 @@
       "publishedAt": "2026-07-08T15:04:02+00:00",
       "publishedLabel": "08.07.2026 15:04",
       "summary": "Gestern Abend stießen ein Funkstreifenwagen und ein Auto auf einer Kreuzung in Mitte zusammen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Unter dem Einfluss von berauschenden Mitteln zwei Verkehrsunfälle verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691363.php",
-      "publishedAt": "2026-07-08T14:01:38+00:00",
-      "publishedLabel": "08.07.2026 14:01",
-      "summary": "Gestern Abend soll ein mutmaßlich unter berauschenden Mitteln gestandener Autofahrer zwei Verkehrsunfälle in Tempelhof verursacht haben.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Autofahrerinnen ungebremst miteinander kollidiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691360.php",
-      "publishedAt": "2026-07-08T13:58:08+00:00",
-      "publishedLabel": "08.07.2026 13:58",
-      "summary": "Bei einem Verkehrsunfall stießen gestern Nachmittag in Marzahn zwei Autofahrerinnen mit ihren Fahrzeugen zusammen.",
       "category": "Verkehr"
     }
   ]
