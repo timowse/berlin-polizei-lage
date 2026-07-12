@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-12T18:11:45.869609+00:00",
-    "checkedTime": "18:11 Uhr",
+    "checkedAt": "2026-07-12T19:34:50.401684+00:00",
+    "checkedTime": "19:34 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Verletzter nach Schussabgabe",
     "latestPublishedAt": "2026-07-12T13:17:31+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692319.php",
       "publishedAt": "2026-07-11T12:52:00+00:00",
       "publishedLabel": "11.07.2026 12:52",
-      "summary": "Gestern Abend wurden ein E-Scooter-Fahrer und seine unerlaubt mitfahrende Sozia bei einem Verkehrsunfall in Mariendorf verletzt.",
+      "summary": "E-Scooter-Fahrer und unerlaubt mitfahrende Sozia bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692318.php",
       "publishedAt": "2026-07-11T12:49:37+00:00",
       "publishedLabel": "11.07.2026 12:49",
-      "summary": "Gestern Nachmittag wurde ein Kind bei einem Verkehrsunfall in Friedrichshagen verletzt.",
+      "summary": "Kind bei Zusammenstoß mit Radfahrer verletzt",
       "category": "Verkehr"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692316.php",
       "publishedAt": "2026-07-11T12:10:00+00:00",
       "publishedLabel": "11.07.2026 12:10",
-      "summary": "In der vergangenen Nacht wurde ein Senior in Charlottenburg überfallen.",
+      "summary": "Senior in Kleingartenanlage überfallen",
       "category": "Sonstiges"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691710.php",
       "publishedAt": "2026-07-09T12:24:12+00:00",
       "publishedLabel": "09.07.2026 12:24",
-      "summary": "Moscheemauer mit Farbschmierereien beschädigt – Tatverdächtiger festgenommen",
+      "summary": "Einsatzkräfte der Polizei nahmen in der vergangenen Nacht einen Mann nach einer Sachbeschädigung an einer Moschee in Neukölln fest.",
       "category": "Fahndung"
     },
     {
