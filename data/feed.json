@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-13T11:20:26.730390+00:00",
-    "checkedTime": "11:20 Uhr",
+    "checkedAt": "2026-07-13T13:33:54.085124+00:00",
+    "checkedTime": "13:33 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Motorradfahrer nach Unfall verletzt",
-    "latestPublishedAt": "2026-07-13T09:30:20+00:00"
+    "latestTitle": "Autofahrer bei Verkehrsunfall verletzt",
+    "latestPublishedAt": "2026-07-13T13:26:06+00:00"
   },
   "items": [
+    {
+      "title": "Autofahrer bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692784.php",
+      "publishedAt": "2026-07-13T13:26:06+00:00",
+      "publishedLabel": "13.07.2026 13:26",
+      "summary": "Bei einem Verkehrsunfall gestern Abend in Reinickendorf wurden ein Mann erheblich verletzt und zwei Fahrzeuge beschädigt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Überprüfung im Straßenverkehr führt zu Schusswaffenfund",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692777.php",
+      "publishedAt": "2026-07-13T13:20:49+00:00",
+      "publishedLabel": "13.07.2026 13:20",
+      "summary": "Polizeieinsatzkräfte fanden gestern Abend in einem gestoppten Fahrzeug in Reinickendorf eine scharfe Schusswaffe.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Ausschreitungen in der Rigaer Straße – Strafermittlungsverfahren eingeleitet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692768.php",
+      "publishedAt": "2026-07-13T13:00:28+00:00",
+      "publishedLabel": "13.07.2026 13:00",
+      "summary": "Am vergangenen Wochenende wurden Einsatzkräfte der Polizei in zwei Fällen zu Ausschreitungen nach Friedrichshain alarmiert.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Zwei mutmaßliche Drogendealer festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692732.php",
+      "publishedAt": "2026-07-13T12:31:00+00:00",
+      "publishedLabel": "13.07.2026 12:31",
+      "summary": "Einsatzkräfte in ziviler Kleidung nahmen gestern Nachmittag zwei mutmaßliche Drogendealer in Kreuzberg fest.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Motorradfahrer nach Unfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692511.php",
@@ -120,38 +152,6 @@
       "publishedAt": "2026-07-11T10:44:02+00:00",
       "publishedLabel": "11.07.2026 10:44",
       "summary": "Gestern Mittag ereignete sich ein Verkehrsunfall in Friedrichshain.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Ermittlungen wegen queerfeindlichen Angriffs und Beleidigung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692043.php",
-      "publishedAt": "2026-07-10T09:02:21+00:00",
-      "publishedLabel": "10.07.2026 09:02",
-      "summary": "Gestern Abend wurde eine nicht-binäre Person in Hakenfelde von drei bislang Unbekannten beleidigt und angegriffen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Verkehrsunfall mit Rettungswagen bei Sonder- und Wegerechtsfahrt im Kreuzungsbereich",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691725.php",
-      "publishedAt": "2026-07-09T12:35:57+00:00",
-      "publishedLabel": "09.07.2026 12:35",
-      "summary": "Gestern Abend kam es in Mahlsdorf zu einem Verkehrsunfall mit Beteiligung eines Rettungswagens.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Moscheemauer mit Farbschmierereien beschädigt – Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691710.php",
-      "publishedAt": "2026-07-09T12:24:12+00:00",
-      "publishedLabel": "09.07.2026 12:24",
-      "summary": "Einsatzkräfte der Polizei nahmen in der vergangenen Nacht einen Mann nach einer Sachbeschädigung an einer Moschee in Neukölln fest.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Jugendliche E-Scooter-Fahrer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691705.php",
-      "publishedAt": "2026-07-09T12:18:23+00:00",
-      "publishedLabel": "09.07.2026 12:18",
-      "summary": "Gestern Mittag kam es in Kladow zu einem Verkehrsunfall, bei dem ein E-Scooter-Fahrer und sein Mitfahrer verletzt wurden.",
       "category": "Verkehr"
     }
   ]
