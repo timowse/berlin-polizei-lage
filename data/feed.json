@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-13T07:56:55.383665+00:00",
-    "checkedTime": "07:56 Uhr",
+    "checkedAt": "2026-07-13T11:20:26.730390+00:00",
+    "checkedTime": "11:20 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verdacht des erpresserischen Menschenraubes im Supermarkt - Untersuchungshaft",
-    "latestPublishedAt": "2026-07-13T07:19:26+00:00"
+    "latestTitle": "Motorradfahrer nach Unfall verletzt",
+    "latestPublishedAt": "2026-07-13T09:30:20+00:00"
   },
   "items": [
+    {
+      "title": "Motorradfahrer nach Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692511.php",
+      "publishedAt": "2026-07-13T09:30:20+00:00",
+      "publishedLabel": "13.07.2026 09:30",
+      "summary": "Gestern Nachmittag ereignete sich in Tegel ein Verkehrsunfall.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Geldausgabeautomat aus Spätkauf entwendet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692490.php",
+      "publishedAt": "2026-07-13T09:02:49+00:00",
+      "publishedLabel": "13.07.2026 09:02",
+      "summary": "In der vergangenen Nacht entwendeten Unbekannte einen Geldausgabeautomaten aus einem Spätkauf in Neukölln.",
+      "category": "Verkehr"
+    },
     {
       "title": "Verdacht des erpresserischen Menschenraubes im Supermarkt - Untersuchungshaft",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692401.php",
@@ -39,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692331.php",
       "publishedAt": "2026-07-12T11:40:23+00:00",
       "publishedLabel": "12.07.2026 11:40",
-      "summary": "Mit Schusswaffe bedroht - Festnahmen",
+      "summary": "Einsatzkräfte der Polizei Berlin nahmen vorgestern Nacht drei Männer in Tempelhof fest.",
       "category": "Ermittlung"
     },
     {
@@ -47,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692329.php",
       "publishedAt": "2026-07-12T10:15:29+00:00",
       "publishedLabel": "12.07.2026 10:15",
-      "summary": "Fahrradfahrerin nach Verkehrsunfall erheblich verletzt",
+      "summary": "Gestern Abend ereignete sich in Hellersdorf ein Verkehrsunfall, bei dem eine Radfahrerin verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -79,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692316.php",
       "publishedAt": "2026-07-11T12:10:00+00:00",
       "publishedLabel": "11.07.2026 12:10",
-      "summary": "Senior in Kleingartenanlage überfallen",
+      "summary": "In der vergangenen Nacht wurde ein Senior in Charlottenburg überfallen.",
       "category": "Sonstiges"
     },
     {
@@ -87,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692314.php",
       "publishedAt": "2026-07-11T11:55:00+00:00",
       "publishedLabel": "11.07.2026 11:55",
-      "summary": "Streit eskaliert – Angriff mit Schlagring auf jungen Mann",
+      "summary": "Heute früh wurde die Polizei nach Mitte alarmiert.",
       "category": "Ermittlung"
     },
     {
@@ -111,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692043.php",
       "publishedAt": "2026-07-10T09:02:21+00:00",
       "publishedLabel": "10.07.2026 09:02",
-      "summary": "Ermittlungen wegen queerfeindlichen Angriffs und Beleidigung",
+      "summary": "Gestern Abend wurde eine nicht-binäre Person in Hakenfelde von drei bislang Unbekannten beleidigt und angegriffen.",
       "category": "Ermittlung"
     },
     {
@@ -137,22 +153,6 @@
       "publishedLabel": "09.07.2026 12:18",
       "summary": "Gestern Mittag kam es in Kladow zu einem Verkehrsunfall, bei dem ein E-Scooter-Fahrer und sein Mitfahrer verletzt wurden.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Toter Säugling aufgefunden – Tatverdächtige ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691542.php",
-      "publishedAt": "2026-07-09T08:47:36+00:00",
-      "publishedLabel": "09.07.2026 08:47",
-      "summary": "Nach dem Fund eines toten Säuglings gestern Morgen in Lichterfelde haben die 5. Mordkommission und die Staatsanwaltschaft Berlin eine jugendliche (...)",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Festnahme nach versuchtem Geschäftseinbruch – Haftbefehl vollstreckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691414.php",
-      "publishedAt": "2026-07-08T15:16:26+00:00",
-      "publishedLabel": "08.07.2026 15:16",
-      "summary": "In der vergangenen Nacht nahm die Polizei einen jungen Mann nach versuchtem Geschäftseinbruch in Staaken fest.",
-      "category": "Ermittlung"
     }
   ]
 }
