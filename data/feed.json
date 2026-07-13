@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-13T19:53:03.927087+00:00",
-    "checkedTime": "19:53 Uhr",
+    "checkedAt": "2026-07-13T20:57:34.395751+00:00",
+    "checkedTime": "20:57 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Autofahrer bei Verkehrsunfall verletzt",
     "latestPublishedAt": "2026-07-13T13:26:06+00:00"
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692768.php",
       "publishedAt": "2026-07-13T13:00:28+00:00",
       "publishedLabel": "13.07.2026 13:00",
-      "summary": "Am vergangenen Wochenende wurden Einsatzkräfte der Polizei in zwei Fällen zu Ausschreitungen nach Friedrichshain alarmiert.",
+      "summary": "Ausschreitungen in der Rigaer Straße – Strafermittlungsverfahren eingeleitet",
       "category": "Ermittlung"
     },
     {
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692732.php",
       "publishedAt": "2026-07-13T12:31:00+00:00",
       "publishedLabel": "13.07.2026 12:31",
-      "summary": "Einsatzkräfte in ziviler Kleidung nahmen gestern Nachmittag zwei mutmaßliche Drogendealer in Kreuzberg fest.",
+      "summary": "Zwei mutmaßliche Drogendealer festgenommen",
       "category": "Ermittlung"
     },
     {
@@ -143,8 +143,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692313.php",
       "publishedAt": "2026-07-11T11:52:32+00:00",
       "publishedLabel": "11.07.2026 11:52",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu Auseinandersetzungen nach Mitte in den James-Simon-Park alarmiert.",
-      "category": "Einsatz"
+      "summary": "Unbekannte greifen Parkbesucher an",
+      "category": "Sonstiges"
     },
     {
       "title": "Radfahrerin nach Verkehrsunfall mit Sattelzugmaschine notoperiert",
