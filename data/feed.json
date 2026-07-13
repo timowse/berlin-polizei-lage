@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-13T01:06:13.436927+00:00",
-    "checkedTime": "01:06 Uhr",
+    "checkedAt": "2026-07-13T07:56:55.383665+00:00",
+    "checkedTime": "07:56 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verletzter nach Schussabgabe",
-    "latestPublishedAt": "2026-07-12T13:17:31+00:00"
+    "latestTitle": "Verdacht des erpresserischen Menschenraubes im Supermarkt - Untersuchungshaft",
+    "latestPublishedAt": "2026-07-13T07:19:26+00:00"
   },
   "items": [
+    {
+      "title": "Verdacht des erpresserischen Menschenraubes im Supermarkt - Untersuchungshaft",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692401.php",
+      "publishedAt": "2026-07-13T07:19:26+00:00",
+      "publishedLabel": "13.07.2026 07:19",
+      "summary": "Die 5. Mordkommission des Landeskriminalamts hat die Ermittlungen gegen einen 29-Jährigen wegen des Verdachts des Erpresserischen Menschenraubes aufgenommen.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Verletzter nach Schussabgabe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692338.php",
@@ -31,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692331.php",
       "publishedAt": "2026-07-12T11:40:23+00:00",
       "publishedLabel": "12.07.2026 11:40",
-      "summary": "Einsatzkräfte der Polizei Berlin nahmen vorgestern Nacht drei Männer in Tempelhof fest.",
+      "summary": "Mit Schusswaffe bedroht - Festnahmen",
       "category": "Ermittlung"
     },
     {
@@ -39,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692329.php",
       "publishedAt": "2026-07-12T10:15:29+00:00",
       "publishedLabel": "12.07.2026 10:15",
-      "summary": "Gestern Abend ereignete sich in Hellersdorf ein Verkehrsunfall, bei dem eine Radfahrerin verletzt wurde.",
+      "summary": "Fahrradfahrerin nach Verkehrsunfall erheblich verletzt",
       "category": "Verkehr"
     },
     {
@@ -71,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692316.php",
       "publishedAt": "2026-07-11T12:10:00+00:00",
       "publishedLabel": "11.07.2026 12:10",
-      "summary": "In der vergangenen Nacht wurde ein Senior in Charlottenburg überfallen.",
+      "summary": "Senior in Kleingartenanlage überfallen",
       "category": "Sonstiges"
     },
     {
@@ -79,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692314.php",
       "publishedAt": "2026-07-11T11:55:00+00:00",
       "publishedLabel": "11.07.2026 11:55",
-      "summary": "Heute früh wurde die Polizei nach Mitte alarmiert.",
+      "summary": "Streit eskaliert – Angriff mit Schlagring auf jungen Mann",
       "category": "Ermittlung"
     },
     {
@@ -103,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692043.php",
       "publishedAt": "2026-07-10T09:02:21+00:00",
       "publishedLabel": "10.07.2026 09:02",
-      "summary": "Gestern Abend wurde eine nicht-binäre Person in Hakenfelde von drei bislang Unbekannten beleidigt und angegriffen.",
+      "summary": "Ermittlungen wegen queerfeindlichen Angriffs und Beleidigung",
       "category": "Ermittlung"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "08.07.2026 15:16",
       "summary": "In der vergangenen Nacht nahm die Polizei einen jungen Mann nach versuchtem Geschäftseinbruch in Staaken fest.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Verkehrsunfall auf Einsatzfahrt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691411.php",
-      "publishedAt": "2026-07-08T15:04:02+00:00",
-      "publishedLabel": "08.07.2026 15:04",
-      "summary": "Gestern Abend stießen ein Funkstreifenwagen und ein Auto auf einer Kreuzung in Mitte zusammen.",
-      "category": "Verkehr"
     }
   ]
 }
