@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-13T23:09:48.629426+00:00",
-    "checkedTime": "23:09 Uhr",
+    "checkedAt": "2026-07-14T00:07:11.017649+00:00",
+    "checkedTime": "00:07 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Autofahrer bei Verkehrsunfall verletzt",
     "latestPublishedAt": "2026-07-13T13:26:06+00:00"
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692319.php",
       "publishedAt": "2026-07-11T12:52:00+00:00",
       "publishedLabel": "11.07.2026 12:52",
-      "summary": "Gestern Abend wurden ein E-Scooter-Fahrer und seine unerlaubt mitfahrende Sozia bei einem Verkehrsunfall in Mariendorf verletzt.",
+      "summary": "E-Scooter-Fahrer und unerlaubt mitfahrende Sozia bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692318.php",
       "publishedAt": "2026-07-11T12:49:37+00:00",
       "publishedLabel": "11.07.2026 12:49",
-      "summary": "Gestern Nachmittag wurde ein Kind bei einem Verkehrsunfall in Friedrichshagen verletzt.",
+      "summary": "Kind bei Zusammenstoß mit Radfahrer verletzt",
       "category": "Verkehr"
     },
     {
@@ -143,8 +143,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692313.php",
       "publishedAt": "2026-07-11T11:52:32+00:00",
       "publishedLabel": "11.07.2026 11:52",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu Auseinandersetzungen nach Mitte in den James-Simon-Park alarmiert.",
-      "category": "Einsatz"
+      "summary": "Unbekannte greifen Parkbesucher an",
+      "category": "Sonstiges"
     },
     {
       "title": "Radfahrerin nach Verkehrsunfall mit Sattelzugmaschine notoperiert",
