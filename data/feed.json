@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-15T11:59:28.831193+00:00",
-    "checkedTime": "11:59 Uhr",
+    "checkedAt": "2026-07-15T14:02:20.179743+00:00",
+    "checkedTime": "14:02 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
-    "latestPublishedAt": "2026-07-15T10:34:01+00:00"
+    "latestTitle": "Mann durch Schussabgaben verletzt",
+    "latestPublishedAt": "2026-07-15T13:14:27+00:00"
   },
   "items": [
+    {
+      "title": "Mann durch Schussabgaben verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694112.php",
+      "publishedAt": "2026-07-15T13:14:27+00:00",
+      "publishedLabel": "15.07.2026 13:14",
+      "summary": "Gestern Mittag ist ein Mann durch Schussabgaben in Reinickendorf verletzt worden.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693949.php",
@@ -39,8 +47,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1534014.php",
       "publishedAt": "2026-07-14T11:12:00+00:00",
       "publishedLabel": "14.07.2026 11:12",
-      "summary": "Jugendlichen ins Gleisbett geschleudert – Öffentlichkeitsfahndung erledigt",
-      "category": "Fahndung"
+      "summary": "Der Mann, der am 18. Mai 2024 am U-Bahnhof Hallesches Tor einen Jugendlichen ins Gleisbett der U-Bahn geschleudert haben soll, konnte namhaft gemacht werden.",
+      "category": "Verkehr"
     },
     {
       "title": "Alkoholisierter Kleintransporterfahrer ohne Fahrerlaubnis fährt gegen Motorrad",
@@ -71,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692777.php",
       "publishedAt": "2026-07-13T13:20:49+00:00",
       "publishedLabel": "13.07.2026 13:20",
-      "summary": "Überprüfung im Straßenverkehr führt zu Schusswaffenfund",
+      "summary": "Polizeieinsatzkräfte fanden gestern Abend in einem gestoppten Fahrzeug in Reinickendorf eine scharfe Schusswaffe.",
       "category": "Verkehr"
     },
     {
@@ -143,16 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692329.php",
       "publishedAt": "2026-07-12T10:15:29+00:00",
       "publishedLabel": "12.07.2026 10:15",
-      "summary": "Fahrradfahrerin nach Verkehrsunfall erheblich verletzt",
+      "summary": "Gestern Abend ereignete sich in Hellersdorf ein Verkehrsunfall, bei dem eine Radfahrerin verletzt wurde.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Scharfe Schusswaffe bei Personenüberprüfung im Hosenbund gefunden – Haftbefehl erlassen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692328.php",
-      "publishedAt": "2026-07-12T09:07:13+00:00",
-      "publishedLabel": "12.07.2026 09:07",
-      "summary": "Scharfe Schusswaffe bei Personenüberprüfung im Hosenbund gefunden – Haftbefehl erlassen",
-      "category": "Sonstiges"
     }
   ]
 }
