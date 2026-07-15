@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-15T16:58:08.046172+00:00",
-    "checkedTime": "16:58 Uhr",
+    "checkedAt": "2026-07-15T18:14:09.692699+00:00",
+    "checkedTime": "18:14 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann durch Schussabgaben verletzt",
     "latestPublishedAt": "2026-07-15T13:14:27+00:00"
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643062.php",
       "publishedAt": "2026-07-14T13:52:00+00:00",
       "publishedLabel": "14.07.2026 13:52",
-      "summary": "Letzter Tatverdächtiger nach Schüssen auf ein Wohnhaus festgenommen",
+      "summary": "Einsatz- und Spezialkräfte des Landeskriminalamtes der Polizei Berlin haben gestern Morgen den letzten noch gesuchten Tatverdächtigen festgenommen.",
       "category": "Fahndung"
     },
     {
@@ -47,8 +47,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1534014.php",
       "publishedAt": "2026-07-14T11:12:00+00:00",
       "publishedLabel": "14.07.2026 11:12",
-      "summary": "Jugendlichen ins Gleisbett geschleudert – Öffentlichkeitsfahndung erledigt",
-      "category": "Fahndung"
+      "summary": "Der Mann, der am 18. Mai 2024 am U-Bahnhof Hallesches Tor einen Jugendlichen ins Gleisbett der U-Bahn geschleudert haben soll, konnte namhaft gemacht werden.",
+      "category": "Verkehr"
     },
     {
       "title": "Alkoholisierter Kleintransporterfahrer ohne Fahrerlaubnis fährt gegen Motorrad",
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692936.php",
       "publishedAt": "2026-07-14T07:44:30+00:00",
       "publishedLabel": "14.07.2026 07:44",
-      "summary": "Autofahrer fährt Radfahrer an",
+      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Marzahn wurde ein Radfahrer verletzt.",
       "category": "Verkehr"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692332.php",
       "publishedAt": "2026-07-12T12:01:47+00:00",
       "publishedLabel": "12.07.2026 12:01",
-      "summary": "Farbschmierereien an Fahrzeugen und Hausfassaden - Festnahme",
+      "summary": "Heute früh kam es im Wedding zu mehreren Sachbeschädigungen durch Farbschmierereien.",
       "category": "Verkehr"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692331.php",
       "publishedAt": "2026-07-12T11:40:23+00:00",
       "publishedLabel": "12.07.2026 11:40",
-      "summary": "Mit Schusswaffe bedroht - Festnahmen",
+      "summary": "Einsatzkräfte der Polizei Berlin nahmen vorgestern Nacht drei Männer in Tempelhof fest.",
       "category": "Ermittlung"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692329.php",
       "publishedAt": "2026-07-12T10:15:29+00:00",
       "publishedLabel": "12.07.2026 10:15",
-      "summary": "Fahrradfahrerin nach Verkehrsunfall erheblich verletzt",
+      "summary": "Gestern Abend ereignete sich in Hellersdorf ein Verkehrsunfall, bei dem eine Radfahrerin verletzt wurde.",
       "category": "Verkehr"
     }
   ]
