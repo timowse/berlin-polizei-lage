@@ -3,19 +3,35 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-15T10:22:47.967934+00:00",
-    "checkedTime": "10:22 Uhr",
+    "checkedAt": "2026-07-15T11:59:28.831193+00:00",
+    "checkedTime": "11:59 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Letzter Tatverdächtiger nach Schüssen auf ein Wohnhaus festgenommen",
-    "latestPublishedAt": "2026-07-14T13:52:00+00:00"
+    "latestTitle": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
+    "latestPublishedAt": "2026-07-15T10:34:01+00:00"
   },
   "items": [
+    {
+      "title": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693949.php",
+      "publishedAt": "2026-07-15T10:34:01+00:00",
+      "publishedLabel": "15.07.2026 10:34",
+      "summary": "Ein Mann soll gestern Morgen in Reinickendorf mehrere Unfälle verursacht haben.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "E-Scooter-Fahrer nach Verkehrsunfall verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693938.php",
+      "publishedAt": "2026-07-15T10:22:47+00:00",
+      "publishedLabel": "15.07.2026 10:22",
+      "summary": "In der vergangenen Nacht starb ein Mann in Kreuzberg infolge eines Verkehrsunfalls.",
+      "category": "Verkehr"
+    },
     {
       "title": "Letzter Tatverdächtiger nach Schüssen auf ein Wohnhaus festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643062.php",
       "publishedAt": "2026-07-14T13:52:00+00:00",
       "publishedLabel": "14.07.2026 13:52",
-      "summary": "Einsatz- und Spezialkräfte des Landeskriminalamtes der Polizei Berlin haben gestern Morgen den letzten noch gesuchten Tatverdächtigen festgenommen.",
+      "summary": "Letzter Tatverdächtiger nach Schüssen auf ein Wohnhaus festgenommen",
       "category": "Fahndung"
     },
     {
@@ -23,8 +39,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1534014.php",
       "publishedAt": "2026-07-14T11:12:00+00:00",
       "publishedLabel": "14.07.2026 11:12",
-      "summary": "Der Mann, der am 18. Mai 2024 am U-Bahnhof Hallesches Tor einen Jugendlichen ins Gleisbett der U-Bahn geschleudert haben soll, konnte namhaft gemacht werden.",
-      "category": "Verkehr"
+      "summary": "Jugendlichen ins Gleisbett geschleudert – Öffentlichkeitsfahndung erledigt",
+      "category": "Fahndung"
     },
     {
       "title": "Alkoholisierter Kleintransporterfahrer ohne Fahrerlaubnis fährt gegen Motorrad",
@@ -55,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692777.php",
       "publishedAt": "2026-07-13T13:20:49+00:00",
       "publishedLabel": "13.07.2026 13:20",
-      "summary": "Polizeieinsatzkräfte fanden gestern Abend in einem gestoppten Fahrzeug in Reinickendorf eine scharfe Schusswaffe.",
+      "summary": "Überprüfung im Straßenverkehr führt zu Schusswaffenfund",
       "category": "Verkehr"
     },
     {
@@ -127,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692329.php",
       "publishedAt": "2026-07-12T10:15:29+00:00",
       "publishedLabel": "12.07.2026 10:15",
-      "summary": "Gestern Abend ereignete sich in Hellersdorf ein Verkehrsunfall, bei dem eine Radfahrerin verletzt wurde.",
+      "summary": "Fahrradfahrerin nach Verkehrsunfall erheblich verletzt",
       "category": "Verkehr"
     },
     {
@@ -135,24 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692328.php",
       "publishedAt": "2026-07-12T09:07:13+00:00",
       "publishedLabel": "12.07.2026 09:07",
-      "summary": "Vorgestern Nachmittag nahmen Einsatzkräfte der Brennpunkt- und Präsenzeinheit einen bewaffneten Mann in Neukölln fest.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "E-Scooter-Fahrer und unerlaubt mitfahrende Sozia bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692319.php",
-      "publishedAt": "2026-07-11T12:52:00+00:00",
-      "publishedLabel": "11.07.2026 12:52",
-      "summary": "Gestern Abend wurden ein E-Scooter-Fahrer und seine unerlaubt mitfahrende Sozia bei einem Verkehrsunfall in Mariendorf verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Kind bei Zusammenstoß mit Radfahrer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692318.php",
-      "publishedAt": "2026-07-11T12:49:37+00:00",
-      "publishedLabel": "11.07.2026 12:49",
-      "summary": "Gestern Nachmittag wurde ein Kind bei einem Verkehrsunfall in Friedrichshagen verletzt.",
-      "category": "Verkehr"
+      "summary": "Scharfe Schusswaffe bei Personenüberprüfung im Hosenbund gefunden – Haftbefehl erlassen",
+      "category": "Sonstiges"
     }
   ]
 }
