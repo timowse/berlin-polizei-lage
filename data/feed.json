@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-16T07:03:46.694376+00:00",
-    "checkedTime": "07:03 Uhr",
+    "checkedAt": "2026-07-16T09:24:47.337116+00:00",
+    "checkedTime": "09:24 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann durch Schussabgaben verletzt",
-    "latestPublishedAt": "2026-07-15T13:14:27+00:00"
+    "latestTitle": "Mann nach räuberischem Diebstahl im Juweliergeschäft gesucht – Polizei bittet um Mithilfe",
+    "latestPublishedAt": "2026-07-16T06:56:45+00:00"
   },
   "items": [
+    {
+      "title": "Mann nach räuberischem Diebstahl im Juweliergeschäft gesucht – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694278.php",
+      "publishedAt": "2026-07-16T06:56:45+00:00",
+      "publishedLabel": "16.07.2026 06:56",
+      "summary": "Mit der Veröffentlichung von Bildern aus einer Überwachungskamera sucht die Polizei Berlin nach einem Tatverdächtigen zu einem räuberischen Diebstahl.",
+      "category": "Fahndung"
+    },
     {
       "title": "Mann durch Schussabgaben verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694112.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "12.07.2026 11:40",
       "summary": "Einsatzkräfte der Polizei Berlin nahmen vorgestern Nacht drei Männer in Tempelhof fest.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Fahrradfahrerin nach Verkehrsunfall erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692329.php",
-      "publishedAt": "2026-07-12T10:15:29+00:00",
-      "publishedLabel": "12.07.2026 10:15",
-      "summary": "Gestern Abend ereignete sich in Hellersdorf ein Verkehrsunfall, bei dem eine Radfahrerin verletzt wurde.",
-      "category": "Verkehr"
     }
   ]
 }
