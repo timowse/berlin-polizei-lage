@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-16T22:31:03.502948+00:00",
-    "checkedTime": "22:31 Uhr",
+    "checkedAt": "2026-07-16T23:34:29.358947+00:00",
+    "checkedTime": "23:34 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Flucht vor der Polizei – Fahrer nach Verkehrsunfall festgenommen",
     "latestPublishedAt": "2026-07-16T12:47:00+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694737.php",
       "publishedAt": "2026-07-16T12:47:00+00:00",
       "publishedLabel": "16.07.2026 12:47",
-      "summary": "In der vergangenen Nacht kam es in Hellersdorf nach einer Flucht vor der Polizei zu einem Verkehrsunfall.",
+      "summary": "Flucht vor der Polizei – Fahrer nach Verkehrsunfall festgenommen",
       "category": "Verkehr"
     },
     {
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694278.php",
       "publishedAt": "2026-07-16T06:56:45+00:00",
       "publishedLabel": "16.07.2026 06:56",
-      "summary": "Mit der Veröffentlichung von Bildern aus einer Überwachungskamera sucht die Polizei Berlin nach einem Tatverdächtigen zu einem räuberischen Diebstahl.",
+      "summary": "Mann nach räuberischem Diebstahl im Juweliergeschäft gesucht – Polizei bittet um Mithilfe",
       "category": "Fahndung"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692784.php",
       "publishedAt": "2026-07-13T13:26:06+00:00",
       "publishedLabel": "13.07.2026 13:26",
-      "summary": "Bei einem Verkehrsunfall gestern Abend in Reinickendorf wurden ein Mann erheblich verletzt und zwei Fahrzeuge beschädigt.",
+      "summary": "Autofahrer bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692490.php",
       "publishedAt": "2026-07-13T09:02:49+00:00",
       "publishedLabel": "13.07.2026 09:02",
-      "summary": "Geldausgabeautomat aus Spätkauf entwendet",
+      "summary": "In der vergangenen Nacht entwendeten Unbekannte einen Geldausgabeautomaten aus einem Spätkauf in Neukölln.",
       "category": "Verkehr"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692332.php",
       "publishedAt": "2026-07-12T12:01:47+00:00",
       "publishedLabel": "12.07.2026 12:01",
-      "summary": "Farbschmierereien an Fahrzeugen und Hausfassaden - Festnahme",
+      "summary": "Heute früh kam es im Wedding zu mehreren Sachbeschädigungen durch Farbschmierereien.",
       "category": "Verkehr"
     }
   ]
