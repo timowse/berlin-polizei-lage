@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-17T08:56:50.759209+00:00",
-    "checkedTime": "08:56 Uhr",
+    "checkedAt": "2026-07-17T10:52:39.581950+00:00",
+    "checkedTime": "10:52 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Scharfe Schusswaffe sichergestellt",
-    "latestPublishedAt": "2026-07-17T07:55:59+00:00"
+    "latestTitle": "Pyrotechnik explodiert – Mehrere Verletzte",
+    "latestPublishedAt": "2026-07-17T09:02:21+00:00"
   },
   "items": [
+    {
+      "title": "Pyrotechnik explodiert – Mehrere Verletzte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694957.php",
+      "publishedAt": "2026-07-17T09:02:21+00:00",
+      "publishedLabel": "17.07.2026 09:02",
+      "summary": "Gestern Abend wurden Polizei und Feuerwehr wegen mehrerer Verletzter nach Explosionen in den Ortsteil Gropiusstadt alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Scharfe Schusswaffe sichergestellt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694916.php",
@@ -127,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692511.php",
       "publishedAt": "2026-07-13T09:30:20+00:00",
       "publishedLabel": "13.07.2026 09:30",
-      "summary": "Motorradfahrer nach Unfall verletzt",
+      "summary": "Gestern Nachmittag ereignete sich in Tegel ein Verkehrsunfall.",
       "category": "Verkehr"
     },
     {
@@ -144,14 +152,6 @@
       "publishedAt": "2026-07-13T07:19:26+00:00",
       "publishedLabel": "13.07.2026 07:19",
       "summary": "Die 5. Mordkommission des Landeskriminalamts hat die Ermittlungen gegen einen 29-Jährigen wegen des Verdachts des Erpresserischen Menschenraubes aufgenommen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Verletzter nach Schussabgabe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692338.php",
-      "publishedAt": "2026-07-12T13:17:31+00:00",
-      "publishedLabel": "12.07.2026 13:17",
-      "summary": "Gestern Mittag wurde ein Mann in Oberschöneweide durch einen Schuss erheblich verletzt.",
       "category": "Ermittlung"
     }
   ]
