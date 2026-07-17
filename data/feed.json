@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-17T21:58:53.167559+00:00",
-    "checkedTime": "21:58 Uhr",
+    "checkedAt": "2026-07-17T22:57:57.041255+00:00",
+    "checkedTime": "22:57 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Festnahmen und Durchsuchungen in Berlin nach Schussabgaben",
     "latestPublishedAt": "2026-07-17T14:54:00+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695177.php",
       "publishedAt": "2026-07-17T14:54:00+00:00",
       "publishedLabel": "17.07.2026 14:54",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin vollstreckte die BAO Ferrum der Polizei Berlin gestern sechs Durchsuchungsbeschlüsse im Berliner Stadtgebiet.",
+      "summary": "Festnahmen und Durchsuchungen in Berlin nach Schussabgaben",
       "category": "Ermittlung"
     },
     {
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695161.php",
       "publishedAt": "2026-07-17T13:49:18+00:00",
       "publishedLabel": "17.07.2026 13:49",
-      "summary": "Heute früh wurde in Kreuzberg ein Mann bei einem Messerangriff verletzt.",
+      "summary": "Mann bei Messerangriff am Auge verletzt",
       "category": "Ermittlung"
     },
     {
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695102.php",
       "publishedAt": "2026-07-17T12:35:42+00:00",
       "publishedLabel": "17.07.2026 12:35",
-      "summary": "Gestern Nachmittag wurde ein Mann im Ortsteil Wilhelmstadt mutmaßlich homophob beleidigt und mit einem Messer bedroht.",
+      "summary": "Festnahme nach mutmaßlich homophober Beleidigung und Bedrohung",
       "category": "Ermittlung"
     },
     {
