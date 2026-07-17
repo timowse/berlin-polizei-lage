@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-17T22:57:57.041255+00:00",
-    "checkedTime": "22:57 Uhr",
+    "checkedAt": "2026-07-17T23:58:14.626975+00:00",
+    "checkedTime": "23:58 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Festnahmen und Durchsuchungen in Berlin nach Schussabgaben",
     "latestPublishedAt": "2026-07-17T14:54:00+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695177.php",
       "publishedAt": "2026-07-17T14:54:00+00:00",
       "publishedLabel": "17.07.2026 14:54",
-      "summary": "Festnahmen und Durchsuchungen in Berlin nach Schussabgaben",
+      "summary": "Im Auftrag der Staatsanwaltschaft Berlin vollstreckte die BAO Ferrum der Polizei Berlin gestern sechs Durchsuchungsbeschlüsse im Berliner Stadtgebiet.",
       "category": "Ermittlung"
     },
     {
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695113.php",
       "publishedAt": "2026-07-17T12:59:47+00:00",
       "publishedLabel": "17.07.2026 12:59",
-      "summary": "Mit der Veröffentlichung eines Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach Elea NEUENKIRCHEN.",
+      "summary": "Jugendliche vermisst – Polizei bittet um Mithilfe",
       "category": "Fahndung"
     },
     {
@@ -47,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695094.php",
       "publishedAt": "2026-07-17T12:28:49+00:00",
       "publishedLabel": "17.07.2026 12:28",
-      "summary": "Bei einem Verkehrsunfall gestern Abend in Wittenau wurde ein Radfahrer verletzt.",
+      "summary": "Radfahrer bei Ausweichmanöver gegen geparktes Auto geprallt",
       "category": "Verkehr"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694112.php",
       "publishedAt": "2026-07-15T13:14:27+00:00",
       "publishedLabel": "15.07.2026 13:14",
-      "summary": "Gestern Mittag ist ein Mann durch Schussabgaben in Reinickendorf verletzt worden.",
+      "summary": "Mann durch Schussabgaben verletzt",
       "category": "Ermittlung"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693949.php",
       "publishedAt": "2026-07-15T10:34:01+00:00",
       "publishedLabel": "15.07.2026 10:34",
-      "summary": "Ein Mann soll gestern Morgen in Reinickendorf mehrere Unfälle verursacht haben.",
+      "summary": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
       "category": "Verkehr"
     },
     {
