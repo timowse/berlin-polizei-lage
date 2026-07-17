@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-17T12:10:10.106290+00:00",
-    "checkedTime": "12:10 Uhr",
+    "checkedAt": "2026-07-17T14:06:39.083903+00:00",
+    "checkedTime": "14:06 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Senior in Wohnung beraubt und verletzt",
-    "latestPublishedAt": "2026-07-17T11:20:19+00:00"
+    "latestTitle": "Mann bei Messerangriff am Auge verletzt",
+    "latestPublishedAt": "2026-07-17T13:49:18+00:00"
   },
   "items": [
+    {
+      "title": "Mann bei Messerangriff am Auge verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695161.php",
+      "publishedAt": "2026-07-17T13:49:18+00:00",
+      "publishedLabel": "17.07.2026 13:49",
+      "summary": "Heute früh wurde in Kreuzberg ein Mann bei einem Messerangriff verletzt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Jugendliche vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695113.php",
+      "publishedAt": "2026-07-17T12:59:47+00:00",
+      "publishedLabel": "17.07.2026 12:59",
+      "summary": "Mit der Veröffentlichung eines Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach Elea NEUENKIRCHEN.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Festnahme nach mutmaßlich homophober Beleidigung und Bedrohung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695102.php",
+      "publishedAt": "2026-07-17T12:35:42+00:00",
+      "publishedLabel": "17.07.2026 12:35",
+      "summary": "Gestern Nachmittag wurde ein Mann im Ortsteil Wilhelmstadt mutmaßlich homophob beleidigt und mit einem Messer bedroht.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Radfahrer bei Ausweichmanöver gegen geparktes Auto geprallt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695094.php",
+      "publishedAt": "2026-07-17T12:28:49+00:00",
+      "publishedLabel": "17.07.2026 12:28",
+      "summary": "Bei einem Verkehrsunfall gestern Abend in Wittenau wurde ein Radfahrer verletzt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Senior in Wohnung beraubt und verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695048.php",
@@ -120,38 +152,6 @@
       "publishedAt": "2026-07-13T13:20:49+00:00",
       "publishedLabel": "13.07.2026 13:20",
       "summary": "Polizeieinsatzkräfte fanden gestern Abend in einem gestoppten Fahrzeug in Reinickendorf eine scharfe Schusswaffe.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Ausschreitungen in der Rigaer Straße – Strafermittlungsverfahren eingeleitet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692768.php",
-      "publishedAt": "2026-07-13T13:00:28+00:00",
-      "publishedLabel": "13.07.2026 13:00",
-      "summary": "Am vergangenen Wochenende wurden Einsatzkräfte der Polizei in zwei Fällen zu Ausschreitungen nach Friedrichshain alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Zwei mutmaßliche Drogendealer festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692732.php",
-      "publishedAt": "2026-07-13T12:31:00+00:00",
-      "publishedLabel": "13.07.2026 12:31",
-      "summary": "Einsatzkräfte in ziviler Kleidung nahmen gestern Nachmittag zwei mutmaßliche Drogendealer in Kreuzberg fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Motorradfahrer nach Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692511.php",
-      "publishedAt": "2026-07-13T09:30:20+00:00",
-      "publishedLabel": "13.07.2026 09:30",
-      "summary": "Gestern Nachmittag ereignete sich in Tegel ein Verkehrsunfall.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Geldausgabeautomat aus Spätkauf entwendet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692490.php",
-      "publishedAt": "2026-07-13T09:02:49+00:00",
-      "publishedLabel": "13.07.2026 09:02",
-      "summary": "In der vergangenen Nacht entwendeten Unbekannte einen Geldausgabeautomaten aus einem Spätkauf in Neukölln.",
       "category": "Verkehr"
     }
   ]
