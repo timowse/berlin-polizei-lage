@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-17T19:53:36.094747+00:00",
-    "checkedTime": "19:53 Uhr",
+    "checkedAt": "2026-07-17T20:57:04.171633+00:00",
+    "checkedTime": "20:57 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Festnahmen und Durchsuchungen in Berlin nach Schussabgaben",
     "latestPublishedAt": "2026-07-17T14:54:00+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695048.php",
       "publishedAt": "2026-07-17T11:20:19+00:00",
       "publishedLabel": "17.07.2026 11:20",
-      "summary": "Senior in Wohnung beraubt und verletzt",
+      "summary": "Gestern Mittag wurde ein Mann bei einem Raubüberfall in seiner Wohnung in Weißensee verletzt.",
       "category": "Ermittlung"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694957.php",
       "publishedAt": "2026-07-17T09:02:21+00:00",
       "publishedLabel": "17.07.2026 09:02",
-      "summary": "Pyrotechnik explodiert – Mehrere Verletzte",
+      "summary": "Gestern Abend wurden Polizei und Feuerwehr wegen mehrerer Verletzter nach Explosionen in den Ortsteil Gropiusstadt alarmiert.",
       "category": "Ermittlung"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694737.php",
       "publishedAt": "2026-07-16T12:47:00+00:00",
       "publishedLabel": "16.07.2026 12:47",
-      "summary": "Flucht vor der Polizei – Fahrer nach Verkehrsunfall festgenommen",
+      "summary": "In der vergangenen Nacht kam es in Hellersdorf nach einer Flucht vor der Polizei zu einem Verkehrsunfall.",
       "category": "Verkehr"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694278.php",
       "publishedAt": "2026-07-16T06:56:45+00:00",
       "publishedLabel": "16.07.2026 06:56",
-      "summary": "Mann nach räuberischem Diebstahl im Juweliergeschäft gesucht – Polizei bittet um Mithilfe",
+      "summary": "Mit der Veröffentlichung von Bildern aus einer Überwachungskamera sucht die Polizei Berlin nach einem Tatverdächtigen zu einem räuberischen Diebstahl.",
       "category": "Fahndung"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694112.php",
       "publishedAt": "2026-07-15T13:14:27+00:00",
       "publishedLabel": "15.07.2026 13:14",
-      "summary": "Mann durch Schussabgaben verletzt",
+      "summary": "Gestern Mittag ist ein Mann durch Schussabgaben in Reinickendorf verletzt worden.",
       "category": "Ermittlung"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693949.php",
       "publishedAt": "2026-07-15T10:34:01+00:00",
       "publishedLabel": "15.07.2026 10:34",
-      "summary": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
+      "summary": "Ein Mann soll gestern Morgen in Reinickendorf mehrere Unfälle verursacht haben.",
       "category": "Verkehr"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643062.php",
       "publishedAt": "2026-07-14T13:52:00+00:00",
       "publishedLabel": "14.07.2026 13:52",
-      "summary": "Letzter Tatverdächtiger nach Schüssen auf ein Wohnhaus festgenommen",
+      "summary": "Einsatz- und Spezialkräfte des Landeskriminalamtes der Polizei Berlin haben gestern Morgen den letzten noch gesuchten Tatverdächtigen festgenommen.",
       "category": "Fahndung"
     },
     {
@@ -135,15 +135,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693106.php",
       "publishedAt": "2026-07-14T10:06:44+00:00",
       "publishedLabel": "14.07.2026 10:06",
-      "summary": "Alkoholisierter Kleintransporterfahrer ohne Fahrerlaubnis fährt gegen Motorrad",
-      "category": "Sonstiges"
+      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Gesundbrunnen wurde ein Motorradfahrer verletzt.",
+      "category": "Verkehr"
     },
     {
       "title": "Autofahrer fährt Radfahrer an",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692936.php",
       "publishedAt": "2026-07-14T07:44:30+00:00",
       "publishedLabel": "14.07.2026 07:44",
-      "summary": "Autofahrer fährt Radfahrer an",
+      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Marzahn wurde ein Radfahrer verletzt.",
       "category": "Verkehr"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692784.php",
       "publishedAt": "2026-07-13T13:26:06+00:00",
       "publishedLabel": "13.07.2026 13:26",
-      "summary": "Autofahrer bei Verkehrsunfall verletzt",
+      "summary": "Bei einem Verkehrsunfall gestern Abend in Reinickendorf wurden ein Mann erheblich verletzt und zwei Fahrzeuge beschädigt.",
       "category": "Verkehr"
     }
   ]
