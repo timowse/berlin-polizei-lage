@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-18T19:43:41.786926+00:00",
-    "checkedTime": "19:43 Uhr",
+    "checkedAt": "2026-07-18T20:31:57.402602+00:00",
+    "checkedTime": "20:31 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Auf Fahrbahnen zugerannt und Widerstand geleistet – DEIG-Einsatz",
     "latestPublishedAt": "2026-07-18T13:25:00+00:00"
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695094.php",
       "publishedAt": "2026-07-17T12:28:49+00:00",
       "publishedLabel": "17.07.2026 12:28",
-      "summary": "Bei einem Verkehrsunfall gestern Abend in Wittenau wurde ein Radfahrer verletzt.",
+      "summary": "Radfahrer bei Ausweichmanöver gegen geparktes Auto geprallt",
       "category": "Verkehr"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694957.php",
       "publishedAt": "2026-07-17T09:02:21+00:00",
       "publishedLabel": "17.07.2026 09:02",
-      "summary": "Gestern Abend wurden Polizei und Feuerwehr wegen mehrerer Verletzter nach Explosionen in den Ortsteil Gropiusstadt alarmiert.",
+      "summary": "Pyrotechnik explodiert – Mehrere Verletzte",
       "category": "Ermittlung"
     },
     {
