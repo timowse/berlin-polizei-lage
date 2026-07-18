@@ -3,19 +3,35 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-18T12:35:42.865572+00:00",
-    "checkedTime": "12:35 Uhr",
+    "checkedAt": "2026-07-18T14:06:08.247995+00:00",
+    "checkedTime": "14:06 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Fußgänger bei Verkehrsunfall erheblich verletzt",
-    "latestPublishedAt": "2026-07-18T10:35:00+00:00"
+    "latestTitle": "Auf Fahrbahnen zugerannt und Widerstand geleistet – DEIG-Einsatz",
+    "latestPublishedAt": "2026-07-18T13:25:00+00:00"
   },
   "items": [
+    {
+      "title": "Auf Fahrbahnen zugerannt und Widerstand geleistet – DEIG-Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695216.php",
+      "publishedAt": "2026-07-18T13:25:00+00:00",
+      "publishedLabel": "18.07.2026 13:25",
+      "summary": "In Marzahn-Hellersdorf setzte in der vergangenen Nacht eine Polizistin ein Distanzelektroimpulsgerät (DEIG) gegen einen Mann ein.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mann mit Messer angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695215.php",
+      "publishedAt": "2026-07-18T13:03:59+00:00",
+      "publishedLabel": "18.07.2026 13:03",
+      "summary": "Gestern Abend wurden Einsatzkräfte zu einem Mann mit Stichverletzungen nach Charlottenburg alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Fußgänger bei Verkehrsunfall erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695214.php",
       "publishedAt": "2026-07-18T10:35:00+00:00",
       "publishedLabel": "18.07.2026 10:35",
-      "summary": "Fußgänger bei Verkehrsunfall erheblich verletzt",
+      "summary": "Gestern Mittag wurde ein Fußgänger bei einem Verkehrsunfall in Spandau erheblich verletzt.",
       "category": "Verkehr"
     },
     {
@@ -111,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694737.php",
       "publishedAt": "2026-07-16T12:47:00+00:00",
       "publishedLabel": "16.07.2026 12:47",
-      "summary": "Flucht vor der Polizei – Fahrer nach Verkehrsunfall festgenommen",
+      "summary": "In der vergangenen Nacht kam es in Hellersdorf nach einer Flucht vor der Polizei zu einem Verkehrsunfall.",
       "category": "Verkehr"
     },
     {
@@ -119,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694278.php",
       "publishedAt": "2026-07-16T06:56:45+00:00",
       "publishedLabel": "16.07.2026 06:56",
-      "summary": "Mann nach räuberischem Diebstahl im Juweliergeschäft gesucht – Polizei bittet um Mithilfe",
+      "summary": "Mit der Veröffentlichung von Bildern aus einer Überwachungskamera sucht die Polizei Berlin nach einem Tatverdächtigen zu einem räuberischen Diebstahl.",
       "category": "Fahndung"
     },
     {
@@ -137,22 +153,6 @@
       "publishedLabel": "15.07.2026 10:34",
       "summary": "Ein Mann soll gestern Morgen in Reinickendorf mehrere Unfälle verursacht haben.",
       "category": "Verkehr"
-    },
-    {
-      "title": "E-Scooter-Fahrer nach Verkehrsunfall verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693938.php",
-      "publishedAt": "2026-07-15T10:22:47+00:00",
-      "publishedLabel": "15.07.2026 10:22",
-      "summary": "E-Scooter-Fahrer nach Verkehrsunfall verstorben",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Letzter Tatverdächtiger nach Schüssen auf ein Wohnhaus festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643062.php",
-      "publishedAt": "2026-07-14T13:52:00+00:00",
-      "publishedLabel": "14.07.2026 13:52",
-      "summary": "Letzter Tatverdächtiger nach Schüssen auf ein Wohnhaus festgenommen",
-      "category": "Fahndung"
     }
   ]
 }
