@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-19T13:44:43.243559+00:00",
-    "checkedTime": "13:44 Uhr",
+    "checkedAt": "2026-07-19T14:42:47.492087+00:00",
+    "checkedTime": "14:42 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Einsatzkräfte mit Schusswaffe bedroht - Festnahmen",
-    "latestPublishedAt": "2026-07-19T13:19:22+00:00"
+    "latestTitle": "Brandstiftung an einer Arztpraxis",
+    "latestPublishedAt": "2026-07-19T14:07:21+00:00"
   },
   "items": [
+    {
+      "title": "Brandstiftung an einer Arztpraxis",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695244.php",
+      "publishedAt": "2026-07-19T14:07:21+00:00",
+      "publishedLabel": "19.07.2026 14:07",
+      "summary": "Gestern Abend soll ein Mann in Spandau mehrere Müllcontainer in Brand gesetzt haben.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Einsatzkräfte mit Schusswaffe bedroht - Festnahmen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695243.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "17.07.2026 07:55",
       "summary": "Gestern Abend wurden Polizeikräfte zu einem Waffenfund nach Kreuzberg alarmiert.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Flucht vor der Polizei – Fahrer nach Verkehrsunfall festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694737.php",
-      "publishedAt": "2026-07-16T12:47:00+00:00",
-      "publishedLabel": "16.07.2026 12:47",
-      "summary": "In der vergangenen Nacht kam es in Hellersdorf nach einer Flucht vor der Polizei zu einem Verkehrsunfall.",
-      "category": "Verkehr"
     }
   ]
 }
