@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-19T11:59:41.824283+00:00",
-    "checkedTime": "11:59 Uhr",
+    "checkedAt": "2026-07-19T13:44:43.243559+00:00",
+    "checkedTime": "13:44 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Auseinandersetzung im Bus mit Pfefferspray",
-    "latestPublishedAt": "2026-07-19T10:55:44+00:00"
+    "latestTitle": "Einsatzkräfte mit Schusswaffe bedroht - Festnahmen",
+    "latestPublishedAt": "2026-07-19T13:19:22+00:00"
   },
   "items": [
+    {
+      "title": "Einsatzkräfte mit Schusswaffe bedroht - Festnahmen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695243.php",
+      "publishedAt": "2026-07-19T13:19:22+00:00",
+      "publishedLabel": "19.07.2026 13:19",
+      "summary": "In der Nacht stoppte die Polizei in Spandau ein Auto, nachdem daraus zivile Einsatzkräfte und eine unbekannte Person mit einer Waffe bedroht wurden.",
+      "category": "Verkehr"
+    },
     {
       "title": "Auseinandersetzung im Bus mit Pfefferspray",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695242.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "16.07.2026 12:47",
       "summary": "In der vergangenen Nacht kam es in Hellersdorf nach einer Flucht vor der Polizei zu einem Verkehrsunfall.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Mann nach räuberischem Diebstahl im Juweliergeschäft gesucht – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694278.php",
-      "publishedAt": "2026-07-16T06:56:45+00:00",
-      "publishedLabel": "16.07.2026 06:56",
-      "summary": "Mit der Veröffentlichung von Bildern aus einer Überwachungskamera sucht die Polizei Berlin nach einem Tatverdächtigen zu einem räuberischen Diebstahl.",
-      "category": "Fahndung"
     }
   ]
 }
