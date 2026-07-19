@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-19T09:21:01.961365+00:00",
-    "checkedTime": "09:21 Uhr",
+    "checkedAt": "2026-07-19T10:53:13.258818+00:00",
+    "checkedTime": "10:53 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Auf Fahrbahnen zugerannt und Widerstand geleistet – DEIG-Einsatz",
-    "latestPublishedAt": "2026-07-18T13:25:00+00:00"
+    "latestTitle": "Motorradfahrer bei Verkehrsunfall tödlich verletzt",
+    "latestPublishedAt": "2026-07-19T10:48:02+00:00"
   },
   "items": [
+    {
+      "title": "Motorradfahrer bei Verkehrsunfall tödlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695241.php",
+      "publishedAt": "2026-07-19T10:48:02+00:00",
+      "publishedLabel": "19.07.2026 10:48",
+      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Schöneberg ist ein Motorradfahrer tödlich verletzt worden.",
+      "category": "Verkehr"
+    },
     {
       "title": "Auf Fahrbahnen zugerannt und Widerstand geleistet – DEIG-Einsatz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695216.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "15.07.2026 13:14",
       "summary": "Gestern Mittag ist ein Mann durch Schussabgaben in Reinickendorf verletzt worden.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693949.php",
-      "publishedAt": "2026-07-15T10:34:01+00:00",
-      "publishedLabel": "15.07.2026 10:34",
-      "summary": "Ein Mann soll gestern Morgen in Reinickendorf mehrere Unfälle verursacht haben.",
-      "category": "Verkehr"
     }
   ]
 }
