@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-20T20:08:31.037700+00:00",
-    "checkedTime": "20:08 Uhr",
+    "checkedAt": "2026-07-20T21:31:26.286449+00:00",
+    "checkedTime": "21:31 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Streit im Straßenverkehr eskaliert",
     "latestPublishedAt": "2026-07-20T13:20:14+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695713.php",
       "publishedAt": "2026-07-20T13:20:14+00:00",
       "publishedLabel": "20.07.2026 13:20",
-      "summary": "In der vergangenen Nacht wurde die Polizei zu einem Verkehrsunfall mit einer angefahrenen Person nach Alt-Hohenschönhausen alarmiert.",
+      "summary": "Streit im Straßenverkehr eskaliert",
       "category": "Verkehr"
     },
     {
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695703.php",
       "publishedAt": "2026-07-20T13:05:34+00:00",
       "publishedLabel": "20.07.2026 13:05",
-      "summary": "Gestern Nachmittag floh ein Mann in Köpenick mit einem gestohlenen Boot über die Müggelspree.",
+      "summary": "Verfolgung auf der Müggelspree – Festnahme nach Bootsdiebstahl",
       "category": "Ermittlung"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695241.php",
       "publishedAt": "2026-07-19T10:48:02+00:00",
       "publishedLabel": "19.07.2026 10:48",
-      "summary": "Motorradfahrer bei Verkehrsunfall tödlich verletzt",
+      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Schöneberg ist ein Motorradfahrer tödlich verletzt worden.",
       "category": "Verkehr"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695216.php",
       "publishedAt": "2026-07-18T13:25:00+00:00",
       "publishedLabel": "18.07.2026 13:25",
-      "summary": "Auf Fahrbahnen zugerannt und Widerstand geleistet – DEIG-Einsatz",
+      "summary": "In Marzahn-Hellersdorf setzte in der vergangenen Nacht eine Polizistin ein Distanzelektroimpulsgerät (DEIG) gegen einen Mann ein.",
       "category": "Verkehr"
     },
     {
@@ -87,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695215.php",
       "publishedAt": "2026-07-18T13:03:59+00:00",
       "publishedLabel": "18.07.2026 13:03",
-      "summary": "Mann mit Messer angegriffen",
-      "category": "Sonstiges"
+      "summary": "Gestern Abend wurden Einsatzkräfte zu einem Mann mit Stichverletzungen nach Charlottenburg alarmiert.",
+      "category": "Ermittlung"
     },
     {
       "title": "Fußgänger bei Verkehrsunfall erheblich verletzt",
