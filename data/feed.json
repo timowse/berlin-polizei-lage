@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-19T23:08:09.152175+00:00",
-    "checkedTime": "23:08 Uhr",
+    "checkedAt": "2026-07-20T00:10:49.918802+00:00",
+    "checkedTime": "00:10 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Brandstiftung an einer Arztpraxis",
     "latestPublishedAt": "2026-07-19T14:07:21+00:00"
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695113.php",
       "publishedAt": "2026-07-17T12:59:47+00:00",
       "publishedLabel": "17.07.2026 12:59",
-      "summary": "Jugendliche vermisst – Polizei bittet um Mithilfe",
+      "summary": "Mit der Veröffentlichung eines Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach Elea NEUENKIRCHEN.",
       "category": "Fahndung"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695094.php",
       "publishedAt": "2026-07-17T12:28:49+00:00",
       "publishedLabel": "17.07.2026 12:28",
-      "summary": "Radfahrer bei Ausweichmanöver gegen geparktes Auto geprallt",
+      "summary": "Bei einem Verkehrsunfall gestern Abend in Wittenau wurde ein Radfahrer verletzt.",
       "category": "Verkehr"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695048.php",
       "publishedAt": "2026-07-17T11:20:19+00:00",
       "publishedLabel": "17.07.2026 11:20",
-      "summary": "Senior in Wohnung beraubt und verletzt",
+      "summary": "Gestern Mittag wurde ein Mann bei einem Raubüberfall in seiner Wohnung in Weißensee verletzt.",
       "category": "Ermittlung"
     },
     {
