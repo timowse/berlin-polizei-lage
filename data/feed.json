@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-20T21:31:26.286449+00:00",
-    "checkedTime": "21:31 Uhr",
+    "checkedAt": "2026-07-20T23:36:33.141812+00:00",
+    "checkedTime": "23:36 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Streit im Straßenverkehr eskaliert",
     "latestPublishedAt": "2026-07-20T13:20:14+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695713.php",
       "publishedAt": "2026-07-20T13:20:14+00:00",
       "publishedLabel": "20.07.2026 13:20",
-      "summary": "Streit im Straßenverkehr eskaliert",
+      "summary": "In der vergangenen Nacht wurde die Polizei zu einem Verkehrsunfall mit einer angefahrenen Person nach Alt-Hohenschönhausen alarmiert.",
       "category": "Verkehr"
     },
     {
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695703.php",
       "publishedAt": "2026-07-20T13:05:34+00:00",
       "publishedLabel": "20.07.2026 13:05",
-      "summary": "Verfolgung auf der Müggelspree – Festnahme nach Bootsdiebstahl",
+      "summary": "Gestern Nachmittag floh ein Mann in Köpenick mit einem gestohlenen Boot über die Müggelspree.",
       "category": "Ermittlung"
     },
     {
