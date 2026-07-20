@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-20T12:32:35.422614+00:00",
-    "checkedTime": "12:32 Uhr",
+    "checkedAt": "2026-07-20T14:54:14.028403+00:00",
+    "checkedTime": "14:54 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Festnahmen nach Wohnungseinbruch",
-    "latestPublishedAt": "2026-07-20T10:04:47+00:00"
+    "latestTitle": "Streit im Straßenverkehr eskaliert",
+    "latestPublishedAt": "2026-07-20T13:20:14+00:00"
   },
   "items": [
+    {
+      "title": "Streit im Straßenverkehr eskaliert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695713.php",
+      "publishedAt": "2026-07-20T13:20:14+00:00",
+      "publishedLabel": "20.07.2026 13:20",
+      "summary": "In der vergangenen Nacht wurde die Polizei zu einem Verkehrsunfall mit einer angefahrenen Person nach Alt-Hohenschönhausen alarmiert.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Verfolgung auf der Müggelspree – Festnahme nach Bootsdiebstahl",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695703.php",
+      "publishedAt": "2026-07-20T13:05:34+00:00",
+      "publishedLabel": "20.07.2026 13:05",
+      "summary": "Gestern Nachmittag floh ein Mann in Köpenick mit einem gestohlenen Boot über die Müggelspree.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Festnahmen nach Wohnungseinbruch",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695515.php",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-07-17T12:35:42+00:00",
       "publishedLabel": "17.07.2026 12:35",
       "summary": "Gestern Nachmittag wurde ein Mann im Ortsteil Wilhelmstadt mutmaßlich homophob beleidigt und mit einem Messer bedroht.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Radfahrer bei Ausweichmanöver gegen geparktes Auto geprallt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695094.php",
-      "publishedAt": "2026-07-17T12:28:49+00:00",
-      "publishedLabel": "17.07.2026 12:28",
-      "summary": "Bei einem Verkehrsunfall gestern Abend in Wittenau wurde ein Radfahrer verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Senior in Wohnung beraubt und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695048.php",
-      "publishedAt": "2026-07-17T11:20:19+00:00",
-      "publishedLabel": "17.07.2026 11:20",
-      "summary": "Gestern Mittag wurde ein Mann bei einem Raubüberfall in seiner Wohnung in Weißensee verletzt.",
       "category": "Ermittlung"
     }
   ]
