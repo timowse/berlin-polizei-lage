@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-21T20:53:40.884485+00:00",
-    "checkedTime": "20:53 Uhr",
+    "checkedAt": "2026-07-21T22:04:13.537960+00:00",
+    "checkedTime": "22:04 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Verkehrsunfall – Radfahrer verletzt",
     "latestPublishedAt": "2026-07-21T10:51:13+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1424822.php",
       "publishedAt": "2026-07-21T09:00:00+00:00",
       "publishedLabel": "21.07.2026 09:00",
-      "summary": "Der im Dezember 2023 in der Havel an der Insel Schwanenwerder tot aufgefundene Mann wurde identifiziert.",
+      "summary": "Toter identifiziert",
       "category": "Sonstiges"
     },
     {
@@ -71,8 +71,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695243.php",
       "publishedAt": "2026-07-19T13:19:22+00:00",
       "publishedLabel": "19.07.2026 13:19",
-      "summary": "In der Nacht stoppte die Polizei in Spandau ein Auto, nachdem daraus zivile Einsatzkräfte und eine unbekannte Person mit einer Waffe bedroht wurden.",
-      "category": "Verkehr"
+      "summary": "Einsatzkräfte mit Schusswaffe bedroht - Festnahmen",
+      "category": "Ermittlung"
     },
     {
       "title": "Auseinandersetzung im Bus mit Pfefferspray",
