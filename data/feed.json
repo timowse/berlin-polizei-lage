@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-21T09:43:39.592271+00:00",
-    "checkedTime": "09:43 Uhr",
+    "checkedAt": "2026-07-21T11:31:09.568957+00:00",
+    "checkedTime": "11:31 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Toter identifiziert",
-    "latestPublishedAt": "2026-07-21T09:00:00+00:00"
+    "latestTitle": "Verkehrsunfall – Radfahrer verletzt",
+    "latestPublishedAt": "2026-07-21T10:51:13+00:00"
   },
   "items": [
+    {
+      "title": "Verkehrsunfall – Radfahrer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695967.php",
+      "publishedAt": "2026-07-21T10:51:13+00:00",
+      "publishedLabel": "21.07.2026 10:51",
+      "summary": "Ein Verkehrsunfall, bei dem ein Radfahrer Verletzungen erlitt, ereignete sich gestern Abend in Lichterfelde.",
+      "category": "Verkehr"
+    },
     {
       "title": "Toter identifiziert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1424822.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "17.07.2026 13:49",
       "summary": "Heute früh wurde in Kreuzberg ein Mann bei einem Messerangriff verletzt.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Jugendliche vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695113.php",
-      "publishedAt": "2026-07-17T12:59:47+00:00",
-      "publishedLabel": "17.07.2026 12:59",
-      "summary": "Mit der Veröffentlichung eines Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach Elea NEUENKIRCHEN.",
-      "category": "Fahndung"
     }
   ]
 }
