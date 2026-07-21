@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-21T16:48:24.955391+00:00",
-    "checkedTime": "16:48 Uhr",
+    "checkedAt": "2026-07-21T18:03:43.694869+00:00",
+    "checkedTime": "18:03 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Verkehrsunfall – Radfahrer verletzt",
     "latestPublishedAt": "2026-07-21T10:51:13+00:00"
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695703.php",
       "publishedAt": "2026-07-20T13:05:34+00:00",
       "publishedLabel": "20.07.2026 13:05",
-      "summary": "Verfolgung auf der Müggelspree – Festnahme nach Bootsdiebstahl",
+      "summary": "Gestern Nachmittag floh ein Mann in Köpenick mit einem gestohlenen Boot über die Müggelspree.",
       "category": "Ermittlung"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695398.php",
       "publishedAt": "2026-07-20T08:07:31+00:00",
       "publishedLabel": "20.07.2026 08:07",
-      "summary": "Kind bei Verkehrsunfall verletzt",
+      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Heiligensee ist ein Kind verletzt worden.",
       "category": "Verkehr"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695212.php",
       "publishedAt": "2026-07-18T09:40:00+00:00",
       "publishedLabel": "18.07.2026 09:40",
-      "summary": "In der vergangenen Nacht wurden zwei Männer in Kreuzberg von einem Mann mit einem Messer verletzt.",
+      "summary": "Zwei Männer nach Messerangriffen im Krankenhaus",
       "category": "Ermittlung"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695161.php",
       "publishedAt": "2026-07-17T13:49:18+00:00",
       "publishedLabel": "17.07.2026 13:49",
-      "summary": "Mann bei Messerangriff am Auge verletzt",
+      "summary": "Heute früh wurde in Kreuzberg ein Mann bei einem Messerangriff verletzt.",
       "category": "Ermittlung"
     }
   ]
