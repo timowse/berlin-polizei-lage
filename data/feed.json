@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-22T06:16:55.027378+00:00",
-    "checkedTime": "06:16 Uhr",
+    "checkedAt": "2026-07-22T09:03:11.008967+00:00",
+    "checkedTime": "09:03 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verkehrsunfall – Radfahrer verletzt",
-    "latestPublishedAt": "2026-07-21T10:51:13+00:00"
+    "latestTitle": "Bei Auseinandersetzung mit Messer verletzt",
+    "latestPublishedAt": "2026-07-22T08:57:52+00:00"
   },
   "items": [
+    {
+      "title": "Bei Auseinandersetzung mit Messer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696343.php",
+      "publishedAt": "2026-07-22T08:57:52+00:00",
+      "publishedLabel": "22.07.2026 08:57",
+      "summary": "Im Rahmen einer Auseinandersetzung zwischen zwei Gruppen in Gesundbrunnen wurden in der vergangenen Nacht zwei junge Männer mit einem Messer verletzt.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Verkehrsunfall – Radfahrer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695967.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-07-17T14:54:00+00:00",
       "publishedLabel": "17.07.2026 14:54",
       "summary": "Im Auftrag der Staatsanwaltschaft Berlin vollstreckte die BAO Ferrum der Polizei Berlin gestern sechs Durchsuchungsbeschlüsse im Berliner Stadtgebiet.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann bei Messerangriff am Auge verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695161.php",
-      "publishedAt": "2026-07-17T13:49:18+00:00",
-      "publishedLabel": "17.07.2026 13:49",
-      "summary": "Heute früh wurde in Kreuzberg ein Mann bei einem Messerangriff verletzt.",
       "category": "Ermittlung"
     }
   ]
