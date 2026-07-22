@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-22T09:03:11.008967+00:00",
-    "checkedTime": "09:03 Uhr",
+    "checkedAt": "2026-07-22T11:17:17.859658+00:00",
+    "checkedTime": "11:17 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Bei Auseinandersetzung mit Messer verletzt",
-    "latestPublishedAt": "2026-07-22T08:57:52+00:00"
+    "latestTitle": "Frau stirbt nach Messerangriff",
+    "latestPublishedAt": "2026-07-22T10:10:00+00:00"
   },
   "items": [
+    {
+      "title": "Frau stirbt nach Messerangriff",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696399.php",
+      "publishedAt": "2026-07-22T10:10:00+00:00",
+      "publishedLabel": "22.07.2026 10:10",
+      "summary": "Gemeinsam mit der Staatsanwaltschaft Berlin übernahm gestern die 7. Mordkommission die Ermittlungen wegen des Verdachts eines Tötungsdelikts gegen einen 43 Jahre alten Beschuldigten.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mann durch wegrollendes Auto verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696371.php",
+      "publishedAt": "2026-07-22T09:38:51+00:00",
+      "publishedLabel": "22.07.2026 09:38",
+      "summary": "Bei einem Verkehrsunfall gestern Abend in Bohnsdorf wurde ein Mann erheblich verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mann und Hund von Autofahrer angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696363.php",
+      "publishedAt": "2026-07-22T09:29:00+00:00",
+      "publishedLabel": "22.07.2026 09:29",
+      "summary": "In der vergangenen Nacht fuhr ein Autofahrer in Neukölln einen Mann und seinen Hund an.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mann mit Hammer angegriffen und ausgeraubt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696358.php",
+      "publishedAt": "2026-07-22T09:20:00+00:00",
+      "publishedLabel": "22.07.2026 09:20",
+      "summary": "Gestern Abend nahmen Einsatzkräfte in Wilmersdorf zwei mutmaßliche Räuber fest.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Frau mit Messer angegriffen und angezündet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696348.php",
+      "publishedAt": "2026-07-22T09:05:00+00:00",
+      "publishedLabel": "22.07.2026 09:05",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Polizei wegen einer gefährlichen Körperverletzung zu einer Unterkunft für wohnungslose Menschen in Schöneberg alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Bei Auseinandersetzung mit Messer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696343.php",
@@ -112,46 +152,6 @@
       "publishedAt": "2026-07-18T13:03:59+00:00",
       "publishedLabel": "18.07.2026 13:03",
       "summary": "Gestern Abend wurden Einsatzkräfte zu einem Mann mit Stichverletzungen nach Charlottenburg alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Fußgänger bei Verkehrsunfall erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695214.php",
-      "publishedAt": "2026-07-18T10:35:00+00:00",
-      "publishedLabel": "18.07.2026 10:35",
-      "summary": "Gestern Mittag wurde ein Fußgänger bei einem Verkehrsunfall in Spandau erheblich verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mit Messer und Baseballschläger lebensbedrohlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695213.php",
-      "publishedAt": "2026-07-18T10:16:00+00:00",
-      "publishedLabel": "18.07.2026 10:16",
-      "summary": "Gestern Abend wurde ein 18-Jähriger nach einem Angriff mit einem Messer und einem Baseballschläger in Mariendorf in ein Krankenhaus gebracht.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Zwei Männer nach Messerangriffen im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695212.php",
-      "publishedAt": "2026-07-18T09:40:00+00:00",
-      "publishedLabel": "18.07.2026 09:40",
-      "summary": "In der vergangenen Nacht wurden zwei Männer in Kreuzberg von einem Mann mit einem Messer verletzt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Rassistisch beleidigt und geschlagen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695211.php",
-      "publishedAt": "2026-07-18T09:16:28+00:00",
-      "publishedLabel": "18.07.2026 09:16",
-      "summary": "Gestern Nachmittag wurde eine Frau in Kreuzberg geschlagen und rassistisch beleidigt.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Festnahmen und Durchsuchungen in Berlin nach Schussabgaben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695177.php",
-      "publishedAt": "2026-07-17T14:54:00+00:00",
-      "publishedLabel": "17.07.2026 14:54",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin vollstreckte die BAO Ferrum der Polizei Berlin gestern sechs Durchsuchungsbeschlüsse im Berliner Stadtgebiet.",
       "category": "Ermittlung"
     }
   ]
