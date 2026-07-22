@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-22T16:41:27.121030+00:00",
-    "checkedTime": "16:41 Uhr",
+    "checkedAt": "2026-07-22T17:55:49.073147+00:00",
+    "checkedTime": "17:55 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Frau stirbt nach Messerangriff",
     "latestPublishedAt": "2026-07-22T10:10:00+00:00"
@@ -119,15 +119,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695243.php",
       "publishedAt": "2026-07-19T13:19:22+00:00",
       "publishedLabel": "19.07.2026 13:19",
-      "summary": "In der Nacht stoppte die Polizei in Spandau ein Auto, nachdem daraus zivile Einsatzkräfte und eine unbekannte Person mit einer Waffe bedroht wurden.",
-      "category": "Verkehr"
+      "summary": "Einsatzkräfte mit Schusswaffe bedroht - Festnahmen",
+      "category": "Ermittlung"
     },
     {
       "title": "Auseinandersetzung im Bus mit Pfefferspray",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695242.php",
       "publishedAt": "2026-07-19T10:55:44+00:00",
       "publishedLabel": "19.07.2026 10:55",
-      "summary": "Gestern Abend kam es in Reinickendorf in einem BVG-Bus der Linie 122 zu einer körperlichen Auseinandersetzung zwischen zwei bisher unbekannten Männern.",
+      "summary": "Auseinandersetzung im Bus mit Pfefferspray",
       "category": "Verkehr"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695241.php",
       "publishedAt": "2026-07-19T10:48:02+00:00",
       "publishedLabel": "19.07.2026 10:48",
-      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Schöneberg ist ein Motorradfahrer tödlich verletzt worden.",
+      "summary": "Motorradfahrer bei Verkehrsunfall tödlich verletzt",
       "category": "Verkehr"
     },
     {
