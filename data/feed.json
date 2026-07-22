@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-22T19:25:19.570186+00:00",
-    "checkedTime": "19:25 Uhr",
+    "checkedAt": "2026-07-22T20:38:31.981944+00:00",
+    "checkedTime": "20:38 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Frau stirbt nach Messerangriff",
     "latestPublishedAt": "2026-07-22T10:10:00+00:00"
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695216.php",
       "publishedAt": "2026-07-18T13:25:00+00:00",
       "publishedLabel": "18.07.2026 13:25",
-      "summary": "Auf Fahrbahnen zugerannt und Widerstand geleistet – DEIG-Einsatz",
+      "summary": "In Marzahn-Hellersdorf setzte in der vergangenen Nacht eine Polizistin ein Distanzelektroimpulsgerät (DEIG) gegen einen Mann ein.",
       "category": "Verkehr"
     },
     {
@@ -151,8 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695215.php",
       "publishedAt": "2026-07-18T13:03:59+00:00",
       "publishedLabel": "18.07.2026 13:03",
-      "summary": "Mann mit Messer angegriffen",
-      "category": "Sonstiges"
+      "summary": "Gestern Abend wurden Einsatzkräfte zu einem Mann mit Stichverletzungen nach Charlottenburg alarmiert.",
+      "category": "Ermittlung"
     }
   ]
 }
