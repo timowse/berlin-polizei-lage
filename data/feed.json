@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-22T12:50:20.771132+00:00",
-    "checkedTime": "12:50 Uhr",
+    "checkedAt": "2026-07-22T15:04:53.105344+00:00",
+    "checkedTime": "15:04 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Frau stirbt nach Messerangriff",
     "latestPublishedAt": "2026-07-22T10:10:00+00:00"
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695967.php",
       "publishedAt": "2026-07-21T10:51:13+00:00",
       "publishedLabel": "21.07.2026 10:51",
-      "summary": "Verkehrsunfall – Radfahrer verletzt",
+      "summary": "Ein Verkehrsunfall, bei dem ein Radfahrer Verletzungen erlitt, ereignete sich gestern Abend in Lichterfelde.",
       "category": "Verkehr"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1424822.php",
       "publishedAt": "2026-07-21T09:00:00+00:00",
       "publishedLabel": "21.07.2026 09:00",
-      "summary": "Toter identifiziert",
+      "summary": "Der im Dezember 2023 in der Havel an der Insel Schwanenwerder tot aufgefundene Mann wurde identifiziert.",
       "category": "Sonstiges"
     },
     {
