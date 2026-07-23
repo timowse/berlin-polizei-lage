@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-23T07:23:39.951196+00:00",
-    "checkedTime": "07:23 Uhr",
+    "checkedAt": "2026-07-23T09:58:31.334282+00:00",
+    "checkedTime": "09:58 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Frau stirbt nach Messerangriff",
-    "latestPublishedAt": "2026-07-22T10:10:00+00:00"
+    "latestTitle": "Mann schießt mit Schreckschusswaffe",
+    "latestPublishedAt": "2026-07-23T09:01:00+00:00"
   },
   "items": [
+    {
+      "title": "Mann schießt mit Schreckschusswaffe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696832.php",
+      "publishedAt": "2026-07-23T09:01:00+00:00",
+      "publishedLabel": "23.07.2026 09:01",
+      "summary": "Gestern Abend schoss ein bislang unbekannter Mann in Hellersdorf mehrfach mit einer Schreckschusswaffe in die Luft und bedrohte anschließend einen anderen Mann",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Mann bei Streit mit Messer verletzt – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696803.php",
+      "publishedAt": "2026-07-23T08:28:00+00:00",
+      "publishedLabel": "23.07.2026 08:28",
+      "summary": "Gestern Abend wurde in Lankwitz ein Mann bei einer Auseinandersetzung mit einem Messer verletzt.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Mann von mehreren Unbekannten angegriffen und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696736.php",
+      "publishedAt": "2026-07-23T07:34:00+00:00",
+      "publishedLabel": "23.07.2026 07:34",
+      "summary": "In der vergangenen Nacht ist ein Mann in Kreuzberg von mehreren Unbekannten angegriffen und verletzt worden.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Frau stirbt nach Messerangriff",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696399.php",
@@ -129,30 +153,6 @@
       "publishedLabel": "19.07.2026 10:55",
       "summary": "Gestern Abend kam es in Reinickendorf in einem BVG-Bus der Linie 122 zu einer körperlichen Auseinandersetzung zwischen zwei bisher unbekannten Männern.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Motorradfahrer bei Verkehrsunfall tödlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695241.php",
-      "publishedAt": "2026-07-19T10:48:02+00:00",
-      "publishedLabel": "19.07.2026 10:48",
-      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Schöneberg ist ein Motorradfahrer tödlich verletzt worden.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Auf Fahrbahnen zugerannt und Widerstand geleistet – DEIG-Einsatz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695216.php",
-      "publishedAt": "2026-07-18T13:25:00+00:00",
-      "publishedLabel": "18.07.2026 13:25",
-      "summary": "In Marzahn-Hellersdorf setzte in der vergangenen Nacht eine Polizistin ein Distanzelektroimpulsgerät (DEIG) gegen einen Mann ein.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mann mit Messer angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695215.php",
-      "publishedAt": "2026-07-18T13:03:59+00:00",
-      "publishedLabel": "18.07.2026 13:03",
-      "summary": "Gestern Abend wurden Einsatzkräfte zu einem Mann mit Stichverletzungen nach Charlottenburg alarmiert.",
-      "category": "Ermittlung"
     }
   ]
 }
