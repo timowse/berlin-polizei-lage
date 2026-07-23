@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-23T11:56:34.428214+00:00",
-    "checkedTime": "11:56 Uhr",
+    "checkedAt": "2026-07-23T14:15:25.094702+00:00",
+    "checkedTime": "14:15 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann rast durch die Stadt – vorläufige Festnahme",
-    "latestPublishedAt": "2026-07-23T11:40:00+00:00"
+    "latestTitle": "Zwei Festnahmen nach mutmaßlichem Raub",
+    "latestPublishedAt": "2026-07-23T12:24:29+00:00"
   },
   "items": [
+    {
+      "title": "Zwei Festnahmen nach mutmaßlichem Raub",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696980.php",
+      "publishedAt": "2026-07-23T12:24:29+00:00",
+      "publishedLabel": "23.07.2026 12:24",
+      "summary": "Einsatzkräfte der Polizei Berlin nahmen am gestrigen Tag in Spandau i. R. von Durchsuchungsmaßnahmen eine 18-Jährige und einen 26 Jahre alten Mann vorläufig fest.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Mann rast durch die Stadt – vorläufige Festnahme",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696947.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "19.07.2026 14:07",
       "summary": "Gestern Abend soll ein Mann in Spandau mehrere Müllcontainer in Brand gesetzt haben.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Einsatzkräfte mit Schusswaffe bedroht - Festnahmen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695243.php",
-      "publishedAt": "2026-07-19T13:19:22+00:00",
-      "publishedLabel": "19.07.2026 13:19",
-      "summary": "In der Nacht stoppte die Polizei in Spandau ein Auto, nachdem daraus zivile Einsatzkräfte und eine unbekannte Person mit einer Waffe bedroht wurden.",
-      "category": "Verkehr"
     }
   ]
 }
