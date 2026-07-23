@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-23T14:15:25.094702+00:00",
-    "checkedTime": "14:15 Uhr",
+    "checkedAt": "2026-07-23T16:03:49.409903+00:00",
+    "checkedTime": "16:03 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Zwei Festnahmen nach mutmaßlichem Raub",
-    "latestPublishedAt": "2026-07-23T12:24:29+00:00"
+    "latestTitle": "Sachbeschädigung durch Farbschmiererei an Moschee",
+    "latestPublishedAt": "2026-07-23T15:21:00+00:00"
   },
   "items": [
+    {
+      "title": "Sachbeschädigung durch Farbschmiererei an Moschee",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697085.php",
+      "publishedAt": "2026-07-23T15:21:00+00:00",
+      "publishedLabel": "23.07.2026 15:21",
+      "summary": "Heute Vormittag bemerkte ein Mitarbeiter des Zentralen Objektschutzes der Polizei Berlin eine Sachbeschädigung an einer Moschee in Neukölln.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Zwei Festnahmen nach mutmaßlichem Raub",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696980.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "20.07.2026 08:07",
       "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Heiligensee ist ein Kind verletzt worden.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Brandstiftung an einer Arztpraxis",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695244.php",
-      "publishedAt": "2026-07-19T14:07:21+00:00",
-      "publishedLabel": "19.07.2026 14:07",
-      "summary": "Gestern Abend soll ein Mann in Spandau mehrere Müllcontainer in Brand gesetzt haben.",
-      "category": "Ermittlung"
     }
   ]
 }
