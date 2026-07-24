@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-24T01:04:32.134947+00:00",
-    "checkedTime": "01:04 Uhr",
+    "checkedAt": "2026-07-24T04:28:00.664304+00:00",
+    "checkedTime": "04:28 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Sachbeschädigung durch Farbschmiererei an Moschee",
     "latestPublishedAt": "2026-07-23T15:21:00+00:00"
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696399.php",
       "publishedAt": "2026-07-22T10:10:00+00:00",
       "publishedLabel": "22.07.2026 10:10",
-      "summary": "Frau stirbt nach Messerangriff",
+      "summary": "Gemeinsam mit der Staatsanwaltschaft Berlin übernahm gestern die 7. Mordkommission die Ermittlungen wegen des Verdachts eines Tötungsdelikts gegen einen 43 Jahre alten Beschuldigten.",
       "category": "Ermittlung"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696371.php",
       "publishedAt": "2026-07-22T09:38:51+00:00",
       "publishedLabel": "22.07.2026 09:38",
-      "summary": "Mann durch wegrollendes Auto verletzt",
+      "summary": "Bei einem Verkehrsunfall gestern Abend in Bohnsdorf wurde ein Mann erheblich verletzt.",
       "category": "Verkehr"
     },
     {
