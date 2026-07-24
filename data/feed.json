@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-24T11:24:01.481917+00:00",
-    "checkedTime": "11:24 Uhr",
+    "checkedAt": "2026-07-24T12:57:49.378594+00:00",
+    "checkedTime": "12:57 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann bespuckt und beleidigt Passanten und Polizeikräfte",
-    "latestPublishedAt": "2026-07-24T10:43:31+00:00"
+    "latestTitle": "Flucht vor der Polizei endet in Sackgasse",
+    "latestPublishedAt": "2026-07-24T12:49:46+00:00"
   },
   "items": [
+    {
+      "title": "Flucht vor der Polizei endet in Sackgasse",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697361.php",
+      "publishedAt": "2026-07-24T12:49:46+00:00",
+      "publishedLabel": "24.07.2026 12:49",
+      "summary": "Ein 19-Jähriger fiel in der vergangenen Nacht in Marzahn Zivilbeamten wegen seiner Fahrweise auf.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Körperliche Auseinandersetzung zwischen mehreren Personen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697355.php",
+      "publishedAt": "2026-07-24T12:32:32+00:00",
+      "publishedLabel": "24.07.2026 12:32",
+      "summary": "Gestern Nachmittag kam es in einer Grünanlage in Moabit zu einer körperlichen Auseinandersetzung zwischen vier Männern.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Mann bespuckt und beleidigt Passanten und Polizeikräfte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697302.php",
@@ -87,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696736.php",
       "publishedAt": "2026-07-23T07:34:00+00:00",
       "publishedLabel": "23.07.2026 07:34",
-      "summary": "In der vergangenen Nacht ist ein Mann in Kreuzberg von mehreren Unbekannten angegriffen und verletzt worden.",
+      "summary": "Mann von mehreren Unbekannten angegriffen und verletzt",
       "category": "Ermittlung"
     },
     {
@@ -137,22 +153,6 @@
       "publishedLabel": "22.07.2026 08:57",
       "summary": "Im Rahmen einer Auseinandersetzung zwischen zwei Gruppen in Gesundbrunnen wurden in der vergangenen Nacht zwei junge Männer mit einem Messer verletzt.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Verkehrsunfall – Radfahrer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695967.php",
-      "publishedAt": "2026-07-21T10:51:13+00:00",
-      "publishedLabel": "21.07.2026 10:51",
-      "summary": "Ein Verkehrsunfall, bei dem ein Radfahrer Verletzungen erlitt, ereignete sich gestern Abend in Lichterfelde.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Toter identifiziert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1424822.php",
-      "publishedAt": "2026-07-21T09:00:00+00:00",
-      "publishedLabel": "21.07.2026 09:00",
-      "summary": "Der im Dezember 2023 in der Havel an der Insel Schwanenwerder tot aufgefundene Mann wurde identifiziert.",
-      "category": "Sonstiges"
     }
   ]
 }
