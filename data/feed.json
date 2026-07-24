@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-24T07:11:11.825048+00:00",
-    "checkedTime": "07:11 Uhr",
+    "checkedAt": "2026-07-24T09:38:09.884988+00:00",
+    "checkedTime": "09:38 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Sachbeschädigung durch Farbschmiererei an Moschee",
-    "latestPublishedAt": "2026-07-23T15:21:00+00:00"
+    "latestTitle": "Senior nach Verkehrsunfall verstorben – Polizei sucht Ersthelfer und weitere Zeugen",
+    "latestPublishedAt": "2026-07-24T08:18:21+00:00"
   },
   "items": [
+    {
+      "title": "Senior nach Verkehrsunfall verstorben – Polizei sucht Ersthelfer und weitere Zeugen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697207.php",
+      "publishedAt": "2026-07-24T08:18:21+00:00",
+      "publishedLabel": "24.07.2026 08:18",
+      "summary": "Nach einem Verkehrsunfall am Abend des 21. Juli 2026 in Tegel verstarb ein 78-jähriger Mann zwei Tage später im Krankenhaus.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Gedenktafel beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697204.php",
+      "publishedAt": "2026-07-24T08:08:00+00:00",
+      "publishedLabel": "24.07.2026 08:08",
+      "summary": "Unbekannte haben in Charlottenburg eine Gedenktafel für die Opfer des Nationalsozialismus beschmiert.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Transfrau ins Gesicht gespuckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697199.php",
+      "publishedAt": "2026-07-24T08:03:30+00:00",
+      "publishedLabel": "24.07.2026 08:03",
+      "summary": "Ein bislang unbekannt gebliebener Mann soll gestern Nachmittag im Ortsteil Wedding eine Transfrau angespuckt und beleidigt haben.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Sachbeschädigung durch Farbschmiererei an Moschee",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697085.php",
@@ -128,30 +152,6 @@
       "publishedAt": "2026-07-20T13:20:14+00:00",
       "publishedLabel": "20.07.2026 13:20",
       "summary": "In der vergangenen Nacht wurde die Polizei zu einem Verkehrsunfall mit einer angefahrenen Person nach Alt-Hohenschönhausen alarmiert.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Verfolgung auf der Müggelspree – Festnahme nach Bootsdiebstahl",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695703.php",
-      "publishedAt": "2026-07-20T13:05:34+00:00",
-      "publishedLabel": "20.07.2026 13:05",
-      "summary": "Gestern Nachmittag floh ein Mann in Köpenick mit einem gestohlenen Boot über die Müggelspree.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Festnahmen nach Wohnungseinbruch",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695515.php",
-      "publishedAt": "2026-07-20T10:04:47+00:00",
-      "publishedLabel": "20.07.2026 10:04",
-      "summary": "Einsatzkräfte der Polizei nahmen in der vergangenen Nacht in Kreuzberg drei mutmaßliche Wohnungseinbrecher fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Kind bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695398.php",
-      "publishedAt": "2026-07-20T08:07:31+00:00",
-      "publishedLabel": "20.07.2026 08:07",
-      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Heiligensee ist ein Kind verletzt worden.",
       "category": "Verkehr"
     }
   ]
