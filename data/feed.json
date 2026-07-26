@@ -3,27 +3,27 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-26T17:27:48.860968+00:00",
-    "checkedTime": "17:27 Uhr",
+    "checkedAt": "2026-07-26T18:35:02.083369+00:00",
+    "checkedTime": "18:35 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Anschlag im Umfeld des Christopher Street Day - Wer kennt diesen Mann",
-    "latestPublishedAt": "2026-07-26T02:30:13+00:00"
+    "latestTitle": "Anschlag im Umfeld des Christopher Street Day - Tatverdächtiger bei Polizeieinsatz erschossen",
+    "latestPublishedAt": "2026-07-26T18:23:00+00:00"
   },
   "items": [
     {
-      "title": "Anschlag im Umfeld des Christopher Street Day - Wer kennt diesen Mann",
+      "title": "Anschlag im Umfeld des Christopher Street Day - Tatverdächtiger bei Polizeieinsatz erschossen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697457.php",
-      "publishedAt": "2026-07-26T02:30:13+00:00",
-      "publishedLabel": "26.07.2026 02:30",
-      "summary": "Im Zusammenhang mit dem Anschlag im Umfeld des Christopher Street Day bitten die Polizei und die Generalstaatsanwaltschaft Berlin um Unterstützung .",
-      "category": "Einsatz"
+      "publishedAt": "2026-07-26T18:23:00+00:00",
+      "publishedLabel": "26.07.2026 18:23",
+      "summary": "Im Zuge der intensiven Ermittlungen der Polizei und Staatsanwaltschaft Berlin konnte heute am späten Nachmittag ein möglicher Aufenthaltsort des (...)",
+      "category": "Fahndung"
     },
     {
       "title": "Flucht vor der Polizei endet in Sackgasse",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697361.php",
       "publishedAt": "2026-07-24T12:49:46+00:00",
       "publishedLabel": "24.07.2026 12:49",
-      "summary": "Flucht vor der Polizei endet in Sackgasse",
+      "summary": "Ein 19-Jähriger fiel in der vergangenen Nacht in Marzahn Zivilbeamten wegen seiner Fahrweise auf.",
       "category": "Einsatz"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697204.php",
       "publishedAt": "2026-07-24T08:08:00+00:00",
       "publishedLabel": "24.07.2026 08:08",
-      "summary": "Gedenktafel beschmiert",
+      "summary": "Unbekannte haben in Charlottenburg eine Gedenktafel für die Opfer des Nationalsozialismus beschmiert.",
       "category": "Sonstiges"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696832.php",
       "publishedAt": "2026-07-23T09:01:00+00:00",
       "publishedLabel": "23.07.2026 09:01",
-      "summary": "Mann schießt mit Schreckschusswaffe",
+      "summary": "Gestern Abend schoss ein bislang unbekannter Mann in Hellersdorf mehrfach mit einer Schreckschusswaffe in die Luft und bedrohte anschließend einen anderen Mann",
       "category": "Sonstiges"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696803.php",
       "publishedAt": "2026-07-23T08:28:00+00:00",
       "publishedLabel": "23.07.2026 08:28",
-      "summary": "Mann bei Streit mit Messer verletzt – Tatverdächtiger festgenommen",
+      "summary": "Gestern Abend wurde in Lankwitz ein Mann bei einer Auseinandersetzung mit einem Messer verletzt.",
       "category": "Fahndung"
     },
     {
@@ -151,8 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696348.php",
       "publishedAt": "2026-07-22T09:05:00+00:00",
       "publishedLabel": "22.07.2026 09:05",
-      "summary": "Frau mit Messer angegriffen und angezündet",
-      "category": "Sonstiges"
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Polizei wegen einer gefährlichen Körperverletzung zu einer Unterkunft für wohnungslose Menschen in Schöneberg alarmiert.",
+      "category": "Ermittlung"
     }
   ]
 }
