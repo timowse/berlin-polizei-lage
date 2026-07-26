@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-26T12:03:54.322549+00:00",
-    "checkedTime": "12:03 Uhr",
+    "checkedAt": "2026-07-26T13:51:39.112630+00:00",
+    "checkedTime": "13:51 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Anschlag im Umfeld des Christopher Street Day - Wer kennt diesen Mann",
     "latestPublishedAt": "2026-07-26T02:30:13+00:00"
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697355.php",
       "publishedAt": "2026-07-24T12:32:32+00:00",
       "publishedLabel": "24.07.2026 12:32",
-      "summary": "Gestern Nachmittag kam es in einer Grünanlage in Moabit zu einer körperlichen Auseinandersetzung zwischen vier Männern.",
+      "summary": "Körperliche Auseinandersetzung zwischen mehreren Personen",
       "category": "Sonstiges"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696980.php",
       "publishedAt": "2026-07-23T12:24:29+00:00",
       "publishedLabel": "23.07.2026 12:24",
-      "summary": "Einsatzkräfte der Polizei Berlin nahmen am gestrigen Tag in Spandau i. R. von Durchsuchungsmaßnahmen eine 18-Jährige und einen 26 Jahre alten Mann vorläufig fest.",
+      "summary": "Zwei Festnahmen nach mutmaßlichem Raub",
       "category": "Ermittlung"
     },
     {
@@ -87,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696947.php",
       "publishedAt": "2026-07-23T11:40:00+00:00",
       "publishedLabel": "23.07.2026 11:40",
-      "summary": "Zivile Einsatzkräfte des Regionalabschnitts 17/18 nahmen gestern Nachmittag in Gesundbrunnen einen Mann fest, der mit einem Auto durch die Stadt gerast war.",
-      "category": "Verkehr"
+      "summary": "Mann rast durch die Stadt – vorläufige Festnahme",
+      "category": "Ermittlung"
     },
     {
       "title": "Mann schießt mit Schreckschusswaffe",
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696736.php",
       "publishedAt": "2026-07-23T07:34:00+00:00",
       "publishedLabel": "23.07.2026 07:34",
-      "summary": "In der vergangenen Nacht ist ein Mann in Kreuzberg von mehreren Unbekannten angegriffen und verletzt worden.",
+      "summary": "Mann von mehreren Unbekannten angegriffen und verletzt",
       "category": "Ermittlung"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696399.php",
       "publishedAt": "2026-07-22T10:10:00+00:00",
       "publishedLabel": "22.07.2026 10:10",
-      "summary": "Gemeinsam mit der Staatsanwaltschaft Berlin übernahm gestern die 7. Mordkommission die Ermittlungen wegen des Verdachts eines Tötungsdelikts gegen einen 43 Jahre alten Beschuldigten.",
+      "summary": "Frau stirbt nach Messerangriff",
       "category": "Ermittlung"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696371.php",
       "publishedAt": "2026-07-22T09:38:51+00:00",
       "publishedLabel": "22.07.2026 09:38",
-      "summary": "Bei einem Verkehrsunfall gestern Abend in Bohnsdorf wurde ein Mann erheblich verletzt.",
+      "summary": "Mann durch wegrollendes Auto verletzt",
       "category": "Verkehr"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696363.php",
       "publishedAt": "2026-07-22T09:29:00+00:00",
       "publishedLabel": "22.07.2026 09:29",
-      "summary": "In der vergangenen Nacht fuhr ein Autofahrer in Neukölln einen Mann und seinen Hund an.",
+      "summary": "Mann und Hund von Autofahrer angefahren",
       "category": "Verkehr"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696358.php",
       "publishedAt": "2026-07-22T09:20:00+00:00",
       "publishedLabel": "22.07.2026 09:20",
-      "summary": "Gestern Abend nahmen Einsatzkräfte in Wilmersdorf zwei mutmaßliche Räuber fest.",
+      "summary": "Mann mit Hammer angegriffen und ausgeraubt",
       "category": "Ermittlung"
     },
     {
@@ -151,8 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696348.php",
       "publishedAt": "2026-07-22T09:05:00+00:00",
       "publishedLabel": "22.07.2026 09:05",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Polizei wegen einer gefährlichen Körperverletzung zu einer Unterkunft für wohnungslose Menschen in Schöneberg alarmiert.",
-      "category": "Ermittlung"
+      "summary": "Frau mit Messer angegriffen und angezündet",
+      "category": "Sonstiges"
     }
   ]
 }
