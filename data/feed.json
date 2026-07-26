@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-26T15:06:00.622511+00:00",
-    "checkedTime": "15:06 Uhr",
+    "checkedAt": "2026-07-26T16:12:29.195799+00:00",
+    "checkedTime": "16:12 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Anschlag im Umfeld des Christopher Street Day - Wer kennt diesen Mann",
     "latestPublishedAt": "2026-07-26T02:30:13+00:00"
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697302.php",
       "publishedAt": "2026-07-24T10:43:31+00:00",
       "publishedLabel": "24.07.2026 10:43",
-      "summary": "Mann bespuckt und beleidigt Passanten und Polizeikräfte",
+      "summary": "In Lichtenberg randalierte gestern Nachmittag ein offenbar alkoholisierter Mann, bespuckte Passanten und Polizeikräfte und warf Gegenstände um sich.",
       "category": "Einsatz"
     },
     {
@@ -47,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697207.php",
       "publishedAt": "2026-07-24T08:18:21+00:00",
       "publishedLabel": "24.07.2026 08:18",
-      "summary": "Senior nach Verkehrsunfall verstorben – Polizei sucht Ersthelfer und weitere Zeugen",
+      "summary": "Nach einem Verkehrsunfall am Abend des 21. Juli 2026 in Tegel verstarb ein 78-jähriger Mann zwei Tage später im Krankenhaus.",
       "category": "Verkehr"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697204.php",
       "publishedAt": "2026-07-24T08:08:00+00:00",
       "publishedLabel": "24.07.2026 08:08",
-      "summary": "Gedenktafel beschmiert",
+      "summary": "Unbekannte haben in Charlottenburg eine Gedenktafel für die Opfer des Nationalsozialismus beschmiert.",
       "category": "Sonstiges"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697085.php",
       "publishedAt": "2026-07-23T15:21:00+00:00",
       "publishedLabel": "23.07.2026 15:21",
-      "summary": "Sachbeschädigung durch Farbschmiererei an Moschee",
+      "summary": "Heute Vormittag bemerkte ein Mitarbeiter des Zentralen Objektschutzes der Polizei Berlin eine Sachbeschädigung an einer Moschee in Neukölln.",
       "category": "Ermittlung"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696371.php",
       "publishedAt": "2026-07-22T09:38:51+00:00",
       "publishedLabel": "22.07.2026 09:38",
-      "summary": "Mann durch wegrollendes Auto verletzt",
+      "summary": "Bei einem Verkehrsunfall gestern Abend in Bohnsdorf wurde ein Mann erheblich verletzt.",
       "category": "Verkehr"
     },
     {
