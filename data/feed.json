@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-26T04:01:47.981779+00:00",
-    "checkedTime": "04:01 Uhr",
+    "checkedAt": "2026-07-26T06:46:24.517117+00:00",
+    "checkedTime": "06:46 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Flucht vor der Polizei endet in Sackgasse",
-    "latestPublishedAt": "2026-07-24T12:49:46+00:00"
+    "latestTitle": "Anschlag im Umfeld des Christopher Street Day - Wer kennt diesen Mann",
+    "latestPublishedAt": "2026-07-26T02:30:13+00:00"
   },
   "items": [
+    {
+      "title": "Anschlag im Umfeld des Christopher Street Day - Wer kennt diesen Mann",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697457.php",
+      "publishedAt": "2026-07-26T02:30:13+00:00",
+      "publishedLabel": "26.07.2026 02:30",
+      "summary": "Im Zusammenhang mit dem Anschlag im Umfeld des Christopher Street Day bitten die Polizei und die Generalstaatsanwaltschaft Berlin um Unterstützung .",
+      "category": "Einsatz"
+    },
     {
       "title": "Flucht vor der Polizei endet in Sackgasse",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697361.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-07-22T09:05:00+00:00",
       "publishedLabel": "22.07.2026 09:05",
       "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Polizei wegen einer gefährlichen Körperverletzung zu einer Unterkunft für wohnungslose Menschen in Schöneberg alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Bei Auseinandersetzung mit Messer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696343.php",
-      "publishedAt": "2026-07-22T08:57:52+00:00",
-      "publishedLabel": "22.07.2026 08:57",
-      "summary": "Im Rahmen einer Auseinandersetzung zwischen zwei Gruppen in Gesundbrunnen wurden in der vergangenen Nacht zwei junge Männer mit einem Messer verletzt.",
       "category": "Ermittlung"
     }
   ]
