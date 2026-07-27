@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-27T10:57:59.831292+00:00",
-    "checkedTime": "10:57 Uhr",
+    "checkedAt": "2026-07-27T13:42:22.547825+00:00",
+    "checkedTime": "13:42 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Anschlag im Umfeld des Christopher Street Day - Tatverdächtiger bei Polizeieinsatz erschossen",
-    "latestPublishedAt": "2026-07-26T18:23:00+00:00"
+    "latestTitle": "Mit Luftdruckgewehr auf Passanten geschossen – Tatverdächtiger vorläufig festgenommen",
+    "latestPublishedAt": "2026-07-27T12:33:31+00:00"
   },
   "items": [
+    {
+      "title": "Mit Luftdruckgewehr auf Passanten geschossen – Tatverdächtiger vorläufig festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697717.php",
+      "publishedAt": "2026-07-27T12:33:31+00:00",
+      "publishedLabel": "27.07.2026 12:33",
+      "summary": "In der Nacht zu Sonntag wurde ein Mann in Spandau durch einen Schuss aus einem Luftdruckgewehr verletzt.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Mutmaßlicher Brandstifter greift Polizeikräfte an – Schusswaffengebrauch",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697688.php",
+      "publishedAt": "2026-07-27T11:35:40+00:00",
+      "publishedLabel": "27.07.2026 11:35",
+      "summary": "Polizeikräfte haben in der Nacht zum Sonntag in Köpenick auf einen mutmaßlichen Brandstifter geschossen.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Streit eskaliert – zwei Männer erleiden Stichverletzungen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697665.php",
+      "publishedAt": "2026-07-27T11:01:22+00:00",
+      "publishedLabel": "27.07.2026 11:01",
+      "summary": "In Gesundbrunnen erlitten gestern Abend zwei Männer im Zuge eines Streits Stichverletzungen.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Auffahrunfall mit mehreren beteiligten Polizeifahrzeugen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697661.php",
+      "publishedAt": "2026-07-27T10:53:19+00:00",
+      "publishedLabel": "27.07.2026 10:53",
+      "summary": "Gestern Vormittag verunfallten sechs Einsatzfahrzeuge der Bundespolizei und ein weiteres Auto auf der BAB 115 in Nikolassee.",
+      "category": "Verkehr"
+    },
     {
       "title": "Anschlag im Umfeld des Christopher Street Day - Tatverdächtiger bei Polizeieinsatz erschossen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697457.php",
@@ -120,38 +152,6 @@
       "publishedAt": "2026-07-22T10:10:00+00:00",
       "publishedLabel": "22.07.2026 10:10",
       "summary": "Gemeinsam mit der Staatsanwaltschaft Berlin übernahm gestern die 7. Mordkommission die Ermittlungen wegen des Verdachts eines Tötungsdelikts gegen einen 43 Jahre alten Beschuldigten.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann durch wegrollendes Auto verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696371.php",
-      "publishedAt": "2026-07-22T09:38:51+00:00",
-      "publishedLabel": "22.07.2026 09:38",
-      "summary": "Bei einem Verkehrsunfall gestern Abend in Bohnsdorf wurde ein Mann erheblich verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mann und Hund von Autofahrer angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696363.php",
-      "publishedAt": "2026-07-22T09:29:00+00:00",
-      "publishedLabel": "22.07.2026 09:29",
-      "summary": "In der vergangenen Nacht fuhr ein Autofahrer in Neukölln einen Mann und seinen Hund an.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mann mit Hammer angegriffen und ausgeraubt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696358.php",
-      "publishedAt": "2026-07-22T09:20:00+00:00",
-      "publishedLabel": "22.07.2026 09:20",
-      "summary": "Gestern Abend nahmen Einsatzkräfte in Wilmersdorf zwei mutmaßliche Räuber fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Frau mit Messer angegriffen und angezündet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696348.php",
-      "publishedAt": "2026-07-22T09:05:00+00:00",
-      "publishedLabel": "22.07.2026 09:05",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Polizei wegen einer gefährlichen Körperverletzung zu einer Unterkunft für wohnungslose Menschen in Schöneberg alarmiert.",
       "category": "Ermittlung"
     }
   ]
