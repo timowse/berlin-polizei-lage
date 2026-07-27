@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-27T19:34:54.937109+00:00",
-    "checkedTime": "19:34 Uhr",
+    "checkedAt": "2026-07-27T20:52:08.671175+00:00",
+    "checkedTime": "20:52 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mit Luftdruckgewehr auf Passanten geschossen – Tatverdächtiger vorläufig festgenommen",
     "latestPublishedAt": "2026-07-27T12:33:31+00:00"
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696736.php",
       "publishedAt": "2026-07-23T07:34:00+00:00",
       "publishedLabel": "23.07.2026 07:34",
-      "summary": "Mann von mehreren Unbekannten angegriffen und verletzt",
+      "summary": "In der vergangenen Nacht ist ein Mann in Kreuzberg von mehreren Unbekannten angegriffen und verletzt worden.",
       "category": "Ermittlung"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696399.php",
       "publishedAt": "2026-07-22T10:10:00+00:00",
       "publishedLabel": "22.07.2026 10:10",
-      "summary": "Frau stirbt nach Messerangriff",
+      "summary": "Gemeinsam mit der Staatsanwaltschaft Berlin übernahm gestern die 7. Mordkommission die Ermittlungen wegen des Verdachts eines Tötungsdelikts gegen einen 43 Jahre alten Beschuldigten.",
       "category": "Ermittlung"
     }
   ]
