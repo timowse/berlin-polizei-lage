@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-28T17:07:45.801072+00:00",
-    "checkedTime": "17:07 Uhr",
+    "checkedAt": "2026-07-28T18:43:56.544658+00:00",
+    "checkedTime": "18:43 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Sachbeschädigung in Parkanlage",
     "latestPublishedAt": "2026-07-28T14:18:14+00:00"
@@ -23,15 +23,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698106.php",
       "publishedAt": "2026-07-28T13:20:17+00:00",
       "publishedLabel": "28.07.2026 13:20",
-      "summary": "Denkmal mit Hakenkreuz beschmiert",
-      "category": "Sonstiges"
+      "summary": "Heute Morgen wurden Einsatzkräfte des Polizeiabschnitts 14 zu einer Farbschmiererei in Weißensee alarmiert.",
+      "category": "Einsatz"
     },
     {
       "title": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698054.php",
       "publishedAt": "2026-07-28T12:18:30+00:00",
       "publishedLabel": "28.07.2026 12:18",
-      "summary": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
+      "summary": "Nach Schussabgaben im März diesen Jahres in Neukölln nahmen Einsatzkräfte einen Tatverdächtigen fest.",
       "category": "Fahndung"
     },
     {
