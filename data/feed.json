@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-28T11:27:30.741797+00:00",
-    "checkedTime": "11:27 Uhr",
+    "checkedAt": "2026-07-28T13:12:27.868725+00:00",
+    "checkedTime": "13:12 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Knallgeräusch löst Polizeieinsatz aus",
-    "latestPublishedAt": "2026-07-28T10:19:27+00:00"
+    "latestTitle": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
+    "latestPublishedAt": "2026-07-28T12:18:30+00:00"
   },
   "items": [
+    {
+      "title": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698054.php",
+      "publishedAt": "2026-07-28T12:18:30+00:00",
+      "publishedLabel": "28.07.2026 12:18",
+      "summary": "Nach Schussabgaben im März diesen Jahres in Neukölln nahmen Einsatzkräfte einen Tatverdächtigen fest.",
+      "category": "Fahndung"
+    },
     {
       "title": "Knallgeräusch löst Polizeieinsatz aus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697990.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "23.07.2026 12:24",
       "summary": "Einsatzkräfte der Polizei Berlin nahmen am gestrigen Tag in Spandau i. R. von Durchsuchungsmaßnahmen eine 18-Jährige und einen 26 Jahre alten Mann vorläufig fest.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Mann rast durch die Stadt – vorläufige Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696947.php",
-      "publishedAt": "2026-07-23T11:40:00+00:00",
-      "publishedLabel": "23.07.2026 11:40",
-      "summary": "Zivile Einsatzkräfte des Regionalabschnitts 17/18 nahmen gestern Nachmittag in Gesundbrunnen einen Mann fest, der mit einem Auto durch die Stadt gerast war.",
-      "category": "Verkehr"
     }
   ]
 }
