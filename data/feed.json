@@ -3,19 +3,35 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-28T13:12:27.868725+00:00",
-    "checkedTime": "13:12 Uhr",
+    "checkedAt": "2026-07-28T15:37:43.473065+00:00",
+    "checkedTime": "15:37 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
-    "latestPublishedAt": "2026-07-28T12:18:30+00:00"
+    "latestTitle": "Sachbeschädigung in Parkanlage",
+    "latestPublishedAt": "2026-07-28T14:18:14+00:00"
   },
   "items": [
+    {
+      "title": "Sachbeschädigung in Parkanlage",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698121.php",
+      "publishedAt": "2026-07-28T14:18:14+00:00",
+      "publishedLabel": "28.07.2026 14:18",
+      "summary": "Unbekannte haben in Tiergarten eine Sachbeschädigung in einer Parkanlage begangen.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Denkmal mit Hakenkreuz beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698106.php",
+      "publishedAt": "2026-07-28T13:20:17+00:00",
+      "publishedLabel": "28.07.2026 13:20",
+      "summary": "Heute Morgen wurden Einsatzkräfte des Polizeiabschnitts 14 zu einer Farbschmiererei in Weißensee alarmiert.",
+      "category": "Einsatz"
+    },
     {
       "title": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698054.php",
       "publishedAt": "2026-07-28T12:18:30+00:00",
       "publishedLabel": "28.07.2026 12:18",
-      "summary": "Nach Schussabgaben im März diesen Jahres in Neukölln nahmen Einsatzkräfte einen Tatverdächtigen fest.",
+      "summary": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
       "category": "Fahndung"
     },
     {
@@ -23,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697990.php",
       "publishedAt": "2026-07-28T10:19:27+00:00",
       "publishedLabel": "28.07.2026 10:19",
-      "summary": "Gestern Abend wurden Polizeikräfte wegen Knallgeräuschen nach Kreuzberg alarmiert.",
+      "summary": "Knallgeräusch löst Polizeieinsatz aus",
       "category": "Einsatz"
     },
     {
@@ -137,22 +153,6 @@
       "publishedLabel": "24.07.2026 08:03",
       "summary": "Ein bislang unbekannt gebliebener Mann soll gestern Nachmittag im Ortsteil Wedding eine Transfrau angespuckt und beleidigt haben.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Sachbeschädigung durch Farbschmiererei an Moschee",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697085.php",
-      "publishedAt": "2026-07-23T15:21:00+00:00",
-      "publishedLabel": "23.07.2026 15:21",
-      "summary": "Heute Vormittag bemerkte ein Mitarbeiter des Zentralen Objektschutzes der Polizei Berlin eine Sachbeschädigung an einer Moschee in Neukölln.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Zwei Festnahmen nach mutmaßlichem Raub",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696980.php",
-      "publishedAt": "2026-07-23T12:24:29+00:00",
-      "publishedLabel": "23.07.2026 12:24",
-      "summary": "Einsatzkräfte der Polizei Berlin nahmen am gestrigen Tag in Spandau i. R. von Durchsuchungsmaßnahmen eine 18-Jährige und einen 26 Jahre alten Mann vorläufig fest.",
-      "category": "Ermittlung"
     }
   ]
 }
