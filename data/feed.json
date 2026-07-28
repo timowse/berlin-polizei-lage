@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-28T15:37:43.473065+00:00",
-    "checkedTime": "15:37 Uhr",
+    "checkedAt": "2026-07-28T17:07:45.801072+00:00",
+    "checkedTime": "17:07 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Sachbeschädigung in Parkanlage",
     "latestPublishedAt": "2026-07-28T14:18:14+00:00"
@@ -23,8 +23,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698106.php",
       "publishedAt": "2026-07-28T13:20:17+00:00",
       "publishedLabel": "28.07.2026 13:20",
-      "summary": "Heute Morgen wurden Einsatzkräfte des Polizeiabschnitts 14 zu einer Farbschmiererei in Weißensee alarmiert.",
-      "category": "Einsatz"
+      "summary": "Denkmal mit Hakenkreuz beschmiert",
+      "category": "Sonstiges"
     },
     {
       "title": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697990.php",
       "publishedAt": "2026-07-28T10:19:27+00:00",
       "publishedLabel": "28.07.2026 10:19",
-      "summary": "Knallgeräusch löst Polizeieinsatz aus",
+      "summary": "Gestern Abend wurden Polizeikräfte wegen Knallgeräuschen nach Kreuzberg alarmiert.",
       "category": "Einsatz"
     },
     {
