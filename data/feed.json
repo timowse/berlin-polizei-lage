@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-28T09:09:44.967919+00:00",
-    "checkedTime": "09:09 Uhr",
+    "checkedAt": "2026-07-28T11:27:30.741797+00:00",
+    "checkedTime": "11:27 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mit Luftdruckgewehr auf Passanten geschossen – Tatverdächtiger vorläufig festgenommen",
-    "latestPublishedAt": "2026-07-27T12:33:31+00:00"
+    "latestTitle": "Knallgeräusch löst Polizeieinsatz aus",
+    "latestPublishedAt": "2026-07-28T10:19:27+00:00"
   },
   "items": [
+    {
+      "title": "Knallgeräusch löst Polizeieinsatz aus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697990.php",
+      "publishedAt": "2026-07-28T10:19:27+00:00",
+      "publishedLabel": "28.07.2026 10:19",
+      "summary": "Gestern Abend wurden Polizeikräfte wegen Knallgeräuschen nach Kreuzberg alarmiert.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Brand an Gemeinschaftsunterkunft",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697987.php",
+      "publishedAt": "2026-07-28T10:07:38+00:00",
+      "publishedLabel": "28.07.2026 10:07",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu einer Gemeinschaftsunterkunft für geflüchtete Menschen in Hellersdorf alarmiert.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mit Maschinenpistole bedroht – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697966.php",
+      "publishedAt": "2026-07-28T09:55:46+00:00",
+      "publishedLabel": "28.07.2026 09:55",
+      "summary": "In der vergangenen Nacht durchsuchten Einsatzkräfte der Polizei Berlin die Wohnung eines 42-jährigen Tatverdächtigen in Alt-Hohenschönhausen.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Mann durch Schuss aus mutmaßlicher Schreckschusswaffe und Reizgas verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697957.php",
+      "publishedAt": "2026-07-28T09:40:25+00:00",
+      "publishedLabel": "28.07.2026 09:40",
+      "summary": "Gestern Abend wurde ein Mann im U-Bahnhof Alexanderplatz in Mitte angegriffen und verletzt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mit Luftdruckgewehr auf Passanten geschossen – Tatverdächtiger vorläufig festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697717.php",
@@ -121,38 +153,6 @@
       "publishedLabel": "23.07.2026 11:40",
       "summary": "Zivile Einsatzkräfte des Regionalabschnitts 17/18 nahmen gestern Nachmittag in Gesundbrunnen einen Mann fest, der mit einem Auto durch die Stadt gerast war.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Mann schießt mit Schreckschusswaffe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696832.php",
-      "publishedAt": "2026-07-23T09:01:00+00:00",
-      "publishedLabel": "23.07.2026 09:01",
-      "summary": "Gestern Abend schoss ein bislang unbekannter Mann in Hellersdorf mehrfach mit einer Schreckschusswaffe in die Luft und bedrohte anschließend einen anderen Mann",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Mann bei Streit mit Messer verletzt – Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696803.php",
-      "publishedAt": "2026-07-23T08:28:00+00:00",
-      "publishedLabel": "23.07.2026 08:28",
-      "summary": "Gestern Abend wurde in Lankwitz ein Mann bei einer Auseinandersetzung mit einem Messer verletzt.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Mann von mehreren Unbekannten angegriffen und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696736.php",
-      "publishedAt": "2026-07-23T07:34:00+00:00",
-      "publishedLabel": "23.07.2026 07:34",
-      "summary": "In der vergangenen Nacht ist ein Mann in Kreuzberg von mehreren Unbekannten angegriffen und verletzt worden.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Frau stirbt nach Messerangriff",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696399.php",
-      "publishedAt": "2026-07-22T10:10:00+00:00",
-      "publishedLabel": "22.07.2026 10:10",
-      "summary": "Gemeinsam mit der Staatsanwaltschaft Berlin übernahm gestern die 7. Mordkommission die Ermittlungen wegen des Verdachts eines Tötungsdelikts gegen einen 43 Jahre alten Beschuldigten.",
-      "category": "Ermittlung"
     }
   ]
 }
