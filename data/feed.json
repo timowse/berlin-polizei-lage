@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-30T11:24:09.932950+00:00",
-    "checkedTime": "11:24 Uhr",
+    "checkedAt": "2026-07-30T13:06:31.890387+00:00",
+    "checkedTime": "13:06 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
-    "latestPublishedAt": "2026-07-30T09:30:00+00:00"
+    "latestTitle": "Senior angegriffen und erheblich verletzt",
+    "latestPublishedAt": "2026-07-30T12:37:31+00:00"
   },
   "items": [
+    {
+      "title": "Senior angegriffen und erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698754.php",
+      "publishedAt": "2026-07-30T12:37:31+00:00",
+      "publishedLabel": "30.07.2026 12:37",
+      "summary": "Gestern Abend wurde ein Senior in Schöneberg von einem Unbekannten angegriffen und verletzt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Radfahrer von Lastwagen angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698711.php",
+      "publishedAt": "2026-07-30T11:41:01+00:00",
+      "publishedLabel": "30.07.2026 11:41",
+      "summary": "In Moabit kam es gestern Vormittag zu einem Verkehrsunfall.",
+      "category": "Verkehr"
+    },
     {
       "title": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698642.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "27.07.2026 10:53",
       "summary": "Gestern Vormittag verunfallten sechs Einsatzfahrzeuge der Bundespolizei und ein weiteres Auto auf der BAB 115 in Nikolassee.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Anschlag im Umfeld des Christopher Street Day - Tatverdächtiger bei Polizeieinsatz erschossen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697457.php",
-      "publishedAt": "2026-07-26T18:23:00+00:00",
-      "publishedLabel": "26.07.2026 18:23",
-      "summary": "Im Zuge der intensiven Ermittlungen der Polizei und Staatsanwaltschaft Berlin konnte heute am späten Nachmittag ein möglicher Aufenthaltsort des (...)",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Flucht vor der Polizei endet in Sackgasse",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697361.php",
-      "publishedAt": "2026-07-24T12:49:46+00:00",
-      "publishedLabel": "24.07.2026 12:49",
-      "summary": "Ein 19-Jähriger fiel in der vergangenen Nacht in Marzahn Zivilbeamten wegen seiner Fahrweise auf.",
-      "category": "Einsatz"
     }
   ]
 }
