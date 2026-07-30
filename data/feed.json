@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-30T06:35:14.771704+00:00",
-    "checkedTime": "06:35 Uhr",
+    "checkedAt": "2026-07-30T09:16:37.390115+00:00",
+    "checkedTime": "09:16 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Autofahrer bei Zusammenstoß mit Straßenbahn erheblich verletzt",
-    "latestPublishedAt": "2026-07-29T11:10:43+00:00"
+    "latestTitle": "Polizei Berlin erlässt Allgemeinverfügung zum 2. August 2026",
+    "latestPublishedAt": "2026-07-30T08:46:49+00:00"
   },
   "items": [
+    {
+      "title": "Polizei Berlin erlässt Allgemeinverfügung zum 2. August 2026",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698585.php",
+      "publishedAt": "2026-07-30T08:46:49+00:00",
+      "publishedLabel": "30.07.2026 08:46",
+      "summary": "Am 2. August 2026, erlässt die Polizei Berlin, im Rahmen der an diesem Tag stattfindenden polizeilichen Maßnahmen, eine Allgemeinverfügung.",
+      "category": "Einsatz"
+    },
     {
       "title": "Autofahrer bei Zusammenstoß mit Straßenbahn erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698345.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "24.07.2026 10:43",
       "summary": "In Lichtenberg randalierte gestern Nachmittag ein offenbar alkoholisierter Mann, bespuckte Passanten und Polizeikräfte und warf Gegenstände um sich.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Senior nach Verkehrsunfall verstorben – Polizei sucht Ersthelfer und weitere Zeugen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697207.php",
-      "publishedAt": "2026-07-24T08:18:21+00:00",
-      "publishedLabel": "24.07.2026 08:18",
-      "summary": "Nach einem Verkehrsunfall am Abend des 21. Juli 2026 in Tegel verstarb ein 78-jähriger Mann zwei Tage später im Krankenhaus.",
-      "category": "Verkehr"
     }
   ]
 }
