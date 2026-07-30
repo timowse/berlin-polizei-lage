@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-30T09:16:37.390115+00:00",
-    "checkedTime": "09:16 Uhr",
+    "checkedAt": "2026-07-30T11:24:09.932950+00:00",
+    "checkedTime": "11:24 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Polizei Berlin erlässt Allgemeinverfügung zum 2. August 2026",
-    "latestPublishedAt": "2026-07-30T08:46:49+00:00"
+    "latestTitle": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
+    "latestPublishedAt": "2026-07-30T09:30:00+00:00"
   },
   "items": [
+    {
+      "title": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698642.php",
+      "publishedAt": "2026-07-30T09:30:00+00:00",
+      "publishedLabel": "30.07.2026 09:30",
+      "summary": "Mit einem länderübergreifend koordinierten Einsatz haben Kräfte der BAO Ferrum des Landeskriminalamtes der Polizei Berlin am Dienstag nach intensiven...",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Kind bei Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698626.php",
+      "publishedAt": "2026-07-30T09:25:24+00:00",
+      "publishedLabel": "30.07.2026 09:25",
+      "summary": "Gestern Abend ereignete sich in Alt-Hohenschönhausen ein Verkehrsunfall, bei dem ein Kind verletzt wurde.",
+      "category": "Verkehr"
+    },
     {
       "title": "Polizei Berlin erlässt Allgemeinverfügung zum 2. August 2026",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698585.php",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-07-24T12:49:46+00:00",
       "publishedLabel": "24.07.2026 12:49",
       "summary": "Ein 19-Jähriger fiel in der vergangenen Nacht in Marzahn Zivilbeamten wegen seiner Fahrweise auf.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Körperliche Auseinandersetzung zwischen mehreren Personen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697355.php",
-      "publishedAt": "2026-07-24T12:32:32+00:00",
-      "publishedLabel": "24.07.2026 12:32",
-      "summary": "Gestern Nachmittag kam es in einer Grünanlage in Moabit zu einer körperlichen Auseinandersetzung zwischen vier Männern.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Mann bespuckt und beleidigt Passanten und Polizeikräfte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697302.php",
-      "publishedAt": "2026-07-24T10:43:31+00:00",
-      "publishedLabel": "24.07.2026 10:43",
-      "summary": "In Lichtenberg randalierte gestern Nachmittag ein offenbar alkoholisierter Mann, bespuckte Passanten und Polizeikräfte und warf Gegenstände um sich.",
       "category": "Einsatz"
     }
   ]
