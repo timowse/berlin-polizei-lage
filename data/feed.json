@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-30T00:54:55.091944+00:00",
-    "checkedTime": "00:54 Uhr",
+    "checkedAt": "2026-07-30T03:57:34.037363+00:00",
+    "checkedTime": "03:57 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Autofahrer bei Zusammenstoß mit Straßenbahn erheblich verletzt",
     "latestPublishedAt": "2026-07-29T11:10:43+00:00"
@@ -47,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698054.php",
       "publishedAt": "2026-07-28T12:18:30+00:00",
       "publishedLabel": "28.07.2026 12:18",
-      "summary": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
+      "summary": "Nach Schussabgaben im März diesen Jahres in Neukölln nahmen Einsatzkräfte einen Tatverdächtigen fest.",
       "category": "Fahndung"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697990.php",
       "publishedAt": "2026-07-28T10:19:27+00:00",
       "publishedLabel": "28.07.2026 10:19",
-      "summary": "Knallgeräusch löst Polizeieinsatz aus",
+      "summary": "Gestern Abend wurden Polizeikräfte wegen Knallgeräuschen nach Kreuzberg alarmiert.",
       "category": "Einsatz"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697987.php",
       "publishedAt": "2026-07-28T10:07:38+00:00",
       "publishedLabel": "28.07.2026 10:07",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu einer Gemeinschaftsunterkunft für geflüchtete Menschen in Hellersdorf alarmiert.",
+      "summary": "Brand an Gemeinschaftsunterkunft",
       "category": "Ermittlung"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697966.php",
       "publishedAt": "2026-07-28T09:55:46+00:00",
       "publishedLabel": "28.07.2026 09:55",
-      "summary": "Mit Maschinenpistole bedroht – Tatverdächtiger festgenommen",
+      "summary": "In der vergangenen Nacht durchsuchten Einsatzkräfte der Polizei Berlin die Wohnung eines 42-jährigen Tatverdächtigen in Alt-Hohenschönhausen.",
       "category": "Fahndung"
     },
     {
