@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-30T13:06:31.890387+00:00",
-    "checkedTime": "13:06 Uhr",
+    "checkedAt": "2026-07-30T15:21:32.231557+00:00",
+    "checkedTime": "15:21 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Senior angegriffen und erheblich verletzt",
-    "latestPublishedAt": "2026-07-30T12:37:31+00:00"
+    "latestTitle": "Öffentlichkeitsfahndung erfolgreich - Tatverdächtiger ermittelt",
+    "latestPublishedAt": "2026-07-30T14:11:00+00:00"
   },
   "items": [
+    {
+      "title": "Öffentlichkeitsfahndung erfolgreich - Tatverdächtiger ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674407.php",
+      "publishedAt": "2026-07-30T14:11:00+00:00",
+      "publishedLabel": "30.07.2026 14:11",
+      "summary": "Nach Zeugenhinweisen und anschließenden Ermittlungen konnte ein Tatverdächtiger zur am 10. Oktober 2026 verübten Gewalttat namhaft gemacht werden.",
+      "category": "Fahndung"
+    },
     {
       "title": "Senior angegriffen und erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698754.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "27.07.2026 11:01",
       "summary": "In Gesundbrunnen erlitten gestern Abend zwei Männer im Zuge eines Streits Stichverletzungen.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Auffahrunfall mit mehreren beteiligten Polizeifahrzeugen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697661.php",
-      "publishedAt": "2026-07-27T10:53:19+00:00",
-      "publishedLabel": "27.07.2026 10:53",
-      "summary": "Gestern Vormittag verunfallten sechs Einsatzfahrzeuge der Bundespolizei und ein weiteres Auto auf der BAB 115 in Nikolassee.",
-      "category": "Verkehr"
     }
   ]
 }
