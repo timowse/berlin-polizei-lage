@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-31T10:17:08.157637+00:00",
-    "checkedTime": "10:17 Uhr",
+    "checkedAt": "2026-07-31T12:21:58.649365+00:00",
+    "checkedTime": "12:21 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Schüsse auf Imbiss",
-    "latestPublishedAt": "2026-07-31T10:12:13+00:00"
+    "latestTitle": "Fahrzeuge durch Brand beschädigt",
+    "latestPublishedAt": "2026-07-31T11:06:18+00:00"
   },
   "items": [
+    {
+      "title": "Fahrzeuge durch Brand beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699168.php",
+      "publishedAt": "2026-07-31T11:06:18+00:00",
+      "publishedLabel": "31.07.2026 11:06",
+      "summary": "Gestern Abend wurden mehrere Fahrzeuge bei einem Brand im Märkischen Viertel beschädigt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Schüsse auf Imbiss",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699091.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "28.07.2026 09:55",
       "summary": "In der vergangenen Nacht durchsuchten Einsatzkräfte der Polizei Berlin die Wohnung eines 42-jährigen Tatverdächtigen in Alt-Hohenschönhausen.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Mann durch Schuss aus mutmaßlicher Schreckschusswaffe und Reizgas verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697957.php",
-      "publishedAt": "2026-07-28T09:40:25+00:00",
-      "publishedLabel": "28.07.2026 09:40",
-      "summary": "Gestern Abend wurde ein Mann im U-Bahnhof Alexanderplatz in Mitte angegriffen und verletzt.",
-      "category": "Verkehr"
     }
   ]
 }
