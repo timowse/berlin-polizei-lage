@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-31T04:46:22.073078+00:00",
-    "checkedTime": "04:46 Uhr",
+    "checkedAt": "2026-07-31T07:39:46.345338+00:00",
+    "checkedTime": "07:39 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Vermisster Senior ist wieder da",
     "latestPublishedAt": "2026-07-30T16:22:00+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698626.php",
       "publishedAt": "2026-07-30T09:25:24+00:00",
       "publishedLabel": "30.07.2026 09:25",
-      "summary": "Kind bei Unfall verletzt",
+      "summary": "Gestern Abend ereignete sich in Alt-Hohenschönhausen ein Verkehrsunfall, bei dem ein Kind verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698585.php",
       "publishedAt": "2026-07-30T08:46:49+00:00",
       "publishedLabel": "30.07.2026 08:46",
-      "summary": "Polizei Berlin erlässt Allgemeinverfügung zum 2. August 2026",
+      "summary": "Am 2. August 2026, erlässt die Polizei Berlin, im Rahmen der an diesem Tag stattfindenden polizeilichen Maßnahmen, eine Allgemeinverfügung.",
       "category": "Einsatz"
     },
     {
