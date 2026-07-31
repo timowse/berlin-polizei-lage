@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-07-31T07:39:46.345338+00:00",
-    "checkedTime": "07:39 Uhr",
+    "checkedAt": "2026-07-31T10:17:08.157637+00:00",
+    "checkedTime": "10:17 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Vermisster Senior ist wieder da",
-    "latestPublishedAt": "2026-07-30T16:22:00+00:00"
+    "latestTitle": "Schüsse auf Imbiss",
+    "latestPublishedAt": "2026-07-31T10:12:13+00:00"
   },
   "items": [
+    {
+      "title": "Schüsse auf Imbiss",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699091.php",
+      "publishedAt": "2026-07-31T10:12:13+00:00",
+      "publishedLabel": "31.07.2026 10:12",
+      "summary": "In der vergangenen Nacht kam es zu Schussabgaben in Mariendorf.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698958.php",
+      "publishedAt": "2026-07-31T08:20:10+00:00",
+      "publishedLabel": "31.07.2026 08:20",
+      "summary": "Mit einem Bild aus einer Überwachungskamera bittet die Polizei Berlin um Mithilfe bei der Suche nach einem Tatverdächtigen zu einem Trickbetrug.",
+      "category": "Fahndung"
+    },
     {
       "title": "Vermisster Senior ist wieder da",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "28.07.2026 09:40",
       "summary": "Gestern Abend wurde ein Mann im U-Bahnhof Alexanderplatz in Mitte angegriffen und verletzt.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Mit Luftdruckgewehr auf Passanten geschossen – Tatverdächtiger vorläufig festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697717.php",
-      "publishedAt": "2026-07-27T12:33:31+00:00",
-      "publishedLabel": "27.07.2026 12:33",
-      "summary": "In der Nacht zu Sonntag wurde ein Mann in Spandau durch einen Schuss aus einem Luftdruckgewehr verletzt.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Mutmaßlicher Brandstifter greift Polizeikräfte an – Schusswaffengebrauch",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697688.php",
-      "publishedAt": "2026-07-27T11:35:40+00:00",
-      "publishedLabel": "27.07.2026 11:35",
-      "summary": "Polizeikräfte haben in der Nacht zum Sonntag in Köpenick auf einen mutmaßlichen Brandstifter geschossen.",
-      "category": "Ermittlung"
     }
   ]
 }
