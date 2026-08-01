@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-01T07:11:28.322780+00:00",
-    "checkedTime": "07:11 Uhr",
+    "checkedAt": "2026-08-01T09:25:53.964427+00:00",
+    "checkedTime": "09:25 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Bedrohung mit Messer – DEIG-Einsatz",
     "latestPublishedAt": "2026-07-31T13:44:54+00:00"
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698642.php",
       "publishedAt": "2026-07-30T09:30:00+00:00",
       "publishedLabel": "30.07.2026 09:30",
-      "summary": "Mit einem länderübergreifend koordinierten Einsatz haben Kräfte der BAO Ferrum des Landeskriminalamtes der Polizei Berlin am Dienstag nach intensiven...",
+      "summary": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
       "category": "Einsatz"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698626.php",
       "publishedAt": "2026-07-30T09:25:24+00:00",
       "publishedLabel": "30.07.2026 09:25",
-      "summary": "Gestern Abend ereignete sich in Alt-Hohenschönhausen ein Verkehrsunfall, bei dem ein Kind verletzt wurde.",
+      "summary": "Kind bei Unfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698054.php",
       "publishedAt": "2026-07-28T12:18:30+00:00",
       "publishedLabel": "28.07.2026 12:18",
-      "summary": "Nach Schussabgaben im März diesen Jahres in Neukölln nahmen Einsatzkräfte einen Tatverdächtigen fest.",
+      "summary": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
       "category": "Fahndung"
     },
     {
