@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-01T09:25:53.964427+00:00",
-    "checkedTime": "09:25 Uhr",
+    "checkedAt": "2026-08-01T10:58:50.034152+00:00",
+    "checkedTime": "10:58 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Bedrohung mit Messer – DEIG-Einsatz",
-    "latestPublishedAt": "2026-07-31T13:44:54+00:00"
+    "latestTitle": "Schüsse auf Wohnhaus",
+    "latestPublishedAt": "2026-08-01T09:44:03+00:00"
   },
   "items": [
+    {
+      "title": "Schüsse auf Wohnhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699318.php",
+      "publishedAt": "2026-08-01T09:44:03+00:00",
+      "publishedLabel": "01.08.2026 09:44",
+      "summary": "Gestern Abend wurden in Spandau Schüsse auf ein Wohnhaus ein abgegeben.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Bedrohung mit Messer – DEIG-Einsatz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699292.php",
@@ -87,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698642.php",
       "publishedAt": "2026-07-30T09:30:00+00:00",
       "publishedLabel": "30.07.2026 09:30",
-      "summary": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
+      "summary": "Mit einem länderübergreifend koordinierten Einsatz haben Kräfte der BAO Ferrum des Landeskriminalamtes der Polizei Berlin am Dienstag nach intensiven...",
       "category": "Einsatz"
     },
     {
@@ -95,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698626.php",
       "publishedAt": "2026-07-30T09:25:24+00:00",
       "publishedLabel": "30.07.2026 09:25",
-      "summary": "Kind bei Unfall verletzt",
+      "summary": "Gestern Abend ereignete sich in Alt-Hohenschönhausen ein Verkehrsunfall, bei dem ein Kind verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -143,16 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698054.php",
       "publishedAt": "2026-07-28T12:18:30+00:00",
       "publishedLabel": "28.07.2026 12:18",
-      "summary": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
+      "summary": "Nach Schussabgaben im März diesen Jahres in Neukölln nahmen Einsatzkräfte einen Tatverdächtigen fest.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Knallgeräusch löst Polizeieinsatz aus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697990.php",
-      "publishedAt": "2026-07-28T10:19:27+00:00",
-      "publishedLabel": "28.07.2026 10:19",
-      "summary": "Gestern Abend wurden Polizeikräfte wegen Knallgeräuschen nach Kreuzberg alarmiert.",
-      "category": "Einsatz"
     }
   ]
 }
