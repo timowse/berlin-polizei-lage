@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-01T12:07:29.403866+00:00",
-    "checkedTime": "12:07 Uhr",
+    "checkedAt": "2026-08-01T13:52:12.225928+00:00",
+    "checkedTime": "13:52 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Schüsse auf Wohnhaus",
-    "latestPublishedAt": "2026-08-01T09:44:03+00:00"
+    "latestTitle": "Gefährliche Körperverletzung mit Messer",
+    "latestPublishedAt": "2026-08-01T12:24:57+00:00"
   },
   "items": [
+    {
+      "title": "Gefährliche Körperverletzung mit Messer",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699326.php",
+      "publishedAt": "2026-08-01T12:24:57+00:00",
+      "publishedLabel": "01.08.2026 12:24",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte des Regionalabschnitts 27/28 wegen einer gefährlichen Körperverletzung nach Mitte alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Schüsse auf Wohnhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699318.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "28.07.2026 13:20",
       "summary": "Heute Morgen wurden Einsatzkräfte des Polizeiabschnitts 14 zu einer Farbschmiererei in Weißensee alarmiert.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698054.php",
-      "publishedAt": "2026-07-28T12:18:30+00:00",
-      "publishedLabel": "28.07.2026 12:18",
-      "summary": "Nach Schussabgaben im März diesen Jahres in Neukölln nahmen Einsatzkräfte einen Tatverdächtigen fest.",
-      "category": "Fahndung"
     }
   ]
 }
