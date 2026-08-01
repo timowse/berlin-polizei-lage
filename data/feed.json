@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-01T13:52:12.225928+00:00",
-    "checkedTime": "13:52 Uhr",
+    "checkedAt": "2026-08-01T15:01:01.897923+00:00",
+    "checkedTime": "15:01 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Gefährliche Körperverletzung mit Messer",
     "latestPublishedAt": "2026-08-01T12:24:57+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699318.php",
       "publishedAt": "2026-08-01T09:44:03+00:00",
       "publishedLabel": "01.08.2026 09:44",
-      "summary": "Gestern Abend wurden in Spandau Schüsse auf ein Wohnhaus ein abgegeben.",
+      "summary": "Schüsse auf Wohnhaus",
       "category": "Sonstiges"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698958.php",
       "publishedAt": "2026-07-31T08:20:10+00:00",
       "publishedLabel": "31.07.2026 08:20",
-      "summary": "Mit einem Bild aus einer Überwachungskamera bittet die Polizei Berlin um Mithilfe bei der Suche nach einem Tatverdächtigen zu einem Trickbetrug.",
+      "summary": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
       "category": "Fahndung"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
       "publishedAt": "2026-07-30T16:22:00+00:00",
       "publishedLabel": "30.07.2026 16:22",
-      "summary": "Der vermisste 66-järhige Senior ist wieder da.",
+      "summary": "Vermisster Senior ist wieder da",
       "category": "Fahndung"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698642.php",
       "publishedAt": "2026-07-30T09:30:00+00:00",
       "publishedLabel": "30.07.2026 09:30",
-      "summary": "Mit einem länderübergreifend koordinierten Einsatz haben Kräfte der BAO Ferrum des Landeskriminalamtes der Polizei Berlin am Dienstag nach intensiven...",
+      "summary": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
       "category": "Einsatz"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698626.php",
       "publishedAt": "2026-07-30T09:25:24+00:00",
       "publishedLabel": "30.07.2026 09:25",
-      "summary": "Gestern Abend ereignete sich in Alt-Hohenschönhausen ein Verkehrsunfall, bei dem ein Kind verletzt wurde.",
+      "summary": "Kind bei Unfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698292.php",
       "publishedAt": "2026-07-29T09:34:49+00:00",
       "publishedLabel": "29.07.2026 09:34",
-      "summary": "Gestern Mittag wurden Einsatzkräfte zu einer Sachbeschädigung auf einem Schulgelände in Zehlendorf gerufen.",
+      "summary": "Sachbeschädigung durch Brand auf Schulgelände",
       "category": "Ermittlung"
     },
     {
