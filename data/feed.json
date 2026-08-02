@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-02T15:15:57.099683+00:00",
-    "checkedTime": "15:15 Uhr",
+    "checkedAt": "2026-08-02T16:17:05.609325+00:00",
+    "checkedTime": "16:17 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Fahrradfahrer umgefahren und geflüchtet",
-    "latestPublishedAt": "2026-08-02T12:08:54+00:00"
+    "latestTitle": "Störung beim Anbringen von Wahlplakaten",
+    "latestPublishedAt": "2026-08-02T15:59:45+00:00"
   },
   "items": [
+    {
+      "title": "Störung beim Anbringen von Wahlplakaten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699336.php",
+      "publishedAt": "2026-08-02T15:59:45+00:00",
+      "publishedLabel": "02.08.2026 15:59",
+      "summary": "Heute Vormittag kam es in Friedrichshain zu einer Störung beim Anbringen von Wahlplakaten.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Fahrradfahrer umgefahren und geflüchtet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699335.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "30.07.2026 08:46",
       "summary": "Am 2. August 2026, erlässt die Polizei Berlin, im Rahmen der an diesem Tag stattfindenden polizeilichen Maßnahmen, eine Allgemeinverfügung.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Autofahrer bei Zusammenstoß mit Straßenbahn erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698345.php",
-      "publishedAt": "2026-07-29T11:10:43+00:00",
-      "publishedLabel": "29.07.2026 11:10",
-      "summary": "Ein Autofahrer ist gestern Vormittag bei einem Verkehrsunfall in Marzahn erheblich verletzt worden.",
-      "category": "Verkehr"
     }
   ]
 }
