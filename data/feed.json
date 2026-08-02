@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-02T11:04:55.216224+00:00",
-    "checkedTime": "11:04 Uhr",
+    "checkedAt": "2026-08-02T12:12:51.468232+00:00",
+    "checkedTime": "12:12 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Gefährliche Körperverletzung mit Messer",
-    "latestPublishedAt": "2026-08-01T12:24:57+00:00"
+    "latestTitle": "Fahrradfahrer umgefahren und geflüchtet",
+    "latestPublishedAt": "2026-08-02T12:08:54+00:00"
   },
   "items": [
+    {
+      "title": "Fahrradfahrer umgefahren und geflüchtet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699335.php",
+      "publishedAt": "2026-08-02T12:08:54+00:00",
+      "publishedLabel": "02.08.2026 12:08",
+      "summary": "Am Abend, dem 25.07.2026, gegen 22 Uhr wurden auf dem Ahornsteig im Großen Tiergarten in Berlin mehrere Personen von einem Pkw angefahren. Mehrere Menschen wurden dabei verletzt, darunter auch lebensgefährlich.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mehrere Verletzte nach Auseinandersetzung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699334.php",
+      "publishedAt": "2026-08-02T11:46:25+00:00",
+      "publishedLabel": "02.08.2026 11:46",
+      "summary": "In der vergangenen Nacht kam es in Schöneberg zu einer körperlichen Auseinandersetzung zwischen mehreren Männern.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Verkehrsunfall mit mehreren Verletzten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699333.php",
+      "publishedAt": "2026-08-02T11:29:21+00:00",
+      "publishedLabel": "02.08.2026 11:29",
+      "summary": "Gestern Abend ereignete sich ein Verkehrsunfall zwischen zwei Autofahrern in Pankow.",
+      "category": "Verkehr"
+    },
     {
       "title": "Gefährliche Körperverletzung mit Messer",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699326.php",
@@ -129,30 +153,6 @@
       "publishedLabel": "29.07.2026 11:10",
       "summary": "Ein Autofahrer ist gestern Vormittag bei einem Verkehrsunfall in Marzahn erheblich verletzt worden.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Sachbeschädigung durch Brand auf Schulgelände",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698292.php",
-      "publishedAt": "2026-07-29T09:34:49+00:00",
-      "publishedLabel": "29.07.2026 09:34",
-      "summary": "Gestern Mittag wurden Einsatzkräfte zu einer Sachbeschädigung auf einem Schulgelände in Zehlendorf gerufen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Sachbeschädigung in Parkanlage",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698121.php",
-      "publishedAt": "2026-07-28T14:18:14+00:00",
-      "publishedLabel": "28.07.2026 14:18",
-      "summary": "Unbekannte haben in Tiergarten eine Sachbeschädigung in einer Parkanlage begangen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Denkmal mit Hakenkreuz beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698106.php",
-      "publishedAt": "2026-07-28T13:20:17+00:00",
-      "publishedLabel": "28.07.2026 13:20",
-      "summary": "Heute Morgen wurden Einsatzkräfte des Polizeiabschnitts 14 zu einer Farbschmiererei in Weißensee alarmiert.",
-      "category": "Einsatz"
     }
   ]
 }
