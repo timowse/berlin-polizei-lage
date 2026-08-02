@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-02T04:42:56.087800+00:00",
-    "checkedTime": "04:42 Uhr",
+    "checkedAt": "2026-08-02T07:23:22.353059+00:00",
+    "checkedTime": "07:23 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Gefährliche Körperverletzung mit Messer",
     "latestPublishedAt": "2026-08-01T12:24:57+00:00"
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698958.php",
       "publishedAt": "2026-07-31T08:20:10+00:00",
       "publishedLabel": "31.07.2026 08:20",
-      "summary": "Mit einem Bild aus einer Überwachungskamera bittet die Polizei Berlin um Mithilfe bei der Suche nach einem Tatverdächtigen zu einem Trickbetrug.",
+      "summary": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
       "category": "Fahndung"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
       "publishedAt": "2026-07-30T16:22:00+00:00",
       "publishedLabel": "30.07.2026 16:22",
-      "summary": "Der vermisste 66-järhige Senior ist wieder da.",
+      "summary": "Vermisster Senior ist wieder da",
       "category": "Fahndung"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698121.php",
       "publishedAt": "2026-07-28T14:18:14+00:00",
       "publishedLabel": "28.07.2026 14:18",
-      "summary": "Unbekannte haben in Tiergarten eine Sachbeschädigung in einer Parkanlage begangen.",
+      "summary": "Sachbeschädigung in Parkanlage",
       "category": "Ermittlung"
     },
     {
