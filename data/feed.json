@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-01T23:37:13.600362+00:00",
-    "checkedTime": "23:37 Uhr",
+    "checkedAt": "2026-08-02T01:13:54.236080+00:00",
+    "checkedTime": "01:13 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Gefährliche Körperverletzung mit Messer",
     "latestPublishedAt": "2026-08-01T12:24:57+00:00"
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698626.php",
       "publishedAt": "2026-07-30T09:25:24+00:00",
       "publishedLabel": "30.07.2026 09:25",
-      "summary": "Kind bei Unfall verletzt",
+      "summary": "Gestern Abend ereignete sich in Alt-Hohenschönhausen ein Verkehrsunfall, bei dem ein Kind verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698292.php",
       "publishedAt": "2026-07-29T09:34:49+00:00",
       "publishedLabel": "29.07.2026 09:34",
-      "summary": "Sachbeschädigung durch Brand auf Schulgelände",
+      "summary": "Gestern Mittag wurden Einsatzkräfte zu einer Sachbeschädigung auf einem Schulgelände in Zehlendorf gerufen.",
       "category": "Ermittlung"
     },
     {
