@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-02T12:12:51.468232+00:00",
-    "checkedTime": "12:12 Uhr",
+    "checkedAt": "2026-08-02T14:01:52.876062+00:00",
+    "checkedTime": "14:01 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Fahrradfahrer umgefahren und geflüchtet",
     "latestPublishedAt": "2026-08-02T12:08:54+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699335.php",
       "publishedAt": "2026-08-02T12:08:54+00:00",
       "publishedLabel": "02.08.2026 12:08",
-      "summary": "Am Abend, dem 25.07.2026, gegen 22 Uhr wurden auf dem Ahornsteig im Großen Tiergarten in Berlin mehrere Personen von einem Pkw angefahren. Mehrere Menschen wurden dabei verletzt, darunter auch lebensgefährlich.",
+      "summary": "Fahrradfahrer umgefahren und geflüchtet",
       "category": "Verkehr"
     },
     {
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699334.php",
       "publishedAt": "2026-08-02T11:46:25+00:00",
       "publishedLabel": "02.08.2026 11:46",
-      "summary": "In der vergangenen Nacht kam es in Schöneberg zu einer körperlichen Auseinandersetzung zwischen mehreren Männern.",
+      "summary": "Mehrere Verletzte nach Auseinandersetzung",
       "category": "Ermittlung"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699292.php",
       "publishedAt": "2026-07-31T13:44:54+00:00",
       "publishedLabel": "31.07.2026 13:44",
-      "summary": "Gestern Mittag kam es in Britz zu einer Bedrohung.",
+      "summary": "Bedrohung mit Messer – DEIG-Einsatz",
       "category": "Einsatz"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699272.php",
       "publishedAt": "2026-07-31T13:10:09+00:00",
       "publishedLabel": "31.07.2026 13:10",
-      "summary": "In der vergangenen Nacht kam es zur Festnahme von zwei mutmaßlichen Fahrraddieben in Kreuzberg.",
+      "summary": "Festnahme von mutmaßlichen Fahrraddieben - Mehrere verletzte Polizeikräfte",
       "category": "Ermittlung"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699168.php",
       "publishedAt": "2026-07-31T11:06:18+00:00",
       "publishedLabel": "31.07.2026 11:06",
-      "summary": "Gestern Abend wurden mehrere Fahrzeuge bei einem Brand im Märkischen Viertel beschädigt.",
+      "summary": "Fahrzeuge durch Brand beschädigt",
       "category": "Verkehr"
     },
     {
