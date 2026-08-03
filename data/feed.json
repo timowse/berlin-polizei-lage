@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-03T08:30:17.200077+00:00",
-    "checkedTime": "08:30 Uhr",
+    "checkedAt": "2026-08-03T12:00:00.745126+00:00",
+    "checkedTime": "12:00 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Störung beim Anbringen von Wahlplakaten",
-    "latestPublishedAt": "2026-08-02T15:59:45+00:00"
+    "latestTitle": "Motorradfahrer bei Unfall verletzt",
+    "latestPublishedAt": "2026-08-03T08:48:18+00:00"
   },
   "items": [
+    {
+      "title": "Motorradfahrer bei Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699427.php",
+      "publishedAt": "2026-08-03T08:48:18+00:00",
+      "publishedLabel": "03.08.2026 08:48",
+      "summary": "Gestern Abend ereignete sich in Kaulsdorf ein Verkehrsunfall.",
+      "category": "Verkehr"
+    },
     {
       "title": "Störung beim Anbringen von Wahlplakaten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699336.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "30.07.2026 09:25",
       "summary": "Gestern Abend ereignete sich in Alt-Hohenschönhausen ein Verkehrsunfall, bei dem ein Kind verletzt wurde.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Polizei Berlin erlässt Allgemeinverfügung zum 2. August 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698585.php",
-      "publishedAt": "2026-07-30T08:46:49+00:00",
-      "publishedLabel": "30.07.2026 08:46",
-      "summary": "Am 2. August 2026, erlässt die Polizei Berlin, im Rahmen der an diesem Tag stattfindenden polizeilichen Maßnahmen, eine Allgemeinverfügung.",
-      "category": "Einsatz"
     }
   ]
 }
