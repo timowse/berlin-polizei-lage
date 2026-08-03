@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-03T04:52:21.912164+00:00",
-    "checkedTime": "04:52 Uhr",
+    "checkedAt": "2026-08-03T08:30:17.200077+00:00",
+    "checkedTime": "08:30 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Störung beim Anbringen von Wahlplakaten",
     "latestPublishedAt": "2026-08-02T15:59:45+00:00"
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674407.php",
       "publishedAt": "2026-07-30T14:11:00+00:00",
       "publishedLabel": "30.07.2026 14:11",
-      "summary": "Öffentlichkeitsfahndung erfolgreich - Tatverdächtiger ermittelt",
+      "summary": "Nach Zeugenhinweisen und anschließenden Ermittlungen konnte ein Tatverdächtiger zur am 10. Oktober 2026 verübten Gewalttat namhaft gemacht werden.",
       "category": "Fahndung"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698711.php",
       "publishedAt": "2026-07-30T11:41:01+00:00",
       "publishedLabel": "30.07.2026 11:41",
-      "summary": "Radfahrer von Lastwagen angefahren",
+      "summary": "In Moabit kam es gestern Vormittag zu einem Verkehrsunfall.",
       "category": "Verkehr"
     },
     {
