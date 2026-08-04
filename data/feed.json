@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-04T12:49:35.906659+00:00",
-    "checkedTime": "12:49 Uhr",
+    "checkedAt": "2026-08-04T15:12:21.478751+00:00",
+    "checkedTime": "15:12 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verbleib von gesuchter 16-Jähriger geklärt",
-    "latestPublishedAt": "2026-08-04T10:03:00+00:00"
+    "latestTitle": "Festnahme nach mutmaßlichem Drogenhandel",
+    "latestPublishedAt": "2026-08-04T13:01:18+00:00"
   },
   "items": [
+    {
+      "title": "Festnahme nach mutmaßlichem Drogenhandel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699865.php",
+      "publishedAt": "2026-08-04T13:01:18+00:00",
+      "publishedLabel": "04.08.2026 13:01",
+      "summary": "Gestern Abend nahmen Einsatzkräfte einen mutmaßlichen Drogenhändler in seiner Wohnung in Hellersdorf fest.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Verbleib von gesuchter 16-Jähriger geklärt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695113.php",
@@ -71,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699318.php",
       "publishedAt": "2026-08-01T09:44:03+00:00",
       "publishedLabel": "01.08.2026 09:44",
-      "summary": "Gestern Abend wurden in Spandau Schüsse auf ein Wohnhaus ein abgegeben.",
+      "summary": "Schüsse auf Wohnhaus",
       "category": "Sonstiges"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "30.07.2026 11:41",
       "summary": "In Moabit kam es gestern Vormittag zu einem Verkehrsunfall.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698642.php",
-      "publishedAt": "2026-07-30T09:30:00+00:00",
-      "publishedLabel": "30.07.2026 09:30",
-      "summary": "Mit einem länderübergreifend koordinierten Einsatz haben Kräfte der BAO Ferrum des Landeskriminalamtes der Polizei Berlin am Dienstag nach intensiven...",
-      "category": "Einsatz"
     }
   ]
 }
