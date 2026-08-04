@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-04T10:48:30.446416+00:00",
-    "checkedTime": "10:48 Uhr",
+    "checkedAt": "2026-08-04T12:49:35.906659+00:00",
+    "checkedTime": "12:49 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Verbleib von gesuchter 16-Jähriger geklärt",
     "latestPublishedAt": "2026-08-04T10:03:00+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699333.php",
       "publishedAt": "2026-08-02T11:29:21+00:00",
       "publishedLabel": "02.08.2026 11:29",
-      "summary": "Verkehrsunfall mit mehreren Verletzten",
+      "summary": "Gestern Abend ereignete sich ein Verkehrsunfall zwischen zwei Autofahrern in Pankow.",
       "category": "Verkehr"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699272.php",
       "publishedAt": "2026-07-31T13:10:09+00:00",
       "publishedLabel": "31.07.2026 13:10",
-      "summary": "Festnahme von mutmaßlichen Fahrraddieben - Mehrere verletzte Polizeikräfte",
+      "summary": "In der vergangenen Nacht kam es zur Festnahme von zwei mutmaßlichen Fahrraddieben in Kreuzberg.",
       "category": "Ermittlung"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699091.php",
       "publishedAt": "2026-07-31T10:12:13+00:00",
       "publishedLabel": "31.07.2026 10:12",
-      "summary": "Schüsse auf Imbiss",
+      "summary": "In der vergangenen Nacht kam es zu Schussabgaben in Mariendorf.",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698958.php",
       "publishedAt": "2026-07-31T08:20:10+00:00",
       "publishedLabel": "31.07.2026 08:20",
-      "summary": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
+      "summary": "Mit einem Bild aus einer Überwachungskamera bittet die Polizei Berlin um Mithilfe bei der Suche nach einem Tatverdächtigen zu einem Trickbetrug.",
       "category": "Fahndung"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
       "publishedAt": "2026-07-30T16:22:00+00:00",
       "publishedLabel": "30.07.2026 16:22",
-      "summary": "Vermisster Senior ist wieder da",
+      "summary": "Der vermisste 66-järhige Senior ist wieder da.",
       "category": "Fahndung"
     },
     {
