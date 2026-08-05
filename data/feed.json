@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-05T14:38:00.271379+00:00",
-    "checkedTime": "14:38 Uhr",
+    "checkedAt": "2026-08-05T16:20:26.654049+00:00",
+    "checkedTime": "16:20 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Festnahme nach mutmaßlichem Drogenhandel",
     "latestPublishedAt": "2026-08-04T13:01:18+00:00"
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699272.php",
       "publishedAt": "2026-07-31T13:10:09+00:00",
       "publishedLabel": "31.07.2026 13:10",
-      "summary": "Festnahme von mutmaßlichen Fahrraddieben - Mehrere verletzte Polizeikräfte",
+      "summary": "In der vergangenen Nacht kam es zur Festnahme von zwei mutmaßlichen Fahrraddieben in Kreuzberg.",
       "category": "Ermittlung"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699091.php",
       "publishedAt": "2026-07-31T10:12:13+00:00",
       "publishedLabel": "31.07.2026 10:12",
-      "summary": "Schüsse auf Imbiss",
+      "summary": "In der vergangenen Nacht kam es zu Schussabgaben in Mariendorf.",
       "category": "Sonstiges"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698958.php",
       "publishedAt": "2026-07-31T08:20:10+00:00",
       "publishedLabel": "31.07.2026 08:20",
-      "summary": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
+      "summary": "Mit einem Bild aus einer Überwachungskamera bittet die Polizei Berlin um Mithilfe bei der Suche nach einem Tatverdächtigen zu einem Trickbetrug.",
       "category": "Fahndung"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
       "publishedAt": "2026-07-30T16:22:00+00:00",
       "publishedLabel": "30.07.2026 16:22",
-      "summary": "Vermisster Senior ist wieder da",
+      "summary": "Der vermisste 66-järhige Senior ist wieder da.",
       "category": "Fahndung"
     },
     {
