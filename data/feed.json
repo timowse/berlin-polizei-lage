@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-05T04:29:06.366163+00:00",
-    "checkedTime": "04:29 Uhr",
+    "checkedAt": "2026-08-05T07:18:15.866488+00:00",
+    "checkedTime": "07:18 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Festnahme nach mutmaßlichem Drogenhandel",
     "latestPublishedAt": "2026-08-04T13:01:18+00:00"
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699091.php",
       "publishedAt": "2026-07-31T10:12:13+00:00",
       "publishedLabel": "31.07.2026 10:12",
-      "summary": "In der vergangenen Nacht kam es zu Schussabgaben in Mariendorf.",
+      "summary": "Schüsse auf Imbiss",
       "category": "Sonstiges"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674407.php",
       "publishedAt": "2026-07-30T14:11:00+00:00",
       "publishedLabel": "30.07.2026 14:11",
-      "summary": "Nach Zeugenhinweisen und anschließenden Ermittlungen konnte ein Tatverdächtiger zur am 10. Oktober 2026 verübten Gewalttat namhaft gemacht werden.",
+      "summary": "Öffentlichkeitsfahndung erfolgreich - Tatverdächtiger ermittelt",
       "category": "Fahndung"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698754.php",
       "publishedAt": "2026-07-30T12:37:31+00:00",
       "publishedLabel": "30.07.2026 12:37",
-      "summary": "Gestern Abend wurde ein Senior in Schöneberg von einem Unbekannten angegriffen und verletzt.",
+      "summary": "Senior angegriffen und erheblich verletzt",
       "category": "Ermittlung"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698711.php",
       "publishedAt": "2026-07-30T11:41:01+00:00",
       "publishedLabel": "30.07.2026 11:41",
-      "summary": "In Moabit kam es gestern Vormittag zu einem Verkehrsunfall.",
+      "summary": "Radfahrer von Lastwagen angefahren",
       "category": "Verkehr"
     }
   ]
