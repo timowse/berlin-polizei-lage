@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-06T07:18:03.562540+00:00",
-    "checkedTime": "07:18 Uhr",
+    "checkedAt": "2026-08-06T10:03:53.265752+00:00",
+    "checkedTime": "10:03 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Festnahme nach mutmaßlichem Drogenhandel",
-    "latestPublishedAt": "2026-08-04T13:01:18+00:00"
+    "latestTitle": "Mann durch Messerstiche verletzt",
+    "latestPublishedAt": "2026-08-06T09:19:02+00:00"
   },
   "items": [
+    {
+      "title": "Mann durch Messerstiche verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700263.php",
+      "publishedAt": "2026-08-06T09:19:02+00:00",
+      "publishedLabel": "06.08.2026 09:19",
+      "summary": "In der vergangenen Nacht wurde ein Mann bei einer körperlichen Auseinandersetzung in Schöneberg mit einem Messer verletzt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Zahlungsstreit endet mit Messerangriff",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700187.php",
+      "publishedAt": "2026-08-06T07:48:09+00:00",
+      "publishedLabel": "06.08.2026 07:48",
+      "summary": "Gestern Morgen wurden Einsatzkräfte zu einer gefährlichen Körperverletzung nach Reinickendorf alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Festnahme nach mutmaßlichem Drogenhandel",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699865.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "30.07.2026 14:11",
       "summary": "Nach Zeugenhinweisen und anschließenden Ermittlungen konnte ein Tatverdächtiger zur am 10. Oktober 2026 verübten Gewalttat namhaft gemacht werden.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Senior angegriffen und erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698754.php",
-      "publishedAt": "2026-07-30T12:37:31+00:00",
-      "publishedLabel": "30.07.2026 12:37",
-      "summary": "Gestern Abend wurde ein Senior in Schöneberg von einem Unbekannten angegriffen und verletzt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Radfahrer von Lastwagen angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698711.php",
-      "publishedAt": "2026-07-30T11:41:01+00:00",
-      "publishedLabel": "30.07.2026 11:41",
-      "summary": "In Moabit kam es gestern Vormittag zu einem Verkehrsunfall.",
-      "category": "Verkehr"
     }
   ]
 }
