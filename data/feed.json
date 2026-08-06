@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-06T12:15:15.166805+00:00",
-    "checkedTime": "12:15 Uhr",
+    "checkedAt": "2026-08-06T14:38:55.148732+00:00",
+    "checkedTime": "14:38 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Raubüberfall auf Lebensmitteldiscounter",
     "latestPublishedAt": "2026-08-06T10:53:38+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700337.php",
       "publishedAt": "2026-08-06T10:32:00+00:00",
       "publishedLabel": "06.08.2026 10:32",
-      "summary": "Bei einem Verkehrsunfall in der vergangenen Nacht in Steglitz wurden zwei Polizeibeamte verletzt.",
+      "summary": "Zwei Polizeibeamte bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699427.php",
       "publishedAt": "2026-08-03T08:48:18+00:00",
       "publishedLabel": "03.08.2026 08:48",
-      "summary": "Motorradfahrer bei Unfall verletzt",
+      "summary": "Gestern Abend ereignete sich in Kaulsdorf ein Verkehrsunfall.",
       "category": "Verkehr"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699336.php",
       "publishedAt": "2026-08-02T15:59:45+00:00",
       "publishedLabel": "02.08.2026 15:59",
-      "summary": "Störung beim Anbringen von Wahlplakaten",
+      "summary": "Heute Vormittag kam es in Friedrichshain zu einer Störung beim Anbringen von Wahlplakaten.",
       "category": "Sonstiges"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698958.php",
       "publishedAt": "2026-07-31T08:20:10+00:00",
       "publishedLabel": "31.07.2026 08:20",
-      "summary": "Mit einem Bild aus einer Überwachungskamera bittet die Polizei Berlin um Mithilfe bei der Suche nach einem Tatverdächtigen zu einem Trickbetrug.",
+      "summary": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
       "category": "Fahndung"
     }
   ]
