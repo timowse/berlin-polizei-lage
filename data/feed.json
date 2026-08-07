@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-07T11:05:45.121755+00:00",
-    "checkedTime": "11:05 Uhr",
+    "checkedAt": "2026-08-07T11:54:22.919372+00:00",
+    "checkedTime": "11:54 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Imbiss mit Waffe ausgeraubt",
-    "latestPublishedAt": "2026-08-06T14:35:00+00:00"
+    "latestTitle": "Motorradfahrer bei Verkehrsunfall verletzt",
+    "latestPublishedAt": "2026-08-07T11:15:00+00:00"
   },
   "items": [
+    {
+      "title": "Motorradfahrer bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700814.php",
+      "publishedAt": "2026-08-07T11:15:00+00:00",
+      "publishedLabel": "07.08.2026 11:15",
+      "summary": "Gestern Nachmittag erlitt ein Motorradfahrer bei einem Verkehrsunfall in Hakenfelde schwerste Verletzungen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "DEIG-Einsatz nach Widerstand",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700808.php",
+      "publishedAt": "2026-08-07T11:13:00+00:00",
+      "publishedLabel": "07.08.2026 11:13",
+      "summary": "Gestern Nachmittag mussten Polizeikräfte bei einem Einsatz in Charlottenburg das Distanzelektroimpulsgerät (DEIG) einsetzen.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Spezialkräfte durchsuchen Wohnung nach Schüssen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700807.php",
+      "publishedAt": "2026-08-07T11:09:00+00:00",
+      "publishedLabel": "07.08.2026 11:09",
+      "summary": "Gestern Abend soll ein 37-Jähriger im Märkischen Viertel in die Luft geschossen haben und löste damit einen Polizeieinsatz aus.",
+      "category": "Einsatz"
+    },
     {
       "title": "Imbiss mit Waffe ausgeraubt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700502.php",
@@ -129,30 +153,6 @@
       "publishedLabel": "31.07.2026 13:44",
       "summary": "Gestern Mittag kam es in Britz zu einer Bedrohung.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Festnahme von mutmaßlichen Fahrraddieben - Mehrere verletzte Polizeikräfte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699272.php",
-      "publishedAt": "2026-07-31T13:10:09+00:00",
-      "publishedLabel": "31.07.2026 13:10",
-      "summary": "In der vergangenen Nacht kam es zur Festnahme von zwei mutmaßlichen Fahrraddieben in Kreuzberg.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Fahrzeuge durch Brand beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699168.php",
-      "publishedAt": "2026-07-31T11:06:18+00:00",
-      "publishedLabel": "31.07.2026 11:06",
-      "summary": "Gestern Abend wurden mehrere Fahrzeuge bei einem Brand im Märkischen Viertel beschädigt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Schüsse auf Imbiss",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699091.php",
-      "publishedAt": "2026-07-31T10:12:13+00:00",
-      "publishedLabel": "31.07.2026 10:12",
-      "summary": "In der vergangenen Nacht kam es zu Schussabgaben in Mariendorf.",
-      "category": "Sonstiges"
     }
   ]
 }
