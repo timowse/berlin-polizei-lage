@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-07T09:05:04.084937+00:00",
-    "checkedTime": "09:05 Uhr",
+    "checkedAt": "2026-08-07T10:08:21.108594+00:00",
+    "checkedTime": "10:08 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Imbiss mit Waffe ausgeraubt",
     "latestPublishedAt": "2026-08-06T14:35:00+00:00"
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699326.php",
       "publishedAt": "2026-08-01T12:24:57+00:00",
       "publishedLabel": "01.08.2026 12:24",
-      "summary": "Gefährliche Körperverletzung mit Messer",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte des Regionalabschnitts 27/28 wegen einer gefährlichen Körperverletzung nach Mitte alarmiert.",
       "category": "Ermittlung"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699318.php",
       "publishedAt": "2026-08-01T09:44:03+00:00",
       "publishedLabel": "01.08.2026 09:44",
-      "summary": "Schüsse auf Wohnhaus",
+      "summary": "Gestern Abend wurden in Spandau Schüsse auf ein Wohnhaus ein abgegeben.",
       "category": "Sonstiges"
     },
     {
