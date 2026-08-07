@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-07T06:35:42.177718+00:00",
-    "checkedTime": "06:35 Uhr",
+    "checkedAt": "2026-08-07T07:56:38.569055+00:00",
+    "checkedTime": "07:56 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Imbiss mit Waffe ausgeraubt",
     "latestPublishedAt": "2026-08-06T14:35:00+00:00"
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699333.php",
       "publishedAt": "2026-08-02T11:29:21+00:00",
       "publishedLabel": "02.08.2026 11:29",
-      "summary": "Gestern Abend ereignete sich ein Verkehrsunfall zwischen zwei Autofahrern in Pankow.",
+      "summary": "Verkehrsunfall mit mehreren Verletzten",
       "category": "Verkehr"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699168.php",
       "publishedAt": "2026-07-31T11:06:18+00:00",
       "publishedLabel": "31.07.2026 11:06",
-      "summary": "Fahrzeuge durch Brand beschädigt",
+      "summary": "Gestern Abend wurden mehrere Fahrzeuge bei einem Brand im Märkischen Viertel beschädigt.",
       "category": "Verkehr"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699091.php",
       "publishedAt": "2026-07-31T10:12:13+00:00",
       "publishedLabel": "31.07.2026 10:12",
-      "summary": "Schüsse auf Imbiss",
+      "summary": "In der vergangenen Nacht kam es zu Schussabgaben in Mariendorf.",
       "category": "Sonstiges"
     }
   ]
