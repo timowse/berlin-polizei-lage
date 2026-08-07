@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-07T18:05:56.927918+00:00",
-    "checkedTime": "18:05 Uhr",
+    "checkedAt": "2026-08-07T19:12:00.135266+00:00",
+    "checkedTime": "19:12 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Motorradfahrer bei Verkehrsunfall verletzt",
     "latestPublishedAt": "2026-08-07T11:15:00+00:00"
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699333.php",
       "publishedAt": "2026-08-02T11:29:21+00:00",
       "publishedLabel": "02.08.2026 11:29",
-      "summary": "Verkehrsunfall mit mehreren Verletzten",
+      "summary": "Gestern Abend ereignete sich ein Verkehrsunfall zwischen zwei Autofahrern in Pankow.",
       "category": "Verkehr"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699292.php",
       "publishedAt": "2026-07-31T13:44:54+00:00",
       "publishedLabel": "31.07.2026 13:44",
-      "summary": "Gestern Mittag kam es in Britz zu einer Bedrohung.",
+      "summary": "Bedrohung mit Messer – DEIG-Einsatz",
       "category": "Einsatz"
     }
   ]
