@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-06T14:38:55.148732+00:00",
-    "checkedTime": "14:38 Uhr",
+    "checkedAt": "2026-08-07T00:18:29.435523+00:00",
+    "checkedTime": "00:18 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Raubüberfall auf Lebensmitteldiscounter",
-    "latestPublishedAt": "2026-08-06T10:53:38+00:00"
+    "latestTitle": "Imbiss mit Waffe ausgeraubt",
+    "latestPublishedAt": "2026-08-06T14:35:00+00:00"
   },
   "items": [
+    {
+      "title": "Imbiss mit Waffe ausgeraubt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700502.php",
+      "publishedAt": "2026-08-06T14:35:00+00:00",
+      "publishedLabel": "06.08.2026 14:35",
+      "summary": "Heute früh sollen zwei Unbekannte einen Imbiss in Hakenfelde ausgeraubt haben.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Raubüberfall auf Lebensmitteldiscounter",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700351.php",
@@ -23,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700337.php",
       "publishedAt": "2026-08-06T10:32:00+00:00",
       "publishedLabel": "06.08.2026 10:32",
-      "summary": "Zwei Polizeibeamte bei Verkehrsunfall verletzt",
+      "summary": "Bei einem Verkehrsunfall in der vergangenen Nacht in Steglitz wurden zwei Polizeibeamte verletzt.",
       "category": "Verkehr"
     },
     {
@@ -79,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699335.php",
       "publishedAt": "2026-08-02T12:08:54+00:00",
       "publishedLabel": "02.08.2026 12:08",
-      "summary": "Fahrradfahrer umgefahren und geflüchtet",
+      "summary": "Nr. 0936 Gestern Nachmittag fuhr ein Autofahrer in Rudow gegen einen Radfahrer und flüchtete dann vom Unfallort. Nach bisherigen Erkenntnissen war der 80-jährige Senior mit seinem Fahrrad auf der Straße Alt-Rudow von der Neuköllner Straße in Richtung Köpenicker Straße unterwegs, als ihn ein Autofahrer angefahren habe, der aus dem Ehrenpreisweg nach links in die gleiche Fahrtrichtung einbog. Der Senior stürzte, sein Fahrrad wurde vom Auto noch mitgeschleift, bis dessen Fahrer ausstieg. Zeuginnen und Zeugen berichteten, dass er jedoch nicht geholfen, sondern lediglich das Fahrrad unter dem Auto hervorgeholt habe und dann weitergefahren sei. Alarmierte Rettungskräfte brachten den Senior für eine stationäre Behandlung in ein Krankenhaus. Inzwischen meldete sich ein 38-Jähriger auf einem nahegelegenen Polizeiabschnitt und gab an, das Fahrzeug gefahren und nicht im Besitz einer Fahrerlaubnis zu sein. Ihm wurde nach richterlicher Anordnung in einem Polizeigewahrsam Blut abgenommen. Zudem wurde das mutmaßlich durch ihn genutzte Fahrzeug beschlagnahmt. Die Ermittlungen dauern an.",
       "category": "Verkehr"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "31.07.2026 10:12",
       "summary": "In der vergangenen Nacht kam es zu Schussabgaben in Mariendorf.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698958.php",
-      "publishedAt": "2026-07-31T08:20:10+00:00",
-      "publishedLabel": "31.07.2026 08:20",
-      "summary": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
-      "category": "Fahndung"
     }
   ]
 }
