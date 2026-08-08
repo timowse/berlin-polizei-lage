@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-08T09:22:41.041140+00:00",
-    "checkedTime": "09:22 Uhr",
+    "checkedAt": "2026-08-08T10:03:02.112789+00:00",
+    "checkedTime": "10:03 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Unbekannter entwendet Regenbogenflaggen",
-    "latestPublishedAt": "2026-08-08T09:04:31+00:00"
+    "latestTitle": "Wahlkampfhelfer beim Plakatieren angefahren",
+    "latestPublishedAt": "2026-08-08T09:46:50+00:00"
   },
   "items": [
+    {
+      "title": "Wahlkampfhelfer beim Plakatieren angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700998.php",
+      "publishedAt": "2026-08-08T09:46:50+00:00",
+      "publishedLabel": "08.08.2026 09:46",
+      "summary": "Ein Mann wurde Donnerstagabend beim Aufhängen von Wahlplakaten einer Partei in Adlershof verletzt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "E-Scooter-Fahrer nach Sturz in Lebensgefahr",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700996.php",
+      "publishedAt": "2026-08-08T09:40:30+00:00",
+      "publishedLabel": "08.08.2026 09:40",
+      "summary": "Seit gestern Abend befindet sich ein E-Scooter-Fahrer nach einem Alleinunfall in Marzahn in einem Krankenhaus.",
+      "category": "Verkehr"
+    },
     {
       "title": "Unbekannter entwendet Regenbogenflaggen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700987.php",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-08-02T11:46:25+00:00",
       "publishedLabel": "02.08.2026 11:46",
       "summary": "In der vergangenen Nacht kam es in Schöneberg zu einer körperlichen Auseinandersetzung zwischen mehreren Männern.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Verkehrsunfall mit mehreren Verletzten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699333.php",
-      "publishedAt": "2026-08-02T11:29:21+00:00",
-      "publishedLabel": "02.08.2026 11:29",
-      "summary": "Gestern Abend ereignete sich ein Verkehrsunfall zwischen zwei Autofahrern in Pankow.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Gefährliche Körperverletzung mit Messer",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699326.php",
-      "publishedAt": "2026-08-01T12:24:57+00:00",
-      "publishedLabel": "01.08.2026 12:24",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte des Regionalabschnitts 27/28 wegen einer gefährlichen Körperverletzung nach Mitte alarmiert.",
       "category": "Ermittlung"
     }
   ]
