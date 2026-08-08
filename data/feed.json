@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-08T08:42:16.669146+00:00",
-    "checkedTime": "08:42 Uhr",
+    "checkedAt": "2026-08-08T09:22:41.041140+00:00",
+    "checkedTime": "09:22 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Versuchter Totschlag – Mann vor Café angeschossen",
-    "latestPublishedAt": "2026-08-08T08:30:18+00:00"
+    "latestTitle": "Unbekannter entwendet Regenbogenflaggen",
+    "latestPublishedAt": "2026-08-08T09:04:31+00:00"
   },
   "items": [
+    {
+      "title": "Unbekannter entwendet Regenbogenflaggen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700987.php",
+      "publishedAt": "2026-08-08T09:04:31+00:00",
+      "publishedLabel": "08.08.2026 09:04",
+      "summary": "In der vergangenen Nacht wurde die Polizei zu einer Bar in Prenzlauer Berg alarmiert.",
+      "category": "Einsatz"
+    },
     {
       "title": "Versuchter Totschlag – Mann vor Café angeschossen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700985.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "01.08.2026 12:24",
       "summary": "In der vergangenen Nacht wurden Einsatzkräfte des Regionalabschnitts 27/28 wegen einer gefährlichen Körperverletzung nach Mitte alarmiert.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Schüsse auf Wohnhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699318.php",
-      "publishedAt": "2026-08-01T09:44:03+00:00",
-      "publishedLabel": "01.08.2026 09:44",
-      "summary": "Gestern Abend wurden in Spandau Schüsse auf ein Wohnhaus ein abgegeben.",
-      "category": "Sonstiges"
     }
   ]
 }
