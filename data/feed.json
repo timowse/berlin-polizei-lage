@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-08T13:17:36.626411+00:00",
-    "checkedTime": "13:17 Uhr",
+    "checkedAt": "2026-08-08T14:01:24.227412+00:00",
+    "checkedTime": "14:01 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Autofahrerin fährt Radfahrer an",
     "latestPublishedAt": "2026-08-08T10:40:16+00:00"
@@ -39,8 +39,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700987.php",
       "publishedAt": "2026-08-08T09:04:31+00:00",
       "publishedLabel": "08.08.2026 09:04",
-      "summary": "In der vergangenen Nacht wurde die Polizei zu einer Bar in Prenzlauer Berg alarmiert.",
-      "category": "Einsatz"
+      "summary": "Unbekannter entwendet Regenbogenflaggen",
+      "category": "Sonstiges"
     },
     {
       "title": "Versuchter Totschlag – Mann vor Café angeschossen",
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700814.php",
       "publishedAt": "2026-08-07T11:15:00+00:00",
       "publishedLabel": "07.08.2026 11:15",
-      "summary": "Gestern Nachmittag erlitt ein Motorradfahrer bei einem Verkehrsunfall in Hakenfelde schwerste Verletzungen.",
+      "summary": "Motorradfahrer bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700187.php",
       "publishedAt": "2026-08-06T07:48:09+00:00",
       "publishedLabel": "06.08.2026 07:48",
-      "summary": "Gestern Morgen wurden Einsatzkräfte zu einer gefährlichen Körperverletzung nach Reinickendorf alarmiert.",
+      "summary": "Zahlungsstreit endet mit Messerangriff",
       "category": "Ermittlung"
     },
     {
