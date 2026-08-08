@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-08T15:49:40.747746+00:00",
-    "checkedTime": "15:49 Uhr",
+    "checkedAt": "2026-08-08T16:15:46.353603+00:00",
+    "checkedTime": "16:15 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Autofahrerin fährt Radfahrer an",
     "latestPublishedAt": "2026-08-08T10:40:16+00:00"
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700808.php",
       "publishedAt": "2026-08-07T11:13:00+00:00",
       "publishedLabel": "07.08.2026 11:13",
-      "summary": "Gestern Nachmittag mussten Polizeikräfte bei einem Einsatz in Charlottenburg das Distanzelektroimpulsgerät (DEIG) einsetzen.",
+      "summary": "DEIG-Einsatz nach Widerstand",
       "category": "Einsatz"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700337.php",
       "publishedAt": "2026-08-06T10:32:00+00:00",
       "publishedLabel": "06.08.2026 10:32",
-      "summary": "Bei einem Verkehrsunfall in der vergangenen Nacht in Steglitz wurden zwei Polizeibeamte verletzt.",
+      "summary": "Zwei Polizeibeamte bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
