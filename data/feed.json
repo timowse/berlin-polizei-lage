@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-08T10:03:02.112789+00:00",
-    "checkedTime": "10:03 Uhr",
+    "checkedAt": "2026-08-08T10:48:08.330398+00:00",
+    "checkedTime": "10:48 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Wahlkampfhelfer beim Plakatieren angefahren",
-    "latestPublishedAt": "2026-08-08T09:46:50+00:00"
+    "latestTitle": "Autofahrerin fährt Radfahrer an",
+    "latestPublishedAt": "2026-08-08T10:40:16+00:00"
   },
   "items": [
+    {
+      "title": "Autofahrerin fährt Radfahrer an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701003.php",
+      "publishedAt": "2026-08-08T10:40:16+00:00",
+      "publishedLabel": "08.08.2026 10:40",
+      "summary": "In der vergangenen Nacht kam es in Rummelsburg zu einem Verkehrsunfall, bei dem ein Fahrradfahrer verletzt wurde.",
+      "category": "Verkehr"
+    },
     {
       "title": "Wahlkampfhelfer beim Plakatieren angefahren",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700998.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "02.08.2026 12:08",
       "summary": "Nr. 0936 Gestern Nachmittag fuhr ein Autofahrer in Rudow gegen einen Radfahrer und flüchtete dann vom Unfallort. Nach bisherigen Erkenntnissen war der 80-jährige Senior mit seinem Fahrrad auf der Straße Alt-Rudow von der Neuköllner Straße in Richtung Köpenicker Straße unterwegs, als ihn ein Autofahrer angefahren habe, der aus dem Ehrenpreisweg nach links in die gleiche Fahrtrichtung einbog. Der Senior stürzte, sein Fahrrad wurde vom Auto noch mitgeschleift, bis dessen Fahrer ausstieg. Zeuginnen und Zeugen berichteten, dass er jedoch nicht geholfen, sondern lediglich das Fahrrad unter dem Auto hervorgeholt habe und dann weitergefahren sei. Alarmierte Rettungskräfte brachten den Senior für eine stationäre Behandlung in ein Krankenhaus. Inzwischen meldete sich ein 38-Jähriger auf einem nahegelegenen Polizeiabschnitt und gab an, das Fahrzeug gefahren und nicht im Besitz einer Fahrerlaubnis zu sein. Ihm wurde nach richterlicher Anordnung in einem Polizeigewahrsam Blut abgenommen. Zudem wurde das mutmaßlich durch ihn genutzte Fahrzeug beschlagnahmt. Die Ermittlungen dauern an.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Mehrere Verletzte nach Auseinandersetzung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699334.php",
-      "publishedAt": "2026-08-02T11:46:25+00:00",
-      "publishedLabel": "02.08.2026 11:46",
-      "summary": "In der vergangenen Nacht kam es in Schöneberg zu einer körperlichen Auseinandersetzung zwischen mehreren Männern.",
-      "category": "Ermittlung"
     }
   ]
 }
