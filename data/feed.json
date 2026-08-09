@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-09T09:49:23.744885+00:00",
-    "checkedTime": "09:49 Uhr",
+    "checkedAt": "2026-08-09T10:18:45.774980+00:00",
+    "checkedTime": "10:18 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Feuer in der Küche – Bewohnerin verstorben",
-    "latestPublishedAt": "2026-08-09T08:55:01+00:00"
+    "latestTitle": "DEIG-Einsatz im Hotel nach tätlichem Angriff und Widerstand",
+    "latestPublishedAt": "2026-08-09T09:58:29+00:00"
   },
   "items": [
+    {
+      "title": "DEIG-Einsatz im Hotel nach tätlichem Angriff und Widerstand",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701049.php",
+      "publishedAt": "2026-08-09T09:58:29+00:00",
+      "publishedLabel": "09.08.2026 09:58",
+      "summary": "Heute früh wurde die Polizei nach Mitte alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Feuer in der Küche – Bewohnerin verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701046.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "03.08.2026 08:48",
       "summary": "Gestern Abend ereignete sich in Kaulsdorf ein Verkehrsunfall.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Störung beim Anbringen von Wahlplakaten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699336.php",
-      "publishedAt": "2026-08-02T15:59:45+00:00",
-      "publishedLabel": "02.08.2026 15:59",
-      "summary": "Heute Vormittag kam es in Friedrichshain zu einer Störung beim Anbringen von Wahlplakaten.",
-      "category": "Sonstiges"
     }
   ]
 }
