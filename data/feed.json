@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-09T07:12:17.044430+00:00",
-    "checkedTime": "07:12 Uhr",
+    "checkedAt": "2026-08-09T08:04:25.080696+00:00",
+    "checkedTime": "08:04 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Autofahrerin fährt Radfahrer an",
     "latestPublishedAt": "2026-08-08T10:40:16+00:00"
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700337.php",
       "publishedAt": "2026-08-06T10:32:00+00:00",
       "publishedLabel": "06.08.2026 10:32",
-      "summary": "Bei einem Verkehrsunfall in der vergangenen Nacht in Steglitz wurden zwei Polizeibeamte verletzt.",
+      "summary": "Zwei Polizeibeamte bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700263.php",
       "publishedAt": "2026-08-06T09:19:02+00:00",
       "publishedLabel": "06.08.2026 09:19",
-      "summary": "In der vergangenen Nacht wurde ein Mann bei einer körperlichen Auseinandersetzung in Schöneberg mit einem Messer verletzt.",
+      "summary": "Mann durch Messerstiche verletzt",
       "category": "Ermittlung"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700187.php",
       "publishedAt": "2026-08-06T07:48:09+00:00",
       "publishedLabel": "06.08.2026 07:48",
-      "summary": "Gestern Morgen wurden Einsatzkräfte zu einer gefährlichen Körperverletzung nach Reinickendorf alarmiert.",
+      "summary": "Zahlungsstreit endet mit Messerangriff",
       "category": "Ermittlung"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695113.php",
       "publishedAt": "2026-08-04T10:03:00+00:00",
       "publishedLabel": "04.08.2026 10:03",
-      "summary": "Der Aufenthaltsort der 16-Jährigen, die seit dem 1. April 2026 vermisst wurde, ist den Behörden bekannt.",
+      "summary": "Verbleib von gesuchter 16-Jähriger geklärt",
       "category": "Fahndung"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699427.php",
       "publishedAt": "2026-08-03T08:48:18+00:00",
       "publishedLabel": "03.08.2026 08:48",
-      "summary": "Gestern Abend ereignete sich in Kaulsdorf ein Verkehrsunfall.",
+      "summary": "Motorradfahrer bei Unfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699336.php",
       "publishedAt": "2026-08-02T15:59:45+00:00",
       "publishedLabel": "02.08.2026 15:59",
-      "summary": "Heute Vormittag kam es in Friedrichshain zu einer Störung beim Anbringen von Wahlplakaten.",
+      "summary": "Störung beim Anbringen von Wahlplakaten",
       "category": "Sonstiges"
     },
     {
