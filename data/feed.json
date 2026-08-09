@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-09T11:37:00.038836+00:00",
-    "checkedTime": "11:37 Uhr",
+    "checkedAt": "2026-08-09T12:01:12.717962+00:00",
+    "checkedTime": "12:01 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Streit zwischen mehreren Personen eskaliert",
-    "latestPublishedAt": "2026-08-09T10:59:26+00:00"
+    "latestTitle": "Wahlplakate beschädigt – Tatverdächtige festgenommen",
+    "latestPublishedAt": "2026-08-09T11:47:44+00:00"
   },
   "items": [
+    {
+      "title": "Wahlplakate beschädigt – Tatverdächtige festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701054.php",
+      "publishedAt": "2026-08-09T11:47:44+00:00",
+      "publishedLabel": "09.08.2026 11:47",
+      "summary": "In der vergangenen Nacht wurden in Schöneberg mehrere Wahlplakate beschädigt.",
+      "category": "Fahndung"
+    },
     {
       "title": "Streit zwischen mehreren Personen eskaliert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701052.php",
@@ -135,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700187.php",
       "publishedAt": "2026-08-06T07:48:09+00:00",
       "publishedLabel": "06.08.2026 07:48",
-      "summary": "Gestern Morgen wurden Einsatzkräfte zu einer gefährlichen Körperverletzung nach Reinickendorf alarmiert.",
+      "summary": "Zahlungsstreit endet mit Messerangriff",
       "category": "Ermittlung"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "04.08.2026 13:01",
       "summary": "Gestern Abend nahmen Einsatzkräfte einen mutmaßlichen Drogenhändler in seiner Wohnung in Hellersdorf fest.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Verbleib von gesuchter 16-Jähriger geklärt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695113.php",
-      "publishedAt": "2026-08-04T10:03:00+00:00",
-      "publishedLabel": "04.08.2026 10:03",
-      "summary": "Der Aufenthaltsort der 16-Jährigen, die seit dem 1. April 2026 vermisst wurde, ist den Behörden bekannt.",
-      "category": "Fahndung"
     }
   ]
 }
