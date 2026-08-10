@@ -3,19 +3,35 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-10T08:41:24.221758+00:00",
-    "checkedTime": "08:41 Uhr",
+    "checkedAt": "2026-08-10T10:03:42.333181+00:00",
+    "checkedTime": "10:03 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
-    "latestPublishedAt": "2026-08-09T12:14:31+00:00"
+    "latestTitle": "Verhaltensauffällige Person - DEIG-Einsatz",
+    "latestPublishedAt": "2026-08-10T09:02:53+00:00"
   },
   "items": [
+    {
+      "title": "Verhaltensauffällige Person - DEIG-Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701214.php",
+      "publishedAt": "2026-08-10T09:02:53+00:00",
+      "publishedLabel": "10.08.2026 09:02",
+      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin nach Kreuzberg alarmiert.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Schüsse auf 30-Jährigen – Zeugenaufruf",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701194.php",
+      "publishedAt": "2026-08-10T08:41:42+00:00",
+      "publishedLabel": "10.08.2026 08:41",
+      "summary": "Die 1. Mordkommission des Landeskriminalamtes hat in der vergangenen Nacht die Ermittlungen zu einem Tötungsdelikt in Charlottenburg übernommen.",
+      "category": "Fahndung"
+    },
     {
       "title": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701057.php",
       "publishedAt": "2026-08-09T12:14:31+00:00",
       "publishedLabel": "09.08.2026 12:14",
-      "summary": "Gestern Vormittag soll es zu einer Körperverletzung nach einem versuchten Trickdiebstahl in Mitte gekommen sein.",
+      "summary": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
       "category": "Ermittlung"
     },
     {
@@ -47,8 +63,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701046.php",
       "publishedAt": "2026-08-09T08:55:01+00:00",
       "publishedLabel": "09.08.2026 08:55",
-      "summary": "Feuer in der Küche – Bewohnerin verstorben",
-      "category": "Sonstiges"
+      "summary": "In der vergangenen Nacht ist eine Frau bei einem Wohnungsbrand in Lichtenrade verstorben.",
+      "category": "Ermittlung"
     },
     {
       "title": "Autofahrerin fährt Radfahrer an",
@@ -79,8 +95,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700987.php",
       "publishedAt": "2026-08-08T09:04:31+00:00",
       "publishedLabel": "08.08.2026 09:04",
-      "summary": "In der vergangenen Nacht wurde die Polizei zu einer Bar in Prenzlauer Berg alarmiert.",
-      "category": "Einsatz"
+      "summary": "Unbekannter entwendet Regenbogenflaggen",
+      "category": "Sonstiges"
     },
     {
       "title": "Versuchter Totschlag – Mann vor Café angeschossen",
@@ -137,22 +153,6 @@
       "publishedLabel": "06.08.2026 10:32",
       "summary": "Bei einem Verkehrsunfall in der vergangenen Nacht in Steglitz wurden zwei Polizeibeamte verletzt.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Mann durch Messerstiche verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700263.php",
-      "publishedAt": "2026-08-06T09:19:02+00:00",
-      "publishedLabel": "06.08.2026 09:19",
-      "summary": "In der vergangenen Nacht wurde ein Mann bei einer körperlichen Auseinandersetzung in Schöneberg mit einem Messer verletzt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Zahlungsstreit endet mit Messerangriff",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700187.php",
-      "publishedAt": "2026-08-06T07:48:09+00:00",
-      "publishedLabel": "06.08.2026 07:48",
-      "summary": "Gestern Morgen wurden Einsatzkräfte zu einer gefährlichen Körperverletzung nach Reinickendorf alarmiert.",
-      "category": "Ermittlung"
     }
   ]
 }
