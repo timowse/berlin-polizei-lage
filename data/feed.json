@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-10T05:39:24.753254+00:00",
-    "checkedTime": "05:39 Uhr",
+    "checkedAt": "2026-08-10T06:55:57.385876+00:00",
+    "checkedTime": "06:55 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
     "latestPublishedAt": "2026-08-09T12:14:31+00:00"
@@ -47,15 +47,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701046.php",
       "publishedAt": "2026-08-09T08:55:01+00:00",
       "publishedLabel": "09.08.2026 08:55",
-      "summary": "Feuer in der Küche – Bewohnerin verstorben",
-      "category": "Sonstiges"
+      "summary": "In der vergangenen Nacht ist eine Frau bei einem Wohnungsbrand in Lichtenrade verstorben.",
+      "category": "Ermittlung"
     },
     {
       "title": "Autofahrerin fährt Radfahrer an",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701003.php",
       "publishedAt": "2026-08-08T10:40:16+00:00",
       "publishedLabel": "08.08.2026 10:40",
-      "summary": "Autofahrerin fährt Radfahrer an",
+      "summary": "In der vergangenen Nacht kam es in Rummelsburg zu einem Verkehrsunfall, bei dem ein Fahrradfahrer verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700808.php",
       "publishedAt": "2026-08-07T11:13:00+00:00",
       "publishedLabel": "07.08.2026 11:13",
-      "summary": "DEIG-Einsatz nach Widerstand",
+      "summary": "Gestern Nachmittag mussten Polizeikräfte bei einem Einsatz in Charlottenburg das Distanzelektroimpulsgerät (DEIG) einsetzen.",
       "category": "Einsatz"
     },
     {
