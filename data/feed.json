@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-11T06:10:02.534079+00:00",
-    "checkedTime": "06:10 Uhr",
+    "checkedAt": "2026-08-11T07:37:18.198402+00:00",
+    "checkedTime": "07:37 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Geschwindigkeitskontrollen im Rahmen der zweiten ROADPOL-Aktionswoche „Speedweek“ 2026 – Polizei Berlin zieht Bilanz",
-    "latestPublishedAt": "2026-08-10T14:19:24+00:00"
+    "latestTitle": "Gewerbsmäßiger Computerbetrug und Diebstahl – Wer erkennt den Tatverdächtigen?",
+    "latestPublishedAt": "2026-08-11T06:13:38+00:00"
   },
   "items": [
+    {
+      "title": "Gewerbsmäßiger Computerbetrug und Diebstahl – Wer erkennt den Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701498.php",
+      "publishedAt": "2026-08-11T06:13:38+00:00",
+      "publishedLabel": "11.08.2026 06:13",
+      "summary": "Mit Bildern aus einer Überwachungskamera sucht die Polizei Berlin nach einem mutmaßlichen Betrüger.",
+      "category": "Fahndung"
+    },
     {
       "title": "Geschwindigkeitskontrollen im Rahmen der zweiten ROADPOL-Aktionswoche „Speedweek“ 2026 – Polizei Berlin zieht Bilanz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701388.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "07.08.2026 11:09",
       "summary": "Gestern Abend soll ein 37-Jähriger im Märkischen Viertel in die Luft geschossen haben und löste damit einen Polizeieinsatz aus.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Imbiss mit Waffe ausgeraubt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700502.php",
-      "publishedAt": "2026-08-06T14:35:00+00:00",
-      "publishedLabel": "06.08.2026 14:35",
-      "summary": "Heute früh sollen zwei Unbekannte einen Imbiss in Hakenfelde ausgeraubt haben.",
-      "category": "Ermittlung"
     }
   ]
 }
