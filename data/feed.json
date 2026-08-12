@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-12T15:11:14.625139+00:00",
-    "checkedTime": "15:11 Uhr",
+    "checkedAt": "2026-08-12T16:12:22.551554+00:00",
+    "checkedTime": "16:12 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Dachgeschoss abgebrannt",
     "latestPublishedAt": "2026-08-12T12:40:16+00:00"
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701640.php",
       "publishedAt": "2026-08-11T09:52:36+00:00",
       "publishedLabel": "11.08.2026 09:52",
-      "summary": "Durch einen Messerangriff ist vergangene Nacht ein Mann in Weißensee erheblich verletzt worden.",
+      "summary": "Durch Messerangriff erheblich verletzt",
       "category": "Ermittlung"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701498.php",
       "publishedAt": "2026-08-11T06:13:38+00:00",
       "publishedLabel": "11.08.2026 06:13",
-      "summary": "Mit Bildern aus einer Überwachungskamera sucht die Polizei Berlin nach einem mutmaßlichen Betrüger.",
+      "summary": "Gewerbsmäßiger Computerbetrug und Diebstahl – Wer erkennt den Tatverdächtigen?",
       "category": "Fahndung"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701388.php",
       "publishedAt": "2026-08-10T14:19:24+00:00",
       "publishedLabel": "10.08.2026 14:19",
-      "summary": "Im Zeitraum vom 3. bis 9. August 2026 beteiligte sich die Polizei Berlin an der europaweiten Geschwindigkeitskontrollaktion „ROADPOL Speedweek“.",
+      "summary": "Geschwindigkeitskontrollen im Rahmen der zweiten ROADPOL-Aktionswoche „Speedweek“ 2026 – Polizei Berlin zieht Bilanz",
       "category": "Einsatz"
     },
     {
