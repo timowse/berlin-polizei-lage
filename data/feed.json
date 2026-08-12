@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-12T21:20:16.026542+00:00",
-    "checkedTime": "21:20 Uhr",
+    "checkedAt": "2026-08-12T22:10:18.239837+00:00",
+    "checkedTime": "22:10 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Dachgeschoss abgebrannt",
     "latestPublishedAt": "2026-08-12T12:40:16+00:00"
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702183.php",
       "publishedAt": "2026-08-12T11:27:28+00:00",
       "publishedLabel": "12.08.2026 11:27",
-      "summary": "Kontrollen gegen Arbeitsausbeutung und Menschenhandel",
+      "summary": "Am 10. August 2026 kontrollierten rund 100 Einsatzkräfte in einem Gewerbegebiet an der Herzbergstraße.",
       "category": "Einsatz"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701057.php",
       "publishedAt": "2026-08-09T12:14:31+00:00",
       "publishedLabel": "09.08.2026 12:14",
-      "summary": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
+      "summary": "Gestern Vormittag soll es zu einer Körperverletzung nach einem versuchten Trickdiebstahl in Mitte gekommen sein.",
       "category": "Ermittlung"
     },
     {
@@ -151,8 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701046.php",
       "publishedAt": "2026-08-09T08:55:01+00:00",
       "publishedLabel": "09.08.2026 08:55",
-      "summary": "Feuer in der Küche – Bewohnerin verstorben",
-      "category": "Sonstiges"
+      "summary": "In der vergangenen Nacht ist eine Frau bei einem Wohnungsbrand in Lichtenrade verstorben.",
+      "category": "Ermittlung"
     }
   ]
 }
