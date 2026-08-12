@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-12T11:35:08.012805+00:00",
-    "checkedTime": "11:35 Uhr",
+    "checkedAt": "2026-08-12T12:29:00.953887+00:00",
+    "checkedTime": "12:29 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Frau vermisst – Polizei bittet um Mithilfe",
-    "latestPublishedAt": "2026-08-12T10:55:00+00:00"
+    "latestTitle": "E-Scooter-Fahrerin fährt Fußgänger an",
+    "latestPublishedAt": "2026-08-12T11:39:20+00:00"
   },
   "items": [
+    {
+      "title": "E-Scooter-Fahrerin fährt Fußgänger an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702196.php",
+      "publishedAt": "2026-08-12T11:39:20+00:00",
+      "publishedLabel": "12.08.2026 11:39",
+      "summary": "Gestern Nachmittag hat sich ein Verkehrsunfall in Reinickendorf ereignet.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Kontrollen gegen Arbeitsausbeutung und Menschenhandel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702183.php",
+      "publishedAt": "2026-08-12T11:27:28+00:00",
+      "publishedLabel": "12.08.2026 11:27",
+      "summary": "Am 10. August 2026 kontrollierten rund 100 Einsatzkräfte in einem Gewerbegebiet an der Herzbergstraße.",
+      "category": "Einsatz"
+    },
     {
       "title": "Frau vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702099.php",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-08-08T10:40:16+00:00",
       "publishedLabel": "08.08.2026 10:40",
       "summary": "In der vergangenen Nacht kam es in Rummelsburg zu einem Verkehrsunfall, bei dem ein Fahrradfahrer verletzt wurde.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Wahlkampfhelfer beim Plakatieren angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700998.php",
-      "publishedAt": "2026-08-08T09:46:50+00:00",
-      "publishedLabel": "08.08.2026 09:46",
-      "summary": "Ein Mann wurde Donnerstagabend beim Aufhängen von Wahlplakaten einer Partei in Adlershof verletzt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "E-Scooter-Fahrer nach Sturz in Lebensgefahr",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700996.php",
-      "publishedAt": "2026-08-08T09:40:30+00:00",
-      "publishedLabel": "08.08.2026 09:40",
-      "summary": "Seit gestern Abend befindet sich ein E-Scooter-Fahrer nach einem Alleinunfall in Marzahn in einem Krankenhaus.",
       "category": "Verkehr"
     }
   ]
