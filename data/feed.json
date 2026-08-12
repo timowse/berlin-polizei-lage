@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-12T12:29:00.953887+00:00",
-    "checkedTime": "12:29 Uhr",
+    "checkedAt": "2026-08-12T14:00:46.757504+00:00",
+    "checkedTime": "14:00 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "E-Scooter-Fahrerin fährt Fußgänger an",
-    "latestPublishedAt": "2026-08-12T11:39:20+00:00"
+    "latestTitle": "Dachgeschoss abgebrannt",
+    "latestPublishedAt": "2026-08-12T12:40:16+00:00"
   },
   "items": [
+    {
+      "title": "Dachgeschoss abgebrannt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702256.php",
+      "publishedAt": "2026-08-12T12:40:16+00:00",
+      "publishedLabel": "12.08.2026 12:40",
+      "summary": "Gestern Mittag brannte ein Wohnhaus in Biesdorf",
+      "category": "Sonstiges"
+    },
     {
       "title": "E-Scooter-Fahrerin fährt Fußgänger an",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702196.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "09.08.2026 08:55",
       "summary": "In der vergangenen Nacht ist eine Frau bei einem Wohnungsbrand in Lichtenrade verstorben.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Autofahrerin fährt Radfahrer an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701003.php",
-      "publishedAt": "2026-08-08T10:40:16+00:00",
-      "publishedLabel": "08.08.2026 10:40",
-      "summary": "In der vergangenen Nacht kam es in Rummelsburg zu einem Verkehrsunfall, bei dem ein Fahrradfahrer verletzt wurde.",
-      "category": "Verkehr"
     }
   ]
 }
