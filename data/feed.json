@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-13T11:59:24.002395+00:00",
-    "checkedTime": "11:59 Uhr",
+    "checkedAt": "2026-08-13T13:36:45.609045+00:00",
+    "checkedTime": "13:36 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Wahlplakate von Laternen entfernt – Tatverdächtiger festgenommen",
-    "latestPublishedAt": "2026-08-13T09:36:25+00:00"
+    "latestTitle": "Spätkauf ausgeraubt – Polizei bittet um Mithilfe",
+    "latestPublishedAt": "2026-08-13T12:03:41+00:00"
   },
   "items": [
+    {
+      "title": "Spätkauf ausgeraubt – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702822.php",
+      "publishedAt": "2026-08-13T12:03:41+00:00",
+      "publishedLabel": "13.08.2026 12:03",
+      "summary": "Am Samstag, den 29. November 2025, soll der bislang Unbekannte gegen 22:20 Uhr den Spätkauf in der Weserstraße betreten und einen Kauf vorgegeben haben.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Wahlplakate von Laternen entfernt – Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702668.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-08-09T10:59:26+00:00",
       "publishedLabel": "09.08.2026 10:59",
       "summary": "In der vergangenen Nacht kam es in Altglienicke zu einer Auseinandersetzung, bei der zwei Männer verletzt wurden.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "DEIG-Einsatz im Hotel nach tätlichem Angriff und Widerstand",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701049.php",
-      "publishedAt": "2026-08-09T09:58:29+00:00",
-      "publishedLabel": "09.08.2026 09:58",
-      "summary": "Heute früh wurde die Polizei nach Mitte alarmiert.",
       "category": "Ermittlung"
     }
   ]
