@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-13T13:36:45.609045+00:00",
-    "checkedTime": "13:36 Uhr",
+    "checkedAt": "2026-08-13T14:41:57.670899+00:00",
+    "checkedTime": "14:41 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Spätkauf ausgeraubt – Polizei bittet um Mithilfe",
-    "latestPublishedAt": "2026-08-13T12:03:41+00:00"
+    "latestTitle": "19-Jähriger vermisst – Polizei bittet um Mithilfe",
+    "latestPublishedAt": "2026-08-13T14:24:34+00:00"
   },
   "items": [
+    {
+      "title": "19-Jähriger vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702932.php",
+      "publishedAt": "2026-08-13T14:24:34+00:00",
+      "publishedLabel": "13.08.2026 14:24",
+      "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach dem 19-jährigen Henry RÜCKER.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Festnahme einer mutmaßlichen Diebesbande auf frischer Tat",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702929.php",
+      "publishedAt": "2026-08-13T14:16:26+00:00",
+      "publishedLabel": "13.08.2026 14:16",
+      "summary": "Gestern Mittag nahmen Einsatzkräfte des Landeskriminalamtes in Buckow drei mutmaßliche Wohnungseinbrecher fest.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Spätkauf ausgeraubt – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702822.php",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-08-09T12:14:31+00:00",
       "publishedLabel": "09.08.2026 12:14",
       "summary": "Gestern Vormittag soll es zu einer Körperverletzung nach einem versuchten Trickdiebstahl in Mitte gekommen sein.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Wahlplakate beschädigt – Tatverdächtige festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701054.php",
-      "publishedAt": "2026-08-09T11:47:44+00:00",
-      "publishedLabel": "09.08.2026 11:47",
-      "summary": "In der vergangenen Nacht wurden in Schöneberg mehrere Wahlplakate beschädigt.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Streit zwischen mehreren Personen eskaliert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701052.php",
-      "publishedAt": "2026-08-09T10:59:26+00:00",
-      "publishedLabel": "09.08.2026 10:59",
-      "summary": "In der vergangenen Nacht kam es in Altglienicke zu einer Auseinandersetzung, bei der zwei Männer verletzt wurden.",
       "category": "Ermittlung"
     }
   ]
