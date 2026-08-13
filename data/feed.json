@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-13T19:46:21.958000+00:00",
-    "checkedTime": "19:46 Uhr",
+    "checkedAt": "2026-08-13T20:24:13.819862+00:00",
+    "checkedTime": "20:24 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "19-Jähriger vermisst – Polizei bittet um Mithilfe",
     "latestPublishedAt": "2026-08-13T14:24:34+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702929.php",
       "publishedAt": "2026-08-13T14:16:26+00:00",
       "publishedLabel": "13.08.2026 14:16",
-      "summary": "Festnahme einer mutmaßlichen Diebesbande auf frischer Tat",
+      "summary": "Gestern Mittag nahmen Einsatzkräfte des Landeskriminalamtes in Buckow drei mutmaßliche Wohnungseinbrecher fest.",
       "category": "Ermittlung"
     },
     {
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702822.php",
       "publishedAt": "2026-08-13T12:03:41+00:00",
       "publishedLabel": "13.08.2026 12:03",
-      "summary": "Spätkauf ausgeraubt – Polizei bittet um Mithilfe",
+      "summary": "Am Samstag, den 29. November 2025, soll der bislang Unbekannte gegen 22:20 Uhr den Spätkauf in der Weserstraße betreten und einen Kauf vorgegeben haben.",
       "category": "Ermittlung"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701214.php",
       "publishedAt": "2026-08-10T09:02:53+00:00",
       "publishedLabel": "10.08.2026 09:02",
-      "summary": "Verhaltensauffällige Person - DEIG-Einsatz",
+      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin nach Kreuzberg alarmiert.",
       "category": "Einsatz"
     },
     {
