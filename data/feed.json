@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-13T08:53:31.517481+00:00",
-    "checkedTime": "08:53 Uhr",
+    "checkedAt": "2026-08-13T10:07:28.331130+00:00",
+    "checkedTime": "10:07 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Dachgeschoss abgebrannt",
-    "latestPublishedAt": "2026-08-12T12:40:16+00:00"
+    "latestTitle": "Wahlplakate von Laternen entfernt – Tatverdächtiger festgenommen",
+    "latestPublishedAt": "2026-08-13T09:36:25+00:00"
   },
   "items": [
+    {
+      "title": "Wahlplakate von Laternen entfernt – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702668.php",
+      "publishedAt": "2026-08-13T09:36:25+00:00",
+      "publishedLabel": "13.08.2026 09:36",
+      "summary": "Gestern Abend stellten Einsatzkräfte der Polizei Berlin in Prenzlauer Berg mehrere beschädigte Wahlplakate fest.",
+      "category": "Fahndung"
+    },
     {
       "title": "Dachgeschoss abgebrannt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702256.php",
@@ -87,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701388.php",
       "publishedAt": "2026-08-10T14:19:24+00:00",
       "publishedLabel": "10.08.2026 14:19",
-      "summary": "Geschwindigkeitskontrollen im Rahmen der zweiten ROADPOL-Aktionswoche „Speedweek“ 2026 – Polizei Berlin zieht Bilanz",
+      "summary": "Im Zeitraum vom 3. bis 9. August 2026 beteiligte sich die Polizei Berlin an der europaweiten Geschwindigkeitskontrollaktion „ROADPOL Speedweek“.",
       "category": "Einsatz"
     },
     {
@@ -111,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701194.php",
       "publishedAt": "2026-08-10T08:41:42+00:00",
       "publishedLabel": "10.08.2026 08:41",
-      "summary": "Schüsse auf 30-Jährigen – Zeugenaufruf",
+      "summary": "Die 1. Mordkommission des Landeskriminalamtes hat in der vergangenen Nacht die Ermittlungen zu einem Tötungsdelikt in Charlottenburg übernommen.",
       "category": "Fahndung"
     },
     {
@@ -119,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701057.php",
       "publishedAt": "2026-08-09T12:14:31+00:00",
       "publishedLabel": "09.08.2026 12:14",
-      "summary": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
+      "summary": "Gestern Vormittag soll es zu einer Körperverletzung nach einem versuchten Trickdiebstahl in Mitte gekommen sein.",
       "category": "Ermittlung"
     },
     {
@@ -144,14 +152,6 @@
       "publishedAt": "2026-08-09T09:58:29+00:00",
       "publishedLabel": "09.08.2026 09:58",
       "summary": "Heute früh wurde die Polizei nach Mitte alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Feuer in der Küche – Bewohnerin verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701046.php",
-      "publishedAt": "2026-08-09T08:55:01+00:00",
-      "publishedLabel": "09.08.2026 08:55",
-      "summary": "In der vergangenen Nacht ist eine Frau bei einem Wohnungsbrand in Lichtenrade verstorben.",
       "category": "Ermittlung"
     }
   ]
