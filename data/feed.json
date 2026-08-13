@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-13T20:24:13.819862+00:00",
-    "checkedTime": "20:24 Uhr",
+    "checkedAt": "2026-08-13T21:21:08.123578+00:00",
+    "checkedTime": "21:21 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "19-Jähriger vermisst – Polizei bittet um Mithilfe",
     "latestPublishedAt": "2026-08-13T14:24:34+00:00"
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701498.php",
       "publishedAt": "2026-08-11T06:13:38+00:00",
       "publishedLabel": "11.08.2026 06:13",
-      "summary": "Mit Bildern aus einer Überwachungskamera sucht die Polizei Berlin nach einem mutmaßlichen Betrüger.",
+      "summary": "Gewerbsmäßiger Computerbetrug und Diebstahl – Wer erkennt den Tatverdächtigen?",
       "category": "Fahndung"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701262.php",
       "publishedAt": "2026-08-10T10:25:09+00:00",
       "publishedLabel": "10.08.2026 10:25",
-      "summary": "Gestern Abend wurde ein Mann in Rudow bei einer Auseinandersetzung mit einem Messer verletzt.",
+      "summary": "Mann mit Messer verletzt – Tatverdächtiger festgenommen",
       "category": "Fahndung"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701214.php",
       "publishedAt": "2026-08-10T09:02:53+00:00",
       "publishedLabel": "10.08.2026 09:02",
-      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin nach Kreuzberg alarmiert.",
+      "summary": "Verhaltensauffällige Person - DEIG-Einsatz",
       "category": "Einsatz"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701057.php",
       "publishedAt": "2026-08-09T12:14:31+00:00",
       "publishedLabel": "09.08.2026 12:14",
-      "summary": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
+      "summary": "Gestern Vormittag soll es zu einer Körperverletzung nach einem versuchten Trickdiebstahl in Mitte gekommen sein.",
       "category": "Ermittlung"
     }
   ]
