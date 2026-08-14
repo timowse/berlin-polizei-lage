@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-14T07:01:18.264267+00:00",
-    "checkedTime": "07:01 Uhr",
+    "checkedAt": "2026-08-14T08:34:55.229137+00:00",
+    "checkedTime": "08:34 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "19-Jähriger vermisst – Polizei bittet um Mithilfe",
-    "latestPublishedAt": "2026-08-13T14:24:34+00:00"
+    "latestTitle": "Lieferfahrer im Park überfallen",
+    "latestPublishedAt": "2026-08-14T07:57:50+00:00"
   },
   "items": [
+    {
+      "title": "Lieferfahrer im Park überfallen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703096.php",
+      "publishedAt": "2026-08-14T07:57:50+00:00",
+      "publishedLabel": "14.08.2026 07:57",
+      "summary": "Gestern Abend wurde in Spandau ein Lieferfahrer von zwei Unbekannten überfallen.",
+      "category": "Sonstiges"
+    },
     {
       "title": "19-Jähriger vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702932.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "10.08.2026 08:41",
       "summary": "Die 1. Mordkommission des Landeskriminalamtes hat in der vergangenen Nacht die Ermittlungen zu einem Tötungsdelikt in Charlottenburg übernommen.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701057.php",
-      "publishedAt": "2026-08-09T12:14:31+00:00",
-      "publishedLabel": "09.08.2026 12:14",
-      "summary": "Gestern Vormittag soll es zu einer Körperverletzung nach einem versuchten Trickdiebstahl in Mitte gekommen sein.",
-      "category": "Ermittlung"
     }
   ]
 }
