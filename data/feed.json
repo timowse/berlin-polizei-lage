@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-14T09:40:36.864007+00:00",
-    "checkedTime": "09:40 Uhr",
+    "checkedAt": "2026-08-14T10:42:35.785336+00:00",
+    "checkedTime": "10:42 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Lieferfahrer im Park überfallen",
-    "latestPublishedAt": "2026-08-14T07:57:50+00:00"
+    "latestTitle": "Brandstiftung in einer Bar",
+    "latestPublishedAt": "2026-08-14T10:31:58+00:00"
   },
   "items": [
+    {
+      "title": "Brandstiftung in einer Bar",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703241.php",
+      "publishedAt": "2026-08-14T10:31:58+00:00",
+      "publishedLabel": "14.08.2026 10:31",
+      "summary": "In der vergangenen Nacht wurde eine Bar in Kreuzberg durch einen bislang unbekannten Täter angegriffen.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Frau beschädigt Wahlplakate und greift Polizist an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703231.php",
+      "publishedAt": "2026-08-14T10:21:28+00:00",
+      "publishedLabel": "14.08.2026 10:21",
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte auf eine Frau aufmerksam, die in Mitte ein Wahlplakat beschädigte.",
+      "category": "Einsatz"
+    },
     {
       "title": "Lieferfahrer im Park überfallen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703096.php",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-08-10T10:25:09+00:00",
       "publishedLabel": "10.08.2026 10:25",
       "summary": "Gestern Abend wurde ein Mann in Rudow bei einer Auseinandersetzung mit einem Messer verletzt.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Verhaltensauffällige Person - DEIG-Einsatz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701214.php",
-      "publishedAt": "2026-08-10T09:02:53+00:00",
-      "publishedLabel": "10.08.2026 09:02",
-      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin nach Kreuzberg alarmiert.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Schüsse auf 30-Jährigen – Zeugenaufruf",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701194.php",
-      "publishedAt": "2026-08-10T08:41:42+00:00",
-      "publishedLabel": "10.08.2026 08:41",
-      "summary": "Die 1. Mordkommission des Landeskriminalamtes hat in der vergangenen Nacht die Ermittlungen zu einem Tötungsdelikt in Charlottenburg übernommen.",
       "category": "Fahndung"
     }
   ]
