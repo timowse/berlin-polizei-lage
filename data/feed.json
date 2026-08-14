@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-14T04:16:55.486843+00:00",
-    "checkedTime": "04:16 Uhr",
+    "checkedAt": "2026-08-14T05:49:34.364989+00:00",
+    "checkedTime": "05:49 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "19-Jähriger vermisst – Polizei bittet um Mithilfe",
     "latestPublishedAt": "2026-08-13T14:24:34+00:00"
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701214.php",
       "publishedAt": "2026-08-10T09:02:53+00:00",
       "publishedLabel": "10.08.2026 09:02",
-      "summary": "Verhaltensauffällige Person - DEIG-Einsatz",
+      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin nach Kreuzberg alarmiert.",
       "category": "Einsatz"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701057.php",
       "publishedAt": "2026-08-09T12:14:31+00:00",
       "publishedLabel": "09.08.2026 12:14",
-      "summary": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
+      "summary": "Gestern Vormittag soll es zu einer Körperverletzung nach einem versuchten Trickdiebstahl in Mitte gekommen sein.",
       "category": "Ermittlung"
     }
   ]
