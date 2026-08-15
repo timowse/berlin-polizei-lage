@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-15T09:01:13.761358+00:00",
-    "checkedTime": "09:01 Uhr",
+    "checkedAt": "2026-08-15T09:36:01.913088+00:00",
+    "checkedTime": "09:36 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Rollerfahrer nach Verkehrsunfall verstorben",
-    "latestPublishedAt": "2026-08-15T08:49:37+00:00"
+    "latestTitle": "Zwei Männer durch Messerstiche verletzt",
+    "latestPublishedAt": "2026-08-15T08:57:40+00:00"
   },
   "items": [
+    {
+      "title": "Zwei Männer durch Messerstiche verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703426.php",
+      "publishedAt": "2026-08-15T08:57:40+00:00",
+      "publishedLabel": "15.08.2026 08:57",
+      "summary": "Ein Mann stach gestern Abend im Ortsteil Baumschulenweg mit einem Messer auf zwei weitere Männer ein und verletzte einen von diesen erheblich.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Rollerfahrer nach Verkehrsunfall verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703425.php",
@@ -23,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703303.php",
       "publishedAt": "2026-08-14T12:18:35+00:00",
       "publishedLabel": "14.08.2026 12:18",
-      "summary": "Schüsse treffen Lokalscheibe",
+      "summary": "In Pankow trafen in der Nacht von Mittwoch auf Donnerstag mehrere Schüsse eine Scheibe.",
       "category": "Sonstiges"
     },
     {
@@ -39,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703241.php",
       "publishedAt": "2026-08-14T10:31:58+00:00",
       "publishedLabel": "14.08.2026 10:31",
-      "summary": "Brandstiftung in einer Bar",
+      "summary": "In der vergangenen Nacht wurde eine Bar in Kreuzberg durch einen bislang unbekannten Täter angegriffen.",
       "category": "Ermittlung"
     },
     {
@@ -79,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702822.php",
       "publishedAt": "2026-08-13T12:03:41+00:00",
       "publishedLabel": "13.08.2026 12:03",
-      "summary": "Spätkauf ausgeraubt – Polizei bittet um Mithilfe",
+      "summary": "Am Samstag, den 29. November 2025, soll der bislang Unbekannte gegen 22:20 Uhr den Spätkauf in der Weserstraße betreten und einen Kauf vorgegeben haben.",
       "category": "Ermittlung"
     },
     {
@@ -87,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702668.php",
       "publishedAt": "2026-08-13T09:36:25+00:00",
       "publishedLabel": "13.08.2026 09:36",
-      "summary": "Wahlplakate von Laternen entfernt – Tatverdächtiger festgenommen",
+      "summary": "Gestern Abend stellten Einsatzkräfte der Polizei Berlin in Prenzlauer Berg mehrere beschädigte Wahlplakate fest.",
       "category": "Fahndung"
     },
     {
@@ -111,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702183.php",
       "publishedAt": "2026-08-12T11:27:28+00:00",
       "publishedLabel": "12.08.2026 11:27",
-      "summary": "Kontrollen gegen Arbeitsausbeutung und Menschenhandel",
+      "summary": "Am 10. August 2026 kontrollierten rund 100 Einsatzkräfte in einem Gewerbegebiet an der Herzbergstraße.",
       "category": "Einsatz"
     },
     {
@@ -135,8 +143,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702157.php",
       "publishedAt": "2026-08-12T10:35:00+00:00",
       "publishedLabel": "12.08.2026 10:35",
-      "summary": "Schüsse auf einen Mann",
-      "category": "Sonstiges"
+      "summary": "Die 3. Mordkommission des Landeskriminalamtes hat seit gestern Abend die Ermittlungen zu einem versuchten Tötungsdelikt in Baumschulenweg übernommen.",
+      "category": "Ermittlung"
     },
     {
       "title": "Fahrradfahrer verstorben",
@@ -145,14 +153,6 @@
       "publishedLabel": "11.08.2026 10:15",
       "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin und der Berliner Feuerwehr wegen eines gestürzten Fahrradfahrers nach Hakenfelde alarmiert.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Durch Messerangriff erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701640.php",
-      "publishedAt": "2026-08-11T09:52:36+00:00",
-      "publishedLabel": "11.08.2026 09:52",
-      "summary": "Durch einen Messerangriff ist vergangene Nacht ein Mann in Weißensee erheblich verletzt worden.",
-      "category": "Ermittlung"
     }
   ]
 }
