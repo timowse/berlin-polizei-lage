@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-15T11:53:15.660712+00:00",
-    "checkedTime": "11:53 Uhr",
+    "checkedAt": "2026-08-15T12:38:50.515117+00:00",
+    "checkedTime": "12:38 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann auf dem Müggelsee durch Schiffsschraube schwer verletzt",
-    "latestPublishedAt": "2026-08-15T11:21:59+00:00"
+    "latestTitle": "Mann angefahren und anschließend geflüchtet",
+    "latestPublishedAt": "2026-08-15T12:29:18+00:00"
   },
   "items": [
+    {
+      "title": "Mann angefahren und anschließend geflüchtet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703440.php",
+      "publishedAt": "2026-08-15T12:29:18+00:00",
+      "publishedLabel": "15.08.2026 12:29",
+      "summary": "Ein unbekannter Fahrzeugführer fuhr vergangene Nacht einen Mann in Charlottenburg an, verletzte ihn und flüchtete anschließend.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mehrere Einbrüche in einem Einkaufszentrum",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703438.php",
+      "publishedAt": "2026-08-15T11:56:51+00:00",
+      "publishedLabel": "15.08.2026 11:56",
+      "summary": "Unbekannte brachen heute früh in ein Einkaufzentrum in Marzahn ein.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Mann auf dem Müggelsee durch Schiffsschraube schwer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703436.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "12.08.2026 11:39",
       "summary": "Gestern Nachmittag hat sich ein Verkehrsunfall in Reinickendorf ereignet.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Kontrollen gegen Arbeitsausbeutung und Menschenhandel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702183.php",
-      "publishedAt": "2026-08-12T11:27:28+00:00",
-      "publishedLabel": "12.08.2026 11:27",
-      "summary": "Am 10. August 2026 kontrollierten rund 100 Einsatzkräfte in einem Gewerbegebiet an der Herzbergstraße.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Frau vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702099.php",
-      "publishedAt": "2026-08-12T10:55:00+00:00",
-      "publishedLabel": "12.08.2026 10:55",
-      "summary": "Mit der Veröffentlichung von Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach Christina Gisela KÖHLER.",
-      "category": "Fahndung"
     }
   ]
 }
