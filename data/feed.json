@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-15T12:38:50.515117+00:00",
-    "checkedTime": "12:38 Uhr",
+    "checkedAt": "2026-08-15T13:16:56.333490+00:00",
+    "checkedTime": "13:16 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann angefahren und anschließend geflüchtet",
-    "latestPublishedAt": "2026-08-15T12:29:18+00:00"
+    "latestTitle": "Mitarbeiter eines Spätkaufs mit Schusswaffe bedroht und Geld geraubt",
+    "latestPublishedAt": "2026-08-15T12:50:19+00:00"
   },
   "items": [
+    {
+      "title": "Mitarbeiter eines Spätkaufs mit Schusswaffe bedroht und Geld geraubt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703441.php",
+      "publishedAt": "2026-08-15T12:50:19+00:00",
+      "publishedLabel": "15.08.2026 12:50",
+      "summary": "In der vergangenen Nacht alarmierten mehrere Zeugen Einsatzkräfte der Polizei Berlin nach Kreuzberg.",
+      "category": "Fahndung"
+    },
     {
       "title": "Mann angefahren und anschließend geflüchtet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703440.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "12.08.2026 12:40",
       "summary": "Gestern Mittag brannte ein Wohnhaus in Biesdorf",
       "category": "Sonstiges"
-    },
-    {
-      "title": "E-Scooter-Fahrerin fährt Fußgänger an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702196.php",
-      "publishedAt": "2026-08-12T11:39:20+00:00",
-      "publishedLabel": "12.08.2026 11:39",
-      "summary": "Gestern Nachmittag hat sich ein Verkehrsunfall in Reinickendorf ereignet.",
-      "category": "Verkehr"
     }
   ]
 }
