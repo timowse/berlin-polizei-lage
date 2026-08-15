@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-15T09:36:01.913088+00:00",
-    "checkedTime": "09:36 Uhr",
+    "checkedAt": "2026-08-15T09:56:23.283520+00:00",
+    "checkedTime": "09:56 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Zwei Männer durch Messerstiche verletzt",
-    "latestPublishedAt": "2026-08-15T08:57:40+00:00"
+    "latestTitle": "Mann in U-Bahn antisemitisch beleidigt und bedroht",
+    "latestPublishedAt": "2026-08-15T09:32:54+00:00"
   },
   "items": [
+    {
+      "title": "Mann in U-Bahn antisemitisch beleidigt und bedroht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703430.php",
+      "publishedAt": "2026-08-15T09:32:54+00:00",
+      "publishedLabel": "15.08.2026 09:32",
+      "summary": "In der vergangenen Nacht beleidigte und bedrohte eine Gruppe junger Männer einen Mann in Wilmersdorf.",
+      "category": "Verkehr"
+    },
     {
       "title": "Zwei Männer durch Messerstiche verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703426.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "12.08.2026 10:35",
       "summary": "Die 3. Mordkommission des Landeskriminalamtes hat seit gestern Abend die Ermittlungen zu einem versuchten Tötungsdelikt in Baumschulenweg übernommen.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Fahrradfahrer verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701657.php",
-      "publishedAt": "2026-08-11T10:15:05+00:00",
-      "publishedLabel": "11.08.2026 10:15",
-      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin und der Berliner Feuerwehr wegen eines gestürzten Fahrradfahrers nach Hakenfelde alarmiert.",
-      "category": "Verkehr"
     }
   ]
 }
