@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-15T04:43:41.706458+00:00",
-    "checkedTime": "04:43 Uhr",
+    "checkedAt": "2026-08-15T05:10:05.733352+00:00",
+    "checkedTime": "05:10 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Schüsse treffen Lokalscheibe",
     "latestPublishedAt": "2026-08-14T12:18:35+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703303.php",
       "publishedAt": "2026-08-14T12:18:35+00:00",
       "publishedLabel": "14.08.2026 12:18",
-      "summary": "In Pankow trafen in der Nacht von Mittwoch auf Donnerstag mehrere Schüsse eine Scheibe.",
+      "summary": "Schüsse treffen Lokalscheibe",
       "category": "Sonstiges"
     },
     {
@@ -47,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703096.php",
       "publishedAt": "2026-08-14T07:57:50+00:00",
       "publishedLabel": "14.08.2026 07:57",
-      "summary": "Gestern Abend wurde in Spandau ein Lieferfahrer von zwei Unbekannten überfallen.",
+      "summary": "Lieferfahrer im Park überfallen",
       "category": "Sonstiges"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702822.php",
       "publishedAt": "2026-08-13T12:03:41+00:00",
       "publishedLabel": "13.08.2026 12:03",
-      "summary": "Am Samstag, den 29. November 2025, soll der bislang Unbekannte gegen 22:20 Uhr den Spätkauf in der Weserstraße betreten und einen Kauf vorgegeben haben.",
+      "summary": "Spätkauf ausgeraubt – Polizei bittet um Mithilfe",
       "category": "Ermittlung"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702668.php",
       "publishedAt": "2026-08-13T09:36:25+00:00",
       "publishedLabel": "13.08.2026 09:36",
-      "summary": "Gestern Abend stellten Einsatzkräfte der Polizei Berlin in Prenzlauer Berg mehrere beschädigte Wahlplakate fest.",
+      "summary": "Wahlplakate von Laternen entfernt – Tatverdächtiger festgenommen",
       "category": "Fahndung"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702256.php",
       "publishedAt": "2026-08-12T12:40:16+00:00",
       "publishedLabel": "12.08.2026 12:40",
-      "summary": "Gestern Mittag brannte ein Wohnhaus in Biesdorf",
+      "summary": "Dachgeschoss abgebrannt",
       "category": "Sonstiges"
     },
     {
