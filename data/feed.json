@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-16T08:13:55.608018+00:00",
-    "checkedTime": "08:13 Uhr",
+    "checkedAt": "2026-08-16T08:50:15.136958+00:00",
+    "checkedTime": "08:50 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mitarbeiter eines Spätkaufs mit Schusswaffe bedroht und Geld geraubt",
     "latestPublishedAt": "2026-08-15T12:50:19+00:00"
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703436.php",
       "publishedAt": "2026-08-15T11:21:59+00:00",
       "publishedLabel": "15.08.2026 11:21",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Wasserschutzpolizei zu einem verletzten Mann auf der Müggelspree in Friedrichshagen alarmiert.",
+      "summary": "Mann auf dem Müggelsee durch Schiffsschraube schwer verletzt",
       "category": "Ermittlung"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703287.php",
       "publishedAt": "2026-08-14T11:46:34+00:00",
       "publishedLabel": "14.08.2026 11:46",
-      "summary": "Gestern Abend kam es in Moabit zu einer Auseinandersetzung beim Anbringen von Wahlplakaten.",
+      "summary": "Auseinandersetzung beim Anbringen von Wahlplakaten",
       "category": "Sonstiges"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703241.php",
       "publishedAt": "2026-08-14T10:31:58+00:00",
       "publishedLabel": "14.08.2026 10:31",
-      "summary": "In der vergangenen Nacht wurde eine Bar in Kreuzberg durch einen bislang unbekannten Täter angegriffen.",
+      "summary": "Brandstiftung in einer Bar",
       "category": "Ermittlung"
     },
     {
@@ -103,8 +103,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703231.php",
       "publishedAt": "2026-08-14T10:21:28+00:00",
       "publishedLabel": "14.08.2026 10:21",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte auf eine Frau aufmerksam, die in Mitte ein Wahlplakat beschädigte.",
-      "category": "Einsatz"
+      "summary": "Frau beschädigt Wahlplakate und greift Polizist an",
+      "category": "Sonstiges"
     },
     {
       "title": "Lieferfahrer im Park überfallen",
