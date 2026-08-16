@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-16T22:46:48.942950+00:00",
-    "checkedTime": "22:46 Uhr",
+    "checkedAt": "2026-08-16T23:01:05.000006+00:00",
+    "checkedTime": "23:01 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mehrfach gegen den Kopf getreten",
     "latestPublishedAt": "2026-08-16T11:19:01+00:00"
@@ -63,15 +63,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703440.php",
       "publishedAt": "2026-08-15T12:29:18+00:00",
       "publishedLabel": "15.08.2026 12:29",
-      "summary": "Ein unbekannter Fahrzeugführer fuhr vergangene Nacht einen Mann in Charlottenburg an, verletzte ihn und flüchtete anschließend.",
-      "category": "Verkehr"
+      "summary": "Mann angefahren und anschließend geflüchtet",
+      "category": "Sonstiges"
     },
     {
       "title": "Mehrere Einbrüche in einem Einkaufszentrum",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703438.php",
       "publishedAt": "2026-08-15T11:56:51+00:00",
       "publishedLabel": "15.08.2026 11:56",
-      "summary": "Unbekannte brachen heute früh in ein Einkaufzentrum in Marzahn ein.",
+      "summary": "Mehrere Einbrüche in einem Einkaufszentrum",
       "category": "Sonstiges"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703433.php",
       "publishedAt": "2026-08-15T10:40:00+00:00",
       "publishedLabel": "15.08.2026 10:40",
-      "summary": "Unbekannte beschädigten in Reinickendorf und Schöneberg mehrere Wahlplakate verschiedener Parteien.",
+      "summary": "Mehrere beschädigte Wahlplakate",
       "category": "Sonstiges"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703241.php",
       "publishedAt": "2026-08-14T10:31:58+00:00",
       "publishedLabel": "14.08.2026 10:31",
-      "summary": "In der vergangenen Nacht wurde eine Bar in Kreuzberg durch einen bislang unbekannten Täter angegriffen.",
+      "summary": "Brandstiftung in einer Bar",
       "category": "Ermittlung"
     },
     {
@@ -143,8 +143,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703231.php",
       "publishedAt": "2026-08-14T10:21:28+00:00",
       "publishedLabel": "14.08.2026 10:21",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte auf eine Frau aufmerksam, die in Mitte ein Wahlplakat beschädigte.",
-      "category": "Einsatz"
+      "summary": "Frau beschädigt Wahlplakate und greift Polizist an",
+      "category": "Sonstiges"
     },
     {
       "title": "Lieferfahrer im Park überfallen",
