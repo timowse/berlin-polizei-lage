@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-16T15:34:08.632809+00:00",
-    "checkedTime": "15:34 Uhr",
+    "checkedAt": "2026-08-16T15:54:52.291944+00:00",
+    "checkedTime": "15:54 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mehrfach gegen den Kopf getreten",
     "latestPublishedAt": "2026-08-16T11:19:01+00:00"
@@ -55,16 +55,16 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703441.php",
       "publishedAt": "2026-08-15T12:50:19+00:00",
       "publishedLabel": "15.08.2026 12:50",
-      "summary": "In der vergangenen Nacht alarmierten mehrere Zeugen Einsatzkräfte der Polizei Berlin nach Kreuzberg.",
-      "category": "Fahndung"
+      "summary": "Mitarbeiter eines Spätkaufs mit Schusswaffe bedroht und Geld geraubt",
+      "category": "Ermittlung"
     },
     {
       "title": "Mann angefahren und anschließend geflüchtet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703440.php",
       "publishedAt": "2026-08-15T12:29:18+00:00",
       "publishedLabel": "15.08.2026 12:29",
-      "summary": "Ein unbekannter Fahrzeugführer fuhr vergangene Nacht einen Mann in Charlottenburg an, verletzte ihn und flüchtete anschließend.",
-      "category": "Verkehr"
+      "summary": "Mann angefahren und anschließend geflüchtet",
+      "category": "Sonstiges"
     },
     {
       "title": "Mehrere Einbrüche in einem Einkaufszentrum",
