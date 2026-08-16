@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-16T11:07:57.796912+00:00",
-    "checkedTime": "11:07 Uhr",
+    "checkedAt": "2026-08-16T11:32:35.041547+00:00",
+    "checkedTime": "11:32 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Rassistische Beleidigung",
-    "latestPublishedAt": "2026-08-16T10:37:20+00:00"
+    "latestTitle": "Mehrfach gegen den Kopf getreten",
+    "latestPublishedAt": "2026-08-16T11:19:01+00:00"
   },
   "items": [
+    {
+      "title": "Mehrfach gegen den Kopf getreten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
+      "publishedAt": "2026-08-16T11:19:01+00:00",
+      "publishedLabel": "16.08.2026 11:19",
+      "summary": "Gestern Nachmittag verletzte ein Mann einem anderen Mann in Mitte.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703514.php",
+      "publishedAt": "2026-08-16T11:15:46+00:00",
+      "publishedLabel": "16.08.2026 11:15",
+      "summary": "In der vergangenen Nacht unterbanden Einsatzkräfte der Polizei eine Auseinandersetzung samt Messereinsatz in Mitte.",
+      "category": "Einsatz"
+    },
     {
       "title": "Rassistische Beleidigung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703512.php",
@@ -103,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703303.php",
       "publishedAt": "2026-08-14T12:18:35+00:00",
       "publishedLabel": "14.08.2026 12:18",
-      "summary": "In Pankow trafen in der Nacht von Mittwoch auf Donnerstag mehrere Schüsse eine Scheibe.",
+      "summary": "Schüsse treffen Lokalscheibe",
       "category": "Sonstiges"
     },
     {
@@ -137,22 +153,6 @@
       "publishedLabel": "14.08.2026 07:57",
       "summary": "Gestern Abend wurde in Spandau ein Lieferfahrer von zwei Unbekannten überfallen.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "19-Jähriger vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702932.php",
-      "publishedAt": "2026-08-13T14:24:34+00:00",
-      "publishedLabel": "13.08.2026 14:24",
-      "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach dem 19-jährigen Henry RÜCKER.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Festnahme einer mutmaßlichen Diebesbande auf frischer Tat",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702929.php",
-      "publishedAt": "2026-08-13T14:16:26+00:00",
-      "publishedLabel": "13.08.2026 14:16",
-      "summary": "Gestern Mittag nahmen Einsatzkräfte des Landeskriminalamtes in Buckow drei mutmaßliche Wohnungseinbrecher fest.",
-      "category": "Ermittlung"
     }
   ]
 }
