@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-17T08:21:46.471346+00:00",
-    "checkedTime": "08:21 Uhr",
+    "checkedAt": "2026-08-17T09:56:29.706094+00:00",
+    "checkedTime": "09:56 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mehrfach gegen den Kopf getreten",
-    "latestPublishedAt": "2026-08-16T11:19:01+00:00"
+    "latestTitle": "Sachbeschädigung durch Schussabgabe",
+    "latestPublishedAt": "2026-08-17T09:49:48+00:00"
   },
   "items": [
+    {
+      "title": "Sachbeschädigung durch Schussabgabe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703702.php",
+      "publishedAt": "2026-08-17T09:49:48+00:00",
+      "publishedLabel": "17.08.2026 09:49",
+      "summary": "In der Nacht von Samstag zu Sonntag kam es in Rudow zu einer Sachbeschädigung durch Schussabgabe.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Mehrfach gegen den Kopf getreten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
@@ -119,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703303.php",
       "publishedAt": "2026-08-14T12:18:35+00:00",
       "publishedLabel": "14.08.2026 12:18",
-      "summary": "Schüsse treffen Lokalscheibe",
+      "summary": "In Pankow trafen in der Nacht von Mittwoch auf Donnerstag mehrere Schüsse eine Scheibe.",
       "category": "Sonstiges"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "14.08.2026 10:21",
       "summary": "Gestern Nachmittag wurden Einsatzkräfte auf eine Frau aufmerksam, die in Mitte ein Wahlplakat beschädigte.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Lieferfahrer im Park überfallen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703096.php",
-      "publishedAt": "2026-08-14T07:57:50+00:00",
-      "publishedLabel": "14.08.2026 07:57",
-      "summary": "Gestern Abend wurde in Spandau ein Lieferfahrer von zwei Unbekannten überfallen.",
-      "category": "Sonstiges"
     }
   ]
 }
