@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-17T19:37:06.027862+00:00",
-    "checkedTime": "19:37 Uhr",
+    "checkedAt": "2026-08-17T19:58:04.269196+00:00",
+    "checkedTime": "19:58 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
     "latestPublishedAt": "2026-08-17T12:24:54+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703512.php",
       "publishedAt": "2026-08-16T10:37:20+00:00",
       "publishedLabel": "16.08.2026 10:37",
-      "summary": "Rassistische Beleidigung",
+      "summary": "Gestern Nachmittag beleidigte in Neukölln ein Mann drei Frauen aufgrund ihrer Hautfarbe.",
       "category": "Sonstiges"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703510.php",
       "publishedAt": "2026-08-16T09:57:12+00:00",
       "publishedLabel": "16.08.2026 09:57",
-      "summary": "Gestern Nachmittag griffen ein Autofahrer und dessen Beifahrer aus bislang ungeklärten Gründen einen Pedelecfahrer in Mitte an.",
+      "summary": "Autofahrer und Begleiter greifen Pedelecfahrer an",
       "category": "Verkehr"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703508.php",
       "publishedAt": "2026-08-16T09:45:23+00:00",
       "publishedLabel": "16.08.2026 09:45",
-      "summary": "Einsatzkräfte der Polizei Berlin sind wiederholt zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
+      "summary": "Sachbeschädigungen und eine Beleidigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     },
     {
@@ -79,8 +79,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703441.php",
       "publishedAt": "2026-08-15T12:50:19+00:00",
       "publishedLabel": "15.08.2026 12:50",
-      "summary": "Mitarbeiter eines Spätkaufs mit Schusswaffe bedroht und Geld geraubt",
-      "category": "Ermittlung"
+      "summary": "In der vergangenen Nacht alarmierten mehrere Zeugen Einsatzkräfte der Polizei Berlin nach Kreuzberg.",
+      "category": "Fahndung"
     },
     {
       "title": "Mann angefahren und anschließend geflüchtet",
