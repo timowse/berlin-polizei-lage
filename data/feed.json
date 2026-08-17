@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-17T17:48:24.584893+00:00",
-    "checkedTime": "17:48 Uhr",
+    "checkedAt": "2026-08-17T18:16:16.237131+00:00",
+    "checkedTime": "18:16 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
     "latestPublishedAt": "2026-08-17T12:24:54+00:00"
@@ -87,15 +87,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703440.php",
       "publishedAt": "2026-08-15T12:29:18+00:00",
       "publishedLabel": "15.08.2026 12:29",
-      "summary": "Mann angefahren und anschließend geflüchtet",
-      "category": "Sonstiges"
+      "summary": "Ein unbekannter Fahrzeugführer fuhr vergangene Nacht einen Mann in Charlottenburg an, verletzte ihn und flüchtete anschließend.",
+      "category": "Verkehr"
     },
     {
       "title": "Mehrere Einbrüche in einem Einkaufszentrum",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703438.php",
       "publishedAt": "2026-08-15T11:56:51+00:00",
       "publishedLabel": "15.08.2026 11:56",
-      "summary": "Mehrere Einbrüche in einem Einkaufszentrum",
+      "summary": "Unbekannte brachen heute früh in ein Einkaufzentrum in Marzahn ein.",
       "category": "Sonstiges"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703430.php",
       "publishedAt": "2026-08-15T09:32:54+00:00",
       "publishedLabel": "15.08.2026 09:32",
-      "summary": "Mann in U-Bahn antisemitisch beleidigt und bedroht",
+      "summary": "In der vergangenen Nacht beleidigte und bedrohte eine Gruppe junger Männer einen Mann in Wilmersdorf.",
       "category": "Verkehr"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703426.php",
       "publishedAt": "2026-08-15T08:57:40+00:00",
       "publishedLabel": "15.08.2026 08:57",
-      "summary": "Zwei Männer durch Messerstiche verletzt",
+      "summary": "Ein Mann stach gestern Abend im Ortsteil Baumschulenweg mit einem Messer auf zwei weitere Männer ein und verletzte einen von diesen erheblich.",
       "category": "Ermittlung"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703425.php",
       "publishedAt": "2026-08-15T08:49:37+00:00",
       "publishedLabel": "15.08.2026 08:49",
-      "summary": "Rollerfahrer nach Verkehrsunfall verstorben",
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Pankow alarmiert.",
       "category": "Verkehr"
     },
     {
