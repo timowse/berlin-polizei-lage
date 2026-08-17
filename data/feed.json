@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-17T22:53:16.408362+00:00",
-    "checkedTime": "22:53 Uhr",
+    "checkedAt": "2026-08-17T23:23:27.069329+00:00",
+    "checkedTime": "23:23 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
     "latestPublishedAt": "2026-08-17T12:24:54+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703817.php",
       "publishedAt": "2026-08-17T11:38:34+00:00",
       "publishedLabel": "17.08.2026 11:38",
-      "summary": "Erheblich verletzter Radfahrer",
+      "summary": "Gestern Nachmittag erlitt ein Radfahrer bei einem Verkehrsunfall in Steglitz erhebliche Verletzungen.",
       "category": "Verkehr"
     },
     {
@@ -39,8 +39,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
       "publishedAt": "2026-08-16T11:19:01+00:00",
       "publishedLabel": "16.08.2026 11:19",
-      "summary": "Mehrfach gegen den Kopf getreten",
-      "category": "Sonstiges"
+      "summary": "Gestern Nachmittag verletzte ein Mann einem anderen Mann in Mitte.",
+      "category": "Ermittlung"
     },
     {
       "title": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
