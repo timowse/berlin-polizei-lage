@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-17T15:11:50.461454+00:00",
-    "checkedTime": "15:11 Uhr",
+    "checkedAt": "2026-08-17T15:43:56.409231+00:00",
+    "checkedTime": "15:43 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
     "latestPublishedAt": "2026-08-17T12:24:54+00:00"
@@ -39,16 +39,16 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
       "publishedAt": "2026-08-16T11:19:01+00:00",
       "publishedLabel": "16.08.2026 11:19",
-      "summary": "Mehrfach gegen den Kopf getreten",
-      "category": "Sonstiges"
+      "summary": "Gestern Nachmittag verletzte ein Mann einem anderen Mann in Mitte.",
+      "category": "Ermittlung"
     },
     {
       "title": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703514.php",
       "publishedAt": "2026-08-16T11:15:46+00:00",
       "publishedLabel": "16.08.2026 11:15",
-      "summary": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
-      "category": "Sonstiges"
+      "summary": "In der vergangenen Nacht unterbanden Einsatzkräfte der Polizei eine Auseinandersetzung samt Messereinsatz in Mitte.",
+      "category": "Einsatz"
     },
     {
       "title": "Rassistische Beleidigung",
