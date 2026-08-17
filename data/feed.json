@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-17T03:31:02.669699+00:00",
-    "checkedTime": "03:31 Uhr",
+    "checkedAt": "2026-08-17T04:23:37.164299+00:00",
+    "checkedTime": "04:23 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mehrfach gegen den Kopf getreten",
     "latestPublishedAt": "2026-08-16T11:19:01+00:00"
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703512.php",
       "publishedAt": "2026-08-16T10:37:20+00:00",
       "publishedLabel": "16.08.2026 10:37",
-      "summary": "Rassistische Beleidigung",
+      "summary": "Gestern Nachmittag beleidigte in Neukölln ein Mann drei Frauen aufgrund ihrer Hautfarbe.",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703425.php",
       "publishedAt": "2026-08-15T08:49:37+00:00",
       "publishedLabel": "15.08.2026 08:49",
-      "summary": "Rollerfahrer nach Verkehrsunfall verstorben",
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Pankow alarmiert.",
       "category": "Verkehr"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703303.php",
       "publishedAt": "2026-08-14T12:18:35+00:00",
       "publishedLabel": "14.08.2026 12:18",
-      "summary": "Schüsse treffen Lokalscheibe",
+      "summary": "In Pankow trafen in der Nacht von Mittwoch auf Donnerstag mehrere Schüsse eine Scheibe.",
       "category": "Sonstiges"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703241.php",
       "publishedAt": "2026-08-14T10:31:58+00:00",
       "publishedLabel": "14.08.2026 10:31",
-      "summary": "Brandstiftung in einer Bar",
+      "summary": "In der vergangenen Nacht wurde eine Bar in Kreuzberg durch einen bislang unbekannten Täter angegriffen.",
       "category": "Ermittlung"
     },
     {
@@ -143,8 +143,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703231.php",
       "publishedAt": "2026-08-14T10:21:28+00:00",
       "publishedLabel": "14.08.2026 10:21",
-      "summary": "Frau beschädigt Wahlplakate und greift Polizist an",
-      "category": "Sonstiges"
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte auf eine Frau aufmerksam, die in Mitte ein Wahlplakat beschädigte.",
+      "category": "Einsatz"
     },
     {
       "title": "Lieferfahrer im Park überfallen",
