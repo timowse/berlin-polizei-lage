@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-18T22:51:37.612384+00:00",
-    "checkedTime": "22:51 Uhr",
+    "checkedAt": "2026-08-18T23:23:09.256891+00:00",
+    "checkedTime": "23:23 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "65-jähriger Demenzkranker vermisst – Polizei bittet um Mithilfe",
     "latestPublishedAt": "2026-08-18T14:07:41+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
       "publishedAt": "2026-08-18T14:07:41+00:00",
       "publishedLabel": "18.08.2026 14:07",
-      "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach einem Vermissten.",
+      "summary": "65-jähriger Demenzkranker vermisst – Polizei bittet um Mithilfe",
       "category": "Fahndung"
     },
     {
@@ -23,8 +23,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
       "publishedAt": "2026-08-18T13:14:37+00:00",
       "publishedLabel": "18.08.2026 13:14",
-      "summary": "Gestern Abend nahmen Polizeikräfte in Charlottenburg zwei Tatverdächtige nach einem Trickdiebstahl vorläufig fest.",
-      "category": "Fahndung"
+      "summary": "Festnahmen nach Trickdiebstahl in Wohnung",
+      "category": "Ermittlung"
     },
     {
       "title": "Mahnmal beschmiert",
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
       "publishedAt": "2026-08-18T09:34:24+00:00",
       "publishedLabel": "18.08.2026 09:34",
-      "summary": "Autofahrerin bei Unfall verletzt",
+      "summary": "In der vergangenen Nacht verlor eine Autofahrerin in Friedrichshagen aus bislang ungeklärter Ursache die Kontrolle über das Fahrzeug.",
       "category": "Verkehr"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703817.php",
       "publishedAt": "2026-08-17T11:38:34+00:00",
       "publishedLabel": "17.08.2026 11:38",
-      "summary": "Gestern Nachmittag erlitt ein Radfahrer bei einem Verkehrsunfall in Steglitz erhebliche Verletzungen.",
+      "summary": "Erheblich verletzter Radfahrer",
       "category": "Verkehr"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703433.php",
       "publishedAt": "2026-08-15T10:40:00+00:00",
       "publishedLabel": "15.08.2026 10:40",
-      "summary": "Mehrere beschädigte Wahlplakate",
+      "summary": "Unbekannte beschädigten in Reinickendorf und Schöneberg mehrere Wahlplakate verschiedener Parteien.",
       "category": "Sonstiges"
     },
     {
