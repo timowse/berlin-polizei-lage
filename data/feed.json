@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-18T13:53:51.886872+00:00",
-    "checkedTime": "13:53 Uhr",
+    "checkedAt": "2026-08-18T14:34:35.735844+00:00",
+    "checkedTime": "14:34 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Festnahmen nach Trickdiebstahl in Wohnung",
-    "latestPublishedAt": "2026-08-18T13:14:37+00:00"
+    "latestTitle": "65-jähriger Demenzkranker vermisst – Polizei bittet um Mithilfe",
+    "latestPublishedAt": "2026-08-18T14:07:41+00:00"
   },
   "items": [
+    {
+      "title": "65-jähriger Demenzkranker vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
+      "publishedAt": "2026-08-18T14:07:41+00:00",
+      "publishedLabel": "18.08.2026 14:07",
+      "summary": "Mit der Veröffentlichung zweier Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach einem Vermissten.",
+      "category": "Fahndung"
+    },
     {
       "title": "Festnahmen nach Trickdiebstahl in Wohnung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "15.08.2026 09:32",
       "summary": "In der vergangenen Nacht beleidigte und bedrohte eine Gruppe junger Männer einen Mann in Wilmersdorf.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Zwei Männer durch Messerstiche verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703426.php",
-      "publishedAt": "2026-08-15T08:57:40+00:00",
-      "publishedLabel": "15.08.2026 08:57",
-      "summary": "Ein Mann stach gestern Abend im Ortsteil Baumschulenweg mit einem Messer auf zwei weitere Männer ein und verletzte einen von diesen erheblich.",
-      "category": "Ermittlung"
     }
   ]
 }
