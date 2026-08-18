@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-18T22:24:46.327993+00:00",
-    "checkedTime": "22:24 Uhr",
+    "checkedAt": "2026-08-18T22:51:37.612384+00:00",
+    "checkedTime": "22:51 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "65-jähriger Demenzkranker vermisst – Polizei bittet um Mithilfe",
     "latestPublishedAt": "2026-08-18T14:07:41+00:00"
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
       "publishedAt": "2026-08-18T09:34:24+00:00",
       "publishedLabel": "18.08.2026 09:34",
-      "summary": "In der vergangenen Nacht verlor eine Autofahrerin in Friedrichshagen aus bislang ungeklärter Ursache die Kontrolle über das Fahrzeug.",
+      "summary": "Autofahrerin bei Unfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703433.php",
       "publishedAt": "2026-08-15T10:40:00+00:00",
       "publishedLabel": "15.08.2026 10:40",
-      "summary": "Unbekannte beschädigten in Reinickendorf und Schöneberg mehrere Wahlplakate verschiedener Parteien.",
+      "summary": "Mehrere beschädigte Wahlplakate",
       "category": "Sonstiges"
     },
     {
