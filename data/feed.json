@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-18T10:58:20.791809+00:00",
-    "checkedTime": "10:58 Uhr",
+    "checkedAt": "2026-08-18T11:33:05.298098+00:00",
+    "checkedTime": "11:33 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Autofahrerin bei Unfall verletzt",
-    "latestPublishedAt": "2026-08-18T09:34:24+00:00"
+    "latestTitle": "Mahnmal beschmiert",
+    "latestPublishedAt": "2026-08-18T10:47:19+00:00"
   },
   "items": [
+    {
+      "title": "Mahnmal beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704240.php",
+      "publishedAt": "2026-08-18T10:47:19+00:00",
+      "publishedLabel": "18.08.2026 10:47",
+      "summary": "In Moabit wurde gestern Nachmittag eine Sachbeschädigung an einem Mahnmal gemeldet.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Autofahrerin bei Unfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
@@ -55,15 +63,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703514.php",
       "publishedAt": "2026-08-16T11:15:46+00:00",
       "publishedLabel": "16.08.2026 11:15",
-      "summary": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
-      "category": "Sonstiges"
+      "summary": "In der vergangenen Nacht unterbanden Einsatzkräfte der Polizei eine Auseinandersetzung samt Messereinsatz in Mitte.",
+      "category": "Einsatz"
     },
     {
       "title": "Rassistische Beleidigung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703512.php",
       "publishedAt": "2026-08-16T10:37:20+00:00",
       "publishedLabel": "16.08.2026 10:37",
-      "summary": "Rassistische Beleidigung",
+      "summary": "Gestern Nachmittag beleidigte in Neukölln ein Mann drei Frauen aufgrund ihrer Hautfarbe.",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703436.php",
       "publishedAt": "2026-08-15T11:21:59+00:00",
       "publishedLabel": "15.08.2026 11:21",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Wasserschutzpolizei zu einem verletzten Mann auf der Müggelspree in Friedrichshagen alarmiert.",
+      "summary": "Mann auf dem Müggelsee durch Schiffsschraube schwer verletzt",
       "category": "Ermittlung"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "15.08.2026 08:49",
       "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Pankow alarmiert.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Schüsse treffen Lokalscheibe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703303.php",
-      "publishedAt": "2026-08-14T12:18:35+00:00",
-      "publishedLabel": "14.08.2026 12:18",
-      "summary": "In Pankow trafen in der Nacht von Mittwoch auf Donnerstag mehrere Schüsse eine Scheibe.",
-      "category": "Sonstiges"
     }
   ]
 }
