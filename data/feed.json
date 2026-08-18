@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-18T13:00:20.764685+00:00",
-    "checkedTime": "13:00 Uhr",
+    "checkedAt": "2026-08-18T13:53:51.886872+00:00",
+    "checkedTime": "13:53 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mahnmal beschmiert",
-    "latestPublishedAt": "2026-08-18T10:47:19+00:00"
+    "latestTitle": "Festnahmen nach Trickdiebstahl in Wohnung",
+    "latestPublishedAt": "2026-08-18T13:14:37+00:00"
   },
   "items": [
+    {
+      "title": "Festnahmen nach Trickdiebstahl in Wohnung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
+      "publishedAt": "2026-08-18T13:14:37+00:00",
+      "publishedLabel": "18.08.2026 13:14",
+      "summary": "Gestern Abend nahmen Polizeikräfte in Charlottenburg zwei Tatverdächtige nach einem Trickdiebstahl vorläufig fest.",
+      "category": "Fahndung"
+    },
     {
       "title": "Mahnmal beschmiert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704240.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "15.08.2026 08:57",
       "summary": "Ein Mann stach gestern Abend im Ortsteil Baumschulenweg mit einem Messer auf zwei weitere Männer ein und verletzte einen von diesen erheblich.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Rollerfahrer nach Verkehrsunfall verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703425.php",
-      "publishedAt": "2026-08-15T08:49:37+00:00",
-      "publishedLabel": "15.08.2026 08:49",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Pankow alarmiert.",
-      "category": "Verkehr"
     }
   ]
 }
