@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-19T20:02:36.067180+00:00",
-    "checkedTime": "20:02 Uhr",
+    "checkedAt": "2026-08-19T20:41:58.139994+00:00",
+    "checkedTime": "20:41 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Festnahmen nach versuchtem Trickdiebstahl",
     "latestPublishedAt": "2026-08-19T12:18:54+00:00"
@@ -23,15 +23,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
       "publishedAt": "2026-08-19T11:38:40+00:00",
       "publishedLabel": "19.08.2026 11:38",
-      "summary": "Regenbogenflagge beschädigt",
-      "category": "Sonstiges"
+      "summary": "Heute Morgen wurden Einsatzkräfte wegen einer Sachbeschädigung in den Ortsteil Hansaviertel alarmiert.",
+      "category": "Ermittlung"
     },
     {
       "title": "Radfahrer nach Unfall mit Autotür verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
       "publishedAt": "2026-08-19T11:23:09+00:00",
       "publishedLabel": "19.08.2026 11:23",
-      "summary": "Radfahrer nach Unfall mit Autotür verletzt",
+      "summary": "Gestern Abend wurde ein Radfahrer bei einem Verkehrsunfall in Lichtenberg verletzt.",
       "category": "Verkehr"
     },
     {
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
       "publishedAt": "2026-08-19T11:02:00+00:00",
       "publishedLabel": "19.08.2026 11:02",
-      "summary": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
+      "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
       "category": "Ermittlung"
     },
     {
@@ -79,8 +79,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704240.php",
       "publishedAt": "2026-08-18T10:47:19+00:00",
       "publishedLabel": "18.08.2026 10:47",
-      "summary": "Mahnmal beschmiert",
-      "category": "Sonstiges"
+      "summary": "In Moabit wurde gestern Nachmittag eine Sachbeschädigung an einem Mahnmal gemeldet.",
+      "category": "Ermittlung"
     },
     {
       "title": "Autofahrerin bei Unfall verletzt",
@@ -119,23 +119,23 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
       "publishedAt": "2026-08-16T11:19:01+00:00",
       "publishedLabel": "16.08.2026 11:19",
-      "summary": "Mehrfach gegen den Kopf getreten",
-      "category": "Sonstiges"
+      "summary": "Gestern Nachmittag verletzte ein Mann einem anderen Mann in Mitte.",
+      "category": "Ermittlung"
     },
     {
       "title": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703514.php",
       "publishedAt": "2026-08-16T11:15:46+00:00",
       "publishedLabel": "16.08.2026 11:15",
-      "summary": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
-      "category": "Sonstiges"
+      "summary": "In der vergangenen Nacht unterbanden Einsatzkräfte der Polizei eine Auseinandersetzung samt Messereinsatz in Mitte.",
+      "category": "Einsatz"
     },
     {
       "title": "Rassistische Beleidigung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703512.php",
       "publishedAt": "2026-08-16T10:37:20+00:00",
       "publishedLabel": "16.08.2026 10:37",
-      "summary": "Rassistische Beleidigung",
+      "summary": "Gestern Nachmittag beleidigte in Neukölln ein Mann drei Frauen aufgrund ihrer Hautfarbe.",
       "category": "Sonstiges"
     },
     {
