@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-19T12:13:50.712580+00:00",
-    "checkedTime": "12:13 Uhr",
+    "checkedAt": "2026-08-19T14:00:14.385274+00:00",
+    "checkedTime": "14:00 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Regenbogenflagge beschädigt",
-    "latestPublishedAt": "2026-08-19T11:38:40+00:00"
+    "latestTitle": "Festnahmen nach versuchtem Trickdiebstahl",
+    "latestPublishedAt": "2026-08-19T12:18:54+00:00"
   },
   "items": [
+    {
+      "title": "Festnahmen nach versuchtem Trickdiebstahl",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704883.php",
+      "publishedAt": "2026-08-19T12:18:54+00:00",
+      "publishedLabel": "19.08.2026 12:18",
+      "summary": "Gestern Mittag nahmen Einsatzkräfte in Wittenau zwei Frauen fest.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Regenbogenflagge beschädigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
@@ -23,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
       "publishedAt": "2026-08-19T11:23:09+00:00",
       "publishedLabel": "19.08.2026 11:23",
-      "summary": "Gestern Abend wurde ein Radfahrer bei einem Verkehrsunfall in Lichtenberg verletzt.",
+      "summary": "Radfahrer nach Unfall mit Autotür verletzt",
       "category": "Verkehr"
     },
     {
@@ -31,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
       "publishedAt": "2026-08-19T11:02:00+00:00",
       "publishedLabel": "19.08.2026 11:02",
-      "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
+      "summary": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
       "category": "Ermittlung"
     },
     {
@@ -47,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
       "publishedAt": "2026-08-19T09:28:00+00:00",
       "publishedLabel": "19.08.2026 09:28",
-      "summary": "Der seit dem 16. August vermisste 65-Jährige konnte gestern Nacht in einem Krankenhaus angetroffen werden.",
+      "summary": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
       "category": "Fahndung"
     },
     {
@@ -111,23 +119,23 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
       "publishedAt": "2026-08-16T11:19:01+00:00",
       "publishedLabel": "16.08.2026 11:19",
-      "summary": "Gestern Nachmittag verletzte ein Mann einem anderen Mann in Mitte.",
-      "category": "Ermittlung"
+      "summary": "Mehrfach gegen den Kopf getreten",
+      "category": "Sonstiges"
     },
     {
       "title": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703514.php",
       "publishedAt": "2026-08-16T11:15:46+00:00",
       "publishedLabel": "16.08.2026 11:15",
-      "summary": "In der vergangenen Nacht unterbanden Einsatzkräfte der Polizei eine Auseinandersetzung samt Messereinsatz in Mitte.",
-      "category": "Einsatz"
+      "summary": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
+      "category": "Sonstiges"
     },
     {
       "title": "Rassistische Beleidigung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703512.php",
       "publishedAt": "2026-08-16T10:37:20+00:00",
       "publishedLabel": "16.08.2026 10:37",
-      "summary": "Gestern Nachmittag beleidigte in Neukölln ein Mann drei Frauen aufgrund ihrer Hautfarbe.",
+      "summary": "Rassistische Beleidigung",
       "category": "Sonstiges"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "16.08.2026 09:45",
       "summary": "Einsatzkräfte der Polizei Berlin sind wiederholt zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Mitarbeiter eines Spätkaufs mit Schusswaffe bedroht und Geld geraubt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703441.php",
-      "publishedAt": "2026-08-15T12:50:19+00:00",
-      "publishedLabel": "15.08.2026 12:50",
-      "summary": "In der vergangenen Nacht alarmierten mehrere Zeugen Einsatzkräfte der Polizei Berlin nach Kreuzberg.",
-      "category": "Fahndung"
     }
   ]
 }
