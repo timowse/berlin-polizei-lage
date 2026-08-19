@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-19T06:21:14.492402+00:00",
-    "checkedTime": "06:21 Uhr",
+    "checkedAt": "2026-08-19T07:20:41.904570+00:00",
+    "checkedTime": "07:20 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "65-jähriger Demenzkranker vermisst – Polizei bittet um Mithilfe",
     "latestPublishedAt": "2026-08-18T14:07:41+00:00"
@@ -23,16 +23,16 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
       "publishedAt": "2026-08-18T13:14:37+00:00",
       "publishedLabel": "18.08.2026 13:14",
-      "summary": "Gestern Abend nahmen Polizeikräfte in Charlottenburg zwei Tatverdächtige nach einem Trickdiebstahl vorläufig fest.",
-      "category": "Fahndung"
+      "summary": "Festnahmen nach Trickdiebstahl in Wohnung",
+      "category": "Ermittlung"
     },
     {
       "title": "Mahnmal beschmiert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704240.php",
       "publishedAt": "2026-08-18T10:47:19+00:00",
       "publishedLabel": "18.08.2026 10:47",
-      "summary": "In Moabit wurde gestern Nachmittag eine Sachbeschädigung an einem Mahnmal gemeldet.",
-      "category": "Ermittlung"
+      "summary": "Mahnmal beschmiert",
+      "category": "Sonstiges"
     },
     {
       "title": "Autofahrerin bei Unfall verletzt",
