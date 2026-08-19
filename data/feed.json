@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-19T10:43:08.141953+00:00",
-    "checkedTime": "10:43 Uhr",
+    "checkedAt": "2026-08-19T11:09:58.132797+00:00",
+    "checkedTime": "11:09 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
     "latestPublishedAt": "2026-08-19T10:23:00+00:00"
@@ -127,16 +127,16 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703441.php",
       "publishedAt": "2026-08-15T12:50:19+00:00",
       "publishedLabel": "15.08.2026 12:50",
-      "summary": "Mitarbeiter eines Spätkaufs mit Schusswaffe bedroht und Geld geraubt",
-      "category": "Ermittlung"
+      "summary": "In der vergangenen Nacht alarmierten mehrere Zeugen Einsatzkräfte der Polizei Berlin nach Kreuzberg.",
+      "category": "Fahndung"
     },
     {
       "title": "Mann angefahren und anschließend geflüchtet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703440.php",
       "publishedAt": "2026-08-15T12:29:18+00:00",
       "publishedLabel": "15.08.2026 12:29",
-      "summary": "Mann angefahren und anschließend geflüchtet",
-      "category": "Sonstiges"
+      "summary": "Ein unbekannter Fahrzeugführer fuhr vergangene Nacht einen Mann in Charlottenburg an, verletzte ihn und flüchtete anschließend.",
+      "category": "Verkehr"
     },
     {
       "title": "Mehrere Einbrüche in einem Einkaufszentrum",
