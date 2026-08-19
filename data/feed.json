@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-19T09:34:58.474979+00:00",
-    "checkedTime": "09:34 Uhr",
+    "checkedAt": "2026-08-19T10:02:32.913776+00:00",
+    "checkedTime": "10:02 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Touristin bei Verkehrsunfall verletzt",
-    "latestPublishedAt": "2026-08-19T08:35:00+00:00"
+    "latestTitle": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
+    "latestPublishedAt": "2026-08-19T09:28:00+00:00"
   },
   "items": [
+    {
+      "title": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
+      "publishedAt": "2026-08-19T09:28:00+00:00",
+      "publishedLabel": "19.08.2026 09:28",
+      "summary": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
+      "category": "Fahndung"
+    },
     {
       "title": "Touristin bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704662.php",
@@ -17,14 +25,6 @@
       "publishedLabel": "19.08.2026 08:35",
       "summary": "Gestern Abend wurden Einsatzkräfte der Polizei Berlin wegen eines Verkehrsunfalls nach Prenzlauer Berg alarmiert.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
-      "publishedAt": "2026-08-18T14:07:41+00:00",
-      "publishedLabel": "18.08.2026 14:07",
-      "summary": "Der seit dem 16. August vermisste 65-Jährige konnte gestern Nacht in einem Krankenhaus angetroffen werden.",
-      "category": "Fahndung"
     },
     {
       "title": "Festnahmen nach Trickdiebstahl in Wohnung",
@@ -39,15 +39,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704240.php",
       "publishedAt": "2026-08-18T10:47:19+00:00",
       "publishedLabel": "18.08.2026 10:47",
-      "summary": "In Moabit wurde gestern Nachmittag eine Sachbeschädigung an einem Mahnmal gemeldet.",
-      "category": "Ermittlung"
+      "summary": "Mahnmal beschmiert",
+      "category": "Sonstiges"
     },
     {
       "title": "Autofahrerin bei Unfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
       "publishedAt": "2026-08-18T09:34:24+00:00",
       "publishedLabel": "18.08.2026 09:34",
-      "summary": "In der vergangenen Nacht verlor eine Autofahrerin in Friedrichshagen aus bislang ungeklärter Ursache die Kontrolle über das Fahrzeug.",
+      "summary": "Autofahrerin bei Unfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703842.php",
       "publishedAt": "2026-08-17T12:24:54+00:00",
       "publishedLabel": "17.08.2026 12:24",
-      "summary": "Einsatzkräfte der Polizei Berlin zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
+      "summary": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703702.php",
       "publishedAt": "2026-08-17T09:49:48+00:00",
       "publishedLabel": "17.08.2026 09:49",
-      "summary": "In der Nacht von Samstag zu Sonntag kam es in Rudow zu einer Sachbeschädigung durch Schussabgabe.",
+      "summary": "Sachbeschädigung durch Schussabgabe",
       "category": "Ermittlung"
     },
     {
@@ -79,23 +79,23 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
       "publishedAt": "2026-08-16T11:19:01+00:00",
       "publishedLabel": "16.08.2026 11:19",
-      "summary": "Gestern Nachmittag verletzte ein Mann einem anderen Mann in Mitte.",
-      "category": "Ermittlung"
+      "summary": "Mehrfach gegen den Kopf getreten",
+      "category": "Sonstiges"
     },
     {
       "title": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703514.php",
       "publishedAt": "2026-08-16T11:15:46+00:00",
       "publishedLabel": "16.08.2026 11:15",
-      "summary": "In der vergangenen Nacht unterbanden Einsatzkräfte der Polizei eine Auseinandersetzung samt Messereinsatz in Mitte.",
-      "category": "Einsatz"
+      "summary": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
+      "category": "Sonstiges"
     },
     {
       "title": "Rassistische Beleidigung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703512.php",
       "publishedAt": "2026-08-16T10:37:20+00:00",
       "publishedLabel": "16.08.2026 10:37",
-      "summary": "Gestern Nachmittag beleidigte in Neukölln ein Mann drei Frauen aufgrund ihrer Hautfarbe.",
+      "summary": "Rassistische Beleidigung",
       "category": "Sonstiges"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703510.php",
       "publishedAt": "2026-08-16T09:57:12+00:00",
       "publishedLabel": "16.08.2026 09:57",
-      "summary": "Gestern Nachmittag griffen ein Autofahrer und dessen Beifahrer aus bislang ungeklärten Gründen einen Pedelecfahrer in Mitte an.",
+      "summary": "Autofahrer und Begleiter greifen Pedelecfahrer an",
       "category": "Verkehr"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703508.php",
       "publishedAt": "2026-08-16T09:45:23+00:00",
       "publishedLabel": "16.08.2026 09:45",
-      "summary": "Einsatzkräfte der Polizei Berlin sind wiederholt zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
+      "summary": "Sachbeschädigungen und eine Beleidigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703433.php",
       "publishedAt": "2026-08-15T10:40:00+00:00",
       "publishedLabel": "15.08.2026 10:40",
-      "summary": "Unbekannte beschädigten in Reinickendorf und Schöneberg mehrere Wahlplakate verschiedener Parteien.",
+      "summary": "Mehrere beschädigte Wahlplakate",
       "category": "Sonstiges"
     }
   ]
