@@ -3,19 +3,27 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-19T11:40:19.033877+00:00",
-    "checkedTime": "11:40 Uhr",
+    "checkedAt": "2026-08-19T12:13:50.712580+00:00",
+    "checkedTime": "12:13 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Radfahrer nach Unfall mit Autotür verletzt",
-    "latestPublishedAt": "2026-08-19T11:23:09+00:00"
+    "latestTitle": "Regenbogenflagge beschädigt",
+    "latestPublishedAt": "2026-08-19T11:38:40+00:00"
   },
   "items": [
+    {
+      "title": "Regenbogenflagge beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
+      "publishedAt": "2026-08-19T11:38:40+00:00",
+      "publishedLabel": "19.08.2026 11:38",
+      "summary": "Heute Morgen wurden Einsatzkräfte wegen einer Sachbeschädigung in den Ortsteil Hansaviertel alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Radfahrer nach Unfall mit Autotür verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
       "publishedAt": "2026-08-19T11:23:09+00:00",
       "publishedLabel": "19.08.2026 11:23",
-      "summary": "Radfahrer nach Unfall mit Autotür verletzt",
+      "summary": "Gestern Abend wurde ein Radfahrer bei einem Verkehrsunfall in Lichtenberg verletzt.",
       "category": "Verkehr"
     },
     {
@@ -23,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
       "publishedAt": "2026-08-19T11:02:00+00:00",
       "publishedLabel": "19.08.2026 11:02",
-      "summary": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
+      "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
       "category": "Ermittlung"
     },
     {
@@ -87,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703817.php",
       "publishedAt": "2026-08-17T11:38:34+00:00",
       "publishedLabel": "17.08.2026 11:38",
-      "summary": "Erheblich verletzter Radfahrer",
+      "summary": "Gestern Nachmittag erlitt ein Radfahrer bei einem Verkehrsunfall in Steglitz erhebliche Verletzungen.",
       "category": "Verkehr"
     },
     {
@@ -103,8 +111,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
       "publishedAt": "2026-08-16T11:19:01+00:00",
       "publishedLabel": "16.08.2026 11:19",
-      "summary": "Mehrfach gegen den Kopf getreten",
-      "category": "Sonstiges"
+      "summary": "Gestern Nachmittag verletzte ein Mann einem anderen Mann in Mitte.",
+      "category": "Ermittlung"
     },
     {
       "title": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
@@ -145,14 +153,6 @@
       "publishedLabel": "15.08.2026 12:50",
       "summary": "In der vergangenen Nacht alarmierten mehrere Zeugen Einsatzkräfte der Polizei Berlin nach Kreuzberg.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Mann angefahren und anschließend geflüchtet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703440.php",
-      "publishedAt": "2026-08-15T12:29:18+00:00",
-      "publishedLabel": "15.08.2026 12:29",
-      "summary": "Ein unbekannter Fahrzeugführer fuhr vergangene Nacht einen Mann in Charlottenburg an, verletzte ihn und flüchtete anschließend.",
-      "category": "Verkehr"
     }
   ]
 }
