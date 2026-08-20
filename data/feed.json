@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-20T18:14:59.010991+00:00",
-    "checkedTime": "18:14 Uhr",
+    "checkedAt": "2026-08-20T19:04:26.651116+00:00",
+    "checkedTime": "19:04 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
     "latestPublishedAt": "2026-08-20T11:45:00+00:00"
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705347.php",
       "publishedAt": "2026-08-20T10:52:00+00:00",
       "publishedLabel": "20.08.2026 10:52",
-      "summary": "Gestern Mittag wurde ein Mann bei einem Verkehrsunfall in Britz verletzt.",
+      "summary": "Senior bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
       "publishedAt": "2026-08-19T11:02:00+00:00",
       "publishedLabel": "19.08.2026 11:02",
-      "summary": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
+      "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
       "category": "Ermittlung"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
       "publishedAt": "2026-08-19T09:28:00+00:00",
       "publishedLabel": "19.08.2026 09:28",
-      "summary": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
+      "summary": "Der seit dem 16. August vermisste 65-Jährige konnte gestern Nacht in einem Krankenhaus angetroffen werden.",
       "category": "Fahndung"
     },
     {
