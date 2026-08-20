@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-20T15:52:48.368410+00:00",
-    "checkedTime": "15:52 Uhr",
+    "checkedAt": "2026-08-20T16:36:13.487375+00:00",
+    "checkedTime": "16:36 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
     "latestPublishedAt": "2026-08-20T11:45:00+00:00"
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704769.php",
       "publishedAt": "2026-08-19T10:23:00+00:00",
       "publishedLabel": "19.08.2026 10:23",
-      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "summary": "Einsatzkräfte wurden im Verlauf des gestrigen Tages und Abends sowie in der Nacht zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl alarmiert.",
       "category": "Ermittlung"
     },
     {
@@ -103,23 +103,23 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
       "publishedAt": "2026-08-18T13:14:37+00:00",
       "publishedLabel": "18.08.2026 13:14",
-      "summary": "Festnahmen nach Trickdiebstahl in Wohnung",
-      "category": "Ermittlung"
+      "summary": "Gestern Abend nahmen Polizeikräfte in Charlottenburg zwei Tatverdächtige nach einem Trickdiebstahl vorläufig fest.",
+      "category": "Fahndung"
     },
     {
       "title": "Mahnmal beschmiert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704240.php",
       "publishedAt": "2026-08-18T10:47:19+00:00",
       "publishedLabel": "18.08.2026 10:47",
-      "summary": "Mahnmal beschmiert",
-      "category": "Sonstiges"
+      "summary": "In Moabit wurde gestern Nachmittag eine Sachbeschädigung an einem Mahnmal gemeldet.",
+      "category": "Ermittlung"
     },
     {
       "title": "Autofahrerin bei Unfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
       "publishedAt": "2026-08-18T09:34:24+00:00",
       "publishedLabel": "18.08.2026 09:34",
-      "summary": "Autofahrerin bei Unfall verletzt",
+      "summary": "In der vergangenen Nacht verlor eine Autofahrerin in Friedrichshagen aus bislang ungeklärter Ursache die Kontrolle über das Fahrzeug.",
       "category": "Verkehr"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703842.php",
       "publishedAt": "2026-08-17T12:24:54+00:00",
       "publishedLabel": "17.08.2026 12:24",
-      "summary": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "summary": "Einsatzkräfte der Polizei Berlin zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
       "category": "Ermittlung"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703817.php",
       "publishedAt": "2026-08-17T11:38:34+00:00",
       "publishedLabel": "17.08.2026 11:38",
-      "summary": "Erheblich verletzter Radfahrer",
+      "summary": "Gestern Nachmittag erlitt ein Radfahrer bei einem Verkehrsunfall in Steglitz erhebliche Verletzungen.",
       "category": "Verkehr"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703702.php",
       "publishedAt": "2026-08-17T09:49:48+00:00",
       "publishedLabel": "17.08.2026 09:49",
-      "summary": "Sachbeschädigung durch Schussabgabe",
+      "summary": "In der Nacht von Samstag zu Sonntag kam es in Rudow zu einer Sachbeschädigung durch Schussabgabe.",
       "category": "Ermittlung"
     },
     {
