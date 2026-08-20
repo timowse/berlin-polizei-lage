@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-20T13:57:45.030559+00:00",
-    "checkedTime": "13:57 Uhr",
+    "checkedAt": "2026-08-20T14:43:16.868527+00:00",
+    "checkedTime": "14:43 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
     "latestPublishedAt": "2026-08-20T11:45:00+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705410.php",
       "publishedAt": "2026-08-20T11:45:00+00:00",
       "publishedLabel": "20.08.2026 11:45",
-      "summary": "Einsatzkräfte der BAO Ferrum des Landeskriminalamts Berlin nahmen gestern im Auftrag der EG Telum der Staatsanwaltschaft Berlin ...",
+      "summary": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
       "category": "Ermittlung"
     },
     {
@@ -23,15 +23,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705349.php",
       "publishedAt": "2026-08-20T10:54:00+00:00",
       "publishedLabel": "20.08.2026 10:54",
-      "summary": "Gestern Abend soll es in Marzahn zu einer gefährlichen Körperverletzung gekommen sein.",
-      "category": "Ermittlung"
+      "summary": "Kind von Erwachsenen geschlagen",
+      "category": "Sonstiges"
     },
     {
       "title": "Senior bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705347.php",
       "publishedAt": "2026-08-20T10:52:00+00:00",
       "publishedLabel": "20.08.2026 10:52",
-      "summary": "Gestern Mittag wurde ein Mann bei einem Verkehrsunfall in Britz verletzt.",
+      "summary": "Senior bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -47,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704883.php",
       "publishedAt": "2026-08-19T12:18:54+00:00",
       "publishedLabel": "19.08.2026 12:18",
-      "summary": "Gestern Mittag nahmen Einsatzkräfte in Wittenau zwei Frauen fest.",
+      "summary": "Festnahmen nach versuchtem Trickdiebstahl",
       "category": "Ermittlung"
     },
     {
@@ -55,15 +55,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
       "publishedAt": "2026-08-19T11:38:40+00:00",
       "publishedLabel": "19.08.2026 11:38",
-      "summary": "Heute Morgen wurden Einsatzkräfte wegen einer Sachbeschädigung in den Ortsteil Hansaviertel alarmiert.",
-      "category": "Ermittlung"
+      "summary": "Regenbogenflagge beschädigt",
+      "category": "Sonstiges"
     },
     {
       "title": "Radfahrer nach Unfall mit Autotür verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
       "publishedAt": "2026-08-19T11:23:09+00:00",
       "publishedLabel": "19.08.2026 11:23",
-      "summary": "Gestern Abend wurde ein Radfahrer bei einem Verkehrsunfall in Lichtenberg verletzt.",
+      "summary": "Radfahrer nach Unfall mit Autotür verletzt",
       "category": "Verkehr"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
       "publishedAt": "2026-08-19T11:02:00+00:00",
       "publishedLabel": "19.08.2026 11:02",
-      "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
+      "summary": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
       "category": "Ermittlung"
     },
     {
