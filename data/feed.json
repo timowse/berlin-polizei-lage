@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-20T11:01:17.176600+00:00",
-    "checkedTime": "11:01 Uhr",
+    "checkedAt": "2026-08-20T11:37:55.905366+00:00",
+    "checkedTime": "11:37 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Festnahmen nach versuchtem Trickdiebstahl",
-    "latestPublishedAt": "2026-08-19T12:18:54+00:00"
+    "latestTitle": "Kind von Erwachsenen geschlagen",
+    "latestPublishedAt": "2026-08-20T10:54:00+00:00"
   },
   "items": [
+    {
+      "title": "Kind von Erwachsenen geschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705349.php",
+      "publishedAt": "2026-08-20T10:54:00+00:00",
+      "publishedLabel": "20.08.2026 10:54",
+      "summary": "Gestern Abend soll es in Marzahn zu einer gefährlichen Körperverletzung gekommen sein.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Senior bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705347.php",
+      "publishedAt": "2026-08-20T10:52:00+00:00",
+      "publishedLabel": "20.08.2026 10:52",
+      "summary": "Gestern Mittag wurde ein Mann bei einem Verkehrsunfall in Britz verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705339.php",
+      "publishedAt": "2026-08-20T10:49:00+00:00",
+      "publishedLabel": "20.08.2026 10:49",
+      "summary": "Einsatzkräfte der Polizei Berlin sind im Verlauf des gestrigen Tages sowie in der Nacht zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl ...",
+      "category": "Ermittlung"
+    },
     {
       "title": "Festnahmen nach versuchtem Trickdiebstahl",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704883.php",
@@ -39,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
       "publishedAt": "2026-08-19T11:02:00+00:00",
       "publishedLabel": "19.08.2026 11:02",
-      "summary": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
+      "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
       "category": "Ermittlung"
     },
     {
@@ -55,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
       "publishedAt": "2026-08-19T09:28:00+00:00",
       "publishedLabel": "19.08.2026 09:28",
-      "summary": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
+      "summary": "Der seit dem 16. August vermisste 65-Jährige konnte gestern Nacht in einem Krankenhaus angetroffen werden.",
       "category": "Fahndung"
     },
     {
@@ -63,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704662.php",
       "publishedAt": "2026-08-19T08:35:00+00:00",
       "publishedLabel": "19.08.2026 08:35",
-      "summary": "Touristin bei Verkehrsunfall verletzt",
+      "summary": "Gestern Abend wurden Einsatzkräfte der Polizei Berlin wegen eines Verkehrsunfalls nach Prenzlauer Berg alarmiert.",
       "category": "Verkehr"
     },
     {
@@ -87,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
       "publishedAt": "2026-08-18T09:34:24+00:00",
       "publishedLabel": "18.08.2026 09:34",
-      "summary": "Autofahrerin bei Unfall verletzt",
+      "summary": "In der vergangenen Nacht verlor eine Autofahrerin in Friedrichshagen aus bislang ungeklärter Ursache die Kontrolle über das Fahrzeug.",
       "category": "Verkehr"
     },
     {
@@ -95,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703842.php",
       "publishedAt": "2026-08-17T12:24:54+00:00",
       "publishedLabel": "17.08.2026 12:24",
-      "summary": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "summary": "Einsatzkräfte der Polizei Berlin zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
       "category": "Ermittlung"
     },
     {
@@ -119,40 +143,16 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
       "publishedAt": "2026-08-16T11:19:01+00:00",
       "publishedLabel": "16.08.2026 11:19",
-      "summary": "Mehrfach gegen den Kopf getreten",
-      "category": "Sonstiges"
+      "summary": "Gestern Nachmittag verletzte ein Mann einem anderen Mann in Mitte.",
+      "category": "Ermittlung"
     },
     {
       "title": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703514.php",
       "publishedAt": "2026-08-16T11:15:46+00:00",
       "publishedLabel": "16.08.2026 11:15",
-      "summary": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Rassistische Beleidigung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703512.php",
-      "publishedAt": "2026-08-16T10:37:20+00:00",
-      "publishedLabel": "16.08.2026 10:37",
-      "summary": "Rassistische Beleidigung",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Autofahrer und Begleiter greifen Pedelecfahrer an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703510.php",
-      "publishedAt": "2026-08-16T09:57:12+00:00",
-      "publishedLabel": "16.08.2026 09:57",
-      "summary": "Gestern Nachmittag griffen ein Autofahrer und dessen Beifahrer aus bislang ungeklärten Gründen einen Pedelecfahrer in Mitte an.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Sachbeschädigungen und eine Beleidigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703508.php",
-      "publishedAt": "2026-08-16T09:45:23+00:00",
-      "publishedLabel": "16.08.2026 09:45",
-      "summary": "Einsatzkräfte der Polizei Berlin sind wiederholt zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
-      "category": "Ermittlung"
+      "summary": "In der vergangenen Nacht unterbanden Einsatzkräfte der Polizei eine Auseinandersetzung samt Messereinsatz in Mitte.",
+      "category": "Einsatz"
     }
   ]
 }
