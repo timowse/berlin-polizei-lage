@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-20T08:39:32.557282+00:00",
-    "checkedTime": "08:39 Uhr",
+    "checkedAt": "2026-08-20T09:16:53.805020+00:00",
+    "checkedTime": "09:16 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Festnahmen nach versuchtem Trickdiebstahl",
     "latestPublishedAt": "2026-08-19T12:18:54+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
       "publishedAt": "2026-08-19T09:28:00+00:00",
       "publishedLabel": "19.08.2026 09:28",
-      "summary": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
+      "summary": "Der seit dem 16. August vermisste 65-Jährige konnte gestern Nacht in einem Krankenhaus angetroffen werden.",
       "category": "Fahndung"
     },
     {
@@ -127,15 +127,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703514.php",
       "publishedAt": "2026-08-16T11:15:46+00:00",
       "publishedLabel": "16.08.2026 11:15",
-      "summary": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
-      "category": "Sonstiges"
+      "summary": "In der vergangenen Nacht unterbanden Einsatzkräfte der Polizei eine Auseinandersetzung samt Messereinsatz in Mitte.",
+      "category": "Einsatz"
     },
     {
       "title": "Rassistische Beleidigung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703512.php",
       "publishedAt": "2026-08-16T10:37:20+00:00",
       "publishedLabel": "16.08.2026 10:37",
-      "summary": "Rassistische Beleidigung",
+      "summary": "Gestern Nachmittag beleidigte in Neukölln ein Mann drei Frauen aufgrund ihrer Hautfarbe.",
       "category": "Sonstiges"
     },
     {
