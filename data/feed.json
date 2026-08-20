@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-20T22:11:15.843045+00:00",
-    "checkedTime": "22:11 Uhr",
+    "checkedAt": "2026-08-20T22:48:33.562151+00:00",
+    "checkedTime": "22:48 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
     "latestPublishedAt": "2026-08-20T11:45:00+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705410.php",
       "publishedAt": "2026-08-20T11:45:00+00:00",
       "publishedLabel": "20.08.2026 11:45",
-      "summary": "Einsatzkräfte der BAO Ferrum des Landeskriminalamts Berlin nahmen gestern im Auftrag der EG Telum der Staatsanwaltschaft Berlin ...",
+      "summary": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
       "category": "Ermittlung"
     },
     {
@@ -23,15 +23,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705349.php",
       "publishedAt": "2026-08-20T10:54:00+00:00",
       "publishedLabel": "20.08.2026 10:54",
-      "summary": "Gestern Abend soll es in Marzahn zu einer gefährlichen Körperverletzung gekommen sein.",
-      "category": "Ermittlung"
+      "summary": "Kind von Erwachsenen geschlagen",
+      "category": "Sonstiges"
     },
     {
       "title": "Senior bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705347.php",
       "publishedAt": "2026-08-20T10:52:00+00:00",
       "publishedLabel": "20.08.2026 10:52",
-      "summary": "Gestern Mittag wurde ein Mann bei einem Verkehrsunfall in Britz verletzt.",
+      "summary": "Senior bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -55,8 +55,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
       "publishedAt": "2026-08-19T11:38:40+00:00",
       "publishedLabel": "19.08.2026 11:38",
-      "summary": "Heute Morgen wurden Einsatzkräfte wegen einer Sachbeschädigung in den Ortsteil Hansaviertel alarmiert.",
-      "category": "Ermittlung"
+      "summary": "Regenbogenflagge beschädigt",
+      "category": "Sonstiges"
     },
     {
       "title": "Radfahrer nach Unfall mit Autotür verletzt",
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704769.php",
       "publishedAt": "2026-08-19T10:23:00+00:00",
       "publishedLabel": "19.08.2026 10:23",
-      "summary": "Einsatzkräfte wurden im Verlauf des gestrigen Tages und Abends sowie in der Nacht zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl alarmiert.",
+      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704662.php",
       "publishedAt": "2026-08-19T08:35:00+00:00",
       "publishedLabel": "19.08.2026 08:35",
-      "summary": "Gestern Abend wurden Einsatzkräfte der Polizei Berlin wegen eines Verkehrsunfalls nach Prenzlauer Berg alarmiert.",
+      "summary": "Touristin bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -111,15 +111,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704240.php",
       "publishedAt": "2026-08-18T10:47:19+00:00",
       "publishedLabel": "18.08.2026 10:47",
-      "summary": "In Moabit wurde gestern Nachmittag eine Sachbeschädigung an einem Mahnmal gemeldet.",
-      "category": "Ermittlung"
+      "summary": "Mahnmal beschmiert",
+      "category": "Sonstiges"
     },
     {
       "title": "Autofahrerin bei Unfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
       "publishedAt": "2026-08-18T09:34:24+00:00",
       "publishedLabel": "18.08.2026 09:34",
-      "summary": "In der vergangenen Nacht verlor eine Autofahrerin in Friedrichshagen aus bislang ungeklärter Ursache die Kontrolle über das Fahrzeug.",
+      "summary": "Autofahrerin bei Unfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703842.php",
       "publishedAt": "2026-08-17T12:24:54+00:00",
       "publishedLabel": "17.08.2026 12:24",
-      "summary": "Einsatzkräfte der Polizei Berlin zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
+      "summary": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     },
     {
