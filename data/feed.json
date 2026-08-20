@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-20T17:04:50.258886+00:00",
-    "checkedTime": "17:04 Uhr",
+    "checkedAt": "2026-08-20T17:41:59.087154+00:00",
+    "checkedTime": "17:41 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
     "latestPublishedAt": "2026-08-20T11:45:00+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705410.php",
       "publishedAt": "2026-08-20T11:45:00+00:00",
       "publishedLabel": "20.08.2026 11:45",
-      "summary": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
+      "summary": "Einsatzkräfte der BAO Ferrum des Landeskriminalamts Berlin nahmen gestern im Auftrag der EG Telum der Staatsanwaltschaft Berlin ...",
       "category": "Ermittlung"
     },
     {
@@ -23,15 +23,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705349.php",
       "publishedAt": "2026-08-20T10:54:00+00:00",
       "publishedLabel": "20.08.2026 10:54",
-      "summary": "Kind von Erwachsenen geschlagen",
-      "category": "Sonstiges"
+      "summary": "Gestern Abend soll es in Marzahn zu einer gefährlichen Körperverletzung gekommen sein.",
+      "category": "Ermittlung"
     },
     {
       "title": "Senior bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705347.php",
       "publishedAt": "2026-08-20T10:52:00+00:00",
       "publishedLabel": "20.08.2026 10:52",
-      "summary": "Senior bei Verkehrsunfall verletzt",
+      "summary": "Gestern Mittag wurde ein Mann bei einem Verkehrsunfall in Britz verletzt.",
       "category": "Verkehr"
     },
     {
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705339.php",
       "publishedAt": "2026-08-20T10:49:00+00:00",
       "publishedLabel": "20.08.2026 10:49",
-      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "summary": "Einsatzkräfte der Polizei Berlin sind im Verlauf des gestrigen Tages sowie in der Nacht zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl ...",
       "category": "Ermittlung"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
       "publishedAt": "2026-08-19T11:23:09+00:00",
       "publishedLabel": "19.08.2026 11:23",
-      "summary": "Gestern Abend wurde ein Radfahrer bei einem Verkehrsunfall in Lichtenberg verletzt.",
+      "summary": "Radfahrer nach Unfall mit Autotür verletzt",
       "category": "Verkehr"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
       "publishedAt": "2026-08-19T11:02:00+00:00",
       "publishedLabel": "19.08.2026 11:02",
-      "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
+      "summary": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
       "category": "Ermittlung"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
       "publishedAt": "2026-08-19T09:28:00+00:00",
       "publishedLabel": "19.08.2026 09:28",
-      "summary": "Der seit dem 16. August vermisste 65-Jährige konnte gestern Nacht in einem Krankenhaus angetroffen werden.",
+      "summary": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
       "category": "Fahndung"
     },
     {
@@ -103,8 +103,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
       "publishedAt": "2026-08-18T13:14:37+00:00",
       "publishedLabel": "18.08.2026 13:14",
-      "summary": "Gestern Abend nahmen Polizeikräfte in Charlottenburg zwei Tatverdächtige nach einem Trickdiebstahl vorläufig fest.",
-      "category": "Fahndung"
+      "summary": "Festnahmen nach Trickdiebstahl in Wohnung",
+      "category": "Ermittlung"
     },
     {
       "title": "Mahnmal beschmiert",
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703842.php",
       "publishedAt": "2026-08-17T12:24:54+00:00",
       "publishedLabel": "17.08.2026 12:24",
-      "summary": "Einsatzkräfte der Polizei Berlin zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
+      "summary": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703817.php",
       "publishedAt": "2026-08-17T11:38:34+00:00",
       "publishedLabel": "17.08.2026 11:38",
-      "summary": "Gestern Nachmittag erlitt ein Radfahrer bei einem Verkehrsunfall in Steglitz erhebliche Verletzungen.",
+      "summary": "Erheblich verletzter Radfahrer",
       "category": "Verkehr"
     },
     {
@@ -151,8 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
       "publishedAt": "2026-08-16T11:19:01+00:00",
       "publishedLabel": "16.08.2026 11:19",
-      "summary": "Gestern Nachmittag verletzte ein Mann einem anderen Mann in Mitte.",
-      "category": "Ermittlung"
+      "summary": "Mehrfach gegen den Kopf getreten",
+      "category": "Sonstiges"
     }
   ]
 }
