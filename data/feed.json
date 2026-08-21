@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-21T14:57:31.714993+00:00",
-    "checkedTime": "14:57 Uhr",
+    "checkedAt": "2026-08-21T15:40:38.320311+00:00",
+    "checkedTime": "15:40 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-    "latestPublishedAt": "2026-08-21T14:13:54+00:00"
+    "latestTitle": "Mann wegen Fremdgefährdung gesucht",
+    "latestPublishedAt": "2026-08-21T14:43:23+00:00"
   },
   "items": [
+    {
+      "title": "Mann wegen Fremdgefährdung gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705919.php",
+      "publishedAt": "2026-08-21T14:43:23+00:00",
+      "publishedLabel": "21.08.2026 14:43",
+      "summary": "Aufgrund einer bestehenden Fremdgefährdung sucht die Polizei Berlin nach einem Mann.",
+      "category": "Fahndung"
+    },
     {
       "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705916.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "18.08.2026 10:47",
       "summary": "In Moabit wurde gestern Nachmittag eine Sachbeschädigung an einem Mahnmal gemeldet.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Autofahrerin bei Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
-      "publishedAt": "2026-08-18T09:34:24+00:00",
-      "publishedLabel": "18.08.2026 09:34",
-      "summary": "In der vergangenen Nacht verlor eine Autofahrerin in Friedrichshagen aus bislang ungeklärter Ursache die Kontrolle über das Fahrzeug.",
-      "category": "Verkehr"
     }
   ]
 }
