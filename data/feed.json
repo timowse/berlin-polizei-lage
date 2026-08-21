@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-21T13:34:55.371337+00:00",
-    "checkedTime": "13:34 Uhr",
+    "checkedAt": "2026-08-21T14:17:16.884983+00:00",
+    "checkedTime": "14:17 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
     "latestPublishedAt": "2026-08-21T13:28:22+00:00"
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
       "publishedAt": "2026-08-18T09:34:24+00:00",
       "publishedLabel": "18.08.2026 09:34",
-      "summary": "In der vergangenen Nacht verlor eine Autofahrerin in Friedrichshagen aus bislang ungeklärter Ursache die Kontrolle über das Fahrzeug.",
+      "summary": "Autofahrerin bei Unfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703842.php",
       "publishedAt": "2026-08-17T12:24:54+00:00",
       "publishedLabel": "17.08.2026 12:24",
-      "summary": "Einsatzkräfte der Polizei Berlin zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
+      "summary": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     }
   ]
