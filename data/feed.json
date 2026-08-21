@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-21T18:49:25.931506+00:00",
-    "checkedTime": "18:49 Uhr",
+    "checkedAt": "2026-08-21T19:16:52.378586+00:00",
+    "checkedTime": "19:16 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann wegen Fremdgefährdung gesucht",
     "latestPublishedAt": "2026-08-21T14:43:23+00:00"
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
       "publishedAt": "2026-08-19T11:02:00+00:00",
       "publishedLabel": "19.08.2026 11:02",
-      "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
+      "summary": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
       "category": "Ermittlung"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704662.php",
       "publishedAt": "2026-08-19T08:35:00+00:00",
       "publishedLabel": "19.08.2026 08:35",
-      "summary": "Gestern Abend wurden Einsatzkräfte der Polizei Berlin wegen eines Verkehrsunfalls nach Prenzlauer Berg alarmiert.",
+      "summary": "Touristin bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
