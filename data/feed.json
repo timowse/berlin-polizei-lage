@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-21T12:49:35.063187+00:00",
-    "checkedTime": "12:49 Uhr",
+    "checkedAt": "2026-08-21T13:34:55.371337+00:00",
+    "checkedTime": "13:34 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Brandstiftung an einem Späti",
-    "latestPublishedAt": "2026-08-21T12:21:35+00:00"
+    "latestTitle": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
+    "latestPublishedAt": "2026-08-21T13:28:22+00:00"
   },
   "items": [
+    {
+      "title": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705905.php",
+      "publishedAt": "2026-08-21T13:28:22+00:00",
+      "publishedLabel": "21.08.2026 13:28",
+      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 3. Mordkommission des LKA Berlin die Ermittlungen zu einem versuchten Tötungsdelikt übernommen.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Brandstiftung an einem Späti",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705868.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "17.08.2026 12:24",
       "summary": "Einsatzkräfte der Polizei Berlin zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Erheblich verletzter Radfahrer",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703817.php",
-      "publishedAt": "2026-08-17T11:38:34+00:00",
-      "publishedLabel": "17.08.2026 11:38",
-      "summary": "Gestern Nachmittag erlitt ein Radfahrer bei einem Verkehrsunfall in Steglitz erhebliche Verletzungen.",
-      "category": "Verkehr"
     }
   ]
 }
