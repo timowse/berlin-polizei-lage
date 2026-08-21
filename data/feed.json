@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-21T14:17:16.884983+00:00",
-    "checkedTime": "14:17 Uhr",
+    "checkedAt": "2026-08-21T14:57:31.714993+00:00",
+    "checkedTime": "14:57 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
-    "latestPublishedAt": "2026-08-21T13:28:22+00:00"
+    "latestTitle": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+    "latestPublishedAt": "2026-08-21T14:13:54+00:00"
   },
   "items": [
+    {
+      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705916.php",
+      "publishedAt": "2026-08-21T14:13:54+00:00",
+      "publishedLabel": "21.08.2026 14:13",
+      "summary": "Einsatzkräfte sind im Verlauf des gestrigen Tages sowie in der Nacht im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705905.php",
@@ -143,16 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
       "publishedAt": "2026-08-18T09:34:24+00:00",
       "publishedLabel": "18.08.2026 09:34",
-      "summary": "Autofahrerin bei Unfall verletzt",
+      "summary": "In der vergangenen Nacht verlor eine Autofahrerin in Friedrichshagen aus bislang ungeklärter Ursache die Kontrolle über das Fahrzeug.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703842.php",
-      "publishedAt": "2026-08-17T12:24:54+00:00",
-      "publishedLabel": "17.08.2026 12:24",
-      "summary": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "category": "Ermittlung"
     }
   ]
 }
