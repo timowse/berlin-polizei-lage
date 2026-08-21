@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-21T03:57:21.166106+00:00",
-    "checkedTime": "03:57 Uhr",
+    "checkedAt": "2026-08-21T05:19:25.759680+00:00",
+    "checkedTime": "05:19 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
     "latestPublishedAt": "2026-08-20T11:45:00+00:00"
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
       "publishedAt": "2026-08-19T09:28:00+00:00",
       "publishedLabel": "19.08.2026 09:28",
-      "summary": "Der seit dem 16. August vermisste 65-Jährige konnte gestern Nacht in einem Krankenhaus angetroffen werden.",
+      "summary": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
       "category": "Fahndung"
     },
     {
@@ -103,8 +103,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
       "publishedAt": "2026-08-18T13:14:37+00:00",
       "publishedLabel": "18.08.2026 13:14",
-      "summary": "Gestern Abend nahmen Polizeikräfte in Charlottenburg zwei Tatverdächtige nach einem Trickdiebstahl vorläufig fest.",
-      "category": "Fahndung"
+      "summary": "Festnahmen nach Trickdiebstahl in Wohnung",
+      "category": "Ermittlung"
     },
     {
       "title": "Mahnmal beschmiert",
