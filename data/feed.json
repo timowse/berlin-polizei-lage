@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-21T11:54:03.621558+00:00",
-    "checkedTime": "11:54 Uhr",
+    "checkedAt": "2026-08-21T12:49:35.063187+00:00",
+    "checkedTime": "12:49 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
-    "latestPublishedAt": "2026-08-20T11:45:00+00:00"
+    "latestTitle": "Brandstiftung an einem Späti",
+    "latestPublishedAt": "2026-08-21T12:21:35+00:00"
   },
   "items": [
+    {
+      "title": "Brandstiftung an einem Späti",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705868.php",
+      "publishedAt": "2026-08-21T12:21:35+00:00",
+      "publishedLabel": "21.08.2026 12:21",
+      "summary": "In der vergangenen Nacht wurde im Ortsteil Wedding ein Späti mit einem Brandsatz angegriffen.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Aktionswoche zum Waffen- und Messerverbot im öffentlichen Personennahverkehr",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705848.php",
+      "publishedAt": "2026-08-21T11:49:16+00:00",
+      "publishedLabel": "21.08.2026 11:49",
+      "summary": "Vom 24. bis zum 28. August 2026 führt die Polizei Berlin gemeinsam mit der Bundespolizei eine Aktionswoche zur Durchsetzung des Waffen- und Messerverbots durch",
+      "category": "Verkehr"
+    },
     {
       "title": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705410.php",
@@ -63,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
       "publishedAt": "2026-08-19T11:23:09+00:00",
       "publishedLabel": "19.08.2026 11:23",
-      "summary": "Radfahrer nach Unfall mit Autotür verletzt",
+      "summary": "Gestern Abend wurde ein Radfahrer bei einem Verkehrsunfall in Lichtenberg verletzt.",
       "category": "Verkehr"
     },
     {
@@ -71,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
       "publishedAt": "2026-08-19T11:02:00+00:00",
       "publishedLabel": "19.08.2026 11:02",
-      "summary": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
+      "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
       "category": "Ermittlung"
     },
     {
@@ -87,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
       "publishedAt": "2026-08-19T09:28:00+00:00",
       "publishedLabel": "19.08.2026 09:28",
-      "summary": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
+      "summary": "Der seit dem 16. August vermisste 65-Jährige konnte gestern Nacht in einem Krankenhaus angetroffen werden.",
       "category": "Fahndung"
     },
     {
@@ -103,8 +119,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
       "publishedAt": "2026-08-18T13:14:37+00:00",
       "publishedLabel": "18.08.2026 13:14",
-      "summary": "Festnahmen nach Trickdiebstahl in Wohnung",
-      "category": "Ermittlung"
+      "summary": "Gestern Abend nahmen Polizeikräfte in Charlottenburg zwei Tatverdächtige nach einem Trickdiebstahl vorläufig fest.",
+      "category": "Fahndung"
     },
     {
       "title": "Mahnmal beschmiert",
@@ -135,24 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703817.php",
       "publishedAt": "2026-08-17T11:38:34+00:00",
       "publishedLabel": "17.08.2026 11:38",
-      "summary": "Erheblich verletzter Radfahrer",
+      "summary": "Gestern Nachmittag erlitt ein Radfahrer bei einem Verkehrsunfall in Steglitz erhebliche Verletzungen.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Sachbeschädigung durch Schussabgabe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703702.php",
-      "publishedAt": "2026-08-17T09:49:48+00:00",
-      "publishedLabel": "17.08.2026 09:49",
-      "summary": "In der Nacht von Samstag zu Sonntag kam es in Rudow zu einer Sachbeschädigung durch Schussabgabe.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mehrfach gegen den Kopf getreten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
-      "publishedAt": "2026-08-16T11:19:01+00:00",
-      "publishedLabel": "16.08.2026 11:19",
-      "summary": "Gestern Nachmittag verletzte ein Mann einem anderen Mann in Mitte.",
-      "category": "Ermittlung"
     }
   ]
 }
