@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-22T11:08:16.659239+00:00",
-    "checkedTime": "11:08 Uhr",
+    "checkedAt": "2026-08-22T11:33:48.940575+00:00",
+    "checkedTime": "11:33 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Schutzscheibe in Linienbus eingeschlagen",
     "latestPublishedAt": "2026-08-22T10:43:42+00:00"
@@ -23,15 +23,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705966.php",
       "publishedAt": "2026-08-22T10:15:42+00:00",
       "publishedLabel": "22.08.2026 10:15",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Rummelsburg gerufen.",
-      "category": "Verkehr"
+      "summary": "Rad- und Motorrollerfahrer kollidieren – beide im Krankenhaus",
+      "category": "Sonstiges"
     },
     {
       "title": "Mann nach Messerangriff im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
       "publishedAt": "2026-08-22T09:56:53+00:00",
       "publishedLabel": "22.08.2026 09:56",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu einem mit Messerstichen verletzten Mann nach Britz alarmiert.",
+      "summary": "Mann nach Messerangriff im Krankenhaus",
       "category": "Ermittlung"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704883.php",
       "publishedAt": "2026-08-19T12:18:54+00:00",
       "publishedLabel": "19.08.2026 12:18",
-      "summary": "Gestern Mittag nahmen Einsatzkräfte in Wittenau zwei Frauen fest.",
+      "summary": "Festnahmen nach versuchtem Trickdiebstahl",
       "category": "Ermittlung"
     },
     {
@@ -135,8 +135,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
       "publishedAt": "2026-08-19T11:38:40+00:00",
       "publishedLabel": "19.08.2026 11:38",
-      "summary": "Heute Morgen wurden Einsatzkräfte wegen einer Sachbeschädigung in den Ortsteil Hansaviertel alarmiert.",
-      "category": "Ermittlung"
+      "summary": "Regenbogenflagge beschädigt",
+      "category": "Sonstiges"
     },
     {
       "title": "Radfahrer nach Unfall mit Autotür verletzt",
