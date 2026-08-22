@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-21T23:56:22.861041+00:00",
-    "checkedTime": "23:56 Uhr",
+    "checkedAt": "2026-08-22T01:27:15.268680+00:00",
+    "checkedTime": "01:27 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Gesuchter Vermisster wieder untergebracht",
     "latestPublishedAt": "2026-08-21T19:55:00+00:00"
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705905.php",
       "publishedAt": "2026-08-21T13:28:22+00:00",
       "publishedLabel": "21.08.2026 13:28",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 3. Mordkommission des LKA Berlin die Ermittlungen zu einem versuchten Tötungsdelikt übernommen.",
+      "summary": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
       "category": "Ermittlung"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
       "publishedAt": "2026-08-19T11:02:00+00:00",
       "publishedLabel": "19.08.2026 11:02",
-      "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
+      "summary": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
       "category": "Ermittlung"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
       "publishedAt": "2026-08-19T09:28:00+00:00",
       "publishedLabel": "19.08.2026 09:28",
-      "summary": "Der seit dem 16. August vermisste 65-Jährige konnte gestern Nacht in einem Krankenhaus angetroffen werden.",
+      "summary": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
       "category": "Fahndung"
     },
     {
