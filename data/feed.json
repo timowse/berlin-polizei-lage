@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-22T03:24:07.425693+00:00",
-    "checkedTime": "03:24 Uhr",
+    "checkedAt": "2026-08-22T04:06:00.815026+00:00",
+    "checkedTime": "04:06 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Gesuchter Vermisster wieder untergebracht",
     "latestPublishedAt": "2026-08-21T19:55:00+00:00"
@@ -63,8 +63,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705349.php",
       "publishedAt": "2026-08-20T10:54:00+00:00",
       "publishedLabel": "20.08.2026 10:54",
-      "summary": "Gestern Abend soll es in Marzahn zu einer gefährlichen Körperverletzung gekommen sein.",
-      "category": "Ermittlung"
+      "summary": "Kind von Erwachsenen geschlagen",
+      "category": "Sonstiges"
     },
     {
       "title": "Senior bei Verkehrsunfall verletzt",
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704883.php",
       "publishedAt": "2026-08-19T12:18:54+00:00",
       "publishedLabel": "19.08.2026 12:18",
-      "summary": "Gestern Mittag nahmen Einsatzkräfte in Wittenau zwei Frauen fest.",
+      "summary": "Festnahmen nach versuchtem Trickdiebstahl",
       "category": "Ermittlung"
     },
     {
@@ -95,8 +95,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
       "publishedAt": "2026-08-19T11:38:40+00:00",
       "publishedLabel": "19.08.2026 11:38",
-      "summary": "Heute Morgen wurden Einsatzkräfte wegen einer Sachbeschädigung in den Ortsteil Hansaviertel alarmiert.",
-      "category": "Ermittlung"
+      "summary": "Regenbogenflagge beschädigt",
+      "category": "Sonstiges"
     },
     {
       "title": "Radfahrer nach Unfall mit Autotür verletzt",
