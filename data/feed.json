@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-22T09:27:07.606753+00:00",
-    "checkedTime": "09:27 Uhr",
+    "checkedAt": "2026-08-22T09:52:31.097415+00:00",
+    "checkedTime": "09:52 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann schießt vom Balkon – Festnahme durch SEK",
-    "latestPublishedAt": "2026-08-22T08:40:41+00:00"
+    "latestTitle": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
+    "latestPublishedAt": "2026-08-22T09:29:29+00:00"
   },
   "items": [
+    {
+      "title": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
+      "publishedAt": "2026-08-22T09:29:29+00:00",
+      "publishedLabel": "22.08.2026 09:29",
+      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin durch einen Zeugen auf eine gefährliche Körperverletzung in Friedrichshain aufmerksam gemacht.",
+      "category": "Fahndung"
+    },
     {
       "title": "Mann schießt vom Balkon – Festnahme durch SEK",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705961.php",
@@ -103,8 +111,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
       "publishedAt": "2026-08-19T11:38:40+00:00",
       "publishedLabel": "19.08.2026 11:38",
-      "summary": "Heute Morgen wurden Einsatzkräfte wegen einer Sachbeschädigung in den Ortsteil Hansaviertel alarmiert.",
-      "category": "Ermittlung"
+      "summary": "Regenbogenflagge beschädigt",
+      "category": "Sonstiges"
     },
     {
       "title": "Radfahrer nach Unfall mit Autotür verletzt",
@@ -145,14 +153,6 @@
       "publishedLabel": "19.08.2026 08:35",
       "summary": "Gestern Abend wurden Einsatzkräfte der Polizei Berlin wegen eines Verkehrsunfalls nach Prenzlauer Berg alarmiert.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Festnahmen nach Trickdiebstahl in Wohnung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
-      "publishedAt": "2026-08-18T13:14:37+00:00",
-      "publishedLabel": "18.08.2026 13:14",
-      "summary": "Gestern Abend nahmen Polizeikräfte in Charlottenburg zwei Tatverdächtige nach einem Trickdiebstahl vorläufig fest.",
-      "category": "Fahndung"
     }
   ]
 }
