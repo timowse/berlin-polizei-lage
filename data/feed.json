@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-22T09:52:31.097415+00:00",
-    "checkedTime": "09:52 Uhr",
+    "checkedAt": "2026-08-22T10:49:33.282005+00:00",
+    "checkedTime": "10:49 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
-    "latestPublishedAt": "2026-08-22T09:29:29+00:00"
+    "latestTitle": "Rad- und Motorrollerfahrer kollidieren – beide im Krankenhaus",
+    "latestPublishedAt": "2026-08-22T10:15:42+00:00"
   },
   "items": [
+    {
+      "title": "Rad- und Motorrollerfahrer kollidieren – beide im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705966.php",
+      "publishedAt": "2026-08-22T10:15:42+00:00",
+      "publishedLabel": "22.08.2026 10:15",
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Rummelsburg gerufen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mann nach Messerangriff im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
+      "publishedAt": "2026-08-22T09:56:53+00:00",
+      "publishedLabel": "22.08.2026 09:56",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu einem mit Messerstichen verletzten Mann nach Britz alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
@@ -111,8 +127,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
       "publishedAt": "2026-08-19T11:38:40+00:00",
       "publishedLabel": "19.08.2026 11:38",
-      "summary": "Regenbogenflagge beschädigt",
-      "category": "Sonstiges"
+      "summary": "Heute Morgen wurden Einsatzkräfte wegen einer Sachbeschädigung in den Ortsteil Hansaviertel alarmiert.",
+      "category": "Ermittlung"
     },
     {
       "title": "Radfahrer nach Unfall mit Autotür verletzt",
@@ -137,22 +153,6 @@
       "publishedLabel": "19.08.2026 10:23",
       "summary": "Einsatzkräfte wurden im Verlauf des gestrigen Tages und Abends sowie in der Nacht zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl alarmiert.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
-      "publishedAt": "2026-08-19T09:28:00+00:00",
-      "publishedLabel": "19.08.2026 09:28",
-      "summary": "Der seit dem 16. August vermisste 65-Jährige konnte gestern Nacht in einem Krankenhaus angetroffen werden.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Touristin bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704662.php",
-      "publishedAt": "2026-08-19T08:35:00+00:00",
-      "publishedLabel": "19.08.2026 08:35",
-      "summary": "Gestern Abend wurden Einsatzkräfte der Polizei Berlin wegen eines Verkehrsunfalls nach Prenzlauer Berg alarmiert.",
-      "category": "Verkehr"
     }
   ]
 }
