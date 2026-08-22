@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-22T11:54:32.681075+00:00",
-    "checkedTime": "11:54 Uhr",
+    "checkedAt": "2026-08-22T12:40:12.312743+00:00",
+    "checkedTime": "12:40 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Schutzscheibe in Linienbus eingeschlagen",
     "latestPublishedAt": "2026-08-22T10:43:42+00:00"
@@ -39,8 +39,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
       "publishedAt": "2026-08-22T09:29:29+00:00",
       "publishedLabel": "22.08.2026 09:29",
-      "summary": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
-      "category": "Sonstiges"
+      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin durch einen Zeugen auf eine gefährliche Körperverletzung in Friedrichshain aufmerksam gemacht.",
+      "category": "Fahndung"
     },
     {
       "title": "Mann schießt vom Balkon – Festnahme durch SEK",
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
       "publishedAt": "2026-08-19T11:23:09+00:00",
       "publishedLabel": "19.08.2026 11:23",
-      "summary": "Radfahrer nach Unfall mit Autotür verletzt",
+      "summary": "Gestern Abend wurde ein Radfahrer bei einem Verkehrsunfall in Lichtenberg verletzt.",
       "category": "Verkehr"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
       "publishedAt": "2026-08-19T11:02:00+00:00",
       "publishedLabel": "19.08.2026 11:02",
-      "summary": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
+      "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
       "category": "Ermittlung"
     }
   ]
