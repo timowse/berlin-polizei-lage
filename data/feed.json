@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-22T10:49:33.282005+00:00",
-    "checkedTime": "10:49 Uhr",
+    "checkedAt": "2026-08-22T11:08:16.659239+00:00",
+    "checkedTime": "11:08 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Rad- und Motorrollerfahrer kollidieren – beide im Krankenhaus",
-    "latestPublishedAt": "2026-08-22T10:15:42+00:00"
+    "latestTitle": "Schutzscheibe in Linienbus eingeschlagen",
+    "latestPublishedAt": "2026-08-22T10:43:42+00:00"
   },
   "items": [
+    {
+      "title": "Schutzscheibe in Linienbus eingeschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705968.php",
+      "publishedAt": "2026-08-22T10:43:42+00:00",
+      "publishedLabel": "22.08.2026 10:43",
+      "summary": "In der vergangenen Nacht demolierte ein Mann im Ortsteil Plänterwald eine Scheibe in einem BVG-Bus.",
+      "category": "Verkehr"
+    },
     {
       "title": "Rad- und Motorrollerfahrer kollidieren – beide im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705966.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-08-19T11:02:00+00:00",
       "publishedLabel": "19.08.2026 11:02",
       "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704769.php",
-      "publishedAt": "2026-08-19T10:23:00+00:00",
-      "publishedLabel": "19.08.2026 10:23",
-      "summary": "Einsatzkräfte wurden im Verlauf des gestrigen Tages und Abends sowie in der Nacht zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl alarmiert.",
       "category": "Ermittlung"
     }
   ]
