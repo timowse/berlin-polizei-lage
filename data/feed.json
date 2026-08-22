@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-22T13:20:26.967130+00:00",
-    "checkedTime": "13:20 Uhr",
+    "checkedAt": "2026-08-22T13:52:23.100199+00:00",
+    "checkedTime": "13:52 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Fremdenfeindlich beleidigt und geschlagen",
-    "latestPublishedAt": "2026-08-22T13:10:36+00:00"
+    "latestTitle": "Mann mit Cuttermesser verletzt",
+    "latestPublishedAt": "2026-08-22T13:25:15+00:00"
   },
   "items": [
+    {
+      "title": "Mann mit Cuttermesser verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
+      "publishedAt": "2026-08-22T13:25:15+00:00",
+      "publishedLabel": "22.08.2026 13:25",
+      "summary": "Heute Morgen soll ein Mann in Kreuzberg mit einem Cuttermesser verletzt worden sein.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Fremdenfeindlich beleidigt und geschlagen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705976.php",
@@ -47,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
       "publishedAt": "2026-08-22T09:56:53+00:00",
       "publishedLabel": "22.08.2026 09:56",
-      "summary": "Mann nach Messerangriff im Krankenhaus",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu einem mit Messerstichen verletzten Mann nach Britz alarmiert.",
       "category": "Ermittlung"
     },
     {
@@ -55,8 +63,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
       "publishedAt": "2026-08-22T09:29:29+00:00",
       "publishedLabel": "22.08.2026 09:29",
-      "summary": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
-      "category": "Sonstiges"
+      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin durch einen Zeugen auf eine gefährliche Körperverletzung in Friedrichshain aufmerksam gemacht.",
+      "category": "Fahndung"
     },
     {
       "title": "Mann schießt vom Balkon – Festnahme durch SEK",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-08-19T12:18:54+00:00",
       "publishedLabel": "19.08.2026 12:18",
       "summary": "Gestern Mittag nahmen Einsatzkräfte in Wittenau zwei Frauen fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Regenbogenflagge beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
-      "publishedAt": "2026-08-19T11:38:40+00:00",
-      "publishedLabel": "19.08.2026 11:38",
-      "summary": "Heute Morgen wurden Einsatzkräfte wegen einer Sachbeschädigung in den Ortsteil Hansaviertel alarmiert.",
       "category": "Ermittlung"
     }
   ]
