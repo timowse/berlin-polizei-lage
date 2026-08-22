@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-22T12:40:12.312743+00:00",
-    "checkedTime": "12:40 Uhr",
+    "checkedAt": "2026-08-22T13:20:26.967130+00:00",
+    "checkedTime": "13:20 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Schutzscheibe in Linienbus eingeschlagen",
-    "latestPublishedAt": "2026-08-22T10:43:42+00:00"
+    "latestTitle": "Fremdenfeindlich beleidigt und geschlagen",
+    "latestPublishedAt": "2026-08-22T13:10:36+00:00"
   },
   "items": [
+    {
+      "title": "Fremdenfeindlich beleidigt und geschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705976.php",
+      "publishedAt": "2026-08-22T13:10:36+00:00",
+      "publishedLabel": "22.08.2026 13:10",
+      "summary": "Gestern Vormittag soll es in Lichtenberg zu einer gefährlichen Körperverletzung und einer Beleidigung gekommen sein.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Wahlplakate in Brand gesetzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705974.php",
+      "publishedAt": "2026-08-22T12:45:47+00:00",
+      "publishedLabel": "22.08.2026 12:45",
+      "summary": "Einsatzkräfte nahmen heute früh zwei Männer in Spandau fest, die im Verdacht stehen, Wahlplakate beschädigt zu haben.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Schutzscheibe in Linienbus eingeschlagen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705968.php",
@@ -31,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
       "publishedAt": "2026-08-22T09:56:53+00:00",
       "publishedLabel": "22.08.2026 09:56",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu einem mit Messerstichen verletzten Mann nach Britz alarmiert.",
+      "summary": "Mann nach Messerangriff im Krankenhaus",
       "category": "Ermittlung"
     },
     {
@@ -39,8 +55,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
       "publishedAt": "2026-08-22T09:29:29+00:00",
       "publishedLabel": "22.08.2026 09:29",
-      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin durch einen Zeugen auf eine gefährliche Körperverletzung in Friedrichshain aufmerksam gemacht.",
-      "category": "Fahndung"
+      "summary": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
+      "category": "Sonstiges"
     },
     {
       "title": "Mann schießt vom Balkon – Festnahme durch SEK",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-08-19T11:38:40+00:00",
       "publishedLabel": "19.08.2026 11:38",
       "summary": "Heute Morgen wurden Einsatzkräfte wegen einer Sachbeschädigung in den Ortsteil Hansaviertel alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Radfahrer nach Unfall mit Autotür verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
-      "publishedAt": "2026-08-19T11:23:09+00:00",
-      "publishedLabel": "19.08.2026 11:23",
-      "summary": "Gestern Abend wurde ein Radfahrer bei einem Verkehrsunfall in Lichtenberg verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
-      "publishedAt": "2026-08-19T11:02:00+00:00",
-      "publishedLabel": "19.08.2026 11:02",
-      "summary": "Gestern Abend wurde in Pankow ein Heranwachsender nach einem Streit mit einer Schusswaffe bedroht, gefesselt und ausgeraubt.",
       "category": "Ermittlung"
     }
   ]
