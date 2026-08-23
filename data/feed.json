@@ -3,19 +3,27 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-23T08:11:51.122551+00:00",
-    "checkedTime": "08:11 Uhr",
+    "checkedAt": "2026-08-23T08:52:06.056469+00:00",
+    "checkedTime": "08:52 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann mit Cuttermesser verletzt",
-    "latestPublishedAt": "2026-08-22T13:25:15+00:00"
+    "latestTitle": "Mit Gullydeckel in Supermarkt eingebrochen",
+    "latestPublishedAt": "2026-08-23T08:38:40+00:00"
   },
   "items": [
+    {
+      "title": "Mit Gullydeckel in Supermarkt eingebrochen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706016.php",
+      "publishedAt": "2026-08-23T08:38:40+00:00",
+      "publishedLabel": "23.08.2026 08:38",
+      "summary": "In der Nacht zu gestern kam es in Dahlem zu einem Einbruch in eine Supermarkt-Filiale.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Mann mit Cuttermesser verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
       "publishedAt": "2026-08-22T13:25:15+00:00",
       "publishedLabel": "22.08.2026 13:25",
-      "summary": "Heute Morgen soll ein Mann in Kreuzberg mit einem Cuttermesser verletzt worden sein.",
+      "summary": "Mann mit Cuttermesser verletzt",
       "category": "Ermittlung"
     },
     {
@@ -63,8 +71,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
       "publishedAt": "2026-08-22T09:29:29+00:00",
       "publishedLabel": "22.08.2026 09:29",
-      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin durch einen Zeugen auf eine gefährliche Körperverletzung in Friedrichshain aufmerksam gemacht.",
-      "category": "Fahndung"
+      "summary": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
+      "category": "Sonstiges"
     },
     {
       "title": "Mann schießt vom Balkon – Festnahme durch SEK",
@@ -95,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705905.php",
       "publishedAt": "2026-08-21T13:28:22+00:00",
       "publishedLabel": "21.08.2026 13:28",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 3. Mordkommission des LKA Berlin die Ermittlungen zu einem versuchten Tötungsdelikt übernommen.",
+      "summary": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
       "category": "Ermittlung"
     },
     {
@@ -144,14 +152,6 @@
       "publishedAt": "2026-08-20T10:49:00+00:00",
       "publishedLabel": "20.08.2026 10:49",
       "summary": "Einsatzkräfte der Polizei Berlin sind im Verlauf des gestrigen Tages sowie in der Nacht zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl ...",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Festnahmen nach versuchtem Trickdiebstahl",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704883.php",
-      "publishedAt": "2026-08-19T12:18:54+00:00",
-      "publishedLabel": "19.08.2026 12:18",
-      "summary": "Gestern Mittag nahmen Einsatzkräfte in Wittenau zwei Frauen fest.",
       "category": "Ermittlung"
     }
   ]
