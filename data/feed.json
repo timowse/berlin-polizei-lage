@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-23T18:00:50.648450+00:00",
-    "checkedTime": "18:00 Uhr",
+    "checkedAt": "2026-08-23T18:45:48.489505+00:00",
+    "checkedTime": "18:45 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
     "latestPublishedAt": "2026-08-23T13:00:00+00:00"
@@ -15,8 +15,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
       "publishedAt": "2026-08-23T13:00:00+00:00",
       "publishedLabel": "23.08.2026 13:00",
-      "summary": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
-      "category": "Einsatz"
+      "summary": "Die 4. Mordkommission des LKA hat am 21. August 2026 im Auftrag der Staatsanwaltschaft die Ermittlungen zu einem Tötungsdelikt in Prenzlauer Berg aufgenommen.",
+      "category": "Ermittlung"
     },
     {
       "title": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705968.php",
       "publishedAt": "2026-08-22T10:43:42+00:00",
       "publishedLabel": "22.08.2026 10:43",
-      "summary": "Schutzscheibe in Linienbus eingeschlagen",
+      "summary": "In der vergangenen Nacht demolierte ein Mann im Ortsteil Plänterwald eine Scheibe in einem BVG-Bus.",
       "category": "Verkehr"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705848.php",
       "publishedAt": "2026-08-21T11:49:16+00:00",
       "publishedLabel": "21.08.2026 11:49",
-      "summary": "Aktionswoche zum Waffen- und Messerverbot im öffentlichen Personennahverkehr",
+      "summary": "Vom 24. bis zum 28. August 2026 führt die Polizei Berlin gemeinsam mit der Bundespolizei eine Aktionswoche zur Durchsetzung des Waffen- und Messerverbots durch",
       "category": "Verkehr"
     }
   ]
