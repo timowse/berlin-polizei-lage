@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-23T12:58:47.694065+00:00",
-    "checkedTime": "12:58 Uhr",
+    "checkedAt": "2026-08-23T13:38:36.129547+00:00",
+    "checkedTime": "13:38 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
-    "latestPublishedAt": "2026-08-23T11:37:07+00:00"
+    "latestTitle": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
+    "latestPublishedAt": "2026-08-23T13:00:00+00:00"
   },
   "items": [
+    {
+      "title": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
+      "publishedAt": "2026-08-23T13:00:00+00:00",
+      "publishedLabel": "23.08.2026 13:00",
+      "summary": "Die 4. Mordkommission des LKA hat am 21. August 2026 im Auftrag der Staatsanwaltschaft die Ermittlungen zu einem Tötungsdelikt in Prenzlauer Berg aufgenommen.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706027.php",
@@ -87,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
       "publishedAt": "2026-08-22T09:56:53+00:00",
       "publishedLabel": "22.08.2026 09:56",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu einem mit Messerstichen verletzten Mann nach Britz alarmiert.",
+      "summary": "Mann nach Messerangriff im Krankenhaus",
       "category": "Ermittlung"
     },
     {
@@ -95,8 +103,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
       "publishedAt": "2026-08-22T09:29:29+00:00",
       "publishedLabel": "22.08.2026 09:29",
-      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin durch einen Zeugen auf eine gefährliche Körperverletzung in Friedrichshain aufmerksam gemacht.",
-      "category": "Fahndung"
+      "summary": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
+      "category": "Sonstiges"
     },
     {
       "title": "Mann schießt vom Balkon – Festnahme durch SEK",
@@ -145,14 +153,6 @@
       "publishedLabel": "21.08.2026 11:49",
       "summary": "Vom 24. bis zum 28. August 2026 führt die Polizei Berlin gemeinsam mit der Bundespolizei eine Aktionswoche zur Durchsetzung des Waffen- und Messerverbots durch",
       "category": "Verkehr"
-    },
-    {
-      "title": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705410.php",
-      "publishedAt": "2026-08-20T11:45:00+00:00",
-      "publishedLabel": "20.08.2026 11:45",
-      "summary": "Einsatzkräfte der BAO Ferrum des Landeskriminalamts Berlin nahmen gestern im Auftrag der EG Telum der Staatsanwaltschaft Berlin ...",
-      "category": "Ermittlung"
     }
   ]
 }
