@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-23T01:57:07.896985+00:00",
-    "checkedTime": "01:57 Uhr",
+    "checkedAt": "2026-08-23T03:09:33.020910+00:00",
+    "checkedTime": "03:09 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann mit Cuttermesser verletzt",
     "latestPublishedAt": "2026-08-22T13:25:15+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
       "publishedAt": "2026-08-22T09:56:53+00:00",
       "publishedLabel": "22.08.2026 09:56",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu einem mit Messerstichen verletzten Mann nach Britz alarmiert.",
+      "summary": "Mann nach Messerangriff im Krankenhaus",
       "category": "Ermittlung"
     },
     {
@@ -63,8 +63,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
       "publishedAt": "2026-08-22T09:29:29+00:00",
       "publishedLabel": "22.08.2026 09:29",
-      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin durch einen Zeugen auf eine gefährliche Körperverletzung in Friedrichshain aufmerksam gemacht.",
-      "category": "Fahndung"
+      "summary": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
+      "category": "Sonstiges"
     },
     {
       "title": "Mann schießt vom Balkon – Festnahme durch SEK",
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705905.php",
       "publishedAt": "2026-08-21T13:28:22+00:00",
       "publishedLabel": "21.08.2026 13:28",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 3. Mordkommission des LKA Berlin die Ermittlungen zu einem versuchten Tötungsdelikt übernommen.",
+      "summary": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
       "category": "Ermittlung"
     },
     {
