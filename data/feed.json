@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-23T03:09:33.020910+00:00",
-    "checkedTime": "03:09 Uhr",
+    "checkedAt": "2026-08-23T04:00:16.780431+00:00",
+    "checkedTime": "04:00 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann mit Cuttermesser verletzt",
     "latestPublishedAt": "2026-08-22T13:25:15+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
       "publishedAt": "2026-08-22T09:56:53+00:00",
       "publishedLabel": "22.08.2026 09:56",
-      "summary": "Mann nach Messerangriff im Krankenhaus",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu einem mit Messerstichen verletzten Mann nach Britz alarmiert.",
       "category": "Ermittlung"
     },
     {
@@ -63,8 +63,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
       "publishedAt": "2026-08-22T09:29:29+00:00",
       "publishedLabel": "22.08.2026 09:29",
-      "summary": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
-      "category": "Sonstiges"
+      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin durch einen Zeugen auf eine gefährliche Körperverletzung in Friedrichshain aufmerksam gemacht.",
+      "category": "Fahndung"
     },
     {
       "title": "Mann schießt vom Balkon – Festnahme durch SEK",
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705905.php",
       "publishedAt": "2026-08-21T13:28:22+00:00",
       "publishedLabel": "21.08.2026 13:28",
-      "summary": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
+      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 3. Mordkommission des LKA Berlin die Ermittlungen zu einem versuchten Tötungsdelikt übernommen.",
       "category": "Ermittlung"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705339.php",
       "publishedAt": "2026-08-20T10:49:00+00:00",
       "publishedLabel": "20.08.2026 10:49",
-      "summary": "Einsatzkräfte der Polizei Berlin sind im Verlauf des gestrigen Tages sowie in der Nacht zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl ...",
+      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     },
     {
