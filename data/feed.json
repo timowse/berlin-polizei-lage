@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-23T08:52:06.056469+00:00",
-    "checkedTime": "08:52 Uhr",
+    "checkedAt": "2026-08-23T09:28:39.500237+00:00",
+    "checkedTime": "09:28 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mit Gullydeckel in Supermarkt eingebrochen",
-    "latestPublishedAt": "2026-08-23T08:38:40+00:00"
+    "latestTitle": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+    "latestPublishedAt": "2026-08-23T09:05:14+00:00"
   },
   "items": [
+    {
+      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
+      "publishedAt": "2026-08-23T09:05:14+00:00",
+      "publishedLabel": "23.08.2026 09:05",
+      "summary": "Einsatzkräfte der Polizei Berlin wurden gestern und heute zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin gerufen.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mann geschlagen und rassistisch beleidigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
+      "publishedAt": "2026-08-23T08:56:39+00:00",
+      "publishedLabel": "23.08.2026 08:56",
+      "summary": "Gestern Mittag kam es in Friedrichshain zu einer Körperverletzung und einer rassistischen Beleidigung.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Mit Gullydeckel in Supermarkt eingebrochen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706016.php",
@@ -23,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
       "publishedAt": "2026-08-22T13:25:15+00:00",
       "publishedLabel": "22.08.2026 13:25",
-      "summary": "Mann mit Cuttermesser verletzt",
+      "summary": "Heute Morgen soll ein Mann in Kreuzberg mit einem Cuttermesser verletzt worden sein.",
       "category": "Ermittlung"
     },
     {
@@ -71,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
       "publishedAt": "2026-08-22T09:29:29+00:00",
       "publishedLabel": "22.08.2026 09:29",
-      "summary": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
-      "category": "Sonstiges"
+      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin durch einen Zeugen auf eine gefährliche Körperverletzung in Friedrichshain aufmerksam gemacht.",
+      "category": "Fahndung"
     },
     {
       "title": "Mann schießt vom Balkon – Festnahme durch SEK",
@@ -87,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705919.php",
       "publishedAt": "2026-08-21T19:55:00+00:00",
       "publishedLabel": "21.08.2026 19:55",
-      "summary": "Einsatzkräfte nahmen den gesuchten Vermissten heute Abend in Friedrichshain wieder in Gewahrsam.",
+      "summary": "Gesuchter Vermisster wieder untergebracht",
       "category": "Fahndung"
     },
     {
@@ -136,22 +152,6 @@
       "publishedAt": "2026-08-20T10:54:00+00:00",
       "publishedLabel": "20.08.2026 10:54",
       "summary": "Gestern Abend soll es in Marzahn zu einer gefährlichen Körperverletzung gekommen sein.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Senior bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705347.php",
-      "publishedAt": "2026-08-20T10:52:00+00:00",
-      "publishedLabel": "20.08.2026 10:52",
-      "summary": "Gestern Mittag wurde ein Mann bei einem Verkehrsunfall in Britz verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705339.php",
-      "publishedAt": "2026-08-20T10:49:00+00:00",
-      "publishedLabel": "20.08.2026 10:49",
-      "summary": "Einsatzkräfte der Polizei Berlin sind im Verlauf des gestrigen Tages sowie in der Nacht zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl ...",
       "category": "Ermittlung"
     }
   ]
