@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-24T09:59:49.774952+00:00",
-    "checkedTime": "09:59 Uhr",
+    "checkedAt": "2026-08-24T10:47:15.579910+00:00",
+    "checkedTime": "10:47 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Schussabgaben auf Geschäft",
     "latestPublishedAt": "2026-08-24T08:11:19+00:00"
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706027.php",
       "publishedAt": "2026-08-23T11:37:07+00:00",
       "publishedLabel": "23.08.2026 11:37",
-      "summary": "In der vergangenen Nacht kam es in Kreuzberg zu einem Verkehrsunfall zwischen einem Radfahrer und einer Fußgängerin.",
+      "summary": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
       "category": "Verkehr"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705974.php",
       "publishedAt": "2026-08-22T12:45:47+00:00",
       "publishedLabel": "22.08.2026 12:45",
-      "summary": "Einsatzkräfte nahmen heute früh zwei Männer in Spandau fest, die im Verdacht stehen, Wahlplakate beschädigt zu haben.",
+      "summary": "Wahlplakate in Brand gesetzt",
       "category": "Ermittlung"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705968.php",
       "publishedAt": "2026-08-22T10:43:42+00:00",
       "publishedLabel": "22.08.2026 10:43",
-      "summary": "In der vergangenen Nacht demolierte ein Mann im Ortsteil Plänterwald eine Scheibe in einem BVG-Bus.",
+      "summary": "Schutzscheibe in Linienbus eingeschlagen",
       "category": "Verkehr"
     },
     {
@@ -103,8 +103,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705966.php",
       "publishedAt": "2026-08-22T10:15:42+00:00",
       "publishedLabel": "22.08.2026 10:15",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Rummelsburg gerufen.",
-      "category": "Verkehr"
+      "summary": "Rad- und Motorrollerfahrer kollidieren – beide im Krankenhaus",
+      "category": "Sonstiges"
     },
     {
       "title": "Mann nach Messerangriff im Krankenhaus",
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705961.php",
       "publishedAt": "2026-08-22T08:40:41+00:00",
       "publishedLabel": "22.08.2026 08:40",
-      "summary": "Spezialeinsatzkräfte nahmen in der vergangenen Nacht einen 45-jährigen Mann in Mariendorf fest.",
+      "summary": "Mann schießt vom Balkon – Festnahme durch SEK",
       "category": "Ermittlung"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705916.php",
       "publishedAt": "2026-08-21T14:13:54+00:00",
       "publishedLabel": "21.08.2026 14:13",
-      "summary": "Einsatzkräfte sind im Verlauf des gestrigen Tages sowie in der Nacht im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
+      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705905.php",
       "publishedAt": "2026-08-21T13:28:22+00:00",
       "publishedLabel": "21.08.2026 13:28",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 3. Mordkommission des LKA Berlin die Ermittlungen zu einem versuchten Tötungsdelikt übernommen.",
+      "summary": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
       "category": "Ermittlung"
     }
   ]
