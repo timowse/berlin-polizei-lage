@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-24T07:17:05.178255+00:00",
-    "checkedTime": "07:17 Uhr",
+    "checkedAt": "2026-08-24T08:07:51.111822+00:00",
+    "checkedTime": "08:07 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
-    "latestPublishedAt": "2026-08-23T13:00:00+00:00"
+    "latestTitle": "Mehrere Fahrzeuge durch Feuer beschädigt",
+    "latestPublishedAt": "2026-08-24T07:39:51+00:00"
   },
   "items": [
+    {
+      "title": "Mehrere Fahrzeuge durch Feuer beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706122.php",
+      "publishedAt": "2026-08-24T07:39:51+00:00",
+      "publishedLabel": "24.08.2026 07:39",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu mehreren brennenden Fahrzeugen in den Ortsteil Falkenhagener Feld alarmiert.",
+      "category": "Verkehr"
+    },
     {
       "title": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
@@ -135,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705905.php",
       "publishedAt": "2026-08-21T13:28:22+00:00",
       "publishedLabel": "21.08.2026 13:28",
-      "summary": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
+      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 3. Mordkommission des LKA Berlin die Ermittlungen zu einem versuchten Tötungsdelikt übernommen.",
       "category": "Ermittlung"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "21.08.2026 12:21",
       "summary": "In der vergangenen Nacht wurde im Ortsteil Wedding ein Späti mit einem Brandsatz angegriffen.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Aktionswoche zum Waffen- und Messerverbot im öffentlichen Personennahverkehr",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705848.php",
-      "publishedAt": "2026-08-21T11:49:16+00:00",
-      "publishedLabel": "21.08.2026 11:49",
-      "summary": "Vom 24. bis zum 28. August 2026 führt die Polizei Berlin gemeinsam mit der Bundespolizei eine Aktionswoche zur Durchsetzung des Waffen- und Messerverbots durch",
-      "category": "Verkehr"
     }
   ]
 }
