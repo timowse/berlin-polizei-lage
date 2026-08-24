@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-24T02:45:47.415447+00:00",
-    "checkedTime": "02:45 Uhr",
+    "checkedAt": "2026-08-24T03:39:44.946247+00:00",
+    "checkedTime": "03:39 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
     "latestPublishedAt": "2026-08-23T13:00:00+00:00"
@@ -15,15 +15,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
       "publishedAt": "2026-08-23T13:00:00+00:00",
       "publishedLabel": "23.08.2026 13:00",
-      "summary": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
-      "category": "Einsatz"
+      "summary": "Die 4. Mordkommission des LKA hat am 21. August 2026 im Auftrag der Staatsanwaltschaft die Ermittlungen zu einem Tötungsdelikt in Prenzlauer Berg aufgenommen.",
+      "category": "Ermittlung"
     },
     {
       "title": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706027.php",
       "publishedAt": "2026-08-23T11:37:07+00:00",
       "publishedLabel": "23.08.2026 11:37",
-      "summary": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
+      "summary": "In der vergangenen Nacht kam es in Kreuzberg zu einem Verkehrsunfall zwischen einem Radfahrer und einer Fußgängerin.",
       "category": "Verkehr"
     },
     {
@@ -39,15 +39,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
       "publishedAt": "2026-08-23T08:56:39+00:00",
       "publishedLabel": "23.08.2026 08:56",
-      "summary": "Gestern Mittag kam es in Friedrichshain zu einer Körperverletzung und einer rassistischen Beleidigung.",
-      "category": "Ermittlung"
+      "summary": "Mann geschlagen und rassistisch beleidigt",
+      "category": "Sonstiges"
     },
     {
       "title": "Mit Gullydeckel in Supermarkt eingebrochen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706016.php",
       "publishedAt": "2026-08-23T08:38:40+00:00",
       "publishedLabel": "23.08.2026 08:38",
-      "summary": "Mit Gullydeckel in Supermarkt eingebrochen",
+      "summary": "In der Nacht zu gestern kam es in Dahlem zu einem Einbruch in eine Supermarkt-Filiale.",
       "category": "Sonstiges"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705974.php",
       "publishedAt": "2026-08-22T12:45:47+00:00",
       "publishedLabel": "22.08.2026 12:45",
-      "summary": "Wahlplakate in Brand gesetzt",
+      "summary": "Einsatzkräfte nahmen heute früh zwei Männer in Spandau fest, die im Verdacht stehen, Wahlplakate beschädigt zu haben.",
       "category": "Ermittlung"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705968.php",
       "publishedAt": "2026-08-22T10:43:42+00:00",
       "publishedLabel": "22.08.2026 10:43",
-      "summary": "Schutzscheibe in Linienbus eingeschlagen",
+      "summary": "In der vergangenen Nacht demolierte ein Mann im Ortsteil Plänterwald eine Scheibe in einem BVG-Bus.",
       "category": "Verkehr"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705961.php",
       "publishedAt": "2026-08-22T08:40:41+00:00",
       "publishedLabel": "22.08.2026 08:40",
-      "summary": "Mann schießt vom Balkon – Festnahme durch SEK",
+      "summary": "Spezialeinsatzkräfte nahmen in der vergangenen Nacht einen 45-jährigen Mann in Mariendorf fest.",
       "category": "Ermittlung"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705919.php",
       "publishedAt": "2026-08-21T19:55:00+00:00",
       "publishedLabel": "21.08.2026 19:55",
-      "summary": "Gesuchter Vermisster wieder untergebracht",
+      "summary": "Einsatzkräfte nahmen den gesuchten Vermissten heute Abend in Friedrichshain wieder in Gewahrsam.",
       "category": "Fahndung"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705916.php",
       "publishedAt": "2026-08-21T14:13:54+00:00",
       "publishedLabel": "21.08.2026 14:13",
-      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "summary": "Einsatzkräfte sind im Verlauf des gestrigen Tages sowie in der Nacht im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
       "category": "Ermittlung"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705905.php",
       "publishedAt": "2026-08-21T13:28:22+00:00",
       "publishedLabel": "21.08.2026 13:28",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 3. Mordkommission des LKA Berlin die Ermittlungen zu einem versuchten Tötungsdelikt übernommen.",
+      "summary": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
       "category": "Ermittlung"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705868.php",
       "publishedAt": "2026-08-21T12:21:35+00:00",
       "publishedLabel": "21.08.2026 12:21",
-      "summary": "Brandstiftung an einem Späti",
+      "summary": "In der vergangenen Nacht wurde im Ortsteil Wedding ein Späti mit einem Brandsatz angegriffen.",
       "category": "Ermittlung"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705848.php",
       "publishedAt": "2026-08-21T11:49:16+00:00",
       "publishedLabel": "21.08.2026 11:49",
-      "summary": "Aktionswoche zum Waffen- und Messerverbot im öffentlichen Personennahverkehr",
+      "summary": "Vom 24. bis zum 28. August 2026 führt die Polizei Berlin gemeinsam mit der Bundespolizei eine Aktionswoche zur Durchsetzung des Waffen- und Messerverbots durch",
       "category": "Verkehr"
     }
   ]
