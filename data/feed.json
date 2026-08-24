@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-24T15:52:31.696643+00:00",
-    "checkedTime": "15:52 Uhr",
+    "checkedAt": "2026-08-24T16:38:13.839576+00:00",
+    "checkedTime": "16:38 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Wohnungsraub mit Schusswaffen",
     "latestPublishedAt": "2026-08-24T11:50:05+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
       "publishedAt": "2026-08-23T09:05:14+00:00",
       "publishedLabel": "23.08.2026 09:05",
-      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "summary": "Einsatzkräfte der Polizei Berlin wurden gestern und heute zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin gerufen.",
       "category": "Ermittlung"
     },
     {
@@ -63,8 +63,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
       "publishedAt": "2026-08-23T08:56:39+00:00",
       "publishedLabel": "23.08.2026 08:56",
-      "summary": "Mann geschlagen und rassistisch beleidigt",
-      "category": "Sonstiges"
+      "summary": "Gestern Mittag kam es in Friedrichshain zu einer Körperverletzung und einer rassistischen Beleidigung.",
+      "category": "Ermittlung"
     },
     {
       "title": "Mit Gullydeckel in Supermarkt eingebrochen",
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705919.php",
       "publishedAt": "2026-08-21T19:55:00+00:00",
       "publishedLabel": "21.08.2026 19:55",
-      "summary": "Einsatzkräfte nahmen den gesuchten Vermissten heute Abend in Friedrichshain wieder in Gewahrsam.",
+      "summary": "Gesuchter Vermisster wieder untergebracht",
       "category": "Fahndung"
     },
     {
