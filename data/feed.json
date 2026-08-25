@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-25T07:55:08.243966+00:00",
-    "checkedTime": "07:55 Uhr",
+    "checkedAt": "2026-08-25T08:43:02.552316+00:00",
+    "checkedTime": "08:43 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Wohnungsraub mit Schusswaffen",
     "latestPublishedAt": "2026-08-24T11:50:05+00:00"
@@ -39,8 +39,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
       "publishedAt": "2026-08-23T13:00:00+00:00",
       "publishedLabel": "23.08.2026 13:00",
-      "summary": "Die 4. Mordkommission des LKA hat am 21. August 2026 im Auftrag der Staatsanwaltschaft die Ermittlungen zu einem Tötungsdelikt in Prenzlauer Berg aufgenommen.",
-      "category": "Ermittlung"
+      "summary": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
+      "category": "Einsatz"
     },
     {
       "title": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
       "publishedAt": "2026-08-23T09:05:14+00:00",
       "publishedLabel": "23.08.2026 09:05",
-      "summary": "Einsatzkräfte der Polizei Berlin wurden gestern und heute zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin gerufen.",
+      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705961.php",
       "publishedAt": "2026-08-22T08:40:41+00:00",
       "publishedLabel": "22.08.2026 08:40",
-      "summary": "Mann schießt vom Balkon – Festnahme durch SEK",
+      "summary": "Spezialeinsatzkräfte nahmen in der vergangenen Nacht einen 45-jährigen Mann in Mariendorf fest.",
       "category": "Ermittlung"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705919.php",
       "publishedAt": "2026-08-21T19:55:00+00:00",
       "publishedLabel": "21.08.2026 19:55",
-      "summary": "Gesuchter Vermisster wieder untergebracht",
+      "summary": "Einsatzkräfte nahmen den gesuchten Vermissten heute Abend in Friedrichshain wieder in Gewahrsam.",
       "category": "Fahndung"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705916.php",
       "publishedAt": "2026-08-21T14:13:54+00:00",
       "publishedLabel": "21.08.2026 14:13",
-      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "summary": "Einsatzkräfte sind im Verlauf des gestrigen Tages sowie in der Nacht im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
       "category": "Ermittlung"
     }
   ]
