@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-25T19:42:44.103615+00:00",
-    "checkedTime": "19:42 Uhr",
+    "checkedAt": "2026-08-25T20:10:21.417396+00:00",
+    "checkedTime": "20:10 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "19-Jähriger leblos aufgefunden",
     "latestPublishedAt": "2026-08-25T18:55:00+00:00"
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706122.php",
       "publishedAt": "2026-08-24T07:39:51+00:00",
       "publishedLabel": "24.08.2026 07:39",
-      "summary": "Mehrere Fahrzeuge durch Feuer beschädigt",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu mehreren brennenden Fahrzeugen in den Ortsteil Falkenhagener Feld alarmiert.",
       "category": "Verkehr"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706027.php",
       "publishedAt": "2026-08-23T11:37:07+00:00",
       "publishedLabel": "23.08.2026 11:37",
-      "summary": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
+      "summary": "In der vergangenen Nacht kam es in Kreuzberg zu einem Verkehrsunfall zwischen einem Radfahrer und einer Fußgängerin.",
       "category": "Verkehr"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
       "publishedAt": "2026-08-22T13:25:15+00:00",
       "publishedLabel": "22.08.2026 13:25",
-      "summary": "Mann mit Cuttermesser verletzt",
+      "summary": "Heute Morgen soll ein Mann in Kreuzberg mit einem Cuttermesser verletzt worden sein.",
       "category": "Ermittlung"
     },
     {
