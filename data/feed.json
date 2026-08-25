@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-25T02:32:58.868942+00:00",
-    "checkedTime": "02:32 Uhr",
+    "checkedAt": "2026-08-25T03:28:42.992264+00:00",
+    "checkedTime": "03:28 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Wohnungsraub mit Schusswaffen",
     "latestPublishedAt": "2026-08-24T11:50:05+00:00"
@@ -63,8 +63,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
       "publishedAt": "2026-08-23T08:56:39+00:00",
       "publishedLabel": "23.08.2026 08:56",
-      "summary": "Mann geschlagen und rassistisch beleidigt",
-      "category": "Sonstiges"
+      "summary": "Gestern Mittag kam es in Friedrichshain zu einer Körperverletzung und einer rassistischen Beleidigung.",
+      "category": "Ermittlung"
     },
     {
       "title": "Mit Gullydeckel in Supermarkt eingebrochen",
@@ -111,8 +111,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705966.php",
       "publishedAt": "2026-08-22T10:15:42+00:00",
       "publishedLabel": "22.08.2026 10:15",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Rummelsburg gerufen.",
-      "category": "Verkehr"
+      "summary": "Rad- und Motorrollerfahrer kollidieren – beide im Krankenhaus",
+      "category": "Sonstiges"
     },
     {
       "title": "Mann nach Messerangriff im Krankenhaus",
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705916.php",
       "publishedAt": "2026-08-21T14:13:54+00:00",
       "publishedLabel": "21.08.2026 14:13",
-      "summary": "Einsatzkräfte sind im Verlauf des gestrigen Tages sowie in der Nacht im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert worden.",
+      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     }
   ]
