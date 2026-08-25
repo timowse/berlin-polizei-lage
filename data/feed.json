@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-25T22:48:20.303128+00:00",
-    "checkedTime": "22:48 Uhr",
+    "checkedAt": "2026-08-25T23:12:32.804343+00:00",
+    "checkedTime": "23:12 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "19-Jähriger leblos aufgefunden",
     "latestPublishedAt": "2026-08-25T18:55:00+00:00"
@@ -103,15 +103,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
       "publishedAt": "2026-08-23T08:56:39+00:00",
       "publishedLabel": "23.08.2026 08:56",
-      "summary": "Mann geschlagen und rassistisch beleidigt",
-      "category": "Sonstiges"
+      "summary": "Gestern Mittag kam es in Friedrichshain zu einer Körperverletzung und einer rassistischen Beleidigung.",
+      "category": "Ermittlung"
     },
     {
       "title": "Mit Gullydeckel in Supermarkt eingebrochen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706016.php",
       "publishedAt": "2026-08-23T08:38:40+00:00",
       "publishedLabel": "23.08.2026 08:38",
-      "summary": "Mit Gullydeckel in Supermarkt eingebrochen",
+      "summary": "In der Nacht zu gestern kam es in Dahlem zu einem Einbruch in eine Supermarkt-Filiale.",
       "category": "Sonstiges"
     },
     {
@@ -127,15 +127,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705976.php",
       "publishedAt": "2026-08-22T13:10:36+00:00",
       "publishedLabel": "22.08.2026 13:10",
-      "summary": "Fremdenfeindlich beleidigt und geschlagen",
-      "category": "Sonstiges"
+      "summary": "Gestern Vormittag soll es in Lichtenberg zu einer gefährlichen Körperverletzung und einer Beleidigung gekommen sein.",
+      "category": "Ermittlung"
     },
     {
       "title": "Wahlplakate in Brand gesetzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705974.php",
       "publishedAt": "2026-08-22T12:45:47+00:00",
       "publishedLabel": "22.08.2026 12:45",
-      "summary": "Wahlplakate in Brand gesetzt",
+      "summary": "Einsatzkräfte nahmen heute früh zwei Männer in Spandau fest, die im Verdacht stehen, Wahlplakate beschädigt zu haben.",
       "category": "Ermittlung"
     },
     {
