@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-25T04:57:31.676480+00:00",
-    "checkedTime": "04:57 Uhr",
+    "checkedAt": "2026-08-25T05:38:12.450919+00:00",
+    "checkedTime": "05:38 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Wohnungsraub mit Schusswaffen",
     "latestPublishedAt": "2026-08-24T11:50:05+00:00"
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
       "publishedAt": "2026-08-22T13:25:15+00:00",
       "publishedLabel": "22.08.2026 13:25",
-      "summary": "Heute Morgen soll ein Mann in Kreuzberg mit einem Cuttermesser verletzt worden sein.",
+      "summary": "Mann mit Cuttermesser verletzt",
       "category": "Ermittlung"
     },
     {
@@ -87,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705976.php",
       "publishedAt": "2026-08-22T13:10:36+00:00",
       "publishedLabel": "22.08.2026 13:10",
-      "summary": "Gestern Vormittag soll es in Lichtenberg zu einer gefährlichen Körperverletzung und einer Beleidigung gekommen sein.",
-      "category": "Ermittlung"
+      "summary": "Fremdenfeindlich beleidigt und geschlagen",
+      "category": "Sonstiges"
     },
     {
       "title": "Wahlplakate in Brand gesetzt",
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
       "publishedAt": "2026-08-22T09:56:53+00:00",
       "publishedLabel": "22.08.2026 09:56",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu einem mit Messerstichen verletzten Mann nach Britz alarmiert.",
+      "summary": "Mann nach Messerangriff im Krankenhaus",
       "category": "Ermittlung"
     },
     {
@@ -127,15 +127,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
       "publishedAt": "2026-08-22T09:29:29+00:00",
       "publishedLabel": "22.08.2026 09:29",
-      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin durch einen Zeugen auf eine gefährliche Körperverletzung in Friedrichshain aufmerksam gemacht.",
-      "category": "Fahndung"
+      "summary": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
+      "category": "Sonstiges"
     },
     {
       "title": "Mann schießt vom Balkon – Festnahme durch SEK",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705961.php",
       "publishedAt": "2026-08-22T08:40:41+00:00",
       "publishedLabel": "22.08.2026 08:40",
-      "summary": "Spezialeinsatzkräfte nahmen in der vergangenen Nacht einen 45-jährigen Mann in Mariendorf fest.",
+      "summary": "Mann schießt vom Balkon – Festnahme durch SEK",
       "category": "Ermittlung"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705919.php",
       "publishedAt": "2026-08-21T19:55:00+00:00",
       "publishedLabel": "21.08.2026 19:55",
-      "summary": "Gesuchter Vermisster wieder untergebracht",
+      "summary": "Einsatzkräfte nahmen den gesuchten Vermissten heute Abend in Friedrichshain wieder in Gewahrsam.",
       "category": "Fahndung"
     },
     {
