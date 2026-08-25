@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-25T12:17:47.326853+00:00",
-    "checkedTime": "12:17 Uhr",
+    "checkedAt": "2026-08-25T13:17:57.597485+00:00",
+    "checkedTime": "13:17 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Zwei Männer bei körperlichem Angriff verletzt",
-    "latestPublishedAt": "2026-08-25T10:52:22+00:00"
+    "latestTitle": "E-Scooter-Fahrerin fährt Fußgängerin an",
+    "latestPublishedAt": "2026-08-25T12:58:27+00:00"
   },
   "items": [
+    {
+      "title": "E-Scooter-Fahrerin fährt Fußgängerin an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706805.php",
+      "publishedAt": "2026-08-25T12:58:27+00:00",
+      "publishedLabel": "25.08.2026 12:58",
+      "summary": "Bei einem Verkehrsunfall in Mitte wurde gestern Nachmittag eine Jugendliche verletzt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Zwei Männer bei körperlichem Angriff verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706717.php",
@@ -79,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
       "publishedAt": "2026-08-23T09:05:14+00:00",
       "publishedLabel": "23.08.2026 09:05",
-      "summary": "Einsatzkräfte der Polizei Berlin wurden gestern und heute zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin gerufen.",
+      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "22.08.2026 09:56",
       "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu einem mit Messerstichen verletzten Mann nach Britz alarmiert.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
-      "publishedAt": "2026-08-22T09:29:29+00:00",
-      "publishedLabel": "22.08.2026 09:29",
-      "summary": "Gestern Vormittag wurden Einsatzkräfte der Polizei Berlin durch einen Zeugen auf eine gefährliche Körperverletzung in Friedrichshain aufmerksam gemacht.",
-      "category": "Fahndung"
     }
   ]
 }
