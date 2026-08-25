@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-25T06:02:50.921763+00:00",
-    "checkedTime": "06:02 Uhr",
+    "checkedAt": "2026-08-25T07:05:17.160642+00:00",
+    "checkedTime": "07:05 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Wohnungsraub mit Schusswaffen",
     "latestPublishedAt": "2026-08-24T11:50:05+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706141.php",
       "publishedAt": "2026-08-24T08:11:19+00:00",
       "publishedLabel": "24.08.2026 08:11",
-      "summary": "Schussabgaben auf Geschäft",
+      "summary": "Heute früh kam es zu Schussabgaben auf ein Geschäft in Lichterfelde.",
       "category": "Sonstiges"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
       "publishedAt": "2026-08-23T09:05:14+00:00",
       "publishedLabel": "23.08.2026 09:05",
-      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "summary": "Einsatzkräfte der Polizei Berlin wurden gestern und heute zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin gerufen.",
       "category": "Ermittlung"
     },
     {
@@ -63,8 +63,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
       "publishedAt": "2026-08-23T08:56:39+00:00",
       "publishedLabel": "23.08.2026 08:56",
-      "summary": "Mann geschlagen und rassistisch beleidigt",
-      "category": "Sonstiges"
+      "summary": "Gestern Mittag kam es in Friedrichshain zu einer Körperverletzung und einer rassistischen Beleidigung.",
+      "category": "Ermittlung"
     },
     {
       "title": "Mit Gullydeckel in Supermarkt eingebrochen",
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705968.php",
       "publishedAt": "2026-08-22T10:43:42+00:00",
       "publishedLabel": "22.08.2026 10:43",
-      "summary": "In der vergangenen Nacht demolierte ein Mann im Ortsteil Plänterwald eine Scheibe in einem BVG-Bus.",
+      "summary": "Schutzscheibe in Linienbus eingeschlagen",
       "category": "Verkehr"
     },
     {
@@ -111,8 +111,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705966.php",
       "publishedAt": "2026-08-22T10:15:42+00:00",
       "publishedLabel": "22.08.2026 10:15",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Rummelsburg gerufen.",
-      "category": "Verkehr"
+      "summary": "Rad- und Motorrollerfahrer kollidieren – beide im Krankenhaus",
+      "category": "Sonstiges"
     },
     {
       "title": "Mann nach Messerangriff im Krankenhaus",
