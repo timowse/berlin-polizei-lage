@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-25T22:10:18.272534+00:00",
-    "checkedTime": "22:10 Uhr",
+    "checkedAt": "2026-08-25T22:48:20.303128+00:00",
+    "checkedTime": "22:48 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "19-Jähriger leblos aufgefunden",
     "latestPublishedAt": "2026-08-25T18:55:00+00:00"
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706141.php",
       "publishedAt": "2026-08-24T08:11:19+00:00",
       "publishedLabel": "24.08.2026 08:11",
-      "summary": "Schussabgaben auf Geschäft",
+      "summary": "Heute früh kam es zu Schussabgaben auf ein Geschäft in Lichterfelde.",
       "category": "Sonstiges"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
       "publishedAt": "2026-08-23T09:05:14+00:00",
       "publishedLabel": "23.08.2026 09:05",
-      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "summary": "Einsatzkräfte der Polizei Berlin wurden gestern und heute zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin gerufen.",
       "category": "Ermittlung"
     },
     {
@@ -103,15 +103,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
       "publishedAt": "2026-08-23T08:56:39+00:00",
       "publishedLabel": "23.08.2026 08:56",
-      "summary": "Gestern Mittag kam es in Friedrichshain zu einer Körperverletzung und einer rassistischen Beleidigung.",
-      "category": "Ermittlung"
+      "summary": "Mann geschlagen und rassistisch beleidigt",
+      "category": "Sonstiges"
     },
     {
       "title": "Mit Gullydeckel in Supermarkt eingebrochen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706016.php",
       "publishedAt": "2026-08-23T08:38:40+00:00",
       "publishedLabel": "23.08.2026 08:38",
-      "summary": "In der Nacht zu gestern kam es in Dahlem zu einem Einbruch in eine Supermarkt-Filiale.",
+      "summary": "Mit Gullydeckel in Supermarkt eingebrochen",
       "category": "Sonstiges"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705974.php",
       "publishedAt": "2026-08-22T12:45:47+00:00",
       "publishedLabel": "22.08.2026 12:45",
-      "summary": "Einsatzkräfte nahmen heute früh zwei Männer in Spandau fest, die im Verdacht stehen, Wahlplakate beschädigt zu haben.",
+      "summary": "Wahlplakate in Brand gesetzt",
       "category": "Ermittlung"
     },
     {
