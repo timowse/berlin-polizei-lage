@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-25T09:20:27.381964+00:00",
-    "checkedTime": "09:20 Uhr",
+    "checkedAt": "2026-08-25T10:00:48.349041+00:00",
+    "checkedTime": "10:00 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Wohnungsraub mit Schusswaffen",
     "latestPublishedAt": "2026-08-24T11:50:05+00:00"
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706122.php",
       "publishedAt": "2026-08-24T07:39:51+00:00",
       "publishedLabel": "24.08.2026 07:39",
-      "summary": "Mehrere Fahrzeuge durch Feuer beschädigt",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu mehreren brennenden Fahrzeugen in den Ortsteil Falkenhagener Feld alarmiert.",
       "category": "Verkehr"
     },
     {
@@ -39,15 +39,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
       "publishedAt": "2026-08-23T13:00:00+00:00",
       "publishedLabel": "23.08.2026 13:00",
-      "summary": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
-      "category": "Einsatz"
+      "summary": "Die 4. Mordkommission des LKA hat am 21. August 2026 im Auftrag der Staatsanwaltschaft die Ermittlungen zu einem Tötungsdelikt in Prenzlauer Berg aufgenommen.",
+      "category": "Ermittlung"
     },
     {
       "title": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706027.php",
       "publishedAt": "2026-08-23T11:37:07+00:00",
       "publishedLabel": "23.08.2026 11:37",
-      "summary": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
+      "summary": "In der vergangenen Nacht kam es in Kreuzberg zu einem Verkehrsunfall zwischen einem Radfahrer und einer Fußgängerin.",
       "category": "Verkehr"
     },
     {
@@ -111,8 +111,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705966.php",
       "publishedAt": "2026-08-22T10:15:42+00:00",
       "publishedLabel": "22.08.2026 10:15",
-      "summary": "Rad- und Motorrollerfahrer kollidieren – beide im Krankenhaus",
-      "category": "Sonstiges"
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Rummelsburg gerufen.",
+      "category": "Verkehr"
     },
     {
       "title": "Mann nach Messerangriff im Krankenhaus",
