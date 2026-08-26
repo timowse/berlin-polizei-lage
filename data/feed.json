@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-26T07:55:57.629245+00:00",
-    "checkedTime": "07:55 Uhr",
+    "checkedAt": "2026-08-26T08:48:54.616764+00:00",
+    "checkedTime": "08:48 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "19-Jähriger leblos aufgefunden",
-    "latestPublishedAt": "2026-08-25T18:55:00+00:00"
+    "latestTitle": "Zwei Personen bei Angriff verletzt – Tatverdächtiger festgenommen",
+    "latestPublishedAt": "2026-08-26T08:38:28+00:00"
   },
   "items": [
+    {
+      "title": "Zwei Personen bei Angriff verletzt – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707069.php",
+      "publishedAt": "2026-08-26T08:38:28+00:00",
+      "publishedLabel": "26.08.2026 08:38",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Polizei Berlin wegen zweier verletzter Personen nach Kreuzberg alarmiert.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Mann nach Stichverletzung im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707062.php",
+      "publishedAt": "2026-08-26T08:32:12+00:00",
+      "publishedLabel": "26.08.2026 08:32",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte wegen des Verdachts einer gefährlichen Körperverletzung nach Schöneberg alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "19-Jähriger leblos aufgefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702932.php",
@@ -119,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
       "publishedAt": "2026-08-22T13:25:15+00:00",
       "publishedLabel": "22.08.2026 13:25",
-      "summary": "Heute Morgen soll ein Mann in Kreuzberg mit einem Cuttermesser verletzt worden sein.",
+      "summary": "Mann mit Cuttermesser verletzt",
       "category": "Ermittlung"
     },
     {
@@ -127,8 +143,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705976.php",
       "publishedAt": "2026-08-22T13:10:36+00:00",
       "publishedLabel": "22.08.2026 13:10",
-      "summary": "Gestern Vormittag soll es in Lichtenberg zu einer gefährlichen Körperverletzung und einer Beleidigung gekommen sein.",
-      "category": "Ermittlung"
+      "summary": "Fremdenfeindlich beleidigt und geschlagen",
+      "category": "Sonstiges"
     },
     {
       "title": "Wahlplakate in Brand gesetzt",
@@ -137,22 +153,6 @@
       "publishedLabel": "22.08.2026 12:45",
       "summary": "Einsatzkräfte nahmen heute früh zwei Männer in Spandau fest, die im Verdacht stehen, Wahlplakate beschädigt zu haben.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Schutzscheibe in Linienbus eingeschlagen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705968.php",
-      "publishedAt": "2026-08-22T10:43:42+00:00",
-      "publishedLabel": "22.08.2026 10:43",
-      "summary": "In der vergangenen Nacht demolierte ein Mann im Ortsteil Plänterwald eine Scheibe in einem BVG-Bus.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Rad- und Motorrollerfahrer kollidieren – beide im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705966.php",
-      "publishedAt": "2026-08-22T10:15:42+00:00",
-      "publishedLabel": "22.08.2026 10:15",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Rummelsburg gerufen.",
-      "category": "Verkehr"
     }
   ]
 }
