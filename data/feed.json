@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-26T16:56:51.779852+00:00",
-    "checkedTime": "16:56 Uhr",
+    "checkedAt": "2026-08-26T19:09:02.169135+00:00",
+    "checkedTime": "19:09 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Geschäftsstelle einer Partei beschädigt",
     "latestPublishedAt": "2026-08-26T14:42:00+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707118.php",
       "publishedAt": "2026-08-26T09:36:30+00:00",
       "publishedLabel": "26.08.2026 09:36",
-      "summary": "In der ersten Woche des neuen Schuljahres setzt Berlin ein deutliches Zeichen für mehr Aufmerksamkeit und erhöhte Rücksichtnahme im Straßenverkehr.",
+      "summary": "„Sichtbar mobil zur Schule\" – Verkehrssicherheits-Aktionstag zum Schulanfang in der STATION Berlin",
       "category": "Verkehr"
     },
     {
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707069.php",
       "publishedAt": "2026-08-26T08:38:28+00:00",
       "publishedLabel": "26.08.2026 08:38",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Polizei Berlin wegen zweier verletzter Personen nach Kreuzberg alarmiert.",
+      "summary": "Zwei Personen bei Angriff verletzt – Tatverdächtiger festgenommen",
       "category": "Fahndung"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706805.php",
       "publishedAt": "2026-08-25T12:58:27+00:00",
       "publishedLabel": "25.08.2026 12:58",
-      "summary": "Bei einem Verkehrsunfall in Mitte wurde gestern Nachmittag eine Jugendliche verletzt.",
+      "summary": "E-Scooter-Fahrerin fährt Fußgängerin an",
       "category": "Verkehr"
     },
     {
