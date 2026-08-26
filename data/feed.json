@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-26T09:26:26.605652+00:00",
-    "checkedTime": "09:26 Uhr",
+    "checkedAt": "2026-08-26T10:06:24.101731+00:00",
+    "checkedTime": "10:06 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Zwei Personen bei Angriff verletzt – Tatverdächtiger festgenommen",
-    "latestPublishedAt": "2026-08-26T08:38:28+00:00"
+    "latestTitle": "„Sichtbar mobil zur Schule\" – Verkehrssicherheits-Aktionstag zum Schulanfang in der STATION Berlin",
+    "latestPublishedAt": "2026-08-26T09:36:30+00:00"
   },
   "items": [
+    {
+      "title": "„Sichtbar mobil zur Schule\" – Verkehrssicherheits-Aktionstag zum Schulanfang in der STATION Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707118.php",
+      "publishedAt": "2026-08-26T09:36:30+00:00",
+      "publishedLabel": "26.08.2026 09:36",
+      "summary": "In der ersten Woche des neuen Schuljahres setzt Berlin ein deutliches Zeichen für mehr Aufmerksamkeit und erhöhte Rücksichtnahme im Straßenverkehr.",
+      "category": "Verkehr"
+    },
     {
       "title": "Zwei Personen bei Angriff verletzt – Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707069.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-08-22T13:10:36+00:00",
       "publishedLabel": "22.08.2026 13:10",
       "summary": "Gestern Vormittag soll es in Lichtenberg zu einer gefährlichen Körperverletzung und einer Beleidigung gekommen sein.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Wahlplakate in Brand gesetzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705974.php",
-      "publishedAt": "2026-08-22T12:45:47+00:00",
-      "publishedLabel": "22.08.2026 12:45",
-      "summary": "Einsatzkräfte nahmen heute früh zwei Männer in Spandau fest, die im Verdacht stehen, Wahlplakate beschädigt zu haben.",
       "category": "Ermittlung"
     }
   ]
