@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-26T12:53:55.337548+00:00",
-    "checkedTime": "12:53 Uhr",
+    "checkedAt": "2026-08-26T13:55:23.118524+00:00",
+    "checkedTime": "13:55 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "„Sichtbar mobil zur Schule\" – Verkehrssicherheits-Aktionstag zum Schulanfang in der STATION Berlin",
     "latestPublishedAt": "2026-08-26T09:36:30+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707118.php",
       "publishedAt": "2026-08-26T09:36:30+00:00",
       "publishedLabel": "26.08.2026 09:36",
-      "summary": "„Sichtbar mobil zur Schule\" – Verkehrssicherheits-Aktionstag zum Schulanfang in der STATION Berlin",
+      "summary": "In der ersten Woche des neuen Schuljahres setzt Berlin ein deutliches Zeichen für mehr Aufmerksamkeit und erhöhte Rücksichtnahme im Straßenverkehr.",
       "category": "Verkehr"
     },
     {
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707069.php",
       "publishedAt": "2026-08-26T08:38:28+00:00",
       "publishedLabel": "26.08.2026 08:38",
-      "summary": "Zwei Personen bei Angriff verletzt – Tatverdächtiger festgenommen",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Polizei Berlin wegen zweier verletzter Personen nach Kreuzberg alarmiert.",
       "category": "Fahndung"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
       "publishedAt": "2026-08-23T09:05:14+00:00",
       "publishedLabel": "23.08.2026 09:05",
-      "summary": "Einsatzkräfte der Polizei Berlin wurden gestern und heute zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin gerufen.",
+      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     },
     {
@@ -127,8 +127,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
       "publishedAt": "2026-08-23T08:56:39+00:00",
       "publishedLabel": "23.08.2026 08:56",
-      "summary": "Gestern Mittag kam es in Friedrichshain zu einer Körperverletzung und einer rassistischen Beleidigung.",
-      "category": "Ermittlung"
+      "summary": "Mann geschlagen und rassistisch beleidigt",
+      "category": "Sonstiges"
     },
     {
       "title": "Mit Gullydeckel in Supermarkt eingebrochen",
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
       "publishedAt": "2026-08-22T13:25:15+00:00",
       "publishedLabel": "22.08.2026 13:25",
-      "summary": "Heute Morgen soll ein Mann in Kreuzberg mit einem Cuttermesser verletzt worden sein.",
+      "summary": "Mann mit Cuttermesser verletzt",
       "category": "Ermittlung"
     },
     {
@@ -151,8 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705976.php",
       "publishedAt": "2026-08-22T13:10:36+00:00",
       "publishedLabel": "22.08.2026 13:10",
-      "summary": "Gestern Vormittag soll es in Lichtenberg zu einer gefährlichen Körperverletzung und einer Beleidigung gekommen sein.",
-      "category": "Ermittlung"
+      "summary": "Fremdenfeindlich beleidigt und geschlagen",
+      "category": "Sonstiges"
     }
   ]
 }
