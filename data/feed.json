@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-27T02:19:45.850480+00:00",
-    "checkedTime": "02:19 Uhr",
+    "checkedAt": "2026-08-27T12:55:16.206267+00:00",
+    "checkedTime": "12:55 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Geschäftsstelle einer Partei beschädigt",
-    "latestPublishedAt": "2026-08-26T14:42:00+00:00"
+    "latestTitle": "Mutmaßliche Einbrecher festgenommen",
+    "latestPublishedAt": "2026-08-27T11:46:55+00:00"
   },
   "items": [
+    {
+      "title": "Mutmaßliche Einbrecher festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707614.php",
+      "publishedAt": "2026-08-27T11:46:55+00:00",
+      "publishedLabel": "27.08.2026 11:46",
+      "summary": "In der vergangenen Nacht wurde die Polizei zu einem Mehrfamilienhaus in Schöneberg alarmiert.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Festnahmen nach Schockanruf",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707558.php",
+      "publishedAt": "2026-08-27T10:33:40+00:00",
+      "publishedLabel": "27.08.2026 10:33",
+      "summary": "Gestern Nachmittag nahmen Einsatzkräfte des Landeskriminalamts zwei mutmaßliche Trickbetrüger auf frischer Tat in Rudow fest.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Festnahmen nach Sachbeschädigungen an Wahlplakaten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707546.php",
+      "publishedAt": "2026-08-27T10:23:43+00:00",
+      "publishedLabel": "27.08.2026 10:23",
+      "summary": "Einsatzkräfte der Polizei Berlin wurden zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Gemeinsam für mehr Sicherheit am Berliner Hauptbahnhof und Ostbahnhof",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707536.php",
+      "publishedAt": "2026-08-27T10:11:12+00:00",
+      "publishedLabel": "27.08.2026 10:11",
+      "summary": "Die Bundespolizei, die DB Sicherheit, die Polizei Berlin sowie die Ordnungsämter Friedrichshain-Kreuzberg und Mitte bündeln ihre Kräfte und Kompetenzen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Parteibüro mit Fäkalien beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707456.php",
+      "publishedAt": "2026-08-27T08:27:18+00:00",
+      "publishedLabel": "27.08.2026 08:27",
+      "summary": "Parteibüro mit Fäkalien beschmiert",
+      "category": "Sonstiges"
+    },
     {
       "title": "Geschäftsstelle einer Partei beschädigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707323.php",
@@ -55,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706805.php",
       "publishedAt": "2026-08-25T12:58:27+00:00",
       "publishedLabel": "25.08.2026 12:58",
-      "summary": "E-Scooter-Fahrerin fährt Fußgängerin an",
+      "summary": "Bei einem Verkehrsunfall in Mitte wurde gestern Nachmittag eine Jugendliche verletzt.",
       "category": "Verkehr"
     },
     {
@@ -111,48 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
       "publishedAt": "2026-08-23T13:00:00+00:00",
       "publishedLabel": "23.08.2026 13:00",
-      "summary": "Die 4. Mordkommission des LKA hat am 21. August 2026 im Auftrag der Staatsanwaltschaft die Ermittlungen zu einem Tötungsdelikt in Prenzlauer Berg aufgenommen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706027.php",
-      "publishedAt": "2026-08-23T11:37:07+00:00",
-      "publishedLabel": "23.08.2026 11:37",
-      "summary": "In der vergangenen Nacht kam es in Kreuzberg zu einem Verkehrsunfall zwischen einem Radfahrer und einer Fußgängerin.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
-      "publishedAt": "2026-08-23T09:05:14+00:00",
-      "publishedLabel": "23.08.2026 09:05",
-      "summary": "Einsatzkräfte der Polizei Berlin wurden gestern und heute zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin gerufen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann geschlagen und rassistisch beleidigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
-      "publishedAt": "2026-08-23T08:56:39+00:00",
-      "publishedLabel": "23.08.2026 08:56",
-      "summary": "Gestern Mittag kam es in Friedrichshain zu einer Körperverletzung und einer rassistischen Beleidigung.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mit Gullydeckel in Supermarkt eingebrochen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706016.php",
-      "publishedAt": "2026-08-23T08:38:40+00:00",
-      "publishedLabel": "23.08.2026 08:38",
-      "summary": "In der Nacht zu gestern kam es in Dahlem zu einem Einbruch in eine Supermarkt-Filiale.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Mann mit Cuttermesser verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
-      "publishedAt": "2026-08-22T13:25:15+00:00",
-      "publishedLabel": "22.08.2026 13:25",
-      "summary": "Heute Morgen soll ein Mann in Kreuzberg mit einem Cuttermesser verletzt worden sein.",
-      "category": "Ermittlung"
+      "summary": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
+      "category": "Einsatz"
     }
   ]
 }
