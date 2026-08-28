@@ -3,13 +3,77 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-28T06:47:41.516724+00:00",
-    "checkedTime": "06:47 Uhr",
+    "checkedAt": "2026-08-28T19:03:29.142652+00:00",
+    "checkedTime": "19:03 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mutmaßliche Einbrecher festgenommen",
-    "latestPublishedAt": "2026-08-27T11:46:55+00:00"
+    "latestTitle": "Einer Polizeikontrolle entzogen und Unfall verursacht",
+    "latestPublishedAt": "2026-08-28T13:57:45+00:00"
   },
   "items": [
+    {
+      "title": "Einer Polizeikontrolle entzogen und Unfall verursacht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708254.php",
+      "publishedAt": "2026-08-28T13:57:45+00:00",
+      "publishedLabel": "28.08.2026 13:57",
+      "summary": "Heute früh ereignete sich in Mariendorf ein Verkehrsunfall, bei dem ein Motorradfahrer erheblich verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "BAO Ferrum und EG Telum: Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708224.php",
+      "publishedAt": "2026-08-28T12:47:57+00:00",
+      "publishedLabel": "28.08.2026 12:47",
+      "summary": "Einsatzkräfte der BAO Ferrum des Landeskriminalamts Berlin vollstreckten im Auftrag der Staatsanwaltschaft Berlin Durchsuchungsbeschlüsse.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Allgemeinverfügung erlassen – Einschränkungen im Bezirk Mitte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708152.php",
+      "publishedAt": "2026-08-28T11:27:58+00:00",
+      "publishedLabel": "28.08.2026 11:27",
+      "summary": "Am 1. September 2026 wird es in der Zeit von 6 bis 20 Uhr zu umfangreichen Sicherheitsmaßnahmen und Verkehrssperrungen in Tiergarten kommen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Motorradfahrer gegen Leitplanke geprallt – lebensbedrohlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708108.php",
+      "publishedAt": "2026-08-28T10:52:05+00:00",
+      "publishedLabel": "28.08.2026 10:52",
+      "summary": "Ein Motorradfahrer prallte gestern Abend in Heiligensee gegen eine Leitplanke.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Trickdiebstahl in Wohnungen - Festnahmen und Durchsuchungen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708099.php",
+      "publishedAt": "2026-08-28T10:38:24+00:00",
+      "publishedLabel": "28.08.2026 10:38",
+      "summary": "Im Auftrag der Staatsanwaltschaft Berlin vollstreckten Einsatzkräfte fünf Durchsuchungsbeschlüsse im Berliner Stadtgebiet.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Zehnjähriger geschlagen und homophob beleidigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708088.php",
+      "publishedAt": "2026-08-28T10:16:28+00:00",
+      "publishedLabel": "28.08.2026 10:16",
+      "summary": "Gestern Mittag wurde ein Junge in einer Schule in Tiergarten von einem anderen Kind beleidigt und geschlagen.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Schlägerei nach Streitigkeiten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708076.php",
+      "publishedAt": "2026-08-28T10:04:30+00:00",
+      "publishedLabel": "28.08.2026 10:04",
+      "summary": "In der vergangenen Nacht wurde ein Mann in Hellersdorf von mehreren Tatverdächtigen geschlagen und beleidigt.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Wohnwagen und Pkw in Flammen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707966.php",
+      "publishedAt": "2026-08-28T08:38:45+00:00",
+      "publishedLabel": "28.08.2026 08:38",
+      "summary": "In der vergangenen Nacht kam es in Alt-Treptow zu mehreren Fahrzeugbränden.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mutmaßliche Einbrecher festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707614.php",
@@ -89,70 +153,6 @@
       "publishedLabel": "25.08.2026 18:55",
       "summary": "Der seit dem 11. August 2026 vermisste 19-Jährige wurde heute Abend leblos aufgefunden.",
       "category": "Fahndung"
-    },
-    {
-      "title": "E-Scooter-Fahrerin fährt Fußgängerin an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706805.php",
-      "publishedAt": "2026-08-25T12:58:27+00:00",
-      "publishedLabel": "25.08.2026 12:58",
-      "summary": "Bei einem Verkehrsunfall in Mitte wurde gestern Nachmittag eine Jugendliche verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Zwei Männer bei körperlichem Angriff verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706717.php",
-      "publishedAt": "2026-08-25T10:52:22+00:00",
-      "publishedLabel": "25.08.2026 10:52",
-      "summary": "In der vergangenen Nacht wurden zwei Männer in Schöneberg körperlich angegriffen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Radfahrerin bei Unfall erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706706.php",
-      "publishedAt": "2026-08-25T10:37:15+00:00",
-      "publishedLabel": "25.08.2026 10:37",
-      "summary": "Gestern Vormittag ereignete sich in Prenzlauer Berg ein Verkehrsunfall.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Autofahrer fährt Motorradfahrer an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706691.php",
-      "publishedAt": "2026-08-25T10:26:11+00:00",
-      "publishedLabel": "25.08.2026 10:26",
-      "summary": "Gestern Abend kam es in Wilmersdorf zu einem Verkehrsunfall, bei dem ein Motorradfahrer verletzt wurde.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Wohnungsraub mit Schusswaffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706328.php",
-      "publishedAt": "2026-08-24T11:50:05+00:00",
-      "publishedLabel": "24.08.2026 11:50",
-      "summary": "Gestern Abend wurde ein Mann in seiner Wohnung in Mariendorf überfallen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Schussabgaben auf Geschäft",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706141.php",
-      "publishedAt": "2026-08-24T08:11:19+00:00",
-      "publishedLabel": "24.08.2026 08:11",
-      "summary": "Heute früh kam es zu Schussabgaben auf ein Geschäft in Lichterfelde.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Mehrere Fahrzeuge durch Feuer beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706122.php",
-      "publishedAt": "2026-08-24T07:39:51+00:00",
-      "publishedLabel": "24.08.2026 07:39",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte zu mehreren brennenden Fahrzeugen in den Ortsteil Falkenhagener Feld alarmiert.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
-      "publishedAt": "2026-08-23T13:00:00+00:00",
-      "publishedLabel": "23.08.2026 13:00",
-      "summary": "Die 4. Mordkommission des LKA hat am 21. August 2026 im Auftrag der Staatsanwaltschaft die Ermittlungen zu einem Tötungsdelikt in Prenzlauer Berg aufgenommen.",
-      "category": "Ermittlung"
     }
   ]
 }
