@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-29T09:01:31.278714+00:00",
-    "checkedTime": "09:01 Uhr",
+    "checkedAt": "2026-08-29T14:25:57.529609+00:00",
+    "checkedTime": "14:25 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Motorradfahrer erlag seinen Verletzungen und verstarb",
-    "latestPublishedAt": "2026-08-29T08:00:00+00:00"
+    "latestTitle": "Verkehrsunfall mit BVG-Bus",
+    "latestPublishedAt": "2026-08-29T12:10:07+00:00"
   },
   "items": [
+    {
+      "title": "Verkehrsunfall mit BVG-Bus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708336.php",
+      "publishedAt": "2026-08-29T12:10:07+00:00",
+      "publishedLabel": "29.08.2026 12:10",
+      "summary": "In Lankwitz ereignete sich gestern Nachmittag ein Verkehrsunfall zwischen einem Pkw und einem BVG-Bus.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Von Personengruppe geschlagen und beleidigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708335.php",
+      "publishedAt": "2026-08-29T12:04:47+00:00",
+      "publishedLabel": "29.08.2026 12:04",
+      "summary": "Eine Personengruppe griff heute früh zwei Frauen in Hellersdorf an und verletzte eine von ihnen erheblich.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Frau mit Messer verfolgt und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708332.php",
+      "publishedAt": "2026-08-29T11:19:44+00:00",
+      "publishedLabel": "29.08.2026 11:19",
+      "summary": "In der vergangenen Nacht ist in Hellersdorf eine Frau mit einem Messer verletzt worden.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mit Drogen vor der Polizei geflüchtet - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708330.php",
+      "publishedAt": "2026-08-29T10:28:20+00:00",
+      "publishedLabel": "29.08.2026 10:28",
+      "summary": "Einsatzkräfte einer Einsatzhundertschaft nahmen in der vergangenen Nacht einen Mann in Charlottenburg fest.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Unfallflucht nach Zusammenstoß mit zweijährigem Jungen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708325.php",
+      "publishedAt": "2026-08-29T09:07:48+00:00",
+      "publishedLabel": "29.08.2026 09:07",
+      "summary": "Gestern Nachmittag kam es in Marzahn zu einem Verkehrsunfall mit Unfallflucht.",
+      "category": "Verkehr"
+    },
     {
       "title": "Motorradfahrer erlag seinen Verletzungen und verstarb",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708108.php",
@@ -87,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707558.php",
       "publishedAt": "2026-08-27T10:33:40+00:00",
       "publishedLabel": "27.08.2026 10:33",
-      "summary": "Festnahmen nach Schockanruf",
+      "summary": "Gestern Nachmittag nahmen Einsatzkräfte des Landeskriminalamts zwei mutmaßliche Trickbetrüger auf frischer Tat in Rudow fest.",
       "category": "Ermittlung"
     },
     {
@@ -95,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707546.php",
       "publishedAt": "2026-08-27T10:23:43+00:00",
       "publishedLabel": "27.08.2026 10:23",
-      "summary": "Festnahmen nach Sachbeschädigungen an Wahlplakaten",
+      "summary": "Einsatzkräfte der Polizei Berlin wurden zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert.",
       "category": "Ermittlung"
     },
     {
@@ -113,46 +153,6 @@
       "publishedLabel": "27.08.2026 08:27",
       "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einer Sachbeschädigung in den Ortsteil Johannisthal alarmiert.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Geschäftsstelle einer Partei beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707323.php",
-      "publishedAt": "2026-08-26T14:42:00+00:00",
-      "publishedLabel": "26.08.2026 14:42",
-      "summary": "Heute früh wurde die Polizei über die Internetwache wegen einer beschädigten Eingangstür an einer Geschäftsstelle in Johannisthal informiert.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "„Sichtbar mobil zur Schule\" – Verkehrssicherheits-Aktionstag zum Schulanfang in der STATION Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707118.php",
-      "publishedAt": "2026-08-26T09:36:30+00:00",
-      "publishedLabel": "26.08.2026 09:36",
-      "summary": "In der ersten Woche des neuen Schuljahres setzt Berlin ein deutliches Zeichen für mehr Aufmerksamkeit und erhöhte Rücksichtnahme im Straßenverkehr.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Zwei Personen bei Angriff verletzt – Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707069.php",
-      "publishedAt": "2026-08-26T08:38:28+00:00",
-      "publishedLabel": "26.08.2026 08:38",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Polizei Berlin wegen zweier verletzter Personen nach Kreuzberg alarmiert.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Mann nach Stichverletzung im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707062.php",
-      "publishedAt": "2026-08-26T08:32:12+00:00",
-      "publishedLabel": "26.08.2026 08:32",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte wegen des Verdachts einer gefährlichen Körperverletzung nach Schöneberg alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "19-Jähriger leblos aufgefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702932.php",
-      "publishedAt": "2026-08-25T18:55:00+00:00",
-      "publishedLabel": "25.08.2026 18:55",
-      "summary": "Der seit dem 11. August 2026 vermisste 19-Jährige wurde heute Abend leblos aufgefunden.",
-      "category": "Fahndung"
     }
   ]
 }
