@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-29T02:08:18.319095+00:00",
-    "checkedTime": "02:08 Uhr",
+    "checkedAt": "2026-08-29T09:01:31.278714+00:00",
+    "checkedTime": "09:01 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Einer Polizeikontrolle entzogen und Unfall verursacht",
-    "latestPublishedAt": "2026-08-28T13:57:45+00:00"
+    "latestTitle": "Motorradfahrer erlag seinen Verletzungen und verstarb",
+    "latestPublishedAt": "2026-08-29T08:00:00+00:00"
   },
   "items": [
+    {
+      "title": "Motorradfahrer erlag seinen Verletzungen und verstarb",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708108.php",
+      "publishedAt": "2026-08-29T08:00:00+00:00",
+      "publishedLabel": "29.08.2026 08:00",
+      "summary": "Der am 27. August 2026 bei einem Verkehrsunfall lebensbedrohlich verletzte Motorradfahrer verstarb gestern Nachmittag in einem Krankenhaus.",
+      "category": "Verkehr"
+    },
     {
       "title": "Einer Polizeikontrolle entzogen und Unfall verursacht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708254.php",
@@ -32,14 +40,6 @@
       "publishedAt": "2026-08-28T11:27:58+00:00",
       "publishedLabel": "28.08.2026 11:27",
       "summary": "Am 1. September 2026 wird es in der Zeit von 6 bis 20 Uhr zu umfangreichen Sicherheitsmaßnahmen und Verkehrssperrungen in Tiergarten kommen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Motorradfahrer gegen Leitplanke geprallt – lebensbedrohlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708108.php",
-      "publishedAt": "2026-08-28T10:52:05+00:00",
-      "publishedLabel": "28.08.2026 10:52",
-      "summary": "Motorradfahrer gegen Leitplanke geprallt – lebensbedrohlich verletzt",
       "category": "Verkehr"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707558.php",
       "publishedAt": "2026-08-27T10:33:40+00:00",
       "publishedLabel": "27.08.2026 10:33",
-      "summary": "Gestern Nachmittag nahmen Einsatzkräfte des Landeskriminalamts zwei mutmaßliche Trickbetrüger auf frischer Tat in Rudow fest.",
+      "summary": "Festnahmen nach Schockanruf",
       "category": "Ermittlung"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707546.php",
       "publishedAt": "2026-08-27T10:23:43+00:00",
       "publishedLabel": "27.08.2026 10:23",
-      "summary": "Einsatzkräfte der Polizei Berlin wurden zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert.",
+      "summary": "Festnahmen nach Sachbeschädigungen an Wahlplakaten",
       "category": "Ermittlung"
     },
     {
