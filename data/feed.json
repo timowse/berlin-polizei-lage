@@ -3,19 +3,67 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-30T05:55:27.913591+00:00",
-    "checkedTime": "05:55 Uhr",
+    "checkedAt": "2026-08-30T11:29:09.987713+00:00",
+    "checkedTime": "11:29 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verkehrsunfall mit BVG-Bus",
-    "latestPublishedAt": "2026-08-29T12:10:07+00:00"
+    "latestTitle": "Fußgänger bei Unfall verletzt",
+    "latestPublishedAt": "2026-08-30T10:58:10+00:00"
   },
   "items": [
+    {
+      "title": "Fußgänger bei Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708394.php",
+      "publishedAt": "2026-08-30T10:58:10+00:00",
+      "publishedLabel": "30.08.2026 10:58",
+      "summary": "In der vergangenen Nacht ist ein Fußgänger bei einem Verkehrsunfall in Gropiusstadt verletzt worden.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Schüsse in Fußgängerzone",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708392.php",
+      "publishedAt": "2026-08-30T10:53:01+00:00",
+      "publishedLabel": "30.08.2026 10:53",
+      "summary": "Schüsse in Fußgängerzone",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Unfall mit verletzter Person und fünf beschädigten Autos",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708389.php",
+      "publishedAt": "2026-08-30T10:03:48+00:00",
+      "publishedLabel": "30.08.2026 10:03",
+      "summary": "Unfall mit verletzter Person und fünf beschädigten Autos",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Fremdenfeindlicher Angriff - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708388.php",
+      "publishedAt": "2026-08-30T09:54:23+00:00",
+      "publishedLabel": "30.08.2026 09:54",
+      "summary": "Einsatzkräfte nahmen gestern Nachmittag einen Mann in Friedrichshain fest.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Sachbeschädigungen durch Farbschmierereien",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708385.php",
+      "publishedAt": "2026-08-30T09:03:41+00:00",
+      "publishedLabel": "30.08.2026 09:03",
+      "summary": "Bereits zwischen dem 26. August 2026 und 27. August 2026 haben Unbekannte mehrere Hausfassaden in Tempelhof beschädigt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Verstoß gegen das Sprengstoffgesetz - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708384.php",
+      "publishedAt": "2026-08-30T08:56:59+00:00",
+      "publishedLabel": "30.08.2026 08:56",
+      "summary": "Einsatzkräfte nahmen heute früh einen Mann in Köpenick fest.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Verkehrsunfall mit BVG-Bus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708336.php",
       "publishedAt": "2026-08-29T12:10:07+00:00",
       "publishedLabel": "29.08.2026 12:10",
-      "summary": "In Lankwitz ereignete sich gestern Nachmittag ein Verkehrsunfall zwischen einem Pkw und einem BVG-Bus.",
+      "summary": "Verkehrsunfall mit BVG-Bus",
       "category": "Verkehr"
     },
     {
@@ -23,8 +71,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708335.php",
       "publishedAt": "2026-08-29T12:04:47+00:00",
       "publishedLabel": "29.08.2026 12:04",
-      "summary": "Eine Personengruppe griff heute früh zwei Frauen in Hellersdorf an und verletzte eine von ihnen erheblich.",
-      "category": "Ermittlung"
+      "summary": "Von Personengruppe geschlagen und beleidigt",
+      "category": "Sonstiges"
     },
     {
       "title": "Frau mit Messer verfolgt und verletzt",
@@ -39,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708330.php",
       "publishedAt": "2026-08-29T10:28:20+00:00",
       "publishedLabel": "29.08.2026 10:28",
-      "summary": "Einsatzkräfte einer Einsatzhundertschaft nahmen in der vergangenen Nacht einen Mann in Charlottenburg fest.",
+      "summary": "Mit Drogen vor der Polizei geflüchtet - Festnahme",
       "category": "Ermittlung"
     },
     {
@@ -55,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708108.php",
       "publishedAt": "2026-08-29T08:00:00+00:00",
       "publishedLabel": "29.08.2026 08:00",
-      "summary": "Der am 27. August 2026 bei einem Verkehrsunfall lebensbedrohlich verletzte Motorradfahrer verstarb gestern Nachmittag in einem Krankenhaus.",
+      "summary": "Motorradfahrer erlag seinen Verletzungen und verstarb",
       "category": "Verkehr"
     },
     {
@@ -63,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708254.php",
       "publishedAt": "2026-08-28T13:57:45+00:00",
       "publishedLabel": "28.08.2026 13:57",
-      "summary": "Heute früh ereignete sich in Mariendorf ein Verkehrsunfall, bei dem ein Motorradfahrer erheblich verletzt wurde.",
+      "summary": "Einer Polizeikontrolle entzogen und Unfall verursacht",
       "category": "Verkehr"
     },
     {
@@ -71,8 +119,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708224.php",
       "publishedAt": "2026-08-28T12:47:57+00:00",
       "publishedLabel": "28.08.2026 12:47",
-      "summary": "Einsatzkräfte der BAO Ferrum des Landeskriminalamts Berlin vollstreckten im Auftrag der Staatsanwaltschaft Berlin Durchsuchungsbeschlüsse.",
-      "category": "Einsatz"
+      "summary": "BAO Ferrum und EG Telum: Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
+      "category": "Sonstiges"
     },
     {
       "title": "Allgemeinverfügung erlassen – Einschränkungen im Bezirk Mitte",
@@ -105,54 +153,6 @@
       "publishedLabel": "28.08.2026 10:04",
       "summary": "In der vergangenen Nacht wurde ein Mann in Hellersdorf von mehreren Tatverdächtigen geschlagen und beleidigt.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Wohnwagen und Pkw in Flammen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707966.php",
-      "publishedAt": "2026-08-28T08:38:45+00:00",
-      "publishedLabel": "28.08.2026 08:38",
-      "summary": "In der vergangenen Nacht kam es in Alt-Treptow zu mehreren Fahrzeugbränden.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mutmaßliche Einbrecher festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707614.php",
-      "publishedAt": "2026-08-27T11:46:55+00:00",
-      "publishedLabel": "27.08.2026 11:46",
-      "summary": "In der vergangenen Nacht wurde die Polizei zu einem Mehrfamilienhaus in Schöneberg alarmiert.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Festnahmen nach Schockanruf",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707558.php",
-      "publishedAt": "2026-08-27T10:33:40+00:00",
-      "publishedLabel": "27.08.2026 10:33",
-      "summary": "Gestern Nachmittag nahmen Einsatzkräfte des Landeskriminalamts zwei mutmaßliche Trickbetrüger auf frischer Tat in Rudow fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Festnahmen nach Sachbeschädigungen an Wahlplakaten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707546.php",
-      "publishedAt": "2026-08-27T10:23:43+00:00",
-      "publishedLabel": "27.08.2026 10:23",
-      "summary": "Einsatzkräfte der Polizei Berlin wurden zu verschiedenen Sachverhalten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Gemeinsam für mehr Sicherheit am Berliner Hauptbahnhof und Ostbahnhof",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707536.php",
-      "publishedAt": "2026-08-27T10:11:12+00:00",
-      "publishedLabel": "27.08.2026 10:11",
-      "summary": "Die Bundespolizei, die DB Sicherheit, die Polizei Berlin sowie die Ordnungsämter Friedrichshain-Kreuzberg und Mitte bündeln ihre Kräfte und Kompetenzen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Parteibüro mit Fäkalien beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707456.php",
-      "publishedAt": "2026-08-27T08:27:18+00:00",
-      "publishedLabel": "27.08.2026 08:27",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einer Sachbeschädigung in den Ortsteil Johannisthal alarmiert.",
-      "category": "Ermittlung"
     }
   ]
 }
