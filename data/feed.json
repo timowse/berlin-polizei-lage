@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-30T11:29:09.987713+00:00",
-    "checkedTime": "11:29 Uhr",
+    "checkedAt": "2026-08-30T15:26:42.514739+00:00",
+    "checkedTime": "15:26 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Fußgänger bei Unfall verletzt",
-    "latestPublishedAt": "2026-08-30T10:58:10+00:00"
+    "latestTitle": "DEIG-Einsatz nach Widerstand - Festnahme",
+    "latestPublishedAt": "2026-08-30T11:25:24+00:00"
   },
   "items": [
+    {
+      "title": "DEIG-Einsatz nach Widerstand - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708397.php",
+      "publishedAt": "2026-08-30T11:25:24+00:00",
+      "publishedLabel": "30.08.2026 11:25",
+      "summary": "In der vergangenen Nacht sind Einsatzkräfte zweier Polizeiabschnitte zu einer randalierenden Person nach Mariendorf alarmiert worden.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Fußgänger bei Unfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708394.php",
@@ -23,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708392.php",
       "publishedAt": "2026-08-30T10:53:01+00:00",
       "publishedLabel": "30.08.2026 10:53",
-      "summary": "Schüsse in Fußgängerzone",
+      "summary": "Mehrere Zeugen alarmierten heute früh die Polizei nach Schöneberg.",
       "category": "Verkehr"
     },
     {
@@ -31,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708389.php",
       "publishedAt": "2026-08-30T10:03:48+00:00",
       "publishedLabel": "30.08.2026 10:03",
-      "summary": "Unfall mit verletzter Person und fünf beschädigten Autos",
+      "summary": "Gestern Nachmittag kam es in Johannisthal zu einem Verkehrsunfall mit einer verletzten Person und mehreren beschädigten Fahrzeugen.",
       "category": "Verkehr"
     },
     {
@@ -63,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708336.php",
       "publishedAt": "2026-08-29T12:10:07+00:00",
       "publishedLabel": "29.08.2026 12:10",
-      "summary": "Verkehrsunfall mit BVG-Bus",
+      "summary": "In Lankwitz ereignete sich gestern Nachmittag ein Verkehrsunfall zwischen einem Pkw und einem BVG-Bus.",
       "category": "Verkehr"
     },
     {
@@ -71,8 +79,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708335.php",
       "publishedAt": "2026-08-29T12:04:47+00:00",
       "publishedLabel": "29.08.2026 12:04",
-      "summary": "Von Personengruppe geschlagen und beleidigt",
-      "category": "Sonstiges"
+      "summary": "Eine Personengruppe griff heute früh zwei Frauen in Hellersdorf an und verletzte eine von ihnen erheblich.",
+      "category": "Ermittlung"
     },
     {
       "title": "Frau mit Messer verfolgt und verletzt",
@@ -87,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708330.php",
       "publishedAt": "2026-08-29T10:28:20+00:00",
       "publishedLabel": "29.08.2026 10:28",
-      "summary": "Mit Drogen vor der Polizei geflüchtet - Festnahme",
+      "summary": "Einsatzkräfte einer Einsatzhundertschaft nahmen in der vergangenen Nacht einen Mann in Charlottenburg fest.",
       "category": "Ermittlung"
     },
     {
@@ -103,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708108.php",
       "publishedAt": "2026-08-29T08:00:00+00:00",
       "publishedLabel": "29.08.2026 08:00",
-      "summary": "Motorradfahrer erlag seinen Verletzungen und verstarb",
+      "summary": "Der am 27. August 2026 bei einem Verkehrsunfall lebensbedrohlich verletzte Motorradfahrer verstarb gestern Nachmittag in einem Krankenhaus.",
       "category": "Verkehr"
     },
     {
@@ -111,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708254.php",
       "publishedAt": "2026-08-28T13:57:45+00:00",
       "publishedLabel": "28.08.2026 13:57",
-      "summary": "Einer Polizeikontrolle entzogen und Unfall verursacht",
+      "summary": "Heute früh ereignete sich in Mariendorf ein Verkehrsunfall, bei dem ein Motorradfahrer erheblich verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -119,8 +127,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708224.php",
       "publishedAt": "2026-08-28T12:47:57+00:00",
       "publishedLabel": "28.08.2026 12:47",
-      "summary": "BAO Ferrum und EG Telum: Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
-      "category": "Sonstiges"
+      "summary": "Einsatzkräfte der BAO Ferrum des Landeskriminalamts Berlin vollstreckten im Auftrag der Staatsanwaltschaft Berlin Durchsuchungsbeschlüsse.",
+      "category": "Einsatz"
     },
     {
       "title": "Allgemeinverfügung erlassen – Einschränkungen im Bezirk Mitte",
@@ -145,14 +153,6 @@
       "publishedLabel": "28.08.2026 10:16",
       "summary": "Gestern Mittag wurde ein Junge in einer Schule in Tiergarten von einem anderen Kind beleidigt und geschlagen.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Schlägerei nach Streitigkeiten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708076.php",
-      "publishedAt": "2026-08-28T10:04:30+00:00",
-      "publishedLabel": "28.08.2026 10:04",
-      "summary": "In der vergangenen Nacht wurde ein Mann in Hellersdorf von mehreren Tatverdächtigen geschlagen und beleidigt.",
-      "category": "Fahndung"
     }
   ]
 }
