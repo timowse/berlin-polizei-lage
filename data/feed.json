@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-31T04:17:00.290175+00:00",
-    "checkedTime": "04:17 Uhr",
+    "checkedAt": "2026-08-31T10:57:23.179585+00:00",
+    "checkedTime": "10:57 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "DEIG-Einsatz nach Widerstand - Festnahme",
-    "latestPublishedAt": "2026-08-30T11:25:24+00:00"
+    "latestTitle": "Ermittlungen der BAO Ferrum: Vollstreckung eines Haftbefehls in Nordrhein-Westfalen und Sicherstellung von Vermögenswerten",
+    "latestPublishedAt": "2026-08-31T10:47:00+00:00"
   },
   "items": [
+    {
+      "title": "Ermittlungen der BAO Ferrum: Vollstreckung eines Haftbefehls in Nordrhein-Westfalen und Sicherstellung von Vermögenswerten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671040.php",
+      "publishedAt": "2026-08-31T10:47:00+00:00",
+      "publishedLabel": "31.08.2026 10:47",
+      "summary": "Seit Februar 2026 ermittelt die BAO Ferrum im Auftrag der EG Telum der StA Berlin in einem Ermittlungsverfahren.",
+      "category": "Ermittlung"
+    },
     {
       "title": "DEIG-Einsatz nach Widerstand - Festnahme",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708397.php",
@@ -23,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708394.php",
       "publishedAt": "2026-08-30T10:58:10+00:00",
       "publishedLabel": "30.08.2026 10:58",
-      "summary": "Fußgänger bei Unfall verletzt",
+      "summary": "In der vergangenen Nacht ist ein Fußgänger bei einem Verkehrsunfall in Gropiusstadt verletzt worden.",
       "category": "Verkehr"
     },
     {
@@ -31,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708392.php",
       "publishedAt": "2026-08-30T10:53:01+00:00",
       "publishedLabel": "30.08.2026 10:53",
-      "summary": "Schüsse in Fußgängerzone",
+      "summary": "Mehrere Zeugen alarmierten heute früh die Polizei nach Schöneberg.",
       "category": "Verkehr"
     },
     {
@@ -39,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708389.php",
       "publishedAt": "2026-08-30T10:03:48+00:00",
       "publishedLabel": "30.08.2026 10:03",
-      "summary": "Unfall mit verletzter Person und fünf beschädigten Autos",
+      "summary": "Gestern Nachmittag kam es in Johannisthal zu einem Verkehrsunfall mit einer verletzten Person und mehreren beschädigten Fahrzeugen.",
       "category": "Verkehr"
     },
     {
@@ -103,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708325.php",
       "publishedAt": "2026-08-29T09:07:48+00:00",
       "publishedLabel": "29.08.2026 09:07",
-      "summary": "Unfallflucht nach Zusammenstoß mit zweijährigem Jungen",
+      "summary": "Gestern Nachmittag kam es in Marzahn zu einem Verkehrsunfall mit Unfallflucht.",
       "category": "Verkehr"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "28.08.2026 10:38",
       "summary": "Im Auftrag der Staatsanwaltschaft Berlin vollstreckten Einsatzkräfte fünf Durchsuchungsbeschlüsse im Berliner Stadtgebiet.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Zehnjähriger geschlagen und homophob beleidigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708088.php",
-      "publishedAt": "2026-08-28T10:16:28+00:00",
-      "publishedLabel": "28.08.2026 10:16",
-      "summary": "Gestern Mittag wurde ein Junge in einer Schule in Tiergarten von einem anderen Kind beleidigt und geschlagen.",
-      "category": "Sonstiges"
     }
   ]
 }
