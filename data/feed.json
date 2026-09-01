@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-01T06:37:11.735787+00:00",
-    "checkedTime": "06:37 Uhr",
+    "checkedAt": "2026-09-01T12:00:33.109870+00:00",
+    "checkedTime": "12:00 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Ermittlungen der BAO Ferrum: Vollstreckung eines Haftbefehls in Nordrhein-Westfalen und Sicherstellung von Vermögenswerten",
-    "latestPublishedAt": "2026-08-31T10:47:00+00:00"
+    "latestTitle": "Sprengung auf dem Sprengplatz Grunewald",
+    "latestPublishedAt": "2026-09-01T10:23:47+00:00"
   },
   "items": [
+    {
+      "title": "Sprengung auf dem Sprengplatz Grunewald",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709239.php",
+      "publishedAt": "2026-09-01T10:23:47+00:00",
+      "publishedLabel": "01.09.2026 10:23",
+      "summary": "Einsatzkräfte der Polizei Berlin werden auf dem Sprengplatz im Grunewald die in der vergangenen Woche entdeckte und entschärfte Weltkriegsbombe sprengen.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Autofahrer fährt Fußgängerin an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709102.php",
+      "publishedAt": "2026-09-01T08:16:45+00:00",
+      "publishedLabel": "01.09.2026 08:16",
+      "summary": "Bei einem Verkehrsunfall in Wilhelmsruh wurde gestern Mittag eine Fußgängerin verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Politiker antisemitisch beleidigt und angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709027.php",
+      "publishedAt": "2026-09-01T07:03:00+00:00",
+      "publishedLabel": "01.09.2026 07:03",
+      "summary": "Der Polizeiliche Staatsschutz hat die Ermittlungen zu einem Angriff auf einen Politiker übernommen, der sich gestern Mittag in Steglitz ereignet hat.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Ermittlungen der BAO Ferrum: Vollstreckung eines Haftbefehls in Nordrhein-Westfalen und Sicherstellung von Vermögenswerten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671040.php",
@@ -47,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708389.php",
       "publishedAt": "2026-08-30T10:03:48+00:00",
       "publishedLabel": "30.08.2026 10:03",
-      "summary": "Gestern Nachmittag kam es in Johannisthal zu einem Verkehrsunfall mit einer verletzten Person und mehreren beschädigten Fahrzeugen.",
+      "summary": "Unfall mit verletzter Person und fünf beschädigten Autos",
       "category": "Verkehr"
     },
     {
@@ -111,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708325.php",
       "publishedAt": "2026-08-29T09:07:48+00:00",
       "publishedLabel": "29.08.2026 09:07",
-      "summary": "Unfallflucht nach Zusammenstoß mit zweijährigem Jungen",
+      "summary": "Gestern Nachmittag kam es in Marzahn zu einem Verkehrsunfall mit Unfallflucht.",
       "category": "Verkehr"
     },
     {
@@ -129,30 +153,6 @@
       "publishedLabel": "28.08.2026 13:57",
       "summary": "Heute früh ereignete sich in Mariendorf ein Verkehrsunfall, bei dem ein Motorradfahrer erheblich verletzt wurde.",
       "category": "Verkehr"
-    },
-    {
-      "title": "BAO Ferrum und EG Telum: Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708224.php",
-      "publishedAt": "2026-08-28T12:47:57+00:00",
-      "publishedLabel": "28.08.2026 12:47",
-      "summary": "Einsatzkräfte der BAO Ferrum des Landeskriminalamts Berlin vollstreckten im Auftrag der Staatsanwaltschaft Berlin Durchsuchungsbeschlüsse.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Allgemeinverfügung erlassen – Einschränkungen im Bezirk Mitte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708152.php",
-      "publishedAt": "2026-08-28T11:27:58+00:00",
-      "publishedLabel": "28.08.2026 11:27",
-      "summary": "Am 1. September 2026 wird es in der Zeit von 6 bis 20 Uhr zu umfangreichen Sicherheitsmaßnahmen und Verkehrssperrungen in Tiergarten kommen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Trickdiebstahl in Wohnungen - Festnahmen und Durchsuchungen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708099.php",
-      "publishedAt": "2026-08-28T10:38:24+00:00",
-      "publishedLabel": "28.08.2026 10:38",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin vollstreckten Einsatzkräfte fünf Durchsuchungsbeschlüsse im Berliner Stadtgebiet.",
-      "category": "Ermittlung"
     }
   ]
 }
