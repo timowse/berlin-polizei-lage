@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-08-31T17:58:15.162827+00:00",
-    "checkedTime": "17:58 Uhr",
+    "checkedAt": "2026-09-01T01:25:30.428048+00:00",
+    "checkedTime": "01:25 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Ermittlungen der BAO Ferrum: Vollstreckung eines Haftbefehls in Nordrhein-Westfalen und Sicherstellung von Vermögenswerten",
     "latestPublishedAt": "2026-08-31T10:47:00+00:00"
@@ -47,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708389.php",
       "publishedAt": "2026-08-30T10:03:48+00:00",
       "publishedLabel": "30.08.2026 10:03",
-      "summary": "Gestern Nachmittag kam es in Johannisthal zu einem Verkehrsunfall mit einer verletzten Person und mehreren beschädigten Fahrzeugen.",
+      "summary": "Unfall mit verletzter Person und fünf beschädigten Autos",
       "category": "Verkehr"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708108.php",
       "publishedAt": "2026-08-29T08:00:00+00:00",
       "publishedLabel": "29.08.2026 08:00",
-      "summary": "Der am 27. August 2026 bei einem Verkehrsunfall lebensbedrohlich verletzte Motorradfahrer verstarb gestern Nachmittag in einem Krankenhaus.",
+      "summary": "Motorradfahrer erlag seinen Verletzungen und verstarb",
       "category": "Verkehr"
     },
     {
