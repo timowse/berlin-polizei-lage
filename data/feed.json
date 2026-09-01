@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-01T12:00:33.109870+00:00",
-    "checkedTime": "12:00 Uhr",
+    "checkedAt": "2026-09-01T16:34:57.220321+00:00",
+    "checkedTime": "16:34 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Sprengung auf dem Sprengplatz Grunewald",
-    "latestPublishedAt": "2026-09-01T10:23:47+00:00"
+    "latestTitle": "Versuchtes Tötungsdelikt in einer Anwaltskanzlei",
+    "latestPublishedAt": "2026-09-01T15:20:27+00:00"
   },
   "items": [
+    {
+      "title": "Versuchtes Tötungsdelikt in einer Anwaltskanzlei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709414.php",
+      "publishedAt": "2026-09-01T15:20:27+00:00",
+      "publishedLabel": "01.09.2026 15:20",
+      "summary": "Heute Vormittag wurden Einsatz- und Rettungskräfte nach Hellersdorf alarmiert.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Festnahme nach Einbruch in Auto",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709365.php",
+      "publishedAt": "2026-09-01T13:40:48+00:00",
+      "publishedLabel": "01.09.2026 13:40",
+      "summary": "Einsatzkräfte nahmen in Mitte einen Mann fest, der im Verdacht steht, in ein Auto eingebrochen zu sein und daraus einen Rucksack entwendet zu haben.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Regenbogenbank im Großen Tiergarten beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709316.php",
+      "publishedAt": "2026-09-01T12:18:36+00:00",
+      "publishedLabel": "01.09.2026 12:18",
+      "summary": "In Tiergarten wurden heute Morgen Einsatzkräfte der Polizei zu einer als Gedenkort aufgestellten Regenbogenbank gerufen, da diese erheblich beschädigt wurde.",
+      "category": "Einsatz"
+    },
     {
       "title": "Sprengung auf dem Sprengplatz Grunewald",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709239.php",
@@ -23,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709102.php",
       "publishedAt": "2026-09-01T08:16:45+00:00",
       "publishedLabel": "01.09.2026 08:16",
-      "summary": "Bei einem Verkehrsunfall in Wilhelmsruh wurde gestern Mittag eine Fußgängerin verletzt.",
+      "summary": "Autofahrer fährt Fußgängerin an",
       "category": "Verkehr"
     },
     {
@@ -129,30 +153,6 @@
       "publishedLabel": "29.08.2026 10:28",
       "summary": "Einsatzkräfte einer Einsatzhundertschaft nahmen in der vergangenen Nacht einen Mann in Charlottenburg fest.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Unfallflucht nach Zusammenstoß mit zweijährigem Jungen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708325.php",
-      "publishedAt": "2026-08-29T09:07:48+00:00",
-      "publishedLabel": "29.08.2026 09:07",
-      "summary": "Gestern Nachmittag kam es in Marzahn zu einem Verkehrsunfall mit Unfallflucht.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Motorradfahrer erlag seinen Verletzungen und verstarb",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708108.php",
-      "publishedAt": "2026-08-29T08:00:00+00:00",
-      "publishedLabel": "29.08.2026 08:00",
-      "summary": "Der am 27. August 2026 bei einem Verkehrsunfall lebensbedrohlich verletzte Motorradfahrer verstarb gestern Nachmittag in einem Krankenhaus.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Einer Polizeikontrolle entzogen und Unfall verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708254.php",
-      "publishedAt": "2026-08-28T13:57:45+00:00",
-      "publishedLabel": "28.08.2026 13:57",
-      "summary": "Heute früh ereignete sich in Mariendorf ein Verkehrsunfall, bei dem ein Motorradfahrer erheblich verletzt wurde.",
-      "category": "Verkehr"
     }
   ]
 }
