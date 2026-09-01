@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-01T16:34:57.220321+00:00",
-    "checkedTime": "16:34 Uhr",
+    "checkedAt": "2026-09-01T19:33:47.759305+00:00",
+    "checkedTime": "19:33 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Versuchtes Tötungsdelikt in einer Anwaltskanzlei",
     "latestPublishedAt": "2026-09-01T15:20:27+00:00"
@@ -47,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709102.php",
       "publishedAt": "2026-09-01T08:16:45+00:00",
       "publishedLabel": "01.09.2026 08:16",
-      "summary": "Autofahrer fährt Fußgängerin an",
+      "summary": "Bei einem Verkehrsunfall in Wilhelmsruh wurde gestern Mittag eine Fußgängerin verletzt.",
       "category": "Verkehr"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708389.php",
       "publishedAt": "2026-08-30T10:03:48+00:00",
       "publishedLabel": "30.08.2026 10:03",
-      "summary": "Unfall mit verletzter Person und fünf beschädigten Autos",
+      "summary": "Gestern Nachmittag kam es in Johannisthal zu einem Verkehrsunfall mit einer verletzten Person und mehreren beschädigten Fahrzeugen.",
       "category": "Verkehr"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708336.php",
       "publishedAt": "2026-08-29T12:10:07+00:00",
       "publishedLabel": "29.08.2026 12:10",
-      "summary": "In Lankwitz ereignete sich gestern Nachmittag ein Verkehrsunfall zwischen einem Pkw und einem BVG-Bus.",
+      "summary": "Verkehrsunfall mit BVG-Bus",
       "category": "Verkehr"
     },
     {
