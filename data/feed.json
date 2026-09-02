@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-02T00:00:05.030717+00:00",
-    "checkedTime": "00:00 Uhr",
+    "checkedAt": "2026-09-02T04:18:38.298679+00:00",
+    "checkedTime": "04:18 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Versuchtes Tötungsdelikt in einer Anwaltskanzlei",
     "latestPublishedAt": "2026-09-01T15:20:27+00:00"
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671040.php",
       "publishedAt": "2026-08-31T10:47:00+00:00",
       "publishedLabel": "31.08.2026 10:47",
-      "summary": "Seit Februar 2026 ermittelt die BAO Ferrum im Auftrag der EG Telum der StA Berlin in einem Ermittlungsverfahren.",
+      "summary": "Ermittlungen der BAO Ferrum: Vollstreckung eines Haftbefehls in Nordrhein-Westfalen und Sicherstellung von Vermögenswerten",
       "category": "Ermittlung"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708397.php",
       "publishedAt": "2026-08-30T11:25:24+00:00",
       "publishedLabel": "30.08.2026 11:25",
-      "summary": "In der vergangenen Nacht sind Einsatzkräfte zweier Polizeiabschnitte zu einer randalierenden Person nach Mariendorf alarmiert worden.",
+      "summary": "DEIG-Einsatz nach Widerstand - Festnahme",
       "category": "Ermittlung"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708385.php",
       "publishedAt": "2026-08-30T09:03:41+00:00",
       "publishedLabel": "30.08.2026 09:03",
-      "summary": "Bereits zwischen dem 26. August 2026 und 27. August 2026 haben Unbekannte mehrere Hausfassaden in Tempelhof beschädigt.",
+      "summary": "Sachbeschädigungen durch Farbschmierereien",
       "category": "Ermittlung"
     },
     {
@@ -135,8 +135,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708335.php",
       "publishedAt": "2026-08-29T12:04:47+00:00",
       "publishedLabel": "29.08.2026 12:04",
-      "summary": "Eine Personengruppe griff heute früh zwei Frauen in Hellersdorf an und verletzte eine von ihnen erheblich.",
-      "category": "Ermittlung"
+      "summary": "Von Personengruppe geschlagen und beleidigt",
+      "category": "Sonstiges"
     },
     {
       "title": "Frau mit Messer verfolgt und verletzt",
