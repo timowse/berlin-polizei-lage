@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-02T13:20:23.023820+00:00",
-    "checkedTime": "13:20 Uhr",
+    "checkedAt": "2026-09-02T17:14:46.715414+00:00",
+    "checkedTime": "17:14 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Motorradfahrer nach Verkehrsunfall in intensivmedizinischer Behandlung",
-    "latestPublishedAt": "2026-09-02T10:12:56+00:00"
+    "latestTitle": "Verdacht des schweren Menschenhandels und des gewerbsmäßigen Einschleusens von Ausländern – Durchsuchungsbeschlüsse vollstreckt",
+    "latestPublishedAt": "2026-09-02T14:42:56+00:00"
   },
   "items": [
+    {
+      "title": "Verdacht des schweren Menschenhandels und des gewerbsmäßigen Einschleusens von Ausländern – Durchsuchungsbeschlüsse vollstreckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709859.php",
+      "publishedAt": "2026-09-02T14:42:56+00:00",
+      "publishedLabel": "02.09.2026 14:42",
+      "summary": "Im Auftrag der Staatsanwaltschaft Berlin vollstreckten gestern Abend ab 19 Uhr rund 400 Einsatzkräfte insgesamt 20 Durchsuchungsbeschlüsse.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "E-Scooter-Fahrerin bei Kollision mit Lkw verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709850.php",
+      "publishedAt": "2026-09-02T14:30:00+00:00",
+      "publishedLabel": "02.09.2026 14:30",
+      "summary": "Gestern Nachmittag wurde eine E-Scooter-Fahrerin bei einem Verkehrsunfall in Kreuzberg verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mann von unbekannten Tätern mehrmals angeschossen und schwer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709849.php",
+      "publishedAt": "2026-09-02T14:25:00+00:00",
+      "publishedLabel": "02.09.2026 14:25",
+      "summary": "Gestern Abend gegen 20:20 Uhr wurden Einsatz- und Rettungskräfte nach Schöneberg alarmiert, nachdem Anwohner Schüsse in der Feurigstraße wahrgenommen hatten",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Junger Mann nach Gewalttat identifiziert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709500.php",
+      "publishedAt": "2026-09-02T13:40:00+00:00",
+      "publishedLabel": "02.09.2026 13:40",
+      "summary": "Eine Person aus dem Umfeld des Gesuchten hat den 16-Jährigen erkannt.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Frau vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709758.php",
+      "publishedAt": "2026-09-02T13:24:41+00:00",
+      "publishedLabel": "02.09.2026 13:24",
+      "summary": "Die 52-jährige Sylvia DOMES wird seit Sonntag, den 30. August 2026 vermisst.",
+      "category": "Fahndung"
+    },
     {
       "title": "Motorradfahrer nach Verkehrsunfall in intensivmedizinischer Behandlung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709657.php",
@@ -41,14 +81,6 @@
       "publishedLabel": "02.09.2026 07:55",
       "summary": "Seit Februar führt die BAO Ferrum gemeinsam mit der StA Berlin, EG Telum, ein Ermittlungsverfahren wegen des Verdachts des versuchten Mordes.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Junger Mann nach Gewalttat gesucht – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709500.php",
-      "publishedAt": "2026-09-02T06:23:58+00:00",
-      "publishedLabel": "02.09.2026 06:23",
-      "summary": "Die Kriminalpolizei sucht einen jungen Mann, der am 26. Mai 2025 am U-Bahnhof Kottbusser Tor einen anderen Mann verletzt haben soll.",
-      "category": "Verkehr"
     },
     {
       "title": "Versuchtes Tötungsdelikt in einer Anwaltskanzlei",
@@ -121,38 +153,6 @@
       "publishedLabel": "30.08.2026 10:58",
       "summary": "In der vergangenen Nacht ist ein Fußgänger bei einem Verkehrsunfall in Gropiusstadt verletzt worden.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Schüsse in Fußgängerzone",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708392.php",
-      "publishedAt": "2026-08-30T10:53:01+00:00",
-      "publishedLabel": "30.08.2026 10:53",
-      "summary": "Mehrere Zeugen alarmierten heute früh die Polizei nach Schöneberg.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Unfall mit verletzter Person und fünf beschädigten Autos",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708389.php",
-      "publishedAt": "2026-08-30T10:03:48+00:00",
-      "publishedLabel": "30.08.2026 10:03",
-      "summary": "Gestern Nachmittag kam es in Johannisthal zu einem Verkehrsunfall mit einer verletzten Person und mehreren beschädigten Fahrzeugen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Fremdenfeindlicher Angriff - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708388.php",
-      "publishedAt": "2026-08-30T09:54:23+00:00",
-      "publishedLabel": "30.08.2026 09:54",
-      "summary": "Einsatzkräfte nahmen gestern Nachmittag einen Mann in Friedrichshain fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Sachbeschädigungen durch Farbschmierereien",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708385.php",
-      "publishedAt": "2026-08-30T09:03:41+00:00",
-      "publishedLabel": "30.08.2026 09:03",
-      "summary": "Bereits zwischen dem 26. August 2026 und 27. August 2026 haben Unbekannte mehrere Hausfassaden in Tempelhof beschädigt.",
-      "category": "Ermittlung"
     }
   ]
 }
