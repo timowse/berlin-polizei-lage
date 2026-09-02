@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-02T08:51:41.002252+00:00",
-    "checkedTime": "08:51 Uhr",
+    "checkedAt": "2026-09-02T13:20:23.023820+00:00",
+    "checkedTime": "13:20 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Junger Mann nach Gewalttat gesucht – Polizei bittet um Mithilfe",
-    "latestPublishedAt": "2026-09-02T06:23:58+00:00"
+    "latestTitle": "Motorradfahrer nach Verkehrsunfall in intensivmedizinischer Behandlung",
+    "latestPublishedAt": "2026-09-02T10:12:56+00:00"
   },
   "items": [
+    {
+      "title": "Motorradfahrer nach Verkehrsunfall in intensivmedizinischer Behandlung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709657.php",
+      "publishedAt": "2026-09-02T10:12:56+00:00",
+      "publishedLabel": "02.09.2026 10:12",
+      "summary": "Motorradfahrer nach Verkehrsunfall in intensivmedizinischer Behandlung",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Seniorin bei Verkehrsunfall erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709651.php",
+      "publishedAt": "2026-09-02T09:58:00+00:00",
+      "publishedLabel": "02.09.2026 09:58",
+      "summary": "Nr. 1103 Bei einem Verkehrsunfall in Mariendorf wurde gestern Vormittag eine Fußgängerin erheblich verletzt. Nach den bisherigen Ermittlungen und Aussagen befuhr ein 62-Jähriger in Begleitung eines 41-jährigen Beifahrers gegen 11:40 Uhr mit seinem Auto den Mariendorfer Damm in Richtung Innenstadt. Zeitgleich überquerte eine 80 Jahre alte Frau den Mariendorfer Damm vom Mittelstreifen aus in Richtung Hundsteinweg. Auf der mittleren Fahrspur wurde sie von dem 62-Jährigen mit dem Auto angefahren, stürzte zu Boden und blieb neben dem Fahrzeug liegen. Die Seniorin erlitt diverse Knochenbrüche und war zwischenzeitlich in Lebensgefahr. Rettungskräfte der Berliner Feuerwehr brachten sie zur stationären Behandlung in ein Krankenhaus. Für die Verkehrsunfallaufnahme und die Spurensicherung sperrten Einsatzkräfte den Mariendorfer Damm zwischen 11:30 Uhr und 15:40 Uhr vollständig. Die weiteren Ermittlungen hat ein Fachkommissariat für Verkehrsdelikte der Polizeidirektion 4 (Süd) übernommen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Transperson verletzt und beleidigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709650.php",
+      "publishedAt": "2026-09-02T09:25:00+00:00",
+      "publishedLabel": "02.09.2026 09:25",
+      "summary": "Nr. 1102 In der vergangenen Nacht wurde eine transgeschlechtliche Person in Neukölln angegriffen und beleidigt. Nach bisherigen Erkenntnissen hielt sich die 18-Jährige gegen 22:45 Uhr in Begleitung einer 21-jährigen transgeschlechtlichen Person vor einem Restaurant in der Sonnenallee auf. Aus einer Personengruppe heraus soll ein bislang Unbekannter die jüngere Transperson gefragt haben, ob sie ein Mann oder eine Frau sei. Anschließend soll der Mann die Transperson beleidigt, ihr ins Gesicht geschlagen und sie zu Boden gestoßen haben. Während sie am Boden lag, soll er ihr mehrfach gegen den Kopf getreten haben. Zudem soll er die 21-jährige Begleitperson ebenfalls beleidigt haben. Nach der Tat flüchtete der Unbekannte über die Weichselstraße in Richtung Karl-Marx-Straße. Die 18-jährige Transperson erlitt durch den Schlag und die Tritte eine Schwellung im Gesicht sowie durch den Sturz eine Schwellung am Ellenbogen. Eine ärztliche Behandlung lehnte sie ab. Die Ermittlungen hat der Polizeiliche Staatsschutz des Landeskriminalamts übernommen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Sicherstellung einer scharfen Schusswaffe und Sicherstellung von Vermögenswerten durch die BAO Ferrum im Zusammenhang mit Schussabgaben auf eine Wohnung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643062.php",
+      "publishedAt": "2026-09-02T07:55:00+00:00",
+      "publishedLabel": "02.09.2026 07:55",
+      "summary": "Seit Februar führt die BAO Ferrum gemeinsam mit der StA Berlin, EG Telum, ein Ermittlungsverfahren wegen des Verdachts des versuchten Mordes.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Junger Mann nach Gewalttat gesucht – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709500.php",
@@ -120,38 +152,6 @@
       "publishedAt": "2026-08-30T09:03:41+00:00",
       "publishedLabel": "30.08.2026 09:03",
       "summary": "Bereits zwischen dem 26. August 2026 und 27. August 2026 haben Unbekannte mehrere Hausfassaden in Tempelhof beschädigt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Verstoß gegen das Sprengstoffgesetz - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708384.php",
-      "publishedAt": "2026-08-30T08:56:59+00:00",
-      "publishedLabel": "30.08.2026 08:56",
-      "summary": "Einsatzkräfte nahmen heute früh einen Mann in Köpenick fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Verkehrsunfall mit BVG-Bus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708336.php",
-      "publishedAt": "2026-08-29T12:10:07+00:00",
-      "publishedLabel": "29.08.2026 12:10",
-      "summary": "In Lankwitz ereignete sich gestern Nachmittag ein Verkehrsunfall zwischen einem Pkw und einem BVG-Bus.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Von Personengruppe geschlagen und beleidigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708335.php",
-      "publishedAt": "2026-08-29T12:04:47+00:00",
-      "publishedLabel": "29.08.2026 12:04",
-      "summary": "Eine Personengruppe griff heute früh zwei Frauen in Hellersdorf an und verletzte eine von ihnen erheblich.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Frau mit Messer verfolgt und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708332.php",
-      "publishedAt": "2026-08-29T11:19:44+00:00",
-      "publishedLabel": "29.08.2026 11:19",
-      "summary": "In der vergangenen Nacht ist in Hellersdorf eine Frau mit einem Messer verletzt worden.",
       "category": "Ermittlung"
     }
   ]
