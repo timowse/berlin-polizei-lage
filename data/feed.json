@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-02T22:25:29.921786+00:00",
-    "checkedTime": "22:25 Uhr",
+    "checkedAt": "2026-09-03T00:31:05.517043+00:00",
+    "checkedTime": "00:31 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Verdacht des schweren Menschenhandels und des gewerbsmäßigen Einschleusens von Ausländern – Durchsuchungsbeschlüsse vollstreckt",
     "latestPublishedAt": "2026-09-02T14:42:56+00:00"
@@ -71,16 +71,16 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709650.php",
       "publishedAt": "2026-09-02T09:25:00+00:00",
       "publishedLabel": "02.09.2026 09:25",
-      "summary": "Nr. 1102 In der vergangenen Nacht wurde eine transgeschlechtliche Person in Neukölln angegriffen und beleidigt. Nach bisherigen Erkenntnissen hielt sich die 18-Jährige gegen 22:45 Uhr in Begleitung einer 21-jährigen transgeschlechtlichen Person vor einem Restaurant in der Sonnenallee auf. Aus einer Personengruppe heraus soll ein bislang Unbekannter die jüngere Transperson gefragt haben, ob sie ein Mann oder eine Frau sei. Anschließend soll der Mann die Transperson beleidigt, ihr ins Gesicht geschlagen und sie zu Boden gestoßen haben. Während sie am Boden lag, soll er ihr mehrfach gegen den Kopf getreten haben. Zudem soll er die 21-jährige Begleitperson ebenfalls beleidigt haben. Nach der Tat flüchtete der Unbekannte über die Weichselstraße in Richtung Karl-Marx-Straße. Die 18-jährige Transperson erlitt durch den Schlag und die Tritte eine Schwellung im Gesicht sowie durch den Sturz eine Schwellung am Ellenbogen. Eine ärztliche Behandlung lehnte sie ab. Die Ermittlungen hat der Polizeiliche Staatsschutz des Landeskriminalamts übernommen.",
-      "category": "Verkehr"
+      "summary": "Transperson verletzt und beleidigt",
+      "category": "Ermittlung"
     },
     {
       "title": "Sicherstellung einer scharfen Schusswaffe und Sicherstellung von Vermögenswerten durch die BAO Ferrum im Zusammenhang mit Schussabgaben auf eine Wohnung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643062.php",
       "publishedAt": "2026-09-02T07:55:00+00:00",
       "publishedLabel": "02.09.2026 07:55",
-      "summary": "Seit Februar führt die BAO Ferrum gemeinsam mit der StA Berlin, EG Telum, ein Ermittlungsverfahren wegen des Verdachts des versuchten Mordes.",
-      "category": "Ermittlung"
+      "summary": "Sicherstellung einer scharfen Schusswaffe und Sicherstellung von Vermögenswerten durch die BAO Ferrum im Zusammenhang mit Schussabgaben auf eine Wohnung",
+      "category": "Sonstiges"
     },
     {
       "title": "Versuchtes Tötungsdelikt in einer Anwaltskanzlei",
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709102.php",
       "publishedAt": "2026-09-01T08:16:45+00:00",
       "publishedLabel": "01.09.2026 08:16",
-      "summary": "Bei einem Verkehrsunfall in Wilhelmsruh wurde gestern Mittag eine Fußgängerin verletzt.",
+      "summary": "Autofahrer fährt Fußgängerin an",
       "category": "Verkehr"
     },
     {
@@ -127,8 +127,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709027.php",
       "publishedAt": "2026-09-01T07:03:00+00:00",
       "publishedLabel": "01.09.2026 07:03",
-      "summary": "Der Polizeiliche Staatsschutz hat die Ermittlungen zu einem Angriff auf einen Politiker übernommen, der sich gestern Mittag in Steglitz ereignet hat.",
-      "category": "Ermittlung"
+      "summary": "Politiker antisemitisch beleidigt und angegriffen",
+      "category": "Sonstiges"
     },
     {
       "title": "Ermittlungen der BAO Ferrum: Vollstreckung eines Haftbefehls in Nordrhein-Westfalen und Sicherstellung von Vermögenswerten",
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708397.php",
       "publishedAt": "2026-08-30T11:25:24+00:00",
       "publishedLabel": "30.08.2026 11:25",
-      "summary": "In der vergangenen Nacht sind Einsatzkräfte zweier Polizeiabschnitte zu einer randalierenden Person nach Mariendorf alarmiert worden.",
+      "summary": "DEIG-Einsatz nach Widerstand - Festnahme",
       "category": "Ermittlung"
     },
     {
