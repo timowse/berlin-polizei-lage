@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-03T05:01:34.671242+00:00",
-    "checkedTime": "05:01 Uhr",
+    "checkedAt": "2026-09-03T09:43:08.516520+00:00",
+    "checkedTime": "09:43 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verdacht des schweren Menschenhandels und des gewerbsmäßigen Einschleusens von Ausländern – Durchsuchungsbeschlüsse vollstreckt",
-    "latestPublishedAt": "2026-09-02T14:42:56+00:00"
+    "latestTitle": "Kind bei Verkehrsunfall verletzt",
+    "latestPublishedAt": "2026-09-03T09:32:11+00:00"
   },
   "items": [
+    {
+      "title": "Kind bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710086.php",
+      "publishedAt": "2026-09-03T09:32:11+00:00",
+      "publishedLabel": "03.09.2026 09:32",
+      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Marzahn wurde ein neunjähriges Kind verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mann von unbekanntem Tatverdächtigen geschlagen und homophob beleidigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710077.php",
+      "publishedAt": "2026-09-03T09:16:42+00:00",
+      "publishedLabel": "03.09.2026 09:16",
+      "summary": "Gestern Nachmittag kam es in Schöneberg zwischen einem 62-jährigen Mann und einem bislang unbekannten Tatverdächtigen zu einem Streit.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Mann beschädigt Wahlplakat, entblößt sich und leistet Widerstand bei Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710056.php",
+      "publishedAt": "2026-09-03T08:57:37+00:00",
+      "publishedLabel": "03.09.2026 08:57",
+      "summary": "Gestern Mittag bemerkten zwei Kriminalbeamte des Bundeskriminalamts in Kreuzberg einen Mann, der ein Wahlplakat abgerissen haben soll.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Diebstahlserie aus Handwerkerfahrzeugen – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710045.php",
+      "publishedAt": "2026-09-03T08:40:19+00:00",
+      "publishedLabel": "03.09.2026 08:40",
+      "summary": "Die Polizei Berlin bittet nach der Festnahme von mutmaßlichen Werkzeugdieben um Mithilfe bei der Suche nach weiteren Fahrzeughalterinnen und -haltern.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Senior betrogen – Wer erkennt den Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710012.php",
+      "publishedAt": "2026-09-03T08:08:45+00:00",
+      "publishedLabel": "03.09.2026 08:08",
+      "summary": "Die Polizei Berlin sucht einen Tatverdächtigen, der zusammen mit weiteren Personen am 9. April 2026 einen Senior in Alt-Hohenschönhausen betrogen haben soll.",
+      "category": "Fahndung"
+    },
     {
       "title": "Verdacht des schweren Menschenhandels und des gewerbsmäßigen Einschleusens von Ausländern – Durchsuchungsbeschlüsse vollstreckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709859.php",
@@ -79,8 +119,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643062.php",
       "publishedAt": "2026-09-02T07:55:00+00:00",
       "publishedLabel": "02.09.2026 07:55",
-      "summary": "Sicherstellung einer scharfen Schusswaffe und Sicherstellung von Vermögenswerten durch die BAO Ferrum im Zusammenhang mit Schussabgaben auf eine Wohnung",
-      "category": "Sonstiges"
+      "summary": "Seit Februar führt die BAO Ferrum gemeinsam mit der StA Berlin, EG Telum, ein Ermittlungsverfahren wegen des Verdachts des versuchten Mordes.",
+      "category": "Ermittlung"
     },
     {
       "title": "Versuchtes Tötungsdelikt in einer Anwaltskanzlei",
@@ -113,46 +153,6 @@
       "publishedLabel": "01.09.2026 10:23",
       "summary": "Einsatzkräfte der Polizei Berlin werden auf dem Sprengplatz im Grunewald die in der vergangenen Woche entdeckte und entschärfte Weltkriegsbombe sprengen.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Autofahrer fährt Fußgängerin an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709102.php",
-      "publishedAt": "2026-09-01T08:16:45+00:00",
-      "publishedLabel": "01.09.2026 08:16",
-      "summary": "Bei einem Verkehrsunfall in Wilhelmsruh wurde gestern Mittag eine Fußgängerin verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Politiker antisemitisch beleidigt und angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709027.php",
-      "publishedAt": "2026-09-01T07:03:00+00:00",
-      "publishedLabel": "01.09.2026 07:03",
-      "summary": "Der Polizeiliche Staatsschutz hat die Ermittlungen zu einem Angriff auf einen Politiker übernommen, der sich gestern Mittag in Steglitz ereignet hat.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Ermittlungen der BAO Ferrum: Vollstreckung eines Haftbefehls in Nordrhein-Westfalen und Sicherstellung von Vermögenswerten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671040.php",
-      "publishedAt": "2026-08-31T10:47:00+00:00",
-      "publishedLabel": "31.08.2026 10:47",
-      "summary": "Seit Februar 2026 ermittelt die BAO Ferrum im Auftrag der EG Telum der StA Berlin in einem Ermittlungsverfahren.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "DEIG-Einsatz nach Widerstand - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708397.php",
-      "publishedAt": "2026-08-30T11:25:24+00:00",
-      "publishedLabel": "30.08.2026 11:25",
-      "summary": "In der vergangenen Nacht sind Einsatzkräfte zweier Polizeiabschnitte zu einer randalierenden Person nach Mariendorf alarmiert worden.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Fußgänger bei Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708394.php",
-      "publishedAt": "2026-08-30T10:58:10+00:00",
-      "publishedLabel": "30.08.2026 10:58",
-      "summary": "In der vergangenen Nacht ist ein Fußgänger bei einem Verkehrsunfall in Gropiusstadt verletzt worden.",
-      "category": "Verkehr"
     }
   ]
 }
