@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-03T09:43:08.516520+00:00",
-    "checkedTime": "09:43 Uhr",
+    "checkedAt": "2026-09-03T13:55:11.813247+00:00",
+    "checkedTime": "13:55 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Kind bei Verkehrsunfall verletzt",
-    "latestPublishedAt": "2026-09-03T09:32:11+00:00"
+    "latestTitle": "Mann nach Messerangriff im Krankenhaus",
+    "latestPublishedAt": "2026-09-03T12:54:00+00:00"
   },
   "items": [
+    {
+      "title": "Mann nach Messerangriff im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
+      "publishedAt": "2026-09-03T12:54:00+00:00",
+      "publishedLabel": "03.09.2026 12:54",
+      "summary": "Am 22. August 2026 wurde gegen 00:30 Uhr unmittelbar vor der Tür des Wohnhauses in der Wederstraße 89 in Britz ein Mann überfallen.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Neun scharfe Schusswaffen beschlagnahmt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710168.php",
+      "publishedAt": "2026-09-03T11:48:12+00:00",
+      "publishedLabel": "03.09.2026 11:48",
+      "summary": "Einsatzkräfte des Polizeiabschnitts 48 fanden und beschlagnahmten insgesamt neun scharfe Schusswaffen.",
+      "category": "Einsatz"
+    },
     {
       "title": "Kind bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710086.php",
@@ -31,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710056.php",
       "publishedAt": "2026-09-03T08:57:37+00:00",
       "publishedLabel": "03.09.2026 08:57",
-      "summary": "Gestern Mittag bemerkten zwei Kriminalbeamte des Bundeskriminalamts in Kreuzberg einen Mann, der ein Wahlplakat abgerissen haben soll.",
+      "summary": "Mann beschädigt Wahlplakat, entblößt sich und leistet Widerstand bei Festnahme",
       "category": "Ermittlung"
     },
     {
@@ -39,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710045.php",
       "publishedAt": "2026-09-03T08:40:19+00:00",
       "publishedLabel": "03.09.2026 08:40",
-      "summary": "Die Polizei Berlin bittet nach der Festnahme von mutmaßlichen Werkzeugdieben um Mithilfe bei der Suche nach weiteren Fahrzeughalterinnen und -haltern.",
+      "summary": "Diebstahlserie aus Handwerkerfahrzeugen – Polizei bittet um Mithilfe",
       "category": "Verkehr"
     },
     {
@@ -137,22 +153,6 @@
       "publishedLabel": "01.09.2026 13:40",
       "summary": "Einsatzkräfte nahmen in Mitte einen Mann fest, der im Verdacht steht, in ein Auto eingebrochen zu sein und daraus einen Rucksack entwendet zu haben.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Regenbogenbank im Großen Tiergarten beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709316.php",
-      "publishedAt": "2026-09-01T12:18:36+00:00",
-      "publishedLabel": "01.09.2026 12:18",
-      "summary": "In Tiergarten wurden heute Morgen Einsatzkräfte der Polizei zu einer als Gedenkort aufgestellten Regenbogenbank gerufen, da diese erheblich beschädigt wurde.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Sprengung auf dem Sprengplatz Grunewald",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709239.php",
-      "publishedAt": "2026-09-01T10:23:47+00:00",
-      "publishedLabel": "01.09.2026 10:23",
-      "summary": "Einsatzkräfte der Polizei Berlin werden auf dem Sprengplatz im Grunewald die in der vergangenen Woche entdeckte und entschärfte Weltkriegsbombe sprengen.",
-      "category": "Einsatz"
     }
   ]
 }
