@@ -3,20 +3,20 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-03T13:55:11.813247+00:00",
-    "checkedTime": "13:55 Uhr",
+    "checkedAt": "2026-09-03T17:35:45.854602+00:00",
+    "checkedTime": "17:35 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann nach Messerangriff im Krankenhaus",
+    "latestTitle": "Raubüberfall vor Wohnhaus – Polizei sucht Zeuginnen und Zeugen",
     "latestPublishedAt": "2026-09-03T12:54:00+00:00"
   },
   "items": [
     {
-      "title": "Mann nach Messerangriff im Krankenhaus",
+      "title": "Raubüberfall vor Wohnhaus – Polizei sucht Zeuginnen und Zeugen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
       "publishedAt": "2026-09-03T12:54:00+00:00",
       "publishedLabel": "03.09.2026 12:54",
       "summary": "Am 22. August 2026 wurde gegen 00:30 Uhr unmittelbar vor der Tür des Wohnhauses in der Wederstraße 89 in Britz ein Mann überfallen.",
-      "category": "Ermittlung"
+      "category": "Fahndung"
     },
     {
       "title": "Neun scharfe Schusswaffen beschlagnahmt",
@@ -47,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710056.php",
       "publishedAt": "2026-09-03T08:57:37+00:00",
       "publishedLabel": "03.09.2026 08:57",
-      "summary": "Mann beschädigt Wahlplakat, entblößt sich und leistet Widerstand bei Festnahme",
+      "summary": "Gestern Mittag bemerkten zwei Kriminalbeamte des Bundeskriminalamts in Kreuzberg einen Mann, der ein Wahlplakat abgerissen haben soll.",
       "category": "Ermittlung"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710045.php",
       "publishedAt": "2026-09-03T08:40:19+00:00",
       "publishedLabel": "03.09.2026 08:40",
-      "summary": "Diebstahlserie aus Handwerkerfahrzeugen – Polizei bittet um Mithilfe",
+      "summary": "Die Polizei Berlin bittet nach der Festnahme von mutmaßlichen Werkzeugdieben um Mithilfe bei der Suche nach weiteren Fahrzeughalterinnen und -haltern.",
       "category": "Verkehr"
     },
     {
