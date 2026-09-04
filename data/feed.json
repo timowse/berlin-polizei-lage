@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-04T00:22:28.826295+00:00",
-    "checkedTime": "00:22 Uhr",
+    "checkedAt": "2026-09-04T04:56:15.101356+00:00",
+    "checkedTime": "04:56 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Raubüberfall vor Wohnhaus – Polizei sucht Zeuginnen und Zeugen",
     "latestPublishedAt": "2026-09-03T12:54:00+00:00"
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710077.php",
       "publishedAt": "2026-09-03T09:16:42+00:00",
       "publishedLabel": "03.09.2026 09:16",
-      "summary": "Mann von unbekanntem Tatverdächtigen geschlagen und homophob beleidigt",
+      "summary": "Gestern Nachmittag kam es in Schöneberg zwischen einem 62-jährigen Mann und einem bislang unbekannten Tatverdächtigen zu einem Streit.",
       "category": "Fahndung"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709849.php",
       "publishedAt": "2026-09-02T14:25:00+00:00",
       "publishedLabel": "02.09.2026 14:25",
-      "summary": "Mann von unbekannten Tätern mehrmals angeschossen und schwer verletzt",
+      "summary": "Gestern Abend gegen 20:20 Uhr wurden Einsatz- und Rettungskräfte nach Schöneberg alarmiert, nachdem Anwohner Schüsse in der Feurigstraße wahrgenommen hatten",
       "category": "Ermittlung"
     },
     {
@@ -143,15 +143,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709414.php",
       "publishedAt": "2026-09-01T15:20:27+00:00",
       "publishedLabel": "01.09.2026 15:20",
-      "summary": "Versuchtes Tötungsdelikt in einer Anwaltskanzlei",
-      "category": "Sonstiges"
+      "summary": "Heute Vormittag wurden Einsatz- und Rettungskräfte nach Hellersdorf alarmiert.",
+      "category": "Einsatz"
     },
     {
       "title": "Festnahme nach Einbruch in Auto",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709365.php",
       "publishedAt": "2026-09-01T13:40:48+00:00",
       "publishedLabel": "01.09.2026 13:40",
-      "summary": "Festnahme nach Einbruch in Auto",
+      "summary": "Einsatzkräfte nahmen in Mitte einen Mann fest, der im Verdacht steht, in ein Auto eingebrochen zu sein und daraus einen Rucksack entwendet zu haben.",
       "category": "Verkehr"
     }
   ]
