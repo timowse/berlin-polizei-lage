@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-04T19:35:10.800615+00:00",
-    "checkedTime": "19:35 Uhr",
+    "checkedAt": "2026-09-04T21:47:12.114658+00:00",
+    "checkedTime": "21:47 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
     "latestPublishedAt": "2026-09-04T13:35:00+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710580.php",
       "publishedAt": "2026-09-04T11:02:00+00:00",
       "publishedLabel": "04.09.2026 11:02",
-      "summary": "Beleidigung und Nötigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "summary": "Gestern Nachmittag soll es in Steglitz zu einer Beleidigung und anschließenden Nötigung gekommen sein.",
       "category": "Sonstiges"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710509.php",
       "publishedAt": "2026-09-04T09:20:50+00:00",
       "publishedLabel": "04.09.2026 09:20",
-      "summary": "Fußgängerin bei Verkehrsunfall mit Lkw erheblich verletzt",
+      "summary": "Gestern Vormittag kam es in Französisch Buchholz zu einem Verkehrsunfall, bei dem eine 19-jährige Fußgängerin erheblich verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710499.php",
       "publishedAt": "2026-09-04T09:09:00+00:00",
       "publishedLabel": "04.09.2026 09:09",
-      "summary": "Mann droht während Fernsehinterview mit Einsatz einer Schusswaffe",
+      "summary": "Am vergangenen Mittwoch, 2. September, soll ein Mann in Friedrichshain während einer Fernsehaufnahme mit dem Einsatz einer Schusswaffe gedroht haben.",
       "category": "Einsatz"
     },
     {
@@ -87,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710168.php",
       "publishedAt": "2026-09-03T11:48:12+00:00",
       "publishedLabel": "03.09.2026 11:48",
-      "summary": "Neun scharfe Schusswaffen beschlagnahmt",
-      "category": "Sonstiges"
+      "summary": "Einsatzkräfte des Polizeiabschnitts 48 fanden und beschlagnahmten insgesamt neun scharfe Schusswaffen.",
+      "category": "Einsatz"
     },
     {
       "title": "Kind bei Verkehrsunfall verletzt",
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710077.php",
       "publishedAt": "2026-09-03T09:16:42+00:00",
       "publishedLabel": "03.09.2026 09:16",
-      "summary": "Mann von unbekanntem Tatverdächtigen geschlagen und homophob beleidigt",
+      "summary": "Gestern Nachmittag kam es in Schöneberg zwischen einem 62-jährigen Mann und einem bislang unbekannten Tatverdächtigen zu einem Streit.",
       "category": "Fahndung"
     },
     {
