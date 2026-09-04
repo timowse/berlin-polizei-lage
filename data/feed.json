@@ -3,13 +3,61 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-04T09:24:17.664419+00:00",
-    "checkedTime": "09:24 Uhr",
+    "checkedAt": "2026-09-04T17:09:19.461910+00:00",
+    "checkedTime": "17:09 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann droht während Fernsehinterview mit Einsatz einer Schusswaffe",
-    "latestPublishedAt": "2026-09-04T09:09:00+00:00"
+    "latestTitle": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
+    "latestPublishedAt": "2026-09-04T13:35:00+00:00"
   },
   "items": [
+    {
+      "title": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710683.php",
+      "publishedAt": "2026-09-04T13:35:00+00:00",
+      "publishedLabel": "04.09.2026 13:35",
+      "summary": "In der vergangenen Nacht wurde die Polizei nach Buckow alarmiert, nachdem ein Mann mehrere Verkehrsunfälle verursacht und sich anschließend vom Unfallort entfernt haben soll.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Beleidigung und Nötigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710580.php",
+      "publishedAt": "2026-09-04T11:02:00+00:00",
+      "publishedLabel": "04.09.2026 11:02",
+      "summary": "Gestern Nachmittag soll es in Steglitz zu einer Beleidigung und anschließenden Nötigung gekommen sein.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Eierwürfe auf Informationsstand einer Partei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710576.php",
+      "publishedAt": "2026-09-04T10:49:00+00:00",
+      "publishedLabel": "04.09.2026 10:49",
+      "summary": "Gestern Nachmittag wurde im Ortsteil Heinersdorf ein Informationsstand einer Partei mit Eiern beworfen.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Sicherstellung einer scharfen Schusswaffe in Spandau",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710543.php",
+      "publishedAt": "2026-09-04T09:55:17+00:00",
+      "publishedLabel": "04.09.2026 09:55",
+      "summary": "Gestern vollstreckte die BAO Ferrum im Auftrag der Ermittlungsgruppe Telum der Staatsanwaltschaft Berlin einen Durchsuchungsbeschluss.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Seniorin mit Bierflasche geschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710514.php",
+      "publishedAt": "2026-09-04T09:25:00+00:00",
+      "publishedLabel": "04.09.2026 09:25",
+      "summary": "Seniorin mit Bierflasche geschlagen",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Fußgängerin bei Verkehrsunfall mit Lkw erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710509.php",
+      "publishedAt": "2026-09-04T09:20:50+00:00",
+      "publishedLabel": "04.09.2026 09:20",
+      "summary": "Gestern Vormittag kam es in Französisch Buchholz zu einem Verkehrsunfall, bei dem eine 19-jährige Fußgängerin erheblich verletzt wurde.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mann droht während Fernsehinterview mit Einsatz einer Schusswaffe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710499.php",
@@ -104,54 +152,6 @@
       "publishedAt": "2026-09-02T14:25:00+00:00",
       "publishedLabel": "02.09.2026 14:25",
       "summary": "Gestern Abend gegen 20:20 Uhr wurden Einsatz- und Rettungskräfte nach Schöneberg alarmiert, nachdem Anwohner Schüsse in der Feurigstraße wahrgenommen hatten",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Junger Mann nach Gewalttat identifiziert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709500.php",
-      "publishedAt": "2026-09-02T13:40:00+00:00",
-      "publishedLabel": "02.09.2026 13:40",
-      "summary": "Eine Person aus dem Umfeld des Gesuchten hat den 16-Jährigen erkannt.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Frau vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709758.php",
-      "publishedAt": "2026-09-02T13:24:41+00:00",
-      "publishedLabel": "02.09.2026 13:24",
-      "summary": "Die 52-jährige Sylvia DOMES wird seit Sonntag, den 30. August 2026 vermisst.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Motorradfahrer nach Verkehrsunfall in intensivmedizinischer Behandlung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709657.php",
-      "publishedAt": "2026-09-02T10:12:56+00:00",
-      "publishedLabel": "02.09.2026 10:12",
-      "summary": "Motorradfahrer nach Verkehrsunfall in intensivmedizinischer Behandlung",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Seniorin bei Verkehrsunfall erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709651.php",
-      "publishedAt": "2026-09-02T09:58:00+00:00",
-      "publishedLabel": "02.09.2026 09:58",
-      "summary": "Nr. 1103 Bei einem Verkehrsunfall in Mariendorf wurde gestern Vormittag eine Fußgängerin erheblich verletzt. Nach den bisherigen Ermittlungen und Aussagen befuhr ein 62-Jähriger in Begleitung eines 41-jährigen Beifahrers gegen 11:40 Uhr mit seinem Auto den Mariendorfer Damm in Richtung Innenstadt. Zeitgleich überquerte eine 80 Jahre alte Frau den Mariendorfer Damm vom Mittelstreifen aus in Richtung Hundsteinweg. Auf der mittleren Fahrspur wurde sie von dem 62-Jährigen mit dem Auto angefahren, stürzte zu Boden und blieb neben dem Fahrzeug liegen. Die Seniorin erlitt diverse Knochenbrüche und war zwischenzeitlich in Lebensgefahr. Rettungskräfte der Berliner Feuerwehr brachten sie zur stationären Behandlung in ein Krankenhaus. Für die Verkehrsunfallaufnahme und die Spurensicherung sperrten Einsatzkräfte den Mariendorfer Damm zwischen 11:30 Uhr und 15:40 Uhr vollständig. Die weiteren Ermittlungen hat ein Fachkommissariat für Verkehrsdelikte der Polizeidirektion 4 (Süd) übernommen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Transperson verletzt und beleidigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709650.php",
-      "publishedAt": "2026-09-02T09:25:00+00:00",
-      "publishedLabel": "02.09.2026 09:25",
-      "summary": "Nr. 1102 In der vergangenen Nacht wurde eine transgeschlechtliche Person in Neukölln angegriffen und beleidigt. Nach bisherigen Erkenntnissen hielt sich die 18-Jährige gegen 22:45 Uhr in Begleitung einer 21-jährigen transgeschlechtlichen Person vor einem Restaurant in der Sonnenallee auf. Aus einer Personengruppe heraus soll ein bislang Unbekannter die jüngere Transperson gefragt haben, ob sie ein Mann oder eine Frau sei. Anschließend soll der Mann die Transperson beleidigt, ihr ins Gesicht geschlagen und sie zu Boden gestoßen haben. Während sie am Boden lag, soll er ihr mehrfach gegen den Kopf getreten haben. Zudem soll er die 21-jährige Begleitperson ebenfalls beleidigt haben. Nach der Tat flüchtete der Unbekannte über die Weichselstraße in Richtung Karl-Marx-Straße. Die 18-jährige Transperson erlitt durch den Schlag und die Tritte eine Schwellung im Gesicht sowie durch den Sturz eine Schwellung am Ellenbogen. Eine ärztliche Behandlung lehnte sie ab. Die Ermittlungen hat der Polizeiliche Staatsschutz des Landeskriminalamts übernommen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Sicherstellung einer scharfen Schusswaffe und Sicherstellung von Vermögenswerten durch die BAO Ferrum im Zusammenhang mit Schussabgaben auf eine Wohnung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643062.php",
-      "publishedAt": "2026-09-02T07:55:00+00:00",
-      "publishedLabel": "02.09.2026 07:55",
-      "summary": "Seit Februar führt die BAO Ferrum gemeinsam mit der StA Berlin, EG Telum, ein Ermittlungsverfahren wegen des Verdachts des versuchten Mordes.",
       "category": "Ermittlung"
     }
   ]
