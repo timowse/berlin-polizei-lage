@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-04T21:47:12.114658+00:00",
-    "checkedTime": "21:47 Uhr",
+    "checkedAt": "2026-09-04T23:25:35.805874+00:00",
+    "checkedTime": "23:25 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
     "latestPublishedAt": "2026-09-04T13:35:00+00:00"
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710086.php",
       "publishedAt": "2026-09-03T09:32:11+00:00",
       "publishedLabel": "03.09.2026 09:32",
-      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Marzahn wurde ein neunjähriges Kind verletzt.",
+      "summary": "Kind bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -135,8 +135,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709859.php",
       "publishedAt": "2026-09-02T14:42:56+00:00",
       "publishedLabel": "02.09.2026 14:42",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin vollstreckten gestern Abend ab 19 Uhr rund 400 Einsatzkräfte insgesamt 20 Durchsuchungsbeschlüsse.",
-      "category": "Einsatz"
+      "summary": "Verdacht des schweren Menschenhandels und des gewerbsmäßigen Einschleusens von Ausländern – Durchsuchungsbeschlüsse vollstreckt",
+      "category": "Sonstiges"
     },
     {
       "title": "E-Scooter-Fahrerin bei Kollision mit Lkw verletzt",
