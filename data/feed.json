@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-05T16:11:34.593543+00:00",
-    "checkedTime": "16:11 Uhr",
+    "checkedAt": "2026-09-05T18:23:08.819003+00:00",
+    "checkedTime": "18:23 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Fünf Versammlungen vor dem Russischem Haus",
     "latestPublishedAt": "2026-09-05T13:40:17+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710755.php",
       "publishedAt": "2026-09-05T13:26:33+00:00",
       "publishedLabel": "05.09.2026 13:26",
-      "summary": "Räuberische Erpressung",
+      "summary": "Gestern Abend kam es in Kreuzberg zu einer mutmaßlichen räuberischen Erpressung.",
       "category": "Sonstiges"
     },
     {
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710753.php",
       "publishedAt": "2026-09-05T13:18:16+00:00",
       "publishedLabel": "05.09.2026 13:18",
-      "summary": "Versuchte räuberische Erpressung",
+      "summary": "Gestern Abend kam es in Neukölln zu einer versuchten räuberischen Erpressung.",
       "category": "Sonstiges"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710493.php",
       "publishedAt": "2026-09-04T08:55:00+00:00",
       "publishedLabel": "04.09.2026 08:55",
-      "summary": "Mann nach Wohnungsbrand leblos aufgefunden",
+      "summary": "In der vergangenen Nacht kam es in Wittenau zu einem Wohnungsbrand, bei dem ein Mann ums Leben kam.",
       "category": "Ermittlung"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
       "publishedAt": "2026-09-03T12:54:00+00:00",
       "publishedLabel": "03.09.2026 12:54",
-      "summary": "Raubüberfall vor Wohnhaus – Polizei sucht Zeuginnen und Zeugen",
+      "summary": "Am 22. August 2026 wurde gegen 00:30 Uhr unmittelbar vor der Tür des Wohnhauses in der Wederstraße 89 in Britz ein Mann überfallen.",
       "category": "Fahndung"
     },
     {
