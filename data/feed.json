@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-05T10:06:43.659123+00:00",
-    "checkedTime": "10:06 Uhr",
+    "checkedAt": "2026-09-05T13:26:35.659198+00:00",
+    "checkedTime": "13:26 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann nach mutmaßlich homophober Beleidigung und Körperverletzung angegriffen",
-    "latestPublishedAt": "2026-09-05T09:40:17+00:00"
+    "latestTitle": "Versuchte räuberische Erpressung",
+    "latestPublishedAt": "2026-09-05T13:18:16+00:00"
   },
   "items": [
+    {
+      "title": "Versuchte räuberische Erpressung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710753.php",
+      "publishedAt": "2026-09-05T13:18:16+00:00",
+      "publishedLabel": "05.09.2026 13:18",
+      "summary": "Gestern Abend kam es in Neukölln zu einer versuchten räuberischen Erpressung.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Mann nach mutmaßlich homophober Beleidigung und Körperverletzung angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710745.php",
@@ -47,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710683.php",
       "publishedAt": "2026-09-04T13:35:00+00:00",
       "publishedLabel": "04.09.2026 13:35",
-      "summary": "In der vergangenen Nacht wurde die Polizei nach Buckow alarmiert, nachdem ein Mann mehrere Verkehrsunfälle verursacht und sich anschließend vom Unfallort entfernt haben soll.",
+      "summary": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
       "category": "Verkehr"
     },
     {
@@ -55,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710580.php",
       "publishedAt": "2026-09-04T11:02:00+00:00",
       "publishedLabel": "04.09.2026 11:02",
-      "summary": "Gestern Nachmittag soll es in Steglitz zu einer Beleidigung und anschließenden Nötigung gekommen sein.",
+      "summary": "Beleidigung und Nötigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Sonstiges"
     },
     {
@@ -63,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710576.php",
       "publishedAt": "2026-09-04T10:49:00+00:00",
       "publishedLabel": "04.09.2026 10:49",
-      "summary": "Gestern Nachmittag wurde im Ortsteil Heinersdorf ein Informationsstand einer Partei mit Eiern beworfen.",
+      "summary": "Eierwürfe auf Informationsstand einer Partei",
       "category": "Sonstiges"
     },
     {
@@ -71,23 +79,23 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710543.php",
       "publishedAt": "2026-09-04T09:55:17+00:00",
       "publishedLabel": "04.09.2026 09:55",
-      "summary": "Gestern vollstreckte die BAO Ferrum im Auftrag der Ermittlungsgruppe Telum der Staatsanwaltschaft Berlin einen Durchsuchungsbeschluss.",
-      "category": "Ermittlung"
+      "summary": "Sicherstellung einer scharfen Schusswaffe in Spandau",
+      "category": "Sonstiges"
     },
     {
       "title": "Seniorin mit Bierflasche geschlagen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710514.php",
       "publishedAt": "2026-09-04T09:25:00+00:00",
       "publishedLabel": "04.09.2026 09:25",
-      "summary": "Gestern Nachmittag wurde eine Seniorin in Mitte von einer Unbekannten am Kopf verletzt.",
-      "category": "Ermittlung"
+      "summary": "Seniorin mit Bierflasche geschlagen",
+      "category": "Sonstiges"
     },
     {
       "title": "Fußgängerin bei Verkehrsunfall mit Lkw erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710509.php",
       "publishedAt": "2026-09-04T09:20:50+00:00",
       "publishedLabel": "04.09.2026 09:20",
-      "summary": "Gestern Vormittag kam es in Französisch Buchholz zu einem Verkehrsunfall, bei dem eine 19-jährige Fußgängerin erheblich verletzt wurde.",
+      "summary": "Fußgängerin bei Verkehrsunfall mit Lkw erheblich verletzt",
       "category": "Verkehr"
     },
     {
@@ -95,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710499.php",
       "publishedAt": "2026-09-04T09:09:00+00:00",
       "publishedLabel": "04.09.2026 09:09",
-      "summary": "Am vergangenen Mittwoch, 2. September, soll ein Mann in Friedrichshain während einer Fernsehaufnahme mit dem Einsatz einer Schusswaffe gedroht haben.",
+      "summary": "Mann droht während Fernsehinterview mit Einsatz einer Schusswaffe",
       "category": "Einsatz"
     },
     {
@@ -111,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
       "publishedAt": "2026-09-03T12:54:00+00:00",
       "publishedLabel": "03.09.2026 12:54",
-      "summary": "Am 22. August 2026 wurde gegen 00:30 Uhr unmittelbar vor der Tür des Wohnhauses in der Wederstraße 89 in Britz ein Mann überfallen.",
+      "summary": "Raubüberfall vor Wohnhaus – Polizei sucht Zeuginnen und Zeugen",
       "category": "Fahndung"
     },
     {
@@ -119,8 +127,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710168.php",
       "publishedAt": "2026-09-03T11:48:12+00:00",
       "publishedLabel": "03.09.2026 11:48",
-      "summary": "Einsatzkräfte des Polizeiabschnitts 48 fanden und beschlagnahmten insgesamt neun scharfe Schusswaffen.",
-      "category": "Einsatz"
+      "summary": "Neun scharfe Schusswaffen beschlagnahmt",
+      "category": "Sonstiges"
     },
     {
       "title": "Kind bei Verkehrsunfall verletzt",
@@ -145,14 +153,6 @@
       "publishedLabel": "03.09.2026 08:57",
       "summary": "Gestern Mittag bemerkten zwei Kriminalbeamte des Bundeskriminalamts in Kreuzberg einen Mann, der ein Wahlplakat abgerissen haben soll.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Diebstahlserie aus Handwerkerfahrzeugen – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710045.php",
-      "publishedAt": "2026-09-03T08:40:19+00:00",
-      "publishedLabel": "03.09.2026 08:40",
-      "summary": "Die Polizei Berlin bittet nach der Festnahme von mutmaßlichen Werkzeugdieben um Mithilfe bei der Suche nach weiteren Fahrzeughalterinnen und -haltern.",
-      "category": "Verkehr"
     }
   ]
 }
