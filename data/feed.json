@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-05T05:51:44.231829+00:00",
-    "checkedTime": "05:51 Uhr",
+    "checkedAt": "2026-09-05T10:06:43.659123+00:00",
+    "checkedTime": "10:06 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
-    "latestPublishedAt": "2026-09-04T13:35:00+00:00"
+    "latestTitle": "Mann nach mutmaßlich homophober Beleidigung und Körperverletzung angegriffen",
+    "latestPublishedAt": "2026-09-05T09:40:17+00:00"
   },
   "items": [
+    {
+      "title": "Mann nach mutmaßlich homophober Beleidigung und Körperverletzung angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710745.php",
+      "publishedAt": "2026-09-05T09:40:17+00:00",
+      "publishedLabel": "05.09.2026 09:40",
+      "summary": "Ein Mann wurde gestern Abend in Mitte homophob beleidigt und verletzt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mann mit Schreckschusswaffe beschossen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710743.php",
+      "publishedAt": "2026-09-05T09:26:17+00:00",
+      "publishedLabel": "05.09.2026 09:26",
+      "summary": "In der vergangenen Nacht wurde ein bislang unbekannter Mann in Niederschönhausen offenbar mit einer Schreckschusswaffe beschossen.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Schwerer Raub in Nachtklub",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710741.php",
+      "publishedAt": "2026-09-05T09:04:30+00:00",
+      "publishedLabel": "05.09.2026 09:04",
+      "summary": "In der vergangenen Nacht kam es vor einem Nachtklub in Mitte zu einem schweren Raub.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Autofahrer fährt Mann und Frau an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710739.php",
+      "publishedAt": "2026-09-05T08:32:14+00:00",
+      "publishedLabel": "05.09.2026 08:32",
+      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Lichterfelde wurde eine Fußgängerin tödlich verletzt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710683.php",
@@ -121,38 +153,6 @@
       "publishedLabel": "03.09.2026 08:40",
       "summary": "Die Polizei Berlin bittet nach der Festnahme von mutmaßlichen Werkzeugdieben um Mithilfe bei der Suche nach weiteren Fahrzeughalterinnen und -haltern.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Senior betrogen – Wer erkennt den Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710012.php",
-      "publishedAt": "2026-09-03T08:08:45+00:00",
-      "publishedLabel": "03.09.2026 08:08",
-      "summary": "Die Polizei Berlin sucht einen Tatverdächtigen, der zusammen mit weiteren Personen am 9. April 2026 einen Senior in Alt-Hohenschönhausen betrogen haben soll.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Verdacht des schweren Menschenhandels und des gewerbsmäßigen Einschleusens von Ausländern – Durchsuchungsbeschlüsse vollstreckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709859.php",
-      "publishedAt": "2026-09-02T14:42:56+00:00",
-      "publishedLabel": "02.09.2026 14:42",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin vollstreckten gestern Abend ab 19 Uhr rund 400 Einsatzkräfte insgesamt 20 Durchsuchungsbeschlüsse.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "E-Scooter-Fahrerin bei Kollision mit Lkw verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709850.php",
-      "publishedAt": "2026-09-02T14:30:00+00:00",
-      "publishedLabel": "02.09.2026 14:30",
-      "summary": "Gestern Nachmittag wurde eine E-Scooter-Fahrerin bei einem Verkehrsunfall in Kreuzberg verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mann von unbekannten Tätern mehrmals angeschossen und schwer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709849.php",
-      "publishedAt": "2026-09-02T14:25:00+00:00",
-      "publishedLabel": "02.09.2026 14:25",
-      "summary": "Gestern Abend gegen 20:20 Uhr wurden Einsatz- und Rettungskräfte nach Schöneberg alarmiert, nachdem Anwohner Schüsse in der Feurigstraße wahrgenommen hatten",
-      "category": "Ermittlung"
     }
   ]
 }
