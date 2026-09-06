@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-06T08:46:45.928302+00:00",
-    "checkedTime": "08:46 Uhr",
+    "checkedAt": "2026-09-06T15:39:07.740716+00:00",
+    "checkedTime": "15:39 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Fünf Versammlungen vor dem Russischem Haus",
-    "latestPublishedAt": "2026-09-05T13:40:17+00:00"
+    "latestTitle": "Mann durch Schuss verletzt – Zeuginnen und Zeugen gesucht",
+    "latestPublishedAt": "2026-09-06T11:45:00+00:00"
   },
   "items": [
+    {
+      "title": "Mann durch Schuss verletzt – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710804.php",
+      "publishedAt": "2026-09-06T11:45:00+00:00",
+      "publishedLabel": "06.09.2026 11:45",
+      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 6. Mordkommission des Landeskriminalamtes die Ermittlungen wegen des Verdachts eines versuchten Tötungsdelikts",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Zwölfjährige bei Unfall mit E-Scooter verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710802.php",
+      "publishedAt": "2026-09-06T11:06:55+00:00",
+      "publishedLabel": "06.09.2026 11:06",
+      "summary": "Gestern Mittag ereignete sich in Niederschönhausen ein Verkehrsunfall, bei dem eine Zwölfjährige auf einem E-Scooter verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Gedenkbaum erheblich beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710795.php",
+      "publishedAt": "2026-09-06T08:54:44+00:00",
+      "publishedLabel": "06.09.2026 08:54",
+      "summary": "In Tiergarten haben Unbekannte in der vergangenen Nacht einen als Gedenkort eingepflanzten Baum erheblich beschädigt.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Fünf Versammlungen vor dem Russischem Haus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710758.php",
@@ -39,8 +63,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710745.php",
       "publishedAt": "2026-09-05T09:40:17+00:00",
       "publishedLabel": "05.09.2026 09:40",
-      "summary": "Mann nach mutmaßlich homophober Beleidigung angegriffen",
-      "category": "Sonstiges"
+      "summary": "Ein Mann wurde gestern Abend in Mitte homophob beleidigt und verletzt.",
+      "category": "Ermittlung"
     },
     {
       "title": "Mann mit Schreckschusswaffe beschossen",
@@ -55,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710741.php",
       "publishedAt": "2026-09-05T09:04:30+00:00",
       "publishedLabel": "05.09.2026 09:04",
-      "summary": "In der vergangenen Nacht kam es vor einem Nachtklub in Mitte zu einem schweren Raub.",
+      "summary": "Schwerer Raub in Nachtklub",
       "category": "Ermittlung"
     },
     {
@@ -63,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710739.php",
       "publishedAt": "2026-09-05T08:32:14+00:00",
       "publishedLabel": "05.09.2026 08:32",
-      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Lichterfelde wurde eine Fußgängerin tödlich verletzt.",
+      "summary": "Autofahrer fährt Mann und Frau an",
       "category": "Verkehr"
     },
     {
@@ -79,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710580.php",
       "publishedAt": "2026-09-04T11:02:00+00:00",
       "publishedLabel": "04.09.2026 11:02",
-      "summary": "Beleidigung und Nötigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "summary": "Gestern Nachmittag soll es in Steglitz zu einer Beleidigung und anschließenden Nötigung gekommen sein.",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710509.php",
       "publishedAt": "2026-09-04T09:20:50+00:00",
       "publishedLabel": "04.09.2026 09:20",
-      "summary": "Gestern Vormittag kam es in Französisch Buchholz zu einem Verkehrsunfall, bei dem eine 19-jährige Fußgängerin erheblich verletzt wurde.",
+      "summary": "Fußgängerin bei Verkehrsunfall mit Lkw erheblich verletzt",
       "category": "Verkehr"
     },
     {
@@ -129,30 +153,6 @@
       "publishedLabel": "04.09.2026 08:55",
       "summary": "In der vergangenen Nacht kam es in Wittenau zu einem Wohnungsbrand, bei dem ein Mann ums Leben kam.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Raubüberfall vor Wohnhaus – Polizei sucht Zeuginnen und Zeugen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
-      "publishedAt": "2026-09-03T12:54:00+00:00",
-      "publishedLabel": "03.09.2026 12:54",
-      "summary": "Am 22. August 2026 wurde gegen 00:30 Uhr unmittelbar vor der Tür des Wohnhauses in der Wederstraße 89 in Britz ein Mann überfallen.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Neun scharfe Schusswaffen beschlagnahmt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710168.php",
-      "publishedAt": "2026-09-03T11:48:12+00:00",
-      "publishedLabel": "03.09.2026 11:48",
-      "summary": "Einsatzkräfte des Polizeiabschnitts 48 fanden und beschlagnahmten insgesamt neun scharfe Schusswaffen.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Kind bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710086.php",
-      "publishedAt": "2026-09-03T09:32:11+00:00",
-      "publishedLabel": "03.09.2026 09:32",
-      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Marzahn wurde ein neunjähriges Kind verletzt.",
-      "category": "Verkehr"
     }
   ]
 }
