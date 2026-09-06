@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-06T04:23:08.091381+00:00",
-    "checkedTime": "04:23 Uhr",
+    "checkedAt": "2026-09-06T08:46:45.928302+00:00",
+    "checkedTime": "08:46 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Fünf Versammlungen vor dem Russischem Haus",
     "latestPublishedAt": "2026-09-05T13:40:17+00:00"
@@ -39,8 +39,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710745.php",
       "publishedAt": "2026-09-05T09:40:17+00:00",
       "publishedLabel": "05.09.2026 09:40",
-      "summary": "Ein Mann wurde gestern Abend in Mitte homophob beleidigt und verletzt.",
-      "category": "Ermittlung"
+      "summary": "Mann nach mutmaßlich homophober Beleidigung angegriffen",
+      "category": "Sonstiges"
     },
     {
       "title": "Mann mit Schreckschusswaffe beschossen",
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710580.php",
       "publishedAt": "2026-09-04T11:02:00+00:00",
       "publishedLabel": "04.09.2026 11:02",
-      "summary": "Gestern Nachmittag soll es in Steglitz zu einer Beleidigung und anschließenden Nötigung gekommen sein.",
+      "summary": "Beleidigung und Nötigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Sonstiges"
     },
     {
