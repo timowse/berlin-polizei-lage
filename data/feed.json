@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-06T21:41:58.783484+00:00",
-    "checkedTime": "21:41 Uhr",
+    "checkedAt": "2026-09-06T23:15:01.670200+00:00",
+    "checkedTime": "23:15 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann durch Schuss verletzt – Zeuginnen und Zeugen gesucht",
     "latestPublishedAt": "2026-09-06T11:45:00+00:00"
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710795.php",
       "publishedAt": "2026-09-06T08:54:44+00:00",
       "publishedLabel": "06.09.2026 08:54",
-      "summary": "Gedenkbaum erheblich beschädigt",
+      "summary": "In Tiergarten haben Unbekannte in der vergangenen Nacht einen als Gedenkort eingepflanzten Baum erheblich beschädigt.",
       "category": "Sonstiges"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710509.php",
       "publishedAt": "2026-09-04T09:20:50+00:00",
       "publishedLabel": "04.09.2026 09:20",
-      "summary": "Gestern Vormittag kam es in Französisch Buchholz zu einem Verkehrsunfall, bei dem eine 19-jährige Fußgängerin erheblich verletzt wurde.",
+      "summary": "Fußgängerin bei Verkehrsunfall mit Lkw erheblich verletzt",
       "category": "Verkehr"
     },
     {
