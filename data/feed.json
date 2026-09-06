@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-06T15:39:07.740716+00:00",
-    "checkedTime": "15:39 Uhr",
+    "checkedAt": "2026-09-06T17:42:24.581817+00:00",
+    "checkedTime": "17:42 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann durch Schuss verletzt – Zeuginnen und Zeugen gesucht",
     "latestPublishedAt": "2026-09-06T11:45:00+00:00"
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710741.php",
       "publishedAt": "2026-09-05T09:04:30+00:00",
       "publishedLabel": "05.09.2026 09:04",
-      "summary": "Schwerer Raub in Nachtklub",
+      "summary": "In der vergangenen Nacht kam es vor einem Nachtklub in Mitte zu einem schweren Raub.",
       "category": "Ermittlung"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710739.php",
       "publishedAt": "2026-09-05T08:32:14+00:00",
       "publishedLabel": "05.09.2026 08:32",
-      "summary": "Autofahrer fährt Mann und Frau an",
+      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Lichterfelde wurde eine Fußgängerin tödlich verletzt.",
       "category": "Verkehr"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710509.php",
       "publishedAt": "2026-09-04T09:20:50+00:00",
       "publishedLabel": "04.09.2026 09:20",
-      "summary": "Fußgängerin bei Verkehrsunfall mit Lkw erheblich verletzt",
+      "summary": "Gestern Vormittag kam es in Französisch Buchholz zu einem Verkehrsunfall, bei dem eine 19-jährige Fußgängerin erheblich verletzt wurde.",
       "category": "Verkehr"
     },
     {
