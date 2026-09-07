@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-06T23:15:01.670200+00:00",
-    "checkedTime": "23:15 Uhr",
+    "checkedAt": "2026-09-07T01:05:38.623241+00:00",
+    "checkedTime": "01:05 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann durch Schuss verletzt – Zeuginnen und Zeugen gesucht",
     "latestPublishedAt": "2026-09-06T11:45:00+00:00"
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710739.php",
       "publishedAt": "2026-09-05T08:32:14+00:00",
       "publishedLabel": "05.09.2026 08:32",
-      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Lichterfelde wurde eine Fußgängerin tödlich verletzt.",
+      "summary": "Autofahrer fährt Mann und Frau an",
       "category": "Verkehr"
     },
     {
@@ -119,23 +119,23 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710543.php",
       "publishedAt": "2026-09-04T09:55:17+00:00",
       "publishedLabel": "04.09.2026 09:55",
-      "summary": "Gestern vollstreckte die BAO Ferrum im Auftrag der Ermittlungsgruppe Telum der Staatsanwaltschaft Berlin einen Durchsuchungsbeschluss.",
-      "category": "Ermittlung"
+      "summary": "Sicherstellung einer scharfen Schusswaffe in Spandau",
+      "category": "Sonstiges"
     },
     {
       "title": "Seniorin mit Bierflasche geschlagen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710514.php",
       "publishedAt": "2026-09-04T09:25:00+00:00",
       "publishedLabel": "04.09.2026 09:25",
-      "summary": "Gestern Nachmittag wurde eine Seniorin in Mitte von einer Unbekannten am Kopf verletzt.",
-      "category": "Ermittlung"
+      "summary": "Seniorin mit Bierflasche geschlagen",
+      "category": "Sonstiges"
     },
     {
       "title": "Fußgängerin bei Verkehrsunfall mit Lkw erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710509.php",
       "publishedAt": "2026-09-04T09:20:50+00:00",
       "publishedLabel": "04.09.2026 09:20",
-      "summary": "Fußgängerin bei Verkehrsunfall mit Lkw erheblich verletzt",
+      "summary": "Gestern Vormittag kam es in Französisch Buchholz zu einem Verkehrsunfall, bei dem eine 19-jährige Fußgängerin erheblich verletzt wurde.",
       "category": "Verkehr"
     },
     {
