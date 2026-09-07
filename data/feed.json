@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-07T21:13:23.637043+00:00",
-    "checkedTime": "21:13 Uhr",
+    "checkedAt": "2026-09-07T23:34:20.911682+00:00",
+    "checkedTime": "23:34 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann randaliert und verstirbt im Krankenhaus",
-    "latestPublishedAt": "2026-09-07T14:42:35+00:00"
+    "latestTitle": "Vermisste 36-jährige Frau wieder da",
+    "latestPublishedAt": "2026-09-07T23:10:00+00:00"
   },
   "items": [
+    {
+      "title": "Vermisste 36-jährige Frau wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711089.php",
+      "publishedAt": "2026-09-07T23:10:00+00:00",
+      "publishedLabel": "07.09.2026 23:10",
+      "summary": "Die vermisste 36-Jährige ist wieder da.",
+      "category": "Fahndung"
+    },
     {
       "title": "Mann randaliert und verstirbt im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711210.php",
@@ -32,14 +40,6 @@
       "publishedAt": "2026-09-07T12:28:00+00:00",
       "publishedLabel": "07.09.2026 12:28",
       "summary": "Die seit dem 30. August 2026 vermisste 52-Jährige wurde tot aufgefunden.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Erkrankte Frau vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711089.php",
-      "publishedAt": "2026-09-07T11:52:47+00:00",
-      "publishedLabel": "07.09.2026 11:52",
-      "summary": "Die Polizei Berlin bittet um Mithilfe bei der Suche nach der erkrankten 36-jährigen Mara BONK.",
       "category": "Fahndung"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710804.php",
       "publishedAt": "2026-09-06T11:45:00+00:00",
       "publishedLabel": "06.09.2026 11:45",
-      "summary": "Mann durch Schuss verletzt – Zeuginnen und Zeugen gesucht",
+      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 6. Mordkommission des Landeskriminalamtes die Ermittlungen wegen des Verdachts eines versuchten Tötungsdelikts",
       "category": "Fahndung"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710802.php",
       "publishedAt": "2026-09-06T11:06:55+00:00",
       "publishedLabel": "06.09.2026 11:06",
-      "summary": "Zwölfjährige bei Unfall mit E-Scooter verletzt",
+      "summary": "Gestern Mittag ereignete sich in Niederschönhausen ein Verkehrsunfall, bei dem eine Zwölfjährige auf einem E-Scooter verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710795.php",
       "publishedAt": "2026-09-06T08:54:44+00:00",
       "publishedLabel": "06.09.2026 08:54",
-      "summary": "Gedenkbaum erheblich beschädigt",
+      "summary": "In Tiergarten haben Unbekannte in der vergangenen Nacht einen als Gedenkort eingepflanzten Baum erheblich beschädigt.",
       "category": "Sonstiges"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710755.php",
       "publishedAt": "2026-09-05T13:26:33+00:00",
       "publishedLabel": "05.09.2026 13:26",
-      "summary": "Räuberische Erpressung",
+      "summary": "Gestern Abend kam es in Kreuzberg zu einer mutmaßlichen räuberischen Erpressung.",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710753.php",
       "publishedAt": "2026-09-05T13:18:16+00:00",
       "publishedLabel": "05.09.2026 13:18",
-      "summary": "Versuchte räuberische Erpressung",
+      "summary": "Gestern Abend kam es in Neukölln zu einer versuchten räuberischen Erpressung.",
       "category": "Sonstiges"
     },
     {
