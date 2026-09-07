@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-07T12:23:27.619066+00:00",
-    "checkedTime": "12:23 Uhr",
+    "checkedAt": "2026-09-07T17:50:53.611625+00:00",
+    "checkedTime": "17:50 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Erkrankte Frau vermisst – Polizei bittet um Mithilfe",
-    "latestPublishedAt": "2026-09-07T11:52:47+00:00"
+    "latestTitle": "Mann randaliert und verstirbt im Krankenhaus",
+    "latestPublishedAt": "2026-09-07T14:42:35+00:00"
   },
   "items": [
+    {
+      "title": "Mann randaliert und verstirbt im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711210.php",
+      "publishedAt": "2026-09-07T14:42:35+00:00",
+      "publishedLabel": "07.09.2026 14:42",
+      "summary": "In der vergangenen Nacht rief ein 64-jähriger Mann die Feuerwehr nach Marienfelde, weil sein Sohn im gemeinsamen Haushalt randaliert haben soll.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Schüsse auf Einfamilienhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711161.php",
+      "publishedAt": "2026-09-07T13:41:49+00:00",
+      "publishedLabel": "07.09.2026 13:41",
+      "summary": "Heute früh wurde ein Einfamilienhaus in Neukölln beschossen.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Vermisste 52-Jährige tot aufgefunden",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709758.php",
+      "publishedAt": "2026-09-07T12:28:00+00:00",
+      "publishedLabel": "07.09.2026 12:28",
+      "summary": "Die seit dem 30. August 2026 vermisste 52-Jährige wurde tot aufgefunden.",
+      "category": "Fahndung"
+    },
     {
       "title": "Erkrankte Frau vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711089.php",
@@ -47,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710804.php",
       "publishedAt": "2026-09-06T11:45:00+00:00",
       "publishedLabel": "06.09.2026 11:45",
-      "summary": "Mann durch Schuss verletzt – Zeuginnen und Zeugen gesucht",
+      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 6. Mordkommission des Landeskriminalamtes die Ermittlungen wegen des Verdachts eines versuchten Tötungsdelikts",
       "category": "Fahndung"
     },
     {
@@ -55,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710802.php",
       "publishedAt": "2026-09-06T11:06:55+00:00",
       "publishedLabel": "06.09.2026 11:06",
-      "summary": "Zwölfjährige bei Unfall mit E-Scooter verletzt",
+      "summary": "Gestern Mittag ereignete sich in Niederschönhausen ein Verkehrsunfall, bei dem eine Zwölfjährige auf einem E-Scooter verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -63,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710795.php",
       "publishedAt": "2026-09-06T08:54:44+00:00",
       "publishedLabel": "06.09.2026 08:54",
-      "summary": "Gedenkbaum erheblich beschädigt",
+      "summary": "In Tiergarten haben Unbekannte in der vergangenen Nacht einen als Gedenkort eingepflanzten Baum erheblich beschädigt.",
       "category": "Sonstiges"
     },
     {
@@ -79,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710755.php",
       "publishedAt": "2026-09-05T13:26:33+00:00",
       "publishedLabel": "05.09.2026 13:26",
-      "summary": "Räuberische Erpressung",
+      "summary": "Gestern Abend kam es in Kreuzberg zu einer mutmaßlichen räuberischen Erpressung.",
       "category": "Sonstiges"
     },
     {
@@ -87,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710753.php",
       "publishedAt": "2026-09-05T13:18:16+00:00",
       "publishedLabel": "05.09.2026 13:18",
-      "summary": "Versuchte räuberische Erpressung",
+      "summary": "Gestern Abend kam es in Neukölln zu einer versuchten räuberischen Erpressung.",
       "category": "Sonstiges"
     },
     {
@@ -95,15 +119,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710745.php",
       "publishedAt": "2026-09-05T09:40:17+00:00",
       "publishedLabel": "05.09.2026 09:40",
-      "summary": "Mann nach mutmaßlich homophober Beleidigung angegriffen",
-      "category": "Sonstiges"
+      "summary": "Ein Mann wurde gestern Abend in Mitte homophob beleidigt und verletzt.",
+      "category": "Ermittlung"
     },
     {
       "title": "Mann mit Schreckschusswaffe beschossen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710743.php",
       "publishedAt": "2026-09-05T09:26:17+00:00",
       "publishedLabel": "05.09.2026 09:26",
-      "summary": "Mann mit Schreckschusswaffe beschossen",
+      "summary": "In der vergangenen Nacht wurde ein bislang unbekannter Mann in Niederschönhausen offenbar mit einer Schreckschusswaffe beschossen.",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710741.php",
       "publishedAt": "2026-09-05T09:04:30+00:00",
       "publishedLabel": "05.09.2026 09:04",
-      "summary": "Schwerer Raub in Nachtklub",
+      "summary": "In der vergangenen Nacht kam es vor einem Nachtklub in Mitte zu einem schweren Raub.",
       "category": "Ermittlung"
     },
     {
@@ -119,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710739.php",
       "publishedAt": "2026-09-05T08:32:14+00:00",
       "publishedLabel": "05.09.2026 08:32",
-      "summary": "Autofahrer fährt Mann und Frau an",
+      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Lichterfelde wurde eine Fußgängerin tödlich verletzt.",
       "category": "Verkehr"
     },
     {
@@ -129,30 +153,6 @@
       "publishedLabel": "04.09.2026 13:35",
       "summary": "In der vergangenen Nacht wurde die Polizei nach Buckow alarmiert, nachdem ein Mann mehrere Verkehrsunfälle verursacht und sich anschließend vom Unfallort entfernt haben soll.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Beleidigung und Nötigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710580.php",
-      "publishedAt": "2026-09-04T11:02:00+00:00",
-      "publishedLabel": "04.09.2026 11:02",
-      "summary": "Gestern Nachmittag soll es in Steglitz zu einer Beleidigung und anschließenden Nötigung gekommen sein.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Eierwürfe auf Informationsstand einer Partei",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710576.php",
-      "publishedAt": "2026-09-04T10:49:00+00:00",
-      "publishedLabel": "04.09.2026 10:49",
-      "summary": "Eierwürfe auf Informationsstand einer Partei",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Sicherstellung einer scharfen Schusswaffe in Spandau",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710543.php",
-      "publishedAt": "2026-09-04T09:55:17+00:00",
-      "publishedLabel": "04.09.2026 09:55",
-      "summary": "Gestern vollstreckte die BAO Ferrum im Auftrag der Ermittlungsgruppe Telum der Staatsanwaltschaft Berlin einen Durchsuchungsbeschluss.",
-      "category": "Ermittlung"
     }
   ]
 }
