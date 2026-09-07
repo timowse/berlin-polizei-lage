@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-07T17:50:53.611625+00:00",
-    "checkedTime": "17:50 Uhr",
+    "checkedAt": "2026-09-07T21:13:23.637043+00:00",
+    "checkedTime": "21:13 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann randaliert und verstirbt im Krankenhaus",
     "latestPublishedAt": "2026-09-07T14:42:35+00:00"
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710804.php",
       "publishedAt": "2026-09-06T11:45:00+00:00",
       "publishedLabel": "06.09.2026 11:45",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 6. Mordkommission des Landeskriminalamtes die Ermittlungen wegen des Verdachts eines versuchten Tötungsdelikts",
+      "summary": "Mann durch Schuss verletzt – Zeuginnen und Zeugen gesucht",
       "category": "Fahndung"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710802.php",
       "publishedAt": "2026-09-06T11:06:55+00:00",
       "publishedLabel": "06.09.2026 11:06",
-      "summary": "Gestern Mittag ereignete sich in Niederschönhausen ein Verkehrsunfall, bei dem eine Zwölfjährige auf einem E-Scooter verletzt wurde.",
+      "summary": "Zwölfjährige bei Unfall mit E-Scooter verletzt",
       "category": "Verkehr"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710795.php",
       "publishedAt": "2026-09-06T08:54:44+00:00",
       "publishedLabel": "06.09.2026 08:54",
-      "summary": "In Tiergarten haben Unbekannte in der vergangenen Nacht einen als Gedenkort eingepflanzten Baum erheblich beschädigt.",
+      "summary": "Gedenkbaum erheblich beschädigt",
       "category": "Sonstiges"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710755.php",
       "publishedAt": "2026-09-05T13:26:33+00:00",
       "publishedLabel": "05.09.2026 13:26",
-      "summary": "Gestern Abend kam es in Kreuzberg zu einer mutmaßlichen räuberischen Erpressung.",
+      "summary": "Räuberische Erpressung",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710753.php",
       "publishedAt": "2026-09-05T13:18:16+00:00",
       "publishedLabel": "05.09.2026 13:18",
-      "summary": "Gestern Abend kam es in Neukölln zu einer versuchten räuberischen Erpressung.",
+      "summary": "Versuchte räuberische Erpressung",
       "category": "Sonstiges"
     },
     {
