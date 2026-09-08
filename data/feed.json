@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-08T21:28:39.674762+00:00",
-    "checkedTime": "21:28 Uhr",
+    "checkedAt": "2026-09-08T23:36:26.743825+00:00",
+    "checkedTime": "23:36 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Wahlplakate durch Feuer beschädigt",
     "latestPublishedAt": "2026-09-08T12:22:26+00:00"
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711161.php",
       "publishedAt": "2026-09-07T13:41:49+00:00",
       "publishedLabel": "07.09.2026 13:41",
-      "summary": "Schüsse auf Einfamilienhaus",
+      "summary": "Heute früh wurde ein Einfamilienhaus in Neukölln beschossen.",
       "category": "Sonstiges"
     },
     {
