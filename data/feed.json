@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-07T23:34:20.911682+00:00",
-    "checkedTime": "23:34 Uhr",
+    "checkedAt": "2026-09-08T01:22:37.349715+00:00",
+    "checkedTime": "01:22 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Vermisste 36-jährige Frau wieder da",
     "latestPublishedAt": "2026-09-07T23:10:00+00:00"
@@ -55,15 +55,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710956.php",
       "publishedAt": "2026-09-07T09:08:03+00:00",
       "publishedLabel": "07.09.2026 09:08",
-      "summary": "Die 5. Mordkommission des Landeskriminalamtes hat in der vergangenen Nacht die Ermittlungen zu einem Tötungsdelikt in Neukölln übernommen.",
-      "category": "Ermittlung"
+      "summary": "Tötungsdelikt auf öffentlichem Straßenland – Mordkommission ermittelt",
+      "category": "Sonstiges"
     },
     {
       "title": "Transperson mit Schusswaffe bedroht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710940.php",
       "publishedAt": "2026-09-07T08:29:08+00:00",
       "publishedLabel": "07.09.2026 08:29",
-      "summary": "In der vergangenen Nacht wurde eine heranwachsende Person am Mehringplatz von zwei bislang unbekannten Männern mit einer Schusswaffe bedroht.",
+      "summary": "Transperson mit Schusswaffe bedroht",
       "category": "Sonstiges"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710802.php",
       "publishedAt": "2026-09-06T11:06:55+00:00",
       "publishedLabel": "06.09.2026 11:06",
-      "summary": "Gestern Mittag ereignete sich in Niederschönhausen ein Verkehrsunfall, bei dem eine Zwölfjährige auf einem E-Scooter verletzt wurde.",
+      "summary": "Zwölfjährige bei Unfall mit E-Scooter verletzt",
       "category": "Verkehr"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710795.php",
       "publishedAt": "2026-09-06T08:54:44+00:00",
       "publishedLabel": "06.09.2026 08:54",
-      "summary": "In Tiergarten haben Unbekannte in der vergangenen Nacht einen als Gedenkort eingepflanzten Baum erheblich beschädigt.",
+      "summary": "Gedenkbaum erheblich beschädigt",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710753.php",
       "publishedAt": "2026-09-05T13:18:16+00:00",
       "publishedLabel": "05.09.2026 13:18",
-      "summary": "Gestern Abend kam es in Neukölln zu einer versuchten räuberischen Erpressung.",
+      "summary": "Versuchte räuberische Erpressung",
       "category": "Sonstiges"
     },
     {
@@ -119,8 +119,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710745.php",
       "publishedAt": "2026-09-05T09:40:17+00:00",
       "publishedLabel": "05.09.2026 09:40",
-      "summary": "Ein Mann wurde gestern Abend in Mitte homophob beleidigt und verletzt.",
-      "category": "Ermittlung"
+      "summary": "Mann nach mutmaßlich homophober Beleidigung angegriffen",
+      "category": "Sonstiges"
     },
     {
       "title": "Mann mit Schreckschusswaffe beschossen",
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710739.php",
       "publishedAt": "2026-09-05T08:32:14+00:00",
       "publishedLabel": "05.09.2026 08:32",
-      "summary": "Bei einem Verkehrsunfall gestern Nachmittag in Lichterfelde wurde eine Fußgängerin tödlich verletzt.",
+      "summary": "Autofahrer fährt Mann und Frau an",
       "category": "Verkehr"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710683.php",
       "publishedAt": "2026-09-04T13:35:00+00:00",
       "publishedLabel": "04.09.2026 13:35",
-      "summary": "In der vergangenen Nacht wurde die Polizei nach Buckow alarmiert, nachdem ein Mann mehrere Verkehrsunfälle verursacht und sich anschließend vom Unfallort entfernt haben soll.",
+      "summary": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
       "category": "Verkehr"
     }
   ]
