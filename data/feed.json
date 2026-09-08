@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-08T01:22:37.349715+00:00",
-    "checkedTime": "01:22 Uhr",
+    "checkedAt": "2026-09-08T11:30:04.730304+00:00",
+    "checkedTime": "11:30 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Vermisste 36-jährige Frau wieder da",
-    "latestPublishedAt": "2026-09-07T23:10:00+00:00"
+    "latestTitle": "Rollerfahrer bei Verkehrsunfall verletzt",
+    "latestPublishedAt": "2026-09-08T10:57:28+00:00"
   },
   "items": [
+    {
+      "title": "Rollerfahrer bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711509.php",
+      "publishedAt": "2026-09-08T10:57:28+00:00",
+      "publishedLabel": "08.09.2026 10:57",
+      "summary": "Gestern Abend wurde ein Rollerfahrer bei einem Verkehrsunfall in Mitte erheblich verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Senior vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711512.php",
+      "publishedAt": "2026-09-08T10:53:53+00:00",
+      "publishedLabel": "08.09.2026 10:53",
+      "summary": "Der 79-jährige Siegfried Robert ANESER wird seit dem 4. September 2026, 17 Uhr, in seiner Seniorenresidenz in der Klingsorstraße in Steglitz vermisst.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Jugendlicher geschlagen und homophob beleidigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711498.php",
+      "publishedAt": "2026-09-08T10:34:59+00:00",
+      "publishedLabel": "08.09.2026 10:34",
+      "summary": "Gestern Abend wurde ein Jugendlicher in Pankow verletzt und homophob beleidigt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Brand in einem Restaurant",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711488.php",
+      "publishedAt": "2026-09-08T10:23:35+00:00",
+      "publishedLabel": "08.09.2026 10:23",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte des Regionalabschnitts 45 zu einem Brand nach Steglitz alarmiert.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Autofahrer fährt gegen Gebäudewand",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711359.php",
+      "publishedAt": "2026-09-08T07:47:33+00:00",
+      "publishedLabel": "08.09.2026 07:47",
+      "summary": "Gestern Abend wurden ein Fahrer eines Fahrdienstleisters und sein Fahrgast bei einem Verkehrsunfall in Mitte verletzt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Vermisste 36-jährige Frau wieder da",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711089.php",
@@ -47,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711013.php",
       "publishedAt": "2026-09-07T10:33:42+00:00",
       "publishedLabel": "07.09.2026 10:33",
-      "summary": "In der vergangenen Nacht wurden in Tegel zwei Wahlplakate in Brand gesteckt.",
-      "category": "Ermittlung"
+      "summary": "Wahlplakate angezündet",
+      "category": "Sonstiges"
     },
     {
       "title": "Tötungsdelikt auf öffentlichem Straßenland – Mordkommission ermittelt",
@@ -79,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710802.php",
       "publishedAt": "2026-09-06T11:06:55+00:00",
       "publishedLabel": "06.09.2026 11:06",
-      "summary": "Zwölfjährige bei Unfall mit E-Scooter verletzt",
+      "summary": "Gestern Mittag ereignete sich in Niederschönhausen ein Verkehrsunfall, bei dem eine Zwölfjährige auf einem E-Scooter verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -87,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710795.php",
       "publishedAt": "2026-09-06T08:54:44+00:00",
       "publishedLabel": "06.09.2026 08:54",
-      "summary": "Gedenkbaum erheblich beschädigt",
+      "summary": "In Tiergarten haben Unbekannte in der vergangenen Nacht einen als Gedenkort eingepflanzten Baum erheblich beschädigt.",
       "category": "Sonstiges"
     },
     {
@@ -111,48 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710753.php",
       "publishedAt": "2026-09-05T13:18:16+00:00",
       "publishedLabel": "05.09.2026 13:18",
-      "summary": "Versuchte räuberische Erpressung",
+      "summary": "Gestern Abend kam es in Neukölln zu einer versuchten räuberischen Erpressung.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Mann nach mutmaßlich homophober Beleidigung angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710745.php",
-      "publishedAt": "2026-09-05T09:40:17+00:00",
-      "publishedLabel": "05.09.2026 09:40",
-      "summary": "Mann nach mutmaßlich homophober Beleidigung angegriffen",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Mann mit Schreckschusswaffe beschossen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710743.php",
-      "publishedAt": "2026-09-05T09:26:17+00:00",
-      "publishedLabel": "05.09.2026 09:26",
-      "summary": "In der vergangenen Nacht wurde ein bislang unbekannter Mann in Niederschönhausen offenbar mit einer Schreckschusswaffe beschossen.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Schwerer Raub in Nachtklub",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710741.php",
-      "publishedAt": "2026-09-05T09:04:30+00:00",
-      "publishedLabel": "05.09.2026 09:04",
-      "summary": "In der vergangenen Nacht kam es vor einem Nachtklub in Mitte zu einem schweren Raub.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Autofahrer fährt Mann und Frau an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710739.php",
-      "publishedAt": "2026-09-05T08:32:14+00:00",
-      "publishedLabel": "05.09.2026 08:32",
-      "summary": "Autofahrer fährt Mann und Frau an",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710683.php",
-      "publishedAt": "2026-09-04T13:35:00+00:00",
-      "publishedLabel": "04.09.2026 13:35",
-      "summary": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
-      "category": "Verkehr"
     }
   ]
 }
