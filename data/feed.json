@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-08T11:30:04.730304+00:00",
-    "checkedTime": "11:30 Uhr",
+    "checkedAt": "2026-09-08T15:16:27.999200+00:00",
+    "checkedTime": "15:16 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Rollerfahrer bei Verkehrsunfall verletzt",
-    "latestPublishedAt": "2026-09-08T10:57:28+00:00"
+    "latestTitle": "Wahlplakate durch Feuer beschädigt",
+    "latestPublishedAt": "2026-09-08T12:22:26+00:00"
   },
   "items": [
+    {
+      "title": "Wahlplakate durch Feuer beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711566.php",
+      "publishedAt": "2026-09-08T12:22:26+00:00",
+      "publishedLabel": "08.09.2026 12:22",
+      "summary": "Unbekannte beschädigten heute früh mehrere Wahlplakate in Lichterfelde.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Tötungsdelikt auf öffentlichem Straßenland – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710956.php",
+      "publishedAt": "2026-09-08T12:00:00+00:00",
+      "publishedLabel": "08.09.2026 12:00",
+      "summary": "Am Montag, den 7. September 2026, kam es zu mehreren Schussabgaben auf einen 27-jährigen Mann, der in der Folge verstarb.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Senior wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711512.php",
+      "publishedAt": "2026-09-08T11:41:00+00:00",
+      "publishedLabel": "08.09.2026 11:41",
+      "summary": "Der vermisste Senior wurde gefunden.",
+      "category": "Fahndung"
+    },
     {
       "title": "Rollerfahrer bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711509.php",
@@ -17,14 +41,6 @@
       "publishedLabel": "08.09.2026 10:57",
       "summary": "Gestern Abend wurde ein Rollerfahrer bei einem Verkehrsunfall in Mitte erheblich verletzt.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Senior vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711512.php",
-      "publishedAt": "2026-09-08T10:53:53+00:00",
-      "publishedLabel": "08.09.2026 10:53",
-      "summary": "Der 79-jährige Siegfried Robert ANESER wird seit dem 4. September 2026, 17 Uhr, in seiner Seniorenresidenz in der Klingsorstraße in Steglitz vermisst.",
-      "category": "Fahndung"
     },
     {
       "title": "Jugendlicher geschlagen und homophob beleidigt",
@@ -87,23 +103,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711013.php",
       "publishedAt": "2026-09-07T10:33:42+00:00",
       "publishedLabel": "07.09.2026 10:33",
-      "summary": "Wahlplakate angezündet",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Tötungsdelikt auf öffentlichem Straßenland – Mordkommission ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710956.php",
-      "publishedAt": "2026-09-07T09:08:03+00:00",
-      "publishedLabel": "07.09.2026 09:08",
-      "summary": "Tötungsdelikt auf öffentlichem Straßenland – Mordkommission ermittelt",
-      "category": "Sonstiges"
+      "summary": "In der vergangenen Nacht wurden in Tegel zwei Wahlplakate in Brand gesteckt.",
+      "category": "Ermittlung"
     },
     {
       "title": "Transperson mit Schusswaffe bedroht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710940.php",
       "publishedAt": "2026-09-07T08:29:08+00:00",
       "publishedLabel": "07.09.2026 08:29",
-      "summary": "Transperson mit Schusswaffe bedroht",
+      "summary": "In der vergangenen Nacht wurde eine heranwachsende Person am Mehringplatz von zwei bislang unbekannten Männern mit einer Schusswaffe bedroht.",
       "category": "Sonstiges"
     },
     {
@@ -144,14 +152,6 @@
       "publishedAt": "2026-09-05T13:26:33+00:00",
       "publishedLabel": "05.09.2026 13:26",
       "summary": "Gestern Abend kam es in Kreuzberg zu einer mutmaßlichen räuberischen Erpressung.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Versuchte räuberische Erpressung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710753.php",
-      "publishedAt": "2026-09-05T13:18:16+00:00",
-      "publishedLabel": "05.09.2026 13:18",
-      "summary": "Gestern Abend kam es in Neukölln zu einer versuchten räuberischen Erpressung.",
       "category": "Sonstiges"
     }
   ]
