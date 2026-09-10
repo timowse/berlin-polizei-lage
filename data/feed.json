@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-10T06:28:41.408625+00:00",
-    "checkedTime": "06:28 Uhr",
+    "checkedAt": "2026-09-10T11:44:14.064478+00:00",
+    "checkedTime": "11:44 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Einsatzfahrt abgebrochen – Mann verletzt Mitarbeiter der Feuerwehr",
-    "latestPublishedAt": "2026-09-09T14:30:52+00:00"
+    "latestTitle": "Unbekannter Toter - Polizei Berlin bittet um Mithilfe",
+    "latestPublishedAt": "2026-09-10T10:12:40+00:00"
   },
   "items": [
+    {
+      "title": "Unbekannter Toter - Polizei Berlin bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
+      "publishedAt": "2026-09-10T10:12:40+00:00",
+      "publishedLabel": "10.09.2026 10:12",
+      "summary": "Mit der Veröffentlichung von Fotos bittet die Vermisstenstelle des Landeskriminalamts Berlin um Hilfe bei der Identifizierung eines unbekannten Toten.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "31 Verletzte nach Reizgaseinsatz in Jugendherberge",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712418.php",
+      "publishedAt": "2026-09-10T10:08:54+00:00",
+      "publishedLabel": "10.09.2026 10:08",
+      "summary": "Gestern Nachmittag ereignete sich in Mitte eine Auseinandersetzung, bei der 31 Personen verletzt wurden.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Einsatzfahrt abgebrochen – Mann verletzt Mitarbeiter der Feuerwehr",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712072.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "07.09.2026 10:33",
       "summary": "In der vergangenen Nacht wurden in Tegel zwei Wahlplakate in Brand gesteckt.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Transperson mit Schusswaffe bedroht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710940.php",
-      "publishedAt": "2026-09-07T08:29:08+00:00",
-      "publishedLabel": "07.09.2026 08:29",
-      "summary": "In der vergangenen Nacht wurde eine heranwachsende Person am Mehringplatz von zwei bislang unbekannten Männern mit einer Schusswaffe bedroht.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Mann durch Schuss verletzt – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710804.php",
-      "publishedAt": "2026-09-06T11:45:00+00:00",
-      "publishedLabel": "06.09.2026 11:45",
-      "summary": "Im Auftrag der Staatsanwaltschaft Berlin hat die 6. Mordkommission des Landeskriminalamtes die Ermittlungen wegen des Verdachts eines versuchten Tötungsdelikts",
-      "category": "Fahndung"
     }
   ]
 }
