@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-10T11:44:14.064478+00:00",
-    "checkedTime": "11:44 Uhr",
+    "checkedAt": "2026-09-10T15:12:47.947411+00:00",
+    "checkedTime": "15:12 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Unbekannter Toter - Polizei Berlin bittet um Mithilfe",
-    "latestPublishedAt": "2026-09-10T10:12:40+00:00"
+    "latestTitle": "Mann schießt auf mehrere geparkte Autos – Mehrere nicht scharfe Schusswaffen beschlagnahmt",
+    "latestPublishedAt": "2026-09-10T14:52:33+00:00"
   },
   "items": [
+    {
+      "title": "Mann schießt auf mehrere geparkte Autos – Mehrere nicht scharfe Schusswaffen beschlagnahmt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712623.php",
+      "publishedAt": "2026-09-10T14:52:33+00:00",
+      "publishedLabel": "10.09.2026 14:52",
+      "summary": "Gestern Abend kam es in Waidmannslust aufgrund mehrerer Schüsse auf geparkte Autos zu einem größeren Polizeieinsatz.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Angriff auf Vollstreckungsbeamte – DEIG Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712485.php",
+      "publishedAt": "2026-09-10T11:42:34+00:00",
+      "publishedLabel": "10.09.2026 11:42",
+      "summary": "Gestern Vormittag kam es in einem Krankenhaus des Maßregelvollzugs zu einem Polizeieinsatz.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Unbekannter Toter - Polizei Berlin bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "07.09.2026 13:41",
       "summary": "Heute früh wurde ein Einfamilienhaus in Neukölln beschossen.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Vermisste 52-Jährige tot aufgefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709758.php",
-      "publishedAt": "2026-09-07T12:28:00+00:00",
-      "publishedLabel": "07.09.2026 12:28",
-      "summary": "Die seit dem 30. August 2026 vermisste 52-Jährige wurde tot aufgefunden.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Wahlplakate angezündet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711013.php",
-      "publishedAt": "2026-09-07T10:33:42+00:00",
-      "publishedLabel": "07.09.2026 10:33",
-      "summary": "In der vergangenen Nacht wurden in Tegel zwei Wahlplakate in Brand gesteckt.",
-      "category": "Ermittlung"
     }
   ]
 }
