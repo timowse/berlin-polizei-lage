@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-10T15:12:47.947411+00:00",
-    "checkedTime": "15:12 Uhr",
+    "checkedAt": "2026-09-10T18:32:15.275051+00:00",
+    "checkedTime": "18:32 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann schießt auf mehrere geparkte Autos – Mehrere nicht scharfe Schusswaffen beschlagnahmt",
-    "latestPublishedAt": "2026-09-10T14:52:33+00:00"
+    "latestTitle": "Waffe nach Verkehrsüberprüfung gefunden",
+    "latestPublishedAt": "2026-09-10T15:17:35+00:00"
   },
   "items": [
+    {
+      "title": "Waffe nach Verkehrsüberprüfung gefunden",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712632.php",
+      "publishedAt": "2026-09-10T15:17:35+00:00",
+      "publishedLabel": "10.09.2026 15:17",
+      "summary": "Einsatzkräfte stellten in der vergangenen Nacht nach einer Verkehrskontrolle in Kreuzberg bei einem Mann mutmaßliche Drogen fest.",
+      "category": "Verkehr"
+    },
     {
       "title": "Mann schießt auf mehrere geparkte Autos – Mehrere nicht scharfe Schusswaffen beschlagnahmt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712623.php",
@@ -71,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712011.php",
       "publishedAt": "2026-09-09T12:51:12+00:00",
       "publishedLabel": "09.09.2026 12:51",
-      "summary": "Gestern Abend sollen in Schöneberg zwei Unbekannte eine queere Person angegriffen haben.",
+      "summary": "Queere Person angegriffen",
       "category": "Sonstiges"
     },
     {
@@ -135,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711089.php",
       "publishedAt": "2026-09-07T23:10:00+00:00",
       "publishedLabel": "07.09.2026 23:10",
-      "summary": "Die vermisste 36-Jährige ist wieder da.",
+      "summary": "Vermisste 36-jährige Frau wieder da",
       "category": "Fahndung"
     },
     {
@@ -144,14 +152,6 @@
       "publishedAt": "2026-09-07T14:42:35+00:00",
       "publishedLabel": "07.09.2026 14:42",
       "summary": "In der vergangenen Nacht rief ein 64-jähriger Mann die Feuerwehr nach Marienfelde, weil sein Sohn im gemeinsamen Haushalt randaliert haben soll.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Schüsse auf Einfamilienhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711161.php",
-      "publishedAt": "2026-09-07T13:41:49+00:00",
-      "publishedLabel": "07.09.2026 13:41",
-      "summary": "Heute früh wurde ein Einfamilienhaus in Neukölln beschossen.",
       "category": "Sonstiges"
     }
   ]
