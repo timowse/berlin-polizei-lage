@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-11T18:27:04.076669+00:00",
-    "checkedTime": "18:27 Uhr",
+    "checkedAt": "2026-09-11T21:11:07.145844+00:00",
+    "checkedTime": "21:11 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Abgeordneter bedroht",
     "latestPublishedAt": "2026-09-11T15:37:07+00:00"
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713049.php",
       "publishedAt": "2026-09-11T12:15:21+00:00",
       "publishedLabel": "11.09.2026 12:15",
-      "summary": "Polizei Berlin lädt zum 45. Tag der offenen Tür ein",
+      "summary": "Am kommenden Sonntag, den 13. September 2026 findet der 45. Tag der offenen Tür auf dem Polizeigelände in der Charlottenburger Chaussee in Spandau statt.",
       "category": "Einsatz"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712418.php",
       "publishedAt": "2026-09-10T10:08:54+00:00",
       "publishedLabel": "10.09.2026 10:08",
-      "summary": "Gestern Nachmittag ereignete sich in Mitte eine Auseinandersetzung, bei der 31 Personen verletzt wurden.",
+      "summary": "31 Verletzte nach Reizgaseinsatz in Jugendherberge",
       "category": "Ermittlung"
     },
     {
@@ -87,8 +87,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712072.php",
       "publishedAt": "2026-09-09T14:30:52+00:00",
       "publishedLabel": "09.09.2026 14:30",
-      "summary": "Gestern Nachmittag wurde die Polizei nach Wedding alarmiert, nachdem ein Autofahrer einen Mitarbeiter der BF verletzt haben soll.",
-      "category": "Verkehr"
+      "summary": "Einsatzfahrt abgebrochen – Mann verletzt Mitarbeiter der Feuerwehr",
+      "category": "Ermittlung"
     },
     {
       "title": "Bronzeskulpturen entwendet – Polizei bittet um Mithilfe",
