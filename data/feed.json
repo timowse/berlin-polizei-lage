@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-11T15:04:10.763565+00:00",
-    "checkedTime": "15:04 Uhr",
+    "checkedAt": "2026-09-11T18:27:04.076669+00:00",
+    "checkedTime": "18:27 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Toter identifiziert",
-    "latestPublishedAt": "2026-09-11T13:03:00+00:00"
+    "latestTitle": "Abgeordneter bedroht",
+    "latestPublishedAt": "2026-09-11T15:37:07+00:00"
   },
   "items": [
+    {
+      "title": "Abgeordneter bedroht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713131.php",
+      "publishedAt": "2026-09-11T15:37:07+00:00",
+      "publishedLabel": "11.09.2026 15:37",
+      "summary": "Heute Vormittag soll ein Mann im Ortsteil Hansaviertel einen Abgeordneten an dessen Infostand bedroht haben.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Toter identifiziert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
@@ -23,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713049.php",
       "publishedAt": "2026-09-11T12:15:21+00:00",
       "publishedLabel": "11.09.2026 12:15",
-      "summary": "Am kommenden Sonntag, den 13. September 2026 findet der 45. Tag der offenen Tür auf dem Polizeigelände in der Charlottenburger Chaussee in Spandau statt.",
+      "summary": "Polizei Berlin lädt zum 45. Tag der offenen Tür ein",
       "category": "Einsatz"
     },
     {
@@ -95,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712024.php",
       "publishedAt": "2026-09-09T13:00:00+00:00",
       "publishedLabel": "09.09.2026 13:00",
-      "summary": "Baustellenbrand am Bundeskanzleramt",
+      "summary": "Heute früh stellten Kräfte der Bundespolizei den Brand einer Baustelle im Ortsteil Tiergarten fest.",
       "category": "Ermittlung"
     },
     {
@@ -103,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712011.php",
       "publishedAt": "2026-09-09T12:51:12+00:00",
       "publishedLabel": "09.09.2026 12:51",
-      "summary": "Queere Person angegriffen",
+      "summary": "Gestern Abend sollen in Schöneberg zwei Unbekannte eine queere Person angegriffen haben.",
       "category": "Sonstiges"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "08.09.2026 10:34",
       "summary": "Gestern Abend wurde ein Jugendlicher in Pankow verletzt und homophob beleidigt.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Brand in einem Restaurant",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711488.php",
-      "publishedAt": "2026-09-08T10:23:35+00:00",
-      "publishedLabel": "08.09.2026 10:23",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte des Regionalabschnitts 45 zu einem Brand nach Steglitz alarmiert.",
-      "category": "Verkehr"
     }
   ]
 }
