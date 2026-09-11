@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-11T11:14:59.241534+00:00",
-    "checkedTime": "11:14 Uhr",
+    "checkedAt": "2026-09-11T15:04:10.763565+00:00",
+    "checkedTime": "15:04 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann durch Schüsse verletzt",
-    "latestPublishedAt": "2026-09-11T09:14:12+00:00"
+    "latestTitle": "Toter identifiziert",
+    "latestPublishedAt": "2026-09-11T13:03:00+00:00"
   },
   "items": [
+    {
+      "title": "Toter identifiziert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
+      "publishedAt": "2026-09-11T13:03:00+00:00",
+      "publishedLabel": "11.09.2026 13:03",
+      "summary": "Der am 21. Juli 2026 verstorbene Mann konnte nach der Öffentlichkeitsfahndung identifiziert werden.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Polizei Berlin lädt zum 45. Tag der offenen Tür ein",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713049.php",
+      "publishedAt": "2026-09-11T12:15:21+00:00",
+      "publishedLabel": "11.09.2026 12:15",
+      "summary": "Am kommenden Sonntag, den 13. September 2026 findet der 45. Tag der offenen Tür auf dem Polizeigelände in der Charlottenburger Chaussee in Spandau statt.",
+      "category": "Einsatz"
+    },
     {
       "title": "Mann durch Schüsse verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
@@ -51,14 +67,6 @@
       "category": "Ermittlung"
     },
     {
-      "title": "Unbekannter Toter - Polizei Berlin bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
-      "publishedAt": "2026-09-10T10:12:40+00:00",
-      "publishedLabel": "10.09.2026 10:12",
-      "summary": "Mit der Veröffentlichung von Fotos bittet die Vermisstenstelle des Landeskriminalamts Berlin um Hilfe bei der Identifizierung eines unbekannten Toten.",
-      "category": "Fahndung"
-    },
-    {
       "title": "31 Verletzte nach Reizgaseinsatz in Jugendherberge",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712418.php",
       "publishedAt": "2026-09-10T10:08:54+00:00",
@@ -87,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712024.php",
       "publishedAt": "2026-09-09T13:00:00+00:00",
       "publishedLabel": "09.09.2026 13:00",
-      "summary": "Heute früh stellten Kräfte der Bundespolizei den Brand einer Baustelle im Ortsteil Tiergarten fest.",
+      "summary": "Baustellenbrand am Bundeskanzleramt",
       "category": "Ermittlung"
     },
     {
@@ -95,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712011.php",
       "publishedAt": "2026-09-09T12:51:12+00:00",
       "publishedLabel": "09.09.2026 12:51",
-      "summary": "Gestern Abend sollen in Schöneberg zwei Unbekannte eine queere Person angegriffen haben.",
+      "summary": "Queere Person angegriffen",
       "category": "Sonstiges"
     },
     {
@@ -144,14 +152,6 @@
       "publishedAt": "2026-09-08T10:23:35+00:00",
       "publishedLabel": "08.09.2026 10:23",
       "summary": "In der vergangenen Nacht wurden Einsatzkräfte des Regionalabschnitts 45 zu einem Brand nach Steglitz alarmiert.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Autofahrer fährt gegen Gebäudewand",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711359.php",
-      "publishedAt": "2026-09-08T07:47:33+00:00",
-      "publishedLabel": "08.09.2026 07:47",
-      "summary": "Gestern Abend wurden ein Fahrer eines Fahrdienstleisters und sein Fahrgast bei einem Verkehrsunfall in Mitte verletzt.",
       "category": "Verkehr"
     }
   ]
