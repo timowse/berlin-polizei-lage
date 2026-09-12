@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-12T01:22:56.484773+00:00",
-    "checkedTime": "01:22 Uhr",
+    "checkedAt": "2026-09-12T06:13:51.845902+00:00",
+    "checkedTime": "06:13 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Abgeordneter bedroht",
     "latestPublishedAt": "2026-09-11T15:37:07+00:00"
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
       "publishedAt": "2026-09-11T09:14:12+00:00",
       "publishedLabel": "11.09.2026 09:14",
-      "summary": "Heute Morgen wurden Einsatz- und Rettungskräfte nach Adlershof alarmiert.",
+      "summary": "Mann durch Schüsse verletzt",
       "category": "Ermittlung"
     },
     {
@@ -87,15 +87,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712072.php",
       "publishedAt": "2026-09-09T14:30:52+00:00",
       "publishedLabel": "09.09.2026 14:30",
-      "summary": "Gestern Nachmittag wurde die Polizei nach Wedding alarmiert, nachdem ein Autofahrer einen Mitarbeiter der BF verletzt haben soll.",
-      "category": "Verkehr"
+      "summary": "Einsatzfahrt abgebrochen – Mann verletzt Mitarbeiter der Feuerwehr",
+      "category": "Ermittlung"
     },
     {
       "title": "Bronzeskulpturen entwendet – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712020.php",
       "publishedAt": "2026-09-09T13:03:27+00:00",
       "publishedLabel": "09.09.2026 13:03",
-      "summary": "Bronzeskulpturen entwendet – Polizei bittet um Mithilfe",
+      "summary": "Aus dem Garten der Fugger-Klinik in der Fuggerstraße in Schöneberg wurden in der Zeit vom 25. bis zum 26. August 2026 drei Bronzefiguren entwendet.",
       "category": "Einsatz"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712011.php",
       "publishedAt": "2026-09-09T12:51:12+00:00",
       "publishedLabel": "09.09.2026 12:51",
-      "summary": "Gestern Abend sollen in Schöneberg zwei Unbekannte eine queere Person angegriffen haben.",
+      "summary": "Queere Person angegriffen",
       "category": "Sonstiges"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711566.php",
       "publishedAt": "2026-09-08T12:22:26+00:00",
       "publishedLabel": "08.09.2026 12:22",
-      "summary": "Wahlplakate durch Feuer beschädigt",
+      "summary": "Unbekannte beschädigten heute früh mehrere Wahlplakate in Lichterfelde.",
       "category": "Sonstiges"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710956.php",
       "publishedAt": "2026-09-08T12:00:00+00:00",
       "publishedLabel": "08.09.2026 12:00",
-      "summary": "Tötungsdelikt auf öffentlichem Straßenland – Zeuginnen und Zeugen gesucht",
+      "summary": "Am Montag, den 7. September 2026, kam es zu mehreren Schussabgaben auf einen 27-jährigen Mann, der in der Folge verstarb.",
       "category": "Fahndung"
     },
     {
@@ -135,8 +135,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711512.php",
       "publishedAt": "2026-09-08T11:41:00+00:00",
       "publishedLabel": "08.09.2026 11:41",
-      "summary": "Senior wieder da",
-      "category": "Sonstiges"
+      "summary": "Der vermisste Senior wurde gefunden.",
+      "category": "Fahndung"
     },
     {
       "title": "Rollerfahrer bei Verkehrsunfall verletzt",
