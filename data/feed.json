@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-12T21:02:39.168679+00:00",
-    "checkedTime": "21:02 Uhr",
+    "checkedAt": "2026-09-12T23:01:01.502433+00:00",
+    "checkedTime": "23:01 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Antisemitischer Angriff",
     "latestPublishedAt": "2026-09-12T12:25:30+00:00"
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712418.php",
       "publishedAt": "2026-09-10T10:08:54+00:00",
       "publishedLabel": "10.09.2026 10:08",
-      "summary": "Gestern Nachmittag ereignete sich in Mitte eine Auseinandersetzung, bei der 31 Personen verletzt wurden.",
+      "summary": "31 Verletzte nach Reizgaseinsatz in Jugendherberge",
       "category": "Ermittlung"
     },
     {
@@ -135,8 +135,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712072.php",
       "publishedAt": "2026-09-09T14:30:52+00:00",
       "publishedLabel": "09.09.2026 14:30",
-      "summary": "Gestern Nachmittag wurde die Polizei nach Wedding alarmiert, nachdem ein Autofahrer einen Mitarbeiter der BF verletzt haben soll.",
-      "category": "Verkehr"
+      "summary": "Einsatzfahrt abgebrochen – Mann verletzt Mitarbeiter der Feuerwehr",
+      "category": "Ermittlung"
     },
     {
       "title": "Bronzeskulpturen entwendet – Polizei bittet um Mithilfe",
