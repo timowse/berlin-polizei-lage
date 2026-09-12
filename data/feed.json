@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-12T10:56:01.255090+00:00",
-    "checkedTime": "10:56 Uhr",
+    "checkedAt": "2026-09-12T13:55:17.526588+00:00",
+    "checkedTime": "13:55 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Schüsse auf Friseurgeschäft",
-    "latestPublishedAt": "2026-09-12T10:42:58+00:00"
+    "latestTitle": "Antisemitischer Angriff",
+    "latestPublishedAt": "2026-09-12T12:25:30+00:00"
   },
   "items": [
+    {
+      "title": "Antisemitischer Angriff",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713187.php",
+      "publishedAt": "2026-09-12T12:25:30+00:00",
+      "publishedLabel": "12.09.2026 12:25",
+      "summary": "In der Nacht vom 10. zum 11. September 2026 ist eine Frau von zwei Männern in Mitte angegriffen und verletzt worden.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Einbruch in Kunstauktionshaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713185.php",
+      "publishedAt": "2026-09-12T12:11:39+00:00",
+      "publishedLabel": "12.09.2026 12:11",
+      "summary": "Unbekannte brachen heute früh in ein Geschäft in Charlottenburg ein.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Zeugenaufruf nach versuchtem Totschlag",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
+      "publishedAt": "2026-09-12T11:39:00+00:00",
+      "publishedLabel": "12.09.2026 11:39",
+      "summary": "Die 6. Mordkommission bittet um Mithilfe bei den Ermittlungen zu einem versuchten Tötungsdelikt auf einen 20-jährigen Mann in Adlershof.",
+      "category": "Fahndung"
+    },
     {
       "title": "Schüsse auf Friseurgeschäft",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713178.php",
@@ -55,8 +79,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
       "publishedAt": "2026-09-11T13:03:00+00:00",
       "publishedLabel": "11.09.2026 13:03",
-      "summary": "Toter identifiziert",
-      "category": "Sonstiges"
+      "summary": "Der am 21. Juli 2026 verstorbene Mann konnte nach der Öffentlichkeitsfahndung identifiziert werden.",
+      "category": "Fahndung"
     },
     {
       "title": "Polizei Berlin lädt zum 45. Tag der offenen Tür ein",
@@ -67,20 +91,12 @@
       "category": "Einsatz"
     },
     {
-      "title": "Mann durch Schüsse verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
-      "publishedAt": "2026-09-11T09:14:12+00:00",
-      "publishedLabel": "11.09.2026 09:14",
-      "summary": "Heute Morgen wurden Einsatz- und Rettungskräfte nach Adlershof alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
       "title": "Klassenraum mit reizender Substanz besprüht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712730.php",
       "publishedAt": "2026-09-11T07:31:36+00:00",
       "publishedLabel": "11.09.2026 07:31",
-      "summary": "Klassenraum mit reizender Substanz besprüht",
-      "category": "Sonstiges"
+      "summary": "Gestern Nachmittag wurden Einsatz- und Rettungskräfte nach Pankow alarmiert.",
+      "category": "Einsatz"
     },
     {
       "title": "Waffe nach Verkehrsüberprüfung gefunden",
@@ -137,22 +153,6 @@
       "publishedLabel": "09.09.2026 13:00",
       "summary": "Heute früh stellten Kräfte der Bundespolizei den Brand einer Baustelle im Ortsteil Tiergarten fest.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Queere Person angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712011.php",
-      "publishedAt": "2026-09-09T12:51:12+00:00",
-      "publishedLabel": "09.09.2026 12:51",
-      "summary": "Gestern Abend sollen in Schöneberg zwei Unbekannte eine queere Person angegriffen haben.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Wahlplakate durch Feuer beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711566.php",
-      "publishedAt": "2026-09-08T12:22:26+00:00",
-      "publishedLabel": "08.09.2026 12:22",
-      "summary": "Unbekannte beschädigten heute früh mehrere Wahlplakate in Lichterfelde.",
-      "category": "Sonstiges"
     }
   ]
 }
