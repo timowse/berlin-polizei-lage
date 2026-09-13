@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-13T05:51:13.666116+00:00",
-    "checkedTime": "05:51 Uhr",
+    "checkedAt": "2026-09-13T11:15:54.226131+00:00",
+    "checkedTime": "11:15 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Antisemitischer Angriff",
-    "latestPublishedAt": "2026-09-12T12:25:30+00:00"
+    "latestTitle": "Mehrere Verletzte nach Verkehrsunfall mit BVG-Bus",
+    "latestPublishedAt": "2026-09-13T11:01:01+00:00"
   },
   "items": [
+    {
+      "title": "Mehrere Verletzte nach Verkehrsunfall mit BVG-Bus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713242.php",
+      "publishedAt": "2026-09-13T11:01:01+00:00",
+      "publishedLabel": "13.09.2026 11:01",
+      "summary": "Vergangene Nacht ereignete sich ein Verkehrsunfall in Britz, bei dem insgesamt 15 Personen verletzt wurden.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Einsatzkräfte angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713241.php",
+      "publishedAt": "2026-09-13T10:36:37+00:00",
+      "publishedLabel": "13.09.2026 10:36",
+      "summary": "Aus einer Personengruppe heraus sind Einsatzkräfte der Polizei in der vergangenen Nacht in Friedrichshain angegriffen worden.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Autos in Flammen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713237.php",
+      "publishedAt": "2026-09-13T09:32:58+00:00",
+      "publishedLabel": "13.09.2026 09:32",
+      "summary": "In der vergangenen Nacht kam es zu mehreren Fahrzeugbränden in Hellersdorf.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Durch Messerangriff verletzt - notoperiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713236.php",
+      "publishedAt": "2026-09-13T09:27:06+00:00",
+      "publishedLabel": "13.09.2026 09:27",
+      "summary": "Gestern Nachmittag sind in Reinickendorf drei Männer bei einer Auseinandersetzung mit einem Messer verletzt worden.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Antisemitischer Angriff",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713187.php",
@@ -47,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713176.php",
       "publishedAt": "2026-09-12T10:21:03+00:00",
       "publishedLabel": "12.09.2026 10:21",
-      "summary": "Gestern Mittag erlitt ein Motorradfahrer im Ortsteil Rummelsburg bei einem Verkehrsunfall erhebliche Verletzungen.",
+      "summary": "Motorradfahrer nach Verkehrsunfall in stationärer Behandlung",
       "category": "Verkehr"
     },
     {
@@ -79,15 +111,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
       "publishedAt": "2026-09-11T13:03:00+00:00",
       "publishedLabel": "11.09.2026 13:03",
-      "summary": "Der am 21. Juli 2026 verstorbene Mann konnte nach der Öffentlichkeitsfahndung identifiziert werden.",
-      "category": "Fahndung"
+      "summary": "Toter identifiziert",
+      "category": "Sonstiges"
     },
     {
       "title": "Polizei Berlin lädt zum 45. Tag der offenen Tür ein",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713049.php",
       "publishedAt": "2026-09-11T12:15:21+00:00",
       "publishedLabel": "11.09.2026 12:15",
-      "summary": "Am kommenden Sonntag, den 13. September 2026 findet der 45. Tag der offenen Tür auf dem Polizeigelände in der Charlottenburger Chaussee in Spandau statt.",
+      "summary": "Polizei Berlin lädt zum 45. Tag der offenen Tür ein",
       "category": "Einsatz"
     },
     {
@@ -95,8 +127,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712730.php",
       "publishedAt": "2026-09-11T07:31:36+00:00",
       "publishedLabel": "11.09.2026 07:31",
-      "summary": "Gestern Nachmittag wurden Einsatz- und Rettungskräfte nach Pankow alarmiert.",
-      "category": "Einsatz"
+      "summary": "Klassenraum mit reizender Substanz besprüht",
+      "category": "Sonstiges"
     },
     {
       "title": "Waffe nach Verkehrsüberprüfung gefunden",
@@ -120,38 +152,6 @@
       "publishedAt": "2026-09-10T11:42:34+00:00",
       "publishedLabel": "10.09.2026 11:42",
       "summary": "Gestern Vormittag kam es in einem Krankenhaus des Maßregelvollzugs zu einem Polizeieinsatz.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "31 Verletzte nach Reizgaseinsatz in Jugendherberge",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712418.php",
-      "publishedAt": "2026-09-10T10:08:54+00:00",
-      "publishedLabel": "10.09.2026 10:08",
-      "summary": "Gestern Nachmittag ereignete sich in Mitte eine Auseinandersetzung, bei der 31 Personen verletzt wurden.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Einsatzfahrt abgebrochen – Mann verletzt Mitarbeiter der Feuerwehr",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712072.php",
-      "publishedAt": "2026-09-09T14:30:52+00:00",
-      "publishedLabel": "09.09.2026 14:30",
-      "summary": "Gestern Nachmittag wurde die Polizei nach Wedding alarmiert, nachdem ein Autofahrer einen Mitarbeiter der BF verletzt haben soll.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Bronzeskulpturen entwendet – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712020.php",
-      "publishedAt": "2026-09-09T13:03:27+00:00",
-      "publishedLabel": "09.09.2026 13:03",
-      "summary": "Aus dem Garten der Fugger-Klinik in der Fuggerstraße in Schöneberg wurden in der Zeit vom 25. bis zum 26. August 2026 drei Bronzefiguren entwendet.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Baustellenbrand am Bundeskanzleramt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712024.php",
-      "publishedAt": "2026-09-09T13:00:00+00:00",
-      "publishedLabel": "09.09.2026 13:00",
-      "summary": "Heute früh stellten Kräfte der Bundespolizei den Brand einer Baustelle im Ortsteil Tiergarten fest.",
       "category": "Ermittlung"
     }
   ]
