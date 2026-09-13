@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-13T18:00:31.153435+00:00",
-    "checkedTime": "18:00 Uhr",
+    "checkedAt": "2026-09-13T20:44:42.116896+00:00",
+    "checkedTime": "20:44 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mehrere Verletzte nach Verkehrsunfall mit BVG-Bus",
     "latestPublishedAt": "2026-09-13T11:01:01+00:00"
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713236.php",
       "publishedAt": "2026-09-13T09:27:06+00:00",
       "publishedLabel": "13.09.2026 09:27",
-      "summary": "Durch Messerangriff verletzt - notoperiert",
+      "summary": "Gestern Nachmittag sind in Reinickendorf drei Männer bei einer Auseinandersetzung mit einem Messer verletzt worden.",
       "category": "Ermittlung"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713185.php",
       "publishedAt": "2026-09-12T12:11:39+00:00",
       "publishedLabel": "12.09.2026 12:11",
-      "summary": "Einbruch in Kunstauktionshaus",
+      "summary": "Unbekannte brachen heute früh in ein Geschäft in Charlottenburg ein.",
       "category": "Verkehr"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712632.php",
       "publishedAt": "2026-09-10T15:17:35+00:00",
       "publishedLabel": "10.09.2026 15:17",
-      "summary": "Waffe nach Verkehrsüberprüfung gefunden",
+      "summary": "Einsatzkräfte stellten in der vergangenen Nacht nach einer Verkehrskontrolle in Kreuzberg bei einem Mann mutmaßliche Drogen fest.",
       "category": "Verkehr"
     },
     {
