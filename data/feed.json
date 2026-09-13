@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-13T11:15:54.226131+00:00",
-    "checkedTime": "11:15 Uhr",
+    "checkedAt": "2026-09-13T14:56:23.944498+00:00",
+    "checkedTime": "14:56 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mehrere Verletzte nach Verkehrsunfall mit BVG-Bus",
     "latestPublishedAt": "2026-09-13T11:01:01+00:00"
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713176.php",
       "publishedAt": "2026-09-12T10:21:03+00:00",
       "publishedLabel": "12.09.2026 10:21",
-      "summary": "Motorradfahrer nach Verkehrsunfall in stationärer Behandlung",
+      "summary": "Gestern Mittag erlitt ein Motorradfahrer im Ortsteil Rummelsburg bei einem Verkehrsunfall erhebliche Verletzungen.",
       "category": "Verkehr"
     },
     {
@@ -111,15 +111,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
       "publishedAt": "2026-09-11T13:03:00+00:00",
       "publishedLabel": "11.09.2026 13:03",
-      "summary": "Toter identifiziert",
-      "category": "Sonstiges"
+      "summary": "Der am 21. Juli 2026 verstorbene Mann konnte nach der Öffentlichkeitsfahndung identifiziert werden.",
+      "category": "Fahndung"
     },
     {
       "title": "Polizei Berlin lädt zum 45. Tag der offenen Tür ein",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713049.php",
       "publishedAt": "2026-09-11T12:15:21+00:00",
       "publishedLabel": "11.09.2026 12:15",
-      "summary": "Polizei Berlin lädt zum 45. Tag der offenen Tür ein",
+      "summary": "Am kommenden Sonntag, den 13. September 2026 findet der 45. Tag der offenen Tür auf dem Polizeigelände in der Charlottenburger Chaussee in Spandau statt.",
       "category": "Einsatz"
     },
     {
@@ -127,8 +127,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712730.php",
       "publishedAt": "2026-09-11T07:31:36+00:00",
       "publishedLabel": "11.09.2026 07:31",
-      "summary": "Klassenraum mit reizender Substanz besprüht",
-      "category": "Sonstiges"
+      "summary": "Gestern Nachmittag wurden Einsatz- und Rettungskräfte nach Pankow alarmiert.",
+      "category": "Einsatz"
     },
     {
       "title": "Waffe nach Verkehrsüberprüfung gefunden",
