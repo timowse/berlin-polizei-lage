@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-14T16:48:40.221230+00:00",
-    "checkedTime": "16:48 Uhr",
+    "checkedAt": "2026-09-14T23:29:01.016364+00:00",
+    "checkedTime": "23:29 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Großes Interesse am 45. Tag der offenen Tür der Polizei Berlin",
-    "latestPublishedAt": "2026-09-14T15:38:32+00:00"
+    "latestTitle": "Vermisster Tourist wieder wohlbehalten bei Freunden",
+    "latestPublishedAt": "2026-09-14T21:47:00+00:00"
   },
   "items": [
+    {
+      "title": "Vermisster Tourist wieder wohlbehalten bei Freunden",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713578.php",
+      "publishedAt": "2026-09-14T21:47:00+00:00",
+      "publishedLabel": "14.09.2026 21:47",
+      "summary": "Der vormals vermisste 31-Jährige ist von Einsatzkräften wohlbehalten bei Freunden angetroffen worden.",
+      "category": "Fahndung"
+    },
     {
       "title": "Großes Interesse am 45. Tag der offenen Tür der Polizei Berlin",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713789.php",
@@ -33,14 +41,6 @@
       "publishedLabel": "14.09.2026 13:18",
       "summary": "Gestern Abend wurden in Moabit ein E-Scooter sowie ein darauf befindliches Wahlplakat in Brand gesteckt.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Mann vermisst - Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713578.php",
-      "publishedAt": "2026-09-14T12:03:17+00:00",
-      "publishedLabel": "14.09.2026 12:03",
-      "summary": "Mit der Veröffentlichung mehrerer Fotos sucht die Polizei Berlin nach einem 31-jährigen Mann, der seit gestern vermisst wird.",
-      "category": "Fahndung"
     },
     {
       "title": "Mann durch Faustschlag verletzt",
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713174.php",
       "publishedAt": "2026-09-12T09:54:34+00:00",
       "publishedLabel": "12.09.2026 09:54",
-      "summary": "Tödlicher Verkehrsunfall",
+      "summary": "Gestern Nachmittag verstarb ein Mann nach einem Verkehrsunfall in Weißensee.",
       "category": "Verkehr"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713169.php",
       "publishedAt": "2026-09-12T09:02:07+00:00",
       "publishedLabel": "12.09.2026 09:02",
-      "summary": "Wahlplakate beschmiert - Festnahmen",
+      "summary": "Einsatzkräfte nahmen in der vergangenen Nacht vier Jugendliche in Pankow fest.",
       "category": "Ermittlung"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713131.php",
       "publishedAt": "2026-09-11T15:37:07+00:00",
       "publishedLabel": "11.09.2026 15:37",
-      "summary": "Abgeordneter bedroht",
+      "summary": "Heute Vormittag soll ein Mann im Ortsteil Hansaviertel einen Abgeordneten an dessen Infostand bedroht haben.",
       "category": "Sonstiges"
     }
   ]
