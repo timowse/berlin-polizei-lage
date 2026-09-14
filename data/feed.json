@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-14T10:53:40.033037+00:00",
-    "checkedTime": "10:53 Uhr",
+    "checkedAt": "2026-09-14T16:48:40.221230+00:00",
+    "checkedTime": "16:48 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann durch Faustschlag verletzt",
-    "latestPublishedAt": "2026-09-14T10:04:39+00:00"
+    "latestTitle": "Großes Interesse am 45. Tag der offenen Tür der Polizei Berlin",
+    "latestPublishedAt": "2026-09-14T15:38:32+00:00"
   },
   "items": [
+    {
+      "title": "Großes Interesse am 45. Tag der offenen Tür der Polizei Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713789.php",
+      "publishedAt": "2026-09-14T15:38:32+00:00",
+      "publishedLabel": "14.09.2026 15:38",
+      "summary": "Rund 20.000 Menschen besuchten am vergangenen Sonntag, dem 13. September 2026, den 45. Tag der offenen Tür der Polizei Berlin in Spandau.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Vermisster Senior wieder im Kreise seiner Familie",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1713533.php",
+      "publishedAt": "2026-09-14T14:58:00+00:00",
+      "publishedLabel": "14.09.2026 14:58",
+      "summary": "Der vermisste 91-Jährige befindet sich wieder im Kreise seiner Familie.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Wahlplakat und E-Scooter angezündet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713663.php",
+      "publishedAt": "2026-09-14T13:18:08+00:00",
+      "publishedLabel": "14.09.2026 13:18",
+      "summary": "Gestern Abend wurden in Moabit ein E-Scooter sowie ein darauf befindliches Wahlplakat in Brand gesteckt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mann vermisst - Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713578.php",
+      "publishedAt": "2026-09-14T12:03:17+00:00",
+      "publishedLabel": "14.09.2026 12:03",
+      "summary": "Mit der Veröffentlichung mehrerer Fotos sucht die Polizei Berlin nach einem 31-jährigen Mann, der seit gestern vermisst wird.",
+      "category": "Fahndung"
+    },
     {
       "title": "Mann durch Faustschlag verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713425.php",
@@ -103,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713174.php",
       "publishedAt": "2026-09-12T09:54:34+00:00",
       "publishedLabel": "12.09.2026 09:54",
-      "summary": "Gestern Nachmittag verstarb ein Mann nach einem Verkehrsunfall in Weißensee.",
+      "summary": "Tödlicher Verkehrsunfall",
       "category": "Verkehr"
     },
     {
@@ -111,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713169.php",
       "publishedAt": "2026-09-12T09:02:07+00:00",
       "publishedLabel": "12.09.2026 09:02",
-      "summary": "Einsatzkräfte nahmen in der vergangenen Nacht vier Jugendliche in Pankow fest.",
+      "summary": "Wahlplakate beschmiert - Festnahmen",
       "category": "Ermittlung"
     },
     {
@@ -119,40 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713131.php",
       "publishedAt": "2026-09-11T15:37:07+00:00",
       "publishedLabel": "11.09.2026 15:37",
-      "summary": "Heute Vormittag soll ein Mann im Ortsteil Hansaviertel einen Abgeordneten an dessen Infostand bedroht haben.",
+      "summary": "Abgeordneter bedroht",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Toter identifiziert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
-      "publishedAt": "2026-09-11T13:03:00+00:00",
-      "publishedLabel": "11.09.2026 13:03",
-      "summary": "Der am 21. Juli 2026 verstorbene Mann konnte nach der Öffentlichkeitsfahndung identifiziert werden.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Polizei Berlin lädt zum 45. Tag der offenen Tür ein",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713049.php",
-      "publishedAt": "2026-09-11T12:15:21+00:00",
-      "publishedLabel": "11.09.2026 12:15",
-      "summary": "Am kommenden Sonntag, den 13. September 2026 findet der 45. Tag der offenen Tür auf dem Polizeigelände in der Charlottenburger Chaussee in Spandau statt.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Klassenraum mit reizender Substanz besprüht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712730.php",
-      "publishedAt": "2026-09-11T07:31:36+00:00",
-      "publishedLabel": "11.09.2026 07:31",
-      "summary": "Gestern Nachmittag wurden Einsatz- und Rettungskräfte nach Pankow alarmiert.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Waffe nach Verkehrsüberprüfung gefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712632.php",
-      "publishedAt": "2026-09-10T15:17:35+00:00",
-      "publishedLabel": "10.09.2026 15:17",
-      "summary": "Einsatzkräfte stellten in der vergangenen Nacht nach einer Verkehrskontrolle in Kreuzberg bei einem Mann mutmaßliche Drogen fest.",
-      "category": "Verkehr"
     }
   ]
 }
