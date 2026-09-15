@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-15T12:14:30.150967+00:00",
-    "checkedTime": "12:14 Uhr",
+    "checkedAt": "2026-09-15T17:06:51.301160+00:00",
+    "checkedTime": "17:06 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "E-Scooter-Fahrerin bei Verkehrsunfall verletzt",
-    "latestPublishedAt": "2026-09-15T10:10:26+00:00"
+    "latestTitle": "Schwerverletzte Radfahrerin durch Verkehrsunfall",
+    "latestPublishedAt": "2026-09-15T13:30:58+00:00"
   },
   "items": [
+    {
+      "title": "Schwerverletzte Radfahrerin durch Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714174.php",
+      "publishedAt": "2026-09-15T13:30:58+00:00",
+      "publishedLabel": "15.09.2026 13:30",
+      "summary": "Am heutigen Morgen ist eine Radfahrerin in Steglitz bei einem Verkehrsunfall schwer verletzt worden.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Gegen einen Baum geprallt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714166.php",
+      "publishedAt": "2026-09-15T13:24:52+00:00",
+      "publishedLabel": "15.09.2026 13:24",
+      "summary": "Vergangene Nacht ereignete sich in Buch ein schwerer Verkehrsunfall.",
+      "category": "Verkehr"
+    },
     {
       "title": "E-Scooter-Fahrerin bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714019.php",
@@ -111,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713187.php",
       "publishedAt": "2026-09-12T12:25:30+00:00",
       "publishedLabel": "12.09.2026 12:25",
-      "summary": "In der Nacht vom 10. zum 11. September 2026 ist eine Frau von zwei Männern in Mitte angegriffen und verletzt worden.",
+      "summary": "Antisemitischer Angriff",
       "category": "Ermittlung"
     },
     {
@@ -119,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713185.php",
       "publishedAt": "2026-09-12T12:11:39+00:00",
       "publishedLabel": "12.09.2026 12:11",
-      "summary": "Unbekannte brachen heute früh in ein Geschäft in Charlottenburg ein.",
+      "summary": "Einbruch in Kunstauktionshaus",
       "category": "Verkehr"
     },
     {
@@ -137,22 +153,6 @@
       "publishedLabel": "12.09.2026 10:42",
       "summary": "Heute früh kam es zu Schussabgaben in Tempelhof.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Motorradfahrer nach Verkehrsunfall in stationärer Behandlung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713176.php",
-      "publishedAt": "2026-09-12T10:21:03+00:00",
-      "publishedLabel": "12.09.2026 10:21",
-      "summary": "Gestern Mittag erlitt ein Motorradfahrer im Ortsteil Rummelsburg bei einem Verkehrsunfall erhebliche Verletzungen.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Tödlicher Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713174.php",
-      "publishedAt": "2026-09-12T09:54:34+00:00",
-      "publishedLabel": "12.09.2026 09:54",
-      "summary": "Gestern Nachmittag verstarb ein Mann nach einem Verkehrsunfall in Weißensee.",
-      "category": "Verkehr"
     }
   ]
 }
