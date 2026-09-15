@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-15T17:06:51.301160+00:00",
-    "checkedTime": "17:06 Uhr",
+    "checkedAt": "2026-09-15T20:13:42.415919+00:00",
+    "checkedTime": "20:13 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Schwerverletzte Radfahrerin durch Verkehrsunfall",
     "latestPublishedAt": "2026-09-15T13:30:58+00:00"
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713187.php",
       "publishedAt": "2026-09-12T12:25:30+00:00",
       "publishedLabel": "12.09.2026 12:25",
-      "summary": "Antisemitischer Angriff",
+      "summary": "In der Nacht vom 10. zum 11. September 2026 ist eine Frau von zwei Männern in Mitte angegriffen und verletzt worden.",
       "category": "Ermittlung"
     },
     {
@@ -135,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713185.php",
       "publishedAt": "2026-09-12T12:11:39+00:00",
       "publishedLabel": "12.09.2026 12:11",
-      "summary": "Einbruch in Kunstauktionshaus",
+      "summary": "Unbekannte brachen heute früh in ein Geschäft in Charlottenburg ein.",
       "category": "Verkehr"
     },
     {
