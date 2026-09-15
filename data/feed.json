@@ -3,18 +3,34 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-15T06:48:19.144348+00:00",
-    "checkedTime": "06:48 Uhr",
+    "checkedAt": "2026-09-15T12:14:30.150967+00:00",
+    "checkedTime": "12:14 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Vermisster Tourist wieder wohlbehalten bei Freunden",
-    "latestPublishedAt": "2026-09-14T21:47:00+00:00"
+    "latestTitle": "E-Scooter-Fahrerin bei Verkehrsunfall verletzt",
+    "latestPublishedAt": "2026-09-15T10:10:26+00:00"
   },
   "items": [
     {
+      "title": "E-Scooter-Fahrerin bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714019.php",
+      "publishedAt": "2026-09-15T10:10:26+00:00",
+      "publishedLabel": "15.09.2026 10:10",
+      "summary": "Gestern Nachmittag ereignete sich in Biesdorf ein Verkehrsunfall, bei dem eine E-Scooter-Fahrerin verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "DEIG Einsatz nach Widerstand",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714007.php",
+      "publishedAt": "2026-09-15T09:57:27+00:00",
+      "publishedLabel": "15.09.2026 09:57",
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte nach Kreuzberg alarmiert.",
+      "category": "Einsatz"
+    },
+    {
       "title": "Vermisster Tourist wieder wohlbehalten bei Freunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713578.php",
-      "publishedAt": "2026-09-14T21:47:00+00:00",
-      "publishedLabel": "14.09.2026 21:47",
+      "publishedAt": "2026-09-14T22:01:00+00:00",
+      "publishedLabel": "14.09.2026 22:01",
       "summary": "Der vormals vermisste 31-Jährige ist von Einsatzkräften wohlbehalten bei Freunden angetroffen worden.",
       "category": "Fahndung"
     },
@@ -137,22 +153,6 @@
       "publishedLabel": "12.09.2026 09:54",
       "summary": "Gestern Nachmittag verstarb ein Mann nach einem Verkehrsunfall in Weißensee.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Wahlplakate beschmiert - Festnahmen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713169.php",
-      "publishedAt": "2026-09-12T09:02:07+00:00",
-      "publishedLabel": "12.09.2026 09:02",
-      "summary": "Einsatzkräfte nahmen in der vergangenen Nacht vier Jugendliche in Pankow fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Abgeordneter bedroht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713131.php",
-      "publishedAt": "2026-09-11T15:37:07+00:00",
-      "publishedLabel": "11.09.2026 15:37",
-      "summary": "Heute Vormittag soll ein Mann im Ortsteil Hansaviertel einen Abgeordneten an dessen Infostand bedroht haben.",
-      "category": "Sonstiges"
     }
   ]
 }
