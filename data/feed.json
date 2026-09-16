@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-16T19:04:03.058954+00:00",
-    "checkedTime": "19:04 Uhr",
+    "checkedAt": "2026-09-16T22:06:49.043916+00:00",
+    "checkedTime": "22:06 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Attacke am Infostand",
     "latestPublishedAt": "2026-09-16T13:57:33+00:00"
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714019.php",
       "publishedAt": "2026-09-15T10:10:26+00:00",
       "publishedLabel": "15.09.2026 10:10",
-      "summary": "Gestern Nachmittag ereignete sich in Biesdorf ein Verkehrsunfall, bei dem eine E-Scooter-Fahrerin verletzt wurde.",
+      "summary": "E-Scooter-Fahrerin bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714007.php",
       "publishedAt": "2026-09-15T09:57:27+00:00",
       "publishedLabel": "15.09.2026 09:57",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte nach Kreuzberg alarmiert.",
+      "summary": "DEIG Einsatz nach Widerstand",
       "category": "Einsatz"
     },
     {
@@ -135,15 +135,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713663.php",
       "publishedAt": "2026-09-14T13:18:08+00:00",
       "publishedLabel": "14.09.2026 13:18",
-      "summary": "Gestern Abend wurden in Moabit ein E-Scooter sowie ein darauf befindliches Wahlplakat in Brand gesteckt.",
-      "category": "Ermittlung"
+      "summary": "Wahlplakat und E-Scooter angezündet",
+      "category": "Sonstiges"
     },
     {
       "title": "Mann durch Faustschlag verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713425.php",
       "publishedAt": "2026-09-14T10:04:39+00:00",
       "publishedLabel": "14.09.2026 10:04",
-      "summary": "In der vergangenen Nacht soll es in Schöneberg zu einer Körperverletzung mit homophobem Hintergrund gekommen sein.",
+      "summary": "Mann durch Faustschlag verletzt",
       "category": "Ermittlung"
     },
     {
