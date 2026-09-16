@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-16T01:13:30.479221+00:00",
-    "checkedTime": "01:13 Uhr",
+    "checkedAt": "2026-09-16T11:30:16.943057+00:00",
+    "checkedTime": "11:30 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Schwerverletzte Radfahrerin durch Verkehrsunfall",
-    "latestPublishedAt": "2026-09-15T13:30:58+00:00"
+    "latestTitle": "Verkehrsunfall mit Polizeifahrzeug",
+    "latestPublishedAt": "2026-09-16T10:12:51+00:00"
   },
   "items": [
+    {
+      "title": "Verkehrsunfall mit Polizeifahrzeug",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714521.php",
+      "publishedAt": "2026-09-16T10:12:51+00:00",
+      "publishedLabel": "16.09.2026 10:12",
+      "summary": "Gestern Abend ereignete sich in Tempelhof ein Verkehrsunfall, an dem ein Polizeifahrzeug beteiligt war.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Frau an einem Informationsstand einer Partei angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714411.php",
+      "publishedAt": "2026-09-16T08:39:14+00:00",
+      "publishedLabel": "16.09.2026 08:39",
+      "summary": "Gestern Nachmittag wurde eine Frau in Schöneberg am Schienbein verletzt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Abgeordneter an Partei-Infostand angegangen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714400.php",
+      "publishedAt": "2026-09-16T08:26:58+00:00",
+      "publishedLabel": "16.09.2026 08:26",
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin in den Ortsteil Gropiusstadt alarmiert.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Angriff auf Geldtransporter – Polizei bittet um Mithilfe - Belohnung ausgelobt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714078.php",
+      "publishedAt": "2026-09-16T08:00:00+00:00",
+      "publishedLabel": "16.09.2026 08:00",
+      "summary": "Am Donnerstag, den 20. August 2026, kam es gegen 15:10 Uhr zu einem Angriff auf einen Geldtransporter in Lankwitz.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Schwerverletzte Radfahrerin durch Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714174.php",
@@ -31,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714019.php",
       "publishedAt": "2026-09-15T10:10:26+00:00",
       "publishedLabel": "15.09.2026 10:10",
-      "summary": "Gestern Nachmittag ereignete sich in Biesdorf ein Verkehrsunfall, bei dem eine E-Scooter-Fahrerin verletzt wurde.",
+      "summary": "E-Scooter-Fahrerin bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -79,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713425.php",
       "publishedAt": "2026-09-14T10:04:39+00:00",
       "publishedLabel": "14.09.2026 10:04",
-      "summary": "In der vergangenen Nacht soll es in Schöneberg zu einer Körperverletzung mit homophobem Hintergrund gekommen sein.",
+      "summary": "Mann durch Faustschlag verletzt",
       "category": "Ermittlung"
     },
     {
@@ -121,38 +153,6 @@
       "publishedLabel": "13.09.2026 09:27",
       "summary": "Gestern Nachmittag sind in Reinickendorf drei Männer bei einer Auseinandersetzung mit einem Messer verletzt worden.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Antisemitischer Angriff",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713187.php",
-      "publishedAt": "2026-09-12T12:25:30+00:00",
-      "publishedLabel": "12.09.2026 12:25",
-      "summary": "In der Nacht vom 10. zum 11. September 2026 ist eine Frau von zwei Männern in Mitte angegriffen und verletzt worden.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Einbruch in Kunstauktionshaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713185.php",
-      "publishedAt": "2026-09-12T12:11:39+00:00",
-      "publishedLabel": "12.09.2026 12:11",
-      "summary": "Unbekannte brachen heute früh in ein Geschäft in Charlottenburg ein.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Zeugenaufruf nach versuchtem Totschlag",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
-      "publishedAt": "2026-09-12T11:39:00+00:00",
-      "publishedLabel": "12.09.2026 11:39",
-      "summary": "Die 6. Mordkommission bittet um Mithilfe bei den Ermittlungen zu einem versuchten Tötungsdelikt auf einen 20-jährigen Mann in Adlershof.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Schüsse auf Friseurgeschäft",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713178.php",
-      "publishedAt": "2026-09-12T10:42:58+00:00",
-      "publishedLabel": "12.09.2026 10:42",
-      "summary": "Heute früh kam es zu Schussabgaben in Tempelhof.",
-      "category": "Sonstiges"
     }
   ]
 }
