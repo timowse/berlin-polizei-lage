@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-17T05:13:25.766679+00:00",
-    "checkedTime": "05:13 Uhr",
+    "checkedAt": "2026-09-17T10:04:49.646237+00:00",
+    "checkedTime": "10:04 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Attacke am Infostand",
-    "latestPublishedAt": "2026-09-16T13:57:33+00:00"
+    "latestTitle": "Farbschmierereien an Wahlkreisbüro",
+    "latestPublishedAt": "2026-09-17T08:01:00+00:00"
   },
   "items": [
+    {
+      "title": "Farbschmierereien an Wahlkreisbüro",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715125.php",
+      "publishedAt": "2026-09-17T08:01:00+00:00",
+      "publishedLabel": "17.09.2026 08:01",
+      "summary": "Einsatzkräfte des Polizeiabschnitts 13 nahmen gestern Mittag eine Sachbeschädigung an einem Pankower Parteibüro auf.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Heranwachsende angegriffen - Polizei Berlin sucht Zeuginnen und Zeugen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715072.php",
+      "publishedAt": "2026-09-17T07:35:45+00:00",
+      "publishedLabel": "17.09.2026 07:35",
+      "summary": "Am 25. März 2026 sollen zwei bislang Unbekannte im Bereich der Jessnerstraße eine junge Frau und einen jungen Mann angegriffen haben.",
+      "category": "Fahndung"
+    },
     {
       "title": "Attacke am Infostand",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714851.php",
@@ -71,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714078.php",
       "publishedAt": "2026-09-16T08:00:00+00:00",
       "publishedLabel": "16.09.2026 08:00",
-      "summary": "Am Donnerstag, den 20. August 2026, kam es gegen 15:10 Uhr zu einem Angriff auf einen Geldtransporter in Lankwitz.",
+      "summary": "Angriff auf Geldtransporter – Polizei bittet um Mithilfe - Belohnung ausgelobt",
       "category": "Ermittlung"
     },
     {
@@ -137,22 +153,6 @@
       "publishedLabel": "14.09.2026 13:18",
       "summary": "Gestern Abend wurden in Moabit ein E-Scooter sowie ein darauf befindliches Wahlplakat in Brand gesteckt.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Mann durch Faustschlag verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713425.php",
-      "publishedAt": "2026-09-14T10:04:39+00:00",
-      "publishedLabel": "14.09.2026 10:04",
-      "summary": "In der vergangenen Nacht soll es in Schöneberg zu einer Körperverletzung mit homophobem Hintergrund gekommen sein.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Fußgänger lebensgefährlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713418.php",
-      "publishedAt": "2026-09-14T09:57:38+00:00",
-      "publishedLabel": "14.09.2026 09:57",
-      "summary": "Gestern Nachmittag ereignete sich in Zehlendorf ein Verkehrsunfall, bei dem ein Fußgänger lebensgefährlich verletzt wurde.",
-      "category": "Verkehr"
     }
   ]
 }
