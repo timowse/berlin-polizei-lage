@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-17T10:04:49.646237+00:00",
-    "checkedTime": "10:04 Uhr",
+    "checkedAt": "2026-09-17T14:57:38.046698+00:00",
+    "checkedTime": "14:57 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Farbschmierereien an Wahlkreisbüro",
-    "latestPublishedAt": "2026-09-17T08:01:00+00:00"
+    "latestTitle": "Polizist bei Verkehrskontrolle angefahren",
+    "latestPublishedAt": "2026-09-17T11:49:16+00:00"
   },
   "items": [
+    {
+      "title": "Polizist bei Verkehrskontrolle angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715408.php",
+      "publishedAt": "2026-09-17T11:49:16+00:00",
+      "publishedLabel": "17.09.2026 11:49",
+      "summary": "Bei einer Verkehrskontrolle in Reinickendorf ist gestern Nachmittag ein Polizeibeamter leicht verletzt worden.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Hotel überfallen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715324.php",
+      "publishedAt": "2026-09-17T11:06:31+00:00",
+      "publishedLabel": "17.09.2026 11:06",
+      "summary": "In der vergangenen Nacht kam es zu einem versuchten schweren Raub auf ein Hotel in Siemensstadt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Homophober Angriff",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715289.php",
+      "publishedAt": "2026-09-17T10:37:51+00:00",
+      "publishedLabel": "17.09.2026 10:37",
+      "summary": "In Prenzlauer Berg wurde ein 26-Jähriger vergangene Nacht von mehreren Personen überfallen und verletzt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Fußgängerin von Tram angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715253.php",
+      "publishedAt": "2026-09-17T10:15:08+00:00",
+      "publishedLabel": "17.09.2026 10:15",
+      "summary": "Gestern Mittag ereignete sich ein Verkehrsunfall in Weißensee, bei dem eine Fußgängerin lebensbedrohlich verletzt wurde.",
+      "category": "Verkehr"
+    },
     {
       "title": "Farbschmierereien an Wahlkreisbüro",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715125.php",
@@ -47,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714769.php",
       "publishedAt": "2026-09-16T12:34:53+00:00",
       "publishedLabel": "16.09.2026 12:34",
-      "summary": "Heute früh brannte es in einem Restaurant in Lichterfelde.",
+      "summary": "Gestern früh brannte es in einem Restaurant in Lichterfelde.",
       "category": "Verkehr"
     },
     {
@@ -87,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714078.php",
       "publishedAt": "2026-09-16T08:00:00+00:00",
       "publishedLabel": "16.09.2026 08:00",
-      "summary": "Angriff auf Geldtransporter – Polizei bittet um Mithilfe - Belohnung ausgelobt",
+      "summary": "Am Donnerstag, den 20. August 2026, kam es gegen 15:10 Uhr zu einem Angriff auf einen Geldtransporter in Lankwitz.",
       "category": "Ermittlung"
     },
     {
@@ -121,38 +153,6 @@
       "publishedLabel": "15.09.2026 09:57",
       "summary": "Gestern Nachmittag wurden Einsatzkräfte nach Kreuzberg alarmiert.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Vermisster Tourist wieder wohlbehalten bei Freunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713578.php",
-      "publishedAt": "2026-09-14T22:01:00+00:00",
-      "publishedLabel": "14.09.2026 22:01",
-      "summary": "Der vormals vermisste 31-Jährige ist von Einsatzkräften wohlbehalten bei Freunden angetroffen worden.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Großes Interesse am 45. Tag der offenen Tür der Polizei Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713789.php",
-      "publishedAt": "2026-09-14T15:38:32+00:00",
-      "publishedLabel": "14.09.2026 15:38",
-      "summary": "Rund 20.000 Menschen besuchten am vergangenen Sonntag, dem 13. September 2026, den 45. Tag der offenen Tür der Polizei Berlin in Spandau.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Vermisster Senior wieder im Kreise seiner Familie",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1713533.php",
-      "publishedAt": "2026-09-14T14:58:00+00:00",
-      "publishedLabel": "14.09.2026 14:58",
-      "summary": "Der vermisste 91-Jährige befindet sich wieder im Kreise seiner Familie.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Wahlplakat und E-Scooter angezündet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713663.php",
-      "publishedAt": "2026-09-14T13:18:08+00:00",
-      "publishedLabel": "14.09.2026 13:18",
-      "summary": "Gestern Abend wurden in Moabit ein E-Scooter sowie ein darauf befindliches Wahlplakat in Brand gesteckt.",
-      "category": "Ermittlung"
     }
   ]
 }
