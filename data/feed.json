@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-18T09:11:37.038686+00:00",
-    "checkedTime": "09:11 Uhr",
+    "checkedAt": "2026-09-18T13:39:38.169203+00:00",
+    "checkedTime": "13:39 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
-    "latestPublishedAt": "2026-09-18T07:20:39+00:00"
+    "latestTitle": "Aktionswoche zur Verkehrsunfallprävention von Seniorinnen und Senioren",
+    "latestPublishedAt": "2026-09-18T13:24:02+00:00"
   },
   "items": [
+    {
+      "title": "Aktionswoche zur Verkehrsunfallprävention von Seniorinnen und Senioren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716209.php",
+      "publishedAt": "2026-09-18T13:24:02+00:00",
+      "publishedLabel": "18.09.2026 13:24",
+      "summary": "Die Polizei Berlin führt eine Aktionswoche zur Verkehrsunfallprävention zum Schutz von Fußgängerinnen und Fußgängern im Seniorenalter durch.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Verkehrsunfall – Beifahrerin im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716194.php",
+      "publishedAt": "2026-09-18T13:07:36+00:00",
+      "publishedLabel": "18.09.2026 13:07",
+      "summary": "Gestern Abend kam es in Mitte zu einem Verkehrsunfall, nachdem der Fahrzeugführer von der Fahrbahn abkam und sich im Anschluss überschlug.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Nach versuchtem Totschlag – Mordkommission sucht weiter nach Zeuginnen und Zeugen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
+      "publishedAt": "2026-09-18T11:33:00+00:00",
+      "publishedLabel": "18.09.2026 11:33",
+      "summary": "Die Staatsanwaltschaft Berlin und die 6. Mordkommission des Landeskriminalamtes bitten weiterhin um Mithilfe bei den Ermittlungen zu einem versuchten Tötungsdelikt zum Nachteil eines 20-jährigen Mannes in Adlershof.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Schussabgabe durch Polizeibeamten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716068.php",
+      "publishedAt": "2026-09-18T11:18:20+00:00",
+      "publishedLabel": "18.09.2026 11:18",
+      "summary": "In der vergangenen Nacht kam es in Kreuzberg zu einer Schussabgabe durch einen Polizeibeamten auf ein Fahrzeug.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "64-Jähriger vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716014.php",
+      "publishedAt": "2026-09-18T10:07:52+00:00",
+      "publishedLabel": "18.09.2026 10:07",
+      "summary": "Mit der Veröffentlichung von Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach dem 64-jährigen Thomas Ralf Hans FREDRICHSDORF und seinem Auto.",
+      "category": "Verkehr"
+    },
     {
       "title": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715729.php",
@@ -113,46 +153,6 @@
       "publishedLabel": "16.09.2026 08:39",
       "summary": "Gestern Nachmittag wurde eine Frau in Schöneberg am Schienbein verletzt.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Abgeordneter an Partei-Infostand angegangen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714400.php",
-      "publishedAt": "2026-09-16T08:26:58+00:00",
-      "publishedLabel": "16.09.2026 08:26",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin in den Ortsteil Gropiusstadt alarmiert.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Angriff auf Geldtransporter – Polizei bittet um Mithilfe - Belohnung ausgelobt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714078.php",
-      "publishedAt": "2026-09-16T08:00:00+00:00",
-      "publishedLabel": "16.09.2026 08:00",
-      "summary": "Am Donnerstag, den 20. August 2026, kam es gegen 15:10 Uhr zu einem Angriff auf einen Geldtransporter in Lankwitz.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Schwerverletzte Radfahrerin durch Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714174.php",
-      "publishedAt": "2026-09-15T13:30:58+00:00",
-      "publishedLabel": "15.09.2026 13:30",
-      "summary": "Am heutigen Morgen ist eine Radfahrerin in Steglitz bei einem Verkehrsunfall schwer verletzt worden.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Gegen einen Baum geprallt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714166.php",
-      "publishedAt": "2026-09-15T13:24:52+00:00",
-      "publishedLabel": "15.09.2026 13:24",
-      "summary": "Vergangene Nacht ereignete sich in Buch ein schwerer Verkehrsunfall.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "E-Scooter-Fahrerin bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714019.php",
-      "publishedAt": "2026-09-15T10:10:26+00:00",
-      "publishedLabel": "15.09.2026 10:10",
-      "summary": "Gestern Nachmittag ereignete sich in Biesdorf ein Verkehrsunfall, bei dem eine E-Scooter-Fahrerin verletzt wurde.",
-      "category": "Verkehr"
     }
   ]
 }
