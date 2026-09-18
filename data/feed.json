@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-17T21:56:49.387465+00:00",
-    "checkedTime": "21:56 Uhr",
+    "checkedAt": "2026-09-18T00:01:07.397428+00:00",
+    "checkedTime": "00:01 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Polizist bei Verkehrskontrolle angefahren",
     "latestPublishedAt": "2026-09-17T11:49:16+00:00"
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715253.php",
       "publishedAt": "2026-09-17T10:15:08+00:00",
       "publishedLabel": "17.09.2026 10:15",
-      "summary": "Gestern Mittag ereignete sich ein Verkehrsunfall in Weißensee, bei dem eine Fußgängerin lebensbedrohlich verletzt wurde.",
+      "summary": "Fußgängerin von Tram angefahren",
       "category": "Verkehr"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715072.php",
       "publishedAt": "2026-09-17T07:35:45+00:00",
       "publishedLabel": "17.09.2026 07:35",
-      "summary": "Am 25. März 2026 sollen zwei bislang Unbekannte im Bereich der Jessnerstraße eine junge Frau und einen jungen Mann angegriffen haben.",
+      "summary": "Heranwachsende angegriffen - Polizei Berlin sucht Zeuginnen und Zeugen",
       "category": "Fahndung"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714851.php",
       "publishedAt": "2026-09-16T13:57:33+00:00",
       "publishedLabel": "16.09.2026 13:57",
-      "summary": "Zu einer Attacke an einem Parteiinfostand kam es heute früh in Reinickendorf.",
+      "summary": "Attacke am Infostand",
       "category": "Sonstiges"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714788.php",
       "publishedAt": "2026-09-16T12:47:15+00:00",
       "publishedLabel": "16.09.2026 12:47",
-      "summary": "Einsatzkräfte sind gestern Abend sowie in der vergangenen Nacht zu verschiedenen Sachverhalten im Zusammenhang mit der anstehenden Wahl alarmiert worden.",
+      "summary": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "category": "Ermittlung"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714689.php",
       "publishedAt": "2026-09-16T11:36:14+00:00",
       "publishedLabel": "16.09.2026 11:36",
-      "summary": "In Marienfelde ereignete sich gestern Mittag ein Verkehrsunfall, in dessen Folge eine Seniorin in eine Klinik kam.",
+      "summary": "Verkehrsunfall mit Kettenreaktion",
       "category": "Verkehr"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714521.php",
       "publishedAt": "2026-09-16T10:12:51+00:00",
       "publishedLabel": "16.09.2026 10:12",
-      "summary": "Gestern Abend ereignete sich in Tempelhof ein Verkehrsunfall, an dem ein Polizeifahrzeug beteiligt war.",
+      "summary": "Verkehrsunfall mit Polizeifahrzeug",
       "category": "Verkehr"
     },
     {
