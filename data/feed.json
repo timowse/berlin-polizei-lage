@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-18T13:39:38.169203+00:00",
-    "checkedTime": "13:39 Uhr",
+    "checkedAt": "2026-09-18T17:13:19.331080+00:00",
+    "checkedTime": "17:13 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Aktionswoche zur Verkehrsunfallprävention von Seniorinnen und Senioren",
-    "latestPublishedAt": "2026-09-18T13:24:02+00:00"
+    "latestTitle": "Festnahmen nach Scheinankäufen",
+    "latestPublishedAt": "2026-09-18T14:13:24+00:00"
   },
   "items": [
+    {
+      "title": "Festnahmen nach Scheinankäufen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716233.php",
+      "publishedAt": "2026-09-18T14:13:24+00:00",
+      "publishedLabel": "18.09.2026 14:13",
+      "summary": "In Absprache mit der Staatsanwaltschaft Berlin vollzogen Polizeibeamte mehrere Scheinankäufe von illegalen Betäubungsmitteln.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Drogenerkennung im Straßenverkehr – Bilanz zu Schwerpunktkontrollen im Rahmen der 7. Berliner DiS-Tage",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716234.php",
+      "publishedAt": "2026-09-18T14:01:00+00:00",
+      "publishedLabel": "18.09.2026 14:01",
+      "summary": "Die Polizei führte in den vergangenen drei Tagen Verkehrssonderkontrollen mit dem Schwerpunkt „Drogenerkennung im Straßenverkehr“ im Stadtgebiet durch",
+      "category": "Verkehr"
+    },
     {
       "title": "Aktionswoche zur Verkehrsunfallprävention von Seniorinnen und Senioren",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716209.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "16.09.2026 11:36",
       "summary": "In Marienfelde ereignete sich gestern Mittag ein Verkehrsunfall, in dessen Folge eine Seniorin in eine Klinik kam.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Verkehrsunfall mit Polizeifahrzeug",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714521.php",
-      "publishedAt": "2026-09-16T10:12:51+00:00",
-      "publishedLabel": "16.09.2026 10:12",
-      "summary": "Gestern Abend ereignete sich in Tempelhof ein Verkehrsunfall, an dem ein Polizeifahrzeug beteiligt war.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Frau an einem Informationsstand einer Partei angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714411.php",
-      "publishedAt": "2026-09-16T08:39:14+00:00",
-      "publishedLabel": "16.09.2026 08:39",
-      "summary": "Gestern Nachmittag wurde eine Frau in Schöneberg am Schienbein verletzt.",
-      "category": "Ermittlung"
     }
   ]
 }
