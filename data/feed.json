@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-18T04:36:50.271674+00:00",
-    "checkedTime": "04:36 Uhr",
+    "checkedAt": "2026-09-18T09:11:37.038686+00:00",
+    "checkedTime": "09:11 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Polizist bei Verkehrskontrolle angefahren",
-    "latestPublishedAt": "2026-09-17T11:49:16+00:00"
+    "latestTitle": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
+    "latestPublishedAt": "2026-09-18T07:20:39+00:00"
   },
   "items": [
+    {
+      "title": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715729.php",
+      "publishedAt": "2026-09-18T07:20:39+00:00",
+      "publishedLabel": "18.09.2026 07:20",
+      "summary": "Mit Bildern aus einer Überwachungskamera bittet die Polizei Berlin um Mithilfe bei der Suche nach drei Tatverdächtigen zu einem versuchten Raub in Kreuzberg.",
+      "category": "Fahndung"
+    },
     {
       "title": "Polizist bei Verkehrskontrolle angefahren",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715408.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "15.09.2026 10:10",
       "summary": "Gestern Nachmittag ereignete sich in Biesdorf ein Verkehrsunfall, bei dem eine E-Scooter-Fahrerin verletzt wurde.",
       "category": "Verkehr"
-    },
-    {
-      "title": "DEIG Einsatz nach Widerstand",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714007.php",
-      "publishedAt": "2026-09-15T09:57:27+00:00",
-      "publishedLabel": "15.09.2026 09:57",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte nach Kreuzberg alarmiert.",
-      "category": "Einsatz"
     }
   ]
 }
