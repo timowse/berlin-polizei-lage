@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-19T08:54:28.760554+00:00",
-    "checkedTime": "08:54 Uhr",
+    "checkedAt": "2026-09-19T12:56:52.565217+00:00",
+    "checkedTime": "12:56 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Festnahmen nach Scheinankäufen",
-    "latestPublishedAt": "2026-09-18T14:13:24+00:00"
+    "latestTitle": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
+    "latestPublishedAt": "2026-09-19T11:48:04+00:00"
   },
   "items": [
+    {
+      "title": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716310.php",
+      "publishedAt": "2026-09-19T11:48:04+00:00",
+      "publishedLabel": "19.09.2026 11:48",
+      "summary": "Einsatzkräfte des Abschnitts 22 wurden in der vergangenen Nacht zu randalierenden Personen nach Spandau gerufen.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Festnahme nach Brandstiftung an Wohnmobilen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716297.php",
+      "publishedAt": "2026-09-19T09:43:47+00:00",
+      "publishedLabel": "19.09.2026 09:43",
+      "summary": "In Marzahn nahmen Polizeikräfte gestern Abend einen Tatverdächtigen nach einer Brandstiftung auf einem Firmengelände fest.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Unbekannter schlägt Parteimitglied",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716295.php",
+      "publishedAt": "2026-09-19T09:15:22+00:00",
+      "publishedLabel": "19.09.2026 09:15",
+      "summary": "In Charlottenburg-Nord wurde gestern Abend ein Mitglied einer Partei von einem Unbekannten angegriffen.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Festnahmen nach Scheinankäufen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716233.php",
@@ -23,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716234.php",
       "publishedAt": "2026-09-18T14:01:00+00:00",
       "publishedLabel": "18.09.2026 14:01",
-      "summary": "Drogenerkennung im Straßenverkehr – Bilanz zu Schwerpunktkontrollen im Rahmen der 7. Berliner DiS-Tage",
+      "summary": "Die Polizei führte in den vergangenen drei Tagen Verkehrssonderkontrollen mit dem Schwerpunkt „Drogenerkennung im Straßenverkehr“ im Stadtgebiet durch",
       "category": "Verkehr"
     },
     {
@@ -55,16 +79,16 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716068.php",
       "publishedAt": "2026-09-18T11:18:20+00:00",
       "publishedLabel": "18.09.2026 11:18",
-      "summary": "Schussabgabe durch Polizeibeamten",
-      "category": "Einsatz"
+      "summary": "In der vergangenen Nacht kam es in Kreuzberg zu einer Schussabgabe durch einen Polizeibeamten auf ein Fahrzeug.",
+      "category": "Verkehr"
     },
     {
       "title": "64-Jähriger vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716014.php",
       "publishedAt": "2026-09-18T10:07:52+00:00",
       "publishedLabel": "18.09.2026 10:07",
-      "summary": "64-Jähriger vermisst – Polizei bittet um Mithilfe",
-      "category": "Fahndung"
+      "summary": "Mit der Veröffentlichung von Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach dem 64-jährigen Thomas Ralf Hans FREDRICHSDORF und seinem Auto.",
+      "category": "Verkehr"
     },
     {
       "title": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
@@ -87,15 +111,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715324.php",
       "publishedAt": "2026-09-17T11:06:31+00:00",
       "publishedLabel": "17.09.2026 11:06",
-      "summary": "Hotel überfallen",
-      "category": "Sonstiges"
+      "summary": "In der vergangenen Nacht kam es zu einem versuchten schweren Raub auf ein Hotel in Siemensstadt.",
+      "category": "Ermittlung"
     },
     {
       "title": "Homophober Angriff",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715289.php",
       "publishedAt": "2026-09-17T10:37:51+00:00",
       "publishedLabel": "17.09.2026 10:37",
-      "summary": "Homophober Angriff",
+      "summary": "In Prenzlauer Berg wurde ein 26-Jähriger vergangene Nacht von mehreren Personen überfallen und verletzt.",
       "category": "Ermittlung"
     },
     {
@@ -129,30 +153,6 @@
       "publishedLabel": "16.09.2026 13:57",
       "summary": "Zu einer Attacke an einem Parteiinfostand kam es heute früh in Reinickendorf.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714788.php",
-      "publishedAt": "2026-09-16T12:47:15+00:00",
-      "publishedLabel": "16.09.2026 12:47",
-      "summary": "Einsatzkräfte sind gestern Abend sowie in der vergangenen Nacht zu verschiedenen Sachverhalten im Zusammenhang mit der anstehenden Wahl alarmiert worden.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Feuer in einem Fast-Food-Restaurant",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714769.php",
-      "publishedAt": "2026-09-16T12:34:53+00:00",
-      "publishedLabel": "16.09.2026 12:34",
-      "summary": "Gestern früh brannte es in einem Restaurant in Lichterfelde.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Verkehrsunfall mit Kettenreaktion",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714689.php",
-      "publishedAt": "2026-09-16T11:36:14+00:00",
-      "publishedLabel": "16.09.2026 11:36",
-      "summary": "Verkehrsunfall mit Kettenreaktion",
-      "category": "Verkehr"
     }
   ]
 }
