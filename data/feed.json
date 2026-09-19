@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-19T04:25:15.828052+00:00",
-    "checkedTime": "04:25 Uhr",
+    "checkedAt": "2026-09-19T08:54:28.760554+00:00",
+    "checkedTime": "08:54 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Festnahmen nach Scheinankäufen",
     "latestPublishedAt": "2026-09-18T14:13:24+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716234.php",
       "publishedAt": "2026-09-18T14:01:00+00:00",
       "publishedLabel": "18.09.2026 14:01",
-      "summary": "Die Polizei führte in den vergangenen drei Tagen Verkehrssonderkontrollen mit dem Schwerpunkt „Drogenerkennung im Straßenverkehr“ im Stadtgebiet durch",
+      "summary": "Drogenerkennung im Straßenverkehr – Bilanz zu Schwerpunktkontrollen im Rahmen der 7. Berliner DiS-Tage",
       "category": "Verkehr"
     },
     {
@@ -55,16 +55,16 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716068.php",
       "publishedAt": "2026-09-18T11:18:20+00:00",
       "publishedLabel": "18.09.2026 11:18",
-      "summary": "In der vergangenen Nacht kam es in Kreuzberg zu einer Schussabgabe durch einen Polizeibeamten auf ein Fahrzeug.",
-      "category": "Verkehr"
+      "summary": "Schussabgabe durch Polizeibeamten",
+      "category": "Einsatz"
     },
     {
       "title": "64-Jähriger vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716014.php",
       "publishedAt": "2026-09-18T10:07:52+00:00",
       "publishedLabel": "18.09.2026 10:07",
-      "summary": "Mit der Veröffentlichung von Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach dem 64-jährigen Thomas Ralf Hans FREDRICHSDORF und seinem Auto.",
-      "category": "Verkehr"
+      "summary": "64-Jähriger vermisst – Polizei bittet um Mithilfe",
+      "category": "Fahndung"
     },
     {
       "title": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
@@ -87,15 +87,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715324.php",
       "publishedAt": "2026-09-17T11:06:31+00:00",
       "publishedLabel": "17.09.2026 11:06",
-      "summary": "In der vergangenen Nacht kam es zu einem versuchten schweren Raub auf ein Hotel in Siemensstadt.",
-      "category": "Ermittlung"
+      "summary": "Hotel überfallen",
+      "category": "Sonstiges"
     },
     {
       "title": "Homophober Angriff",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715289.php",
       "publishedAt": "2026-09-17T10:37:51+00:00",
       "publishedLabel": "17.09.2026 10:37",
-      "summary": "In Prenzlauer Berg wurde ein 26-Jähriger vergangene Nacht von mehreren Personen überfallen und verletzt.",
+      "summary": "Homophober Angriff",
       "category": "Ermittlung"
     },
     {
