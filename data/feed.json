@@ -3,13 +3,61 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-20T05:58:57.921984+00:00",
-    "checkedTime": "05:58 Uhr",
+    "checkedAt": "2026-09-20T11:10:44.269913+00:00",
+    "checkedTime": "11:10 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
-    "latestPublishedAt": "2026-09-19T11:48:04+00:00"
+    "latestTitle": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
+    "latestPublishedAt": "2026-09-20T10:13:21+00:00"
   },
   "items": [
+    {
+      "title": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716380.php",
+      "publishedAt": "2026-09-20T10:13:21+00:00",
+      "publishedLabel": "20.09.2026 10:13",
+      "summary": "Bei einer Veranstaltung in Rosenthal wurde am Samstagabend ein Einsatzfahrzeug der Polizei beschädigt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Jugendliche nach mehreren mutmaßlichen Raubtaten im Mauerpark festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716379.php",
+      "publishedAt": "2026-09-20T10:04:47+00:00",
+      "publishedLabel": "20.09.2026 10:04",
+      "summary": "Gestern Abend nahmen Polizeikräfte in Prenzlauer Berg zwei Jugendliche fest, die im Verdacht stehen, mehrere Gleichaltrige beraubt zu haben.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mann nach schwerer Körperverletzung festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716378.php",
+      "publishedAt": "2026-09-20T09:54:21+00:00",
+      "publishedLabel": "20.09.2026 09:54",
+      "summary": "In der vergangenen Nacht ist ein Mann in Hellersdorf bei einer Auseinandersetzung erheblich verletzt worden.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Bedrohung mit Schusswaffe am U-Bahnhof Schönleinstraße",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716376.php",
+      "publishedAt": "2026-09-20T09:38:07+00:00",
+      "publishedLabel": "20.09.2026 09:38",
+      "summary": "Gestern Abend wurden Einsatzkräfte zu einer Bedrohung mit einer Schusswaffe am U-Bahnhof Schönleinstraße in Kreuzberg alarmiert.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Bedrohung mit Machete - Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716375.php",
+      "publishedAt": "2026-09-20T09:29:30+00:00",
+      "publishedLabel": "20.09.2026 09:29",
+      "summary": "Gestern Nachmittag kam es in Hellersdorf zu einer Auseinandersetzung zwischen zwei Männern, bei der einer von beiden verletzt und mit einer Machete bedroht worden sein soll.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Polizeiliche Einsatzmaßnahmen an kriminalitätsbelasteten Orten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716373.php",
+      "publishedAt": "2026-09-20T09:05:55+00:00",
+      "publishedLabel": "20.09.2026 09:05",
+      "summary": "Zur Bekämpfung der Kriminalität an kriminalitätsbelasteten Orten (kbO) führte die Direktion 5 (City) gestern umfangreiche Kontrollen durch.",
+      "category": "Einsatz"
+    },
     {
       "title": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716310.php",
@@ -105,54 +153,6 @@
       "publishedLabel": "17.09.2026 11:49",
       "summary": "Bei einer Verkehrskontrolle in Reinickendorf ist gestern Nachmittag ein Polizeibeamter leicht verletzt worden.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Hotel überfallen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715324.php",
-      "publishedAt": "2026-09-17T11:06:31+00:00",
-      "publishedLabel": "17.09.2026 11:06",
-      "summary": "In der vergangenen Nacht kam es zu einem versuchten schweren Raub auf ein Hotel in Siemensstadt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Homophober Angriff",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715289.php",
-      "publishedAt": "2026-09-17T10:37:51+00:00",
-      "publishedLabel": "17.09.2026 10:37",
-      "summary": "In Prenzlauer Berg wurde ein 26-Jähriger vergangene Nacht von mehreren Personen überfallen und verletzt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Fußgängerin von Tram angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715253.php",
-      "publishedAt": "2026-09-17T10:15:08+00:00",
-      "publishedLabel": "17.09.2026 10:15",
-      "summary": "Gestern Mittag ereignete sich ein Verkehrsunfall in Weißensee, bei dem eine Fußgängerin lebensbedrohlich verletzt wurde.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Farbschmierereien an Wahlkreisbüro",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715125.php",
-      "publishedAt": "2026-09-17T08:01:00+00:00",
-      "publishedLabel": "17.09.2026 08:01",
-      "summary": "Einsatzkräfte des Polizeiabschnitts 13 nahmen gestern Mittag eine Sachbeschädigung an einem Pankower Parteibüro auf.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Heranwachsende angegriffen - Polizei Berlin sucht Zeuginnen und Zeugen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715072.php",
-      "publishedAt": "2026-09-17T07:35:45+00:00",
-      "publishedLabel": "17.09.2026 07:35",
-      "summary": "Am 25. März 2026 sollen zwei bislang Unbekannte im Bereich der Jessnerstraße eine junge Frau und einen jungen Mann angegriffen haben.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Attacke am Infostand",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714851.php",
-      "publishedAt": "2026-09-16T13:57:33+00:00",
-      "publishedLabel": "16.09.2026 13:57",
-      "summary": "Zu einer Attacke an einem Parteiinfostand kam es heute früh in Reinickendorf.",
-      "category": "Sonstiges"
     }
   ]
 }
