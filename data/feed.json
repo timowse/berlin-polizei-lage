@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-20T17:42:34.372587+00:00",
-    "checkedTime": "17:42 Uhr",
+    "checkedAt": "2026-09-20T19:49:37.635371+00:00",
+    "checkedTime": "19:49 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
     "latestPublishedAt": "2026-09-20T10:13:21+00:00"
@@ -63,8 +63,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716310.php",
       "publishedAt": "2026-09-19T11:48:04+00:00",
       "publishedLabel": "19.09.2026 11:48",
-      "summary": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
-      "category": "Sonstiges"
+      "summary": "Einsatzkräfte des Abschnitts 22 wurden in der vergangenen Nacht zu randalierenden Personen nach Spandau gerufen.",
+      "category": "Einsatz"
     },
     {
       "title": "Festnahme nach Brandstiftung an Wohnmobilen",
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716233.php",
       "publishedAt": "2026-09-18T14:13:24+00:00",
       "publishedLabel": "18.09.2026 14:13",
-      "summary": "Festnahmen nach Scheinankäufen",
+      "summary": "In Absprache mit der Staatsanwaltschaft Berlin vollzogen Polizeibeamte mehrere Scheinankäufe von illegalen Betäubungsmitteln.",
       "category": "Ermittlung"
     },
     {
