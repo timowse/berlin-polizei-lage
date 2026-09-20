@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-20T11:10:44.269913+00:00",
-    "checkedTime": "11:10 Uhr",
+    "checkedAt": "2026-09-20T14:43:33.808401+00:00",
+    "checkedTime": "14:43 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
     "latestPublishedAt": "2026-09-20T10:13:21+00:00"
@@ -63,8 +63,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716310.php",
       "publishedAt": "2026-09-19T11:48:04+00:00",
       "publishedLabel": "19.09.2026 11:48",
-      "summary": "Einsatzkräfte des Abschnitts 22 wurden in der vergangenen Nacht zu randalierenden Personen nach Spandau gerufen.",
-      "category": "Einsatz"
+      "summary": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
+      "category": "Sonstiges"
     },
     {
       "title": "Festnahme nach Brandstiftung an Wohnmobilen",
@@ -135,8 +135,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716014.php",
       "publishedAt": "2026-09-18T10:07:52+00:00",
       "publishedLabel": "18.09.2026 10:07",
-      "summary": "Mit der Veröffentlichung von Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach dem 64-jährigen Thomas Ralf Hans FREDRICHSDORF und seinem Auto.",
-      "category": "Verkehr"
+      "summary": "64-Jähriger vermisst – Polizei bittet um Mithilfe",
+      "category": "Fahndung"
     },
     {
       "title": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715408.php",
       "publishedAt": "2026-09-17T11:49:16+00:00",
       "publishedLabel": "17.09.2026 11:49",
-      "summary": "Bei einer Verkehrskontrolle in Reinickendorf ist gestern Nachmittag ein Polizeibeamter leicht verletzt worden.",
+      "summary": "Polizist bei Verkehrskontrolle angefahren",
       "category": "Verkehr"
     }
   ]
