@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-21T20:31:06.915164+00:00",
-    "checkedTime": "20:31 Uhr",
+    "checkedAt": "2026-09-21T23:35:30.498281+00:00",
+    "checkedTime": "23:35 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Koordinierte internationale Kontrollmaßnahmen in indischen Restaurants wegen des Verdachts des Menschenhandels zum Zwecke der Arbeitsausbeutung",
     "latestPublishedAt": "2026-09-21T13:17:08+00:00"
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716503.php",
       "publishedAt": "2026-09-21T08:26:26+00:00",
       "publishedLabel": "21.09.2026 08:26",
-      "summary": "Raubüberfall auf Lokal",
+      "summary": "Gestern Abend kam es im Ortsteil Charlottenburg-Nord zu einem schweren Raub.",
       "category": "Ermittlung"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716380.php",
       "publishedAt": "2026-09-20T10:13:21+00:00",
       "publishedLabel": "20.09.2026 10:13",
-      "summary": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
+      "summary": "Bei einer Veranstaltung in Rosenthal wurde am Samstagabend ein Einsatzfahrzeug der Polizei beschädigt.",
       "category": "Verkehr"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716379.php",
       "publishedAt": "2026-09-20T10:04:47+00:00",
       "publishedLabel": "20.09.2026 10:04",
-      "summary": "Jugendliche nach mehreren mutmaßlichen Raubtaten im Mauerpark festgenommen",
+      "summary": "Gestern Abend nahmen Polizeikräfte in Prenzlauer Berg zwei Jugendliche fest, die im Verdacht stehen, mehrere Gleichaltrige beraubt zu haben.",
       "category": "Ermittlung"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716378.php",
       "publishedAt": "2026-09-20T09:54:21+00:00",
       "publishedLabel": "20.09.2026 09:54",
-      "summary": "Mann nach schwerer Körperverletzung festgenommen",
+      "summary": "In der vergangenen Nacht ist ein Mann in Hellersdorf bei einer Auseinandersetzung erheblich verletzt worden.",
       "category": "Ermittlung"
     },
     {
@@ -119,23 +119,23 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716310.php",
       "publishedAt": "2026-09-19T11:48:04+00:00",
       "publishedLabel": "19.09.2026 11:48",
-      "summary": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
-      "category": "Sonstiges"
+      "summary": "Einsatzkräfte des Abschnitts 22 wurden in der vergangenen Nacht zu randalierenden Personen nach Spandau gerufen.",
+      "category": "Einsatz"
     },
     {
       "title": "Festnahme nach Brandstiftung an Wohnmobilen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716297.php",
       "publishedAt": "2026-09-19T09:43:47+00:00",
       "publishedLabel": "19.09.2026 09:43",
-      "summary": "Festnahme nach Brandstiftung an Wohnmobilen",
-      "category": "Ermittlung"
+      "summary": "In Marzahn nahmen Polizeikräfte gestern Abend einen Tatverdächtigen nach einer Brandstiftung auf einem Firmengelände fest.",
+      "category": "Fahndung"
     },
     {
       "title": "Unbekannter schlägt Parteimitglied",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716295.php",
       "publishedAt": "2026-09-19T09:15:22+00:00",
       "publishedLabel": "19.09.2026 09:15",
-      "summary": "Unbekannter schlägt Parteimitglied",
+      "summary": "In Charlottenburg-Nord wurde gestern Abend ein Mitglied einer Partei von einem Unbekannten angegriffen.",
       "category": "Sonstiges"
     },
     {
