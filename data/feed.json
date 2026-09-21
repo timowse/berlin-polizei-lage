@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-21T10:14:00.610850+00:00",
-    "checkedTime": "10:14 Uhr",
+    "checkedAt": "2026-09-21T16:30:04.306643+00:00",
+    "checkedTime": "16:30 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Beraubt und durch Stiche verletzt",
-    "latestPublishedAt": "2026-09-21T09:59:14+00:00"
+    "latestTitle": "Koordinierte internationale Kontrollmaßnahmen in indischen Restaurants wegen des Verdachts des Menschenhandels zum Zwecke der Arbeitsausbeutung",
+    "latestPublishedAt": "2026-09-21T13:17:08+00:00"
   },
   "items": [
+    {
+      "title": "Koordinierte internationale Kontrollmaßnahmen in indischen Restaurants wegen des Verdachts des Menschenhandels zum Zwecke der Arbeitsausbeutung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716861.php",
+      "publishedAt": "2026-09-21T13:17:08+00:00",
+      "publishedLabel": "21.09.2026 13:17",
+      "summary": "Im Rahmen der EMPACT Action Days unterstützten das LKA und das HZA Berlin am Freitagabend Maßnahmen der niederländischen Strafverfolgungsbehörden.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Verdacht des bandenmäßigen Drogenhandels mit Waffen – vier Festnahmen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716784.php",
+      "publishedAt": "2026-09-21T11:58:00+00:00",
+      "publishedLabel": "21.09.2026 11:58",
+      "summary": "Einsatzkräfte der 13. und 14. Einsatzhundertschaft nahmen am vergangenen Freitag eine mutmaßliche Drogenbande in Friedrichshain fest.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mehrere Straftaten festgestellt – Polizeilicher Staatsschutz ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716770.php",
+      "publishedAt": "2026-09-21T11:45:23+00:00",
+      "publishedLabel": "21.09.2026 11:45",
+      "summary": "Gestern Abend wurden Einsatzkräfte der Polizei Berlin wegen mehrerer Farbschmierereien nach Blankenburg alarmiert.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Festnahme nach Handel mit Arzneimitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716752.php",
+      "publishedAt": "2026-09-21T11:33:12+00:00",
+      "publishedLabel": "21.09.2026 11:33",
+      "summary": "Gestern Abend wurden Polizeieinsatzkräfte in Schöneberg auf zwei Personen aufmerksam.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Beraubt und durch Stiche verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716653.php",
@@ -39,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716380.php",
       "publishedAt": "2026-09-20T10:13:21+00:00",
       "publishedLabel": "20.09.2026 10:13",
-      "summary": "Bei einer Veranstaltung in Rosenthal wurde am Samstagabend ein Einsatzfahrzeug der Polizei beschädigt.",
+      "summary": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
       "category": "Verkehr"
     },
     {
@@ -47,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716379.php",
       "publishedAt": "2026-09-20T10:04:47+00:00",
       "publishedLabel": "20.09.2026 10:04",
-      "summary": "Gestern Abend nahmen Polizeikräfte in Prenzlauer Berg zwei Jugendliche fest, die im Verdacht stehen, mehrere Gleichaltrige beraubt zu haben.",
+      "summary": "Jugendliche nach mehreren mutmaßlichen Raubtaten im Mauerpark festgenommen",
       "category": "Ermittlung"
     },
     {
@@ -55,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716378.php",
       "publishedAt": "2026-09-20T09:54:21+00:00",
       "publishedLabel": "20.09.2026 09:54",
-      "summary": "In der vergangenen Nacht ist ein Mann in Hellersdorf bei einer Auseinandersetzung erheblich verletzt worden.",
+      "summary": "Mann nach schwerer Körperverletzung festgenommen",
       "category": "Ermittlung"
     },
     {
@@ -63,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716376.php",
       "publishedAt": "2026-09-20T09:38:07+00:00",
       "publishedLabel": "20.09.2026 09:38",
-      "summary": "Bedrohung mit Schusswaffe am U-Bahnhof Schönleinstraße",
+      "summary": "Gestern Abend wurden Einsatzkräfte zu einer Bedrohung mit einer Schusswaffe am U-Bahnhof Schönleinstraße in Kreuzberg alarmiert.",
       "category": "Verkehr"
     },
     {
@@ -71,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716375.php",
       "publishedAt": "2026-09-20T09:29:30+00:00",
       "publishedLabel": "20.09.2026 09:29",
-      "summary": "Bedrohung mit Machete - Tatverdächtiger festgenommen",
+      "summary": "Gestern Nachmittag kam es in Hellersdorf zu einer Auseinandersetzung zwischen zwei Männern, bei der einer von beiden verletzt und mit einer Machete bedroht worden sein soll.",
       "category": "Fahndung"
     },
     {
@@ -87,8 +119,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716310.php",
       "publishedAt": "2026-09-19T11:48:04+00:00",
       "publishedLabel": "19.09.2026 11:48",
-      "summary": "Einsatzkräfte des Abschnitts 22 wurden in der vergangenen Nacht zu randalierenden Personen nach Spandau gerufen.",
-      "category": "Einsatz"
+      "summary": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
+      "category": "Sonstiges"
     },
     {
       "title": "Festnahme nach Brandstiftung an Wohnmobilen",
@@ -121,38 +153,6 @@
       "publishedLabel": "18.09.2026 14:01",
       "summary": "Die Polizei führte in den vergangenen drei Tagen Verkehrssonderkontrollen mit dem Schwerpunkt „Drogenerkennung im Straßenverkehr“ im Stadtgebiet durch",
       "category": "Verkehr"
-    },
-    {
-      "title": "Aktionswoche zur Verkehrsunfallprävention von Seniorinnen und Senioren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716209.php",
-      "publishedAt": "2026-09-18T13:24:02+00:00",
-      "publishedLabel": "18.09.2026 13:24",
-      "summary": "Aktionswoche zur Verkehrsunfallprävention von Seniorinnen und Senioren",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Verkehrsunfall – Beifahrerin im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716194.php",
-      "publishedAt": "2026-09-18T13:07:36+00:00",
-      "publishedLabel": "18.09.2026 13:07",
-      "summary": "Gestern Abend kam es in Mitte zu einem Verkehrsunfall, nachdem der Fahrzeugführer von der Fahrbahn abkam und sich im Anschluss überschlug.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Nach versuchtem Totschlag – Mordkommission sucht weiter nach Zeuginnen und Zeugen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
-      "publishedAt": "2026-09-18T11:33:00+00:00",
-      "publishedLabel": "18.09.2026 11:33",
-      "summary": "Die Staatsanwaltschaft Berlin und die 6. Mordkommission des Landeskriminalamtes bitten weiterhin um Mithilfe bei den Ermittlungen zu einem versuchten Tötungsdelikt zum Nachteil eines 20-jährigen Mannes in Adlershof.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Schussabgabe durch Polizeibeamten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716068.php",
-      "publishedAt": "2026-09-18T11:18:20+00:00",
-      "publishedLabel": "18.09.2026 11:18",
-      "summary": "Schussabgabe durch Polizeibeamten",
-      "category": "Einsatz"
     }
   ]
 }
