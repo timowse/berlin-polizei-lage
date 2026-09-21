@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-21T04:44:18.227685+00:00",
-    "checkedTime": "04:44 Uhr",
+    "checkedAt": "2026-09-21T10:14:00.610850+00:00",
+    "checkedTime": "10:14 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
-    "latestPublishedAt": "2026-09-20T10:13:21+00:00"
+    "latestTitle": "Beraubt und durch Stiche verletzt",
+    "latestPublishedAt": "2026-09-21T09:59:14+00:00"
   },
   "items": [
+    {
+      "title": "Beraubt und durch Stiche verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716653.php",
+      "publishedAt": "2026-09-21T09:59:14+00:00",
+      "publishedLabel": "21.09.2026 09:59",
+      "summary": "Einsatzkräfte des Polizeiabschnitts 55 erhielten gestern Abend Kenntnis von einem verletzten Mann in Neukölln.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Brand auf Schulgelände",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716567.php",
+      "publishedAt": "2026-09-21T08:59:33+00:00",
+      "publishedLabel": "21.09.2026 08:59",
+      "summary": "Einsatzkräfte von Polizei und Feuerwehr wurden gestern Nachmittag zu einem Brand auf einem Schulgelände in Steglitz alarmiert.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Raubüberfall auf Lokal",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716503.php",
+      "publishedAt": "2026-09-21T08:26:26+00:00",
+      "publishedLabel": "21.09.2026 08:26",
+      "summary": "Gestern Abend kam es im Ortsteil Charlottenburg-Nord zu einem schweren Raub.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716380.php",
@@ -39,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716376.php",
       "publishedAt": "2026-09-20T09:38:07+00:00",
       "publishedLabel": "20.09.2026 09:38",
-      "summary": "Gestern Abend wurden Einsatzkräfte zu einer Bedrohung mit einer Schusswaffe am U-Bahnhof Schönleinstraße in Kreuzberg alarmiert.",
+      "summary": "Bedrohung mit Schusswaffe am U-Bahnhof Schönleinstraße",
       "category": "Verkehr"
     },
     {
@@ -47,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716375.php",
       "publishedAt": "2026-09-20T09:29:30+00:00",
       "publishedLabel": "20.09.2026 09:29",
-      "summary": "Gestern Nachmittag kam es in Hellersdorf zu einer Auseinandersetzung zwischen zwei Männern, bei der einer von beiden verletzt und mit einer Machete bedroht worden sein soll.",
+      "summary": "Bedrohung mit Machete - Tatverdächtiger festgenommen",
       "category": "Fahndung"
     },
     {
@@ -103,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716209.php",
       "publishedAt": "2026-09-18T13:24:02+00:00",
       "publishedLabel": "18.09.2026 13:24",
-      "summary": "Die Polizei Berlin führt eine Aktionswoche zur Verkehrsunfallprävention zum Schutz von Fußgängerinnen und Fußgängern im Seniorenalter durch.",
+      "summary": "Aktionswoche zur Verkehrsunfallprävention von Seniorinnen und Senioren",
       "category": "Verkehr"
     },
     {
@@ -127,32 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716068.php",
       "publishedAt": "2026-09-18T11:18:20+00:00",
       "publishedLabel": "18.09.2026 11:18",
-      "summary": "In der vergangenen Nacht kam es in Kreuzberg zu einer Schussabgabe durch einen Polizeibeamten auf ein Fahrzeug.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "64-Jähriger vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716014.php",
-      "publishedAt": "2026-09-18T10:07:52+00:00",
-      "publishedLabel": "18.09.2026 10:07",
-      "summary": "Mit der Veröffentlichung von Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach dem 64-jährigen Thomas Ralf Hans FREDRICHSDORF und seinem Auto.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715729.php",
-      "publishedAt": "2026-09-18T07:20:39+00:00",
-      "publishedLabel": "18.09.2026 07:20",
-      "summary": "Mit Bildern aus einer Überwachungskamera bittet die Polizei Berlin um Mithilfe bei der Suche nach drei Tatverdächtigen zu einem versuchten Raub in Kreuzberg.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Polizist bei Verkehrskontrolle angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715408.php",
-      "publishedAt": "2026-09-17T11:49:16+00:00",
-      "publishedLabel": "17.09.2026 11:49",
-      "summary": "Polizist bei Verkehrskontrolle angefahren",
-      "category": "Verkehr"
+      "summary": "Schussabgabe durch Polizeibeamten",
+      "category": "Einsatz"
     }
   ]
 }
