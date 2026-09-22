@@ -1,9 +1,24 @@
 # Polizei Berlin – Meldungen
 
-A clean, minimal, iPhone-first presentation of official Berlin police updates.
+Eine klare, mobil-zuerst gedachte Ansicht der offiziellen Polizeimeldungen aus Berlin.
 
-- Source: official RSS / HTML from Polizei Berlin
-- Updates: `scripts/update_feed.py`
-- GitHub Pages: root of this repo
+- Quelle: offizieller RSS-Feed der Polizei Berlin
+- Aktualisierung: `scripts/update_feed.py`, per GitHub Action alle 10 Minuten
+- Hosting: GitHub Pages aus dem Repo-Root
 
-Live site URL will be: `https://timowse.github.io/berlin-polizei-lage/`
+Live: `https://timowse.github.io/berlin-polizei-lage/`
+
+## Oberfläche
+
+Die App ist eine einzelne, build-freie Datei (`index.html`) mit Design-Tokens,
+hellem und dunklem Modus, Tagesgruppierung, Kategoriefiltern mit Trefferzahlen,
+Suche mit Treffer-Hervorhebung, Teilen-Funktion, Pull-to-Refresh und
+Offline-Hinweisen. Sie läuft als PWA über `manifest.webmanifest` und `sw.js`.
+
+## Kategorien
+
+`scripts/update_feed.py` ordnet jeder Meldung eine Kategorie zu; `index.html`
+enthält dieselbe Logik als Rückfallebene. Die Keyword-Listen in beiden Dateien
+müssen synchron bleiben. Keywords greifen nur am Wortanfang, damit deutsche
+Komposita weiterhin matchen ("Verkehrsunfall"), Zufallstreffer im Wortinneren
+aber nicht ("Restaurant" enthält "stau").

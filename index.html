@@ -3,634 +3,1528 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <meta name="color-scheme" content="light" />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="description" content="Offizielle Polizeimeldungen aus Berlin – klar, schnell und mobil aufbereitet." />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Polizei Berlin" />
   <meta name="mobile-web-app-capable" content="yes" />
-  <meta name="theme-color" content="#10263f" />
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f3f1ec" />
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0c1118" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Polizei Berlin – Meldungen" />
+  <meta property="og:description" content="Offizielle Polizeimeldungen aus Berlin – klar, schnell und mobil aufbereitet." />
+  <meta property="og:locale" content="de_DE" />
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="icon" href="assets/favicon.png" type="image/png" />
   <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
   <title>Polizei Berlin – Meldungen</title>
   <style>
+    /* =========================================================
+       1. Design tokens
+       ========================================================= */
     :root{
-      --bg:#f7f4ef;
-      --panel:#ffffff;
-      --panel-soft:#fbfaf7;
-      --text:#14181e;
-      --muted:#5f6770;
-      --line:#dce2e8;
-      --navy:#10263f;
-      --blue:#2e5e8c;
-      --red:#9f1e25;
-      --soft-red:#fbebec;
-      --soft-blue:#edf3f8;
-      --soft-gray:#eef1f4;
-      --soft-ok:#edf6ee;
-      --ok:#35684a;
-      --radius:18px;
-      --shadow:0 10px 26px rgba(16,38,63,.06);
-      --shadow-soft:0 8px 20px rgba(16,38,63,.04);
-      --max:1040px;
+      --max:1120px;
+      --r-sm:12px; --r-md:16px; --r-lg:20px; --r-xl:26px; --r-full:999px;
+      --ease:cubic-bezier(.2,.7,.3,1);
+      --font-sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+      --font-serif:ui-serif,Georgia,"Times New Roman",serif;
+
+      --bg:#f3f1ec;
+      --surface:#ffffff;
+      --surface-2:#faf9f6;
+      --surface-3:#eceae4;
+      --text:#11171f;
+      --text-2:#48525e;
+      --text-3:#6c7683;
+      --title:#0f2540;
+      --line:#e3e0d9;
+      --line-2:#d1cdc5;
+
+      --accent:#2a5d8f;
+      --danger:#a3202a;
+      --ok:#2c6a4a;
+      --warn:#8a5712;
+
+      --cat-verkehr:#2a6ea6;
+      --cat-einsatz:#136b66;
+      --cat-fahndung:#a3202a;
+      --cat-ermittlung:#8a5712;
+      --cat-sonstiges:#586674;
+
+      --sh-1:0 1px 2px rgba(15,37,64,.06);
+      --sh-2:0 10px 30px -18px rgba(15,37,64,.38), 0 2px 6px -3px rgba(15,37,64,.10);
+      --sh-3:0 30px 60px -30px rgba(15,37,64,.45), 0 10px 22px -14px rgba(15,37,64,.18);
+      --ring:0 0 0 3px rgba(42,93,143,.30);
+      --topbar-bg:rgba(243,241,236,.82);
+      --scrim:rgba(17,23,31,.9);
+      --scrim-ink:#f6f7f9;
     }
+
+    /* Dark values live in two selectors: system preference + manual override. */
+    @media (prefers-color-scheme: dark){
+      :root:not([data-theme="light"]){
+        --bg:#0c1118;
+        --surface:#151c25;
+        --surface-2:#19212b;
+        --surface-3:#212a35;
+        --text:#e9edf2;
+        --text-2:#aab5c1;
+        --text-3:#818b98;
+        --title:#dee8f4;
+        --line:#242d38;
+        --line-2:#313c4a;
+        --accent:#6faddf;
+        --danger:#f08a90;
+        --ok:#6fc396;
+        --warn:#e0a94f;
+        --cat-verkehr:#6faddf;
+        --cat-einsatz:#4ec4bb;
+        --cat-fahndung:#f08a90;
+        --cat-ermittlung:#e0a94f;
+        --cat-sonstiges:#95a3b2;
+        --sh-1:0 1px 2px rgba(0,0,0,.45);
+        --sh-2:0 10px 30px -18px rgba(0,0,0,.85), 0 2px 6px -3px rgba(0,0,0,.5);
+        --sh-3:0 30px 60px -30px rgba(0,0,0,.95), 0 10px 22px -14px rgba(0,0,0,.6);
+        --ring:0 0 0 3px rgba(111,173,227,.35);
+        --topbar-bg:rgba(12,17,24,.8);
+        --scrim:rgba(233,237,242,.95);
+        --scrim-ink:#0c1118;
+      }
+    }
+    :root[data-theme="dark"]{
+      --bg:#0c1118;
+      --surface:#151c25;
+      --surface-2:#19212b;
+      --surface-3:#212a35;
+      --text:#e9edf2;
+      --text-2:#aab5c1;
+      --text-3:#818b98;
+      --title:#dee8f4;
+      --line:#242d38;
+      --line-2:#313c4a;
+      --accent:#6faddf;
+      --danger:#f08a90;
+      --ok:#6fc396;
+      --warn:#e0a94f;
+      --cat-verkehr:#6faddf;
+      --cat-einsatz:#4ec4bb;
+      --cat-fahndung:#f08a90;
+      --cat-ermittlung:#e0a94f;
+      --cat-sonstiges:#95a3b2;
+      --sh-1:0 1px 2px rgba(0,0,0,.45);
+      --sh-2:0 10px 30px -18px rgba(0,0,0,.85), 0 2px 6px -3px rgba(0,0,0,.5);
+      --sh-3:0 30px 60px -30px rgba(0,0,0,.95), 0 10px 22px -14px rgba(0,0,0,.6);
+      --ring:0 0 0 3px rgba(111,173,227,.35);
+      --topbar-bg:rgba(12,17,24,.8);
+      --scrim:rgba(233,237,242,.95);
+      --scrim-ink:#0c1118;
+    }
+
+    /* =========================================================
+       2. Base
+       ========================================================= */
     *{box-sizing:border-box}
-    html,body{margin:0;padding:0;height:100%;background:var(--bg);color:var(--text)}
-    html{overscroll-behavior:none}
+    [hidden]{display:none !important}
+    html{overscroll-behavior-y:none;-webkit-text-size-adjust:100%}
+    html,body{margin:0;padding:0;min-height:100%}
     body{
-      font:16px/1.48 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+      background:var(--bg);color:var(--text);
+      font:16px/1.5 var(--font-sans);
       -webkit-font-smoothing:antialiased;
       text-rendering:optimizeLegibility;
       -webkit-tap-highlight-color:transparent;
-      touch-action:manipulation;
     }
     a{color:inherit;text-decoration:none}
-    button,input{font:inherit}
-    button,.chip,.tool{-webkit-user-select:none;user-select:none}
+    button,input{font:inherit;color:inherit}
+    button{background:none;border:0;padding:0;cursor:pointer}
+    button,.chip,.icon-btn{-webkit-user-select:none;user-select:none}
     input{-webkit-user-select:text;user-select:text}
-    ::selection{background:rgba(46,94,140,.18);color:inherit}
-    :focus-visible{outline:2px solid var(--blue);outline-offset:2px;border-radius:6px}
+    svg{display:block;flex:0 0 auto}
+    mark{background:color-mix(in srgb, var(--warn) 30%, transparent);color:inherit;border-radius:3px;padding:0 1px}
+    ::selection{background:color-mix(in srgb, var(--accent) 25%, transparent)}
+    :focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:8px}
+    .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+    .skip{
+      position:fixed;top:-100px;left:12px;z-index:100;
+      background:var(--surface);color:var(--text);border:1px solid var(--line-2);
+      padding:10px 14px;border-radius:var(--r-sm);box-shadow:var(--sh-2);font-weight:700
+    }
+    .skip:focus{top:calc(12px + env(safe-area-inset-top))}
     @media (prefers-reduced-motion: reduce){
-      *{scroll-behavior:auto !important;transition:none !important;animation:none !important}
+      *,*::before,*::after{animation-duration:.001ms !important;animation-iteration-count:1 !important;transition-duration:.001ms !important;scroll-behavior:auto !important}
     }
 
-    .app{
-      max-width:var(--max);margin:0 auto;min-height:100vh;
-      padding-left:env(safe-area-inset-left);
-      padding-right:env(safe-area-inset-right);
-    }
+    #topSentinel{position:absolute;top:0;left:0;width:100%;height:1px;pointer-events:none}
+    .sep{opacity:.45}
+    .app{max-width:var(--max);margin:0 auto;padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right)}
+
+    /* =========================================================
+       3. Top bar
+       ========================================================= */
     .topbar{
-      position:sticky;top:0;z-index:30;
-      background:rgba(247,244,239,.9);
-      backdrop-filter:saturate(180%) blur(16px);
-      border-bottom:1px solid rgba(220,226,232,.75);
+      position:sticky;top:0;z-index:40;
+      background:var(--topbar-bg);
+      -webkit-backdrop-filter:saturate(180%) blur(18px);
+      backdrop-filter:saturate(180%) blur(18px);
+      border-bottom:1px solid transparent;
       padding-top:env(safe-area-inset-top);
+      transition:border-color .2s var(--ease), box-shadow .2s var(--ease);
     }
-    .topbar-inner{padding:14px 16px 12px;display:flex;align-items:flex-end;justify-content:space-between;gap:12px}
-    .brand{min-width:0}
-    .eyebrow{margin:0 0 2px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);font-weight:800}
-    h1{margin:0;font:800 24px/1.05 Georgia, "Times New Roman", serif;letter-spacing:-.03em;color:var(--navy)}
-    .headline-line{margin-top:6px;color:var(--muted);font-size:12px}
-    .tools{display:flex;gap:8px;align-items:center;flex-shrink:0}
-    .tool{
-      height:38px;min-width:38px;padding:0 11px;border-radius:999px;
-      border:1px solid var(--line);background:#fff;color:#25313d;
-      display:inline-flex;align-items:center;justify-content:center;gap:6px;
-      box-shadow:0 1px 0 rgba(0,0,0,.02)
+    body.is-stuck .topbar{border-bottom-color:var(--line);box-shadow:0 8px 24px -22px rgba(0,0,0,.6)}
+    .topbar-inner{
+      display:flex;align-items:center;justify-content:space-between;gap:12px;
+      padding:12px 16px 10px;transition:padding .22s var(--ease);
     }
-    .tool span{font-size:13px;font-weight:700}
-
-    .content{padding:14px 14px 24px}
-    .status-strip{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-bottom:12px}
-    .status-pill{
-      background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:11px 12px;box-shadow:var(--shadow-soft);
-      min-width:0
+    body.is-stuck .topbar-inner{padding-top:9px;padding-bottom:8px}
+    .brand{display:flex;align-items:center;gap:11px;min-width:0}
+    .brand-mark{
+      width:38px;height:38px;flex:0 0 auto;border-radius:11px;
+      display:grid;place-items:center;
+      background:linear-gradient(160deg, var(--title), color-mix(in srgb, var(--title) 70%, var(--accent)));
+      color:var(--surface);box-shadow:var(--sh-1);
+      transition:width .22s var(--ease), height .22s var(--ease);
     }
-    .status-pill .l{font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:800;margin-bottom:4px}
-    .status-pill .v{font-size:14px;font-weight:800;color:var(--navy);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-
-    .layout{display:grid;grid-template-columns:minmax(0,1fr);gap:12px;align-items:start}
-    .main{min-width:0}
-    .rail{display:grid;gap:12px}
-
-    .hero,
-    .card,
-    .rail-card,
-    .search-shell,
-    .empty{
-      background:var(--panel);
-      border:1px solid var(--line);
-      border-radius:22px;
-      box-shadow:var(--shadow);
+    body.is-stuck .brand-mark{width:32px;height:32px;border-radius:9px}
+    .brand-text{min-width:0}
+    .eyebrow{
+      display:block;margin:0 0 1px;font-size:10.5px;font-weight:800;letter-spacing:.14em;
+      text-transform:uppercase;color:var(--text-3);
+      transition:opacity .18s var(--ease), max-height .22s var(--ease);
+      max-height:20px;overflow:hidden
     }
-    .hero{padding:16px}
-    .hero-top{display:flex;justify-content:space-between;gap:10px;align-items:flex-start;margin-bottom:10px}
-    .badge{
-      display:inline-flex;align-items:center;gap:6px;
-      border-radius:999px;padding:7px 10px;
-      font-size:12px;font-weight:800;letter-spacing:.01em;white-space:nowrap
+    body.is-stuck .eyebrow{opacity:0;max-height:0;margin-bottom:0}
+    h1{
+      margin:0;font:700 22px/1.1 var(--font-serif);letter-spacing:-.02em;color:var(--title);
+      white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+      transition:font-size .22s var(--ease);
     }
-    .badge.red{background:var(--soft-red);color:var(--red)}
-    .badge.blue{background:var(--soft-blue);color:var(--blue)}
-    .badge.gray{background:var(--soft-gray);color:#4b5761}
-    .badge.ok{background:var(--soft-ok);color:var(--ok)}
+    body.is-stuck h1{font-size:18px}
 
-    .hero h2{margin:0 0 9px;font:800 clamp(28px, 5vw, 38px)/1.03 Georgia, "Times New Roman", serif;letter-spacing:-.04em;color:var(--navy);max-width:14ch}
-    .hero p{margin:0;color:#2b333b;font-size:16px;max-width:55ch}
-    .hero-meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px;color:var(--muted);font-size:12.5px}
-    .hero-meta span{display:inline-flex;align-items:center;gap:6px}
-    .hero-meta .link{color:var(--blue);font-weight:800}
+    .tools{display:flex;align-items:center;gap:6px;flex:0 0 auto}
+    .icon-btn{
+      width:38px;height:38px;border-radius:var(--r-full);
+      display:inline-grid;place-items:center;
+      color:var(--text-2);border:1px solid transparent;
+      transition:background .16s var(--ease), color .16s var(--ease), border-color .16s var(--ease), transform .08s var(--ease);
+    }
+    .icon-btn:hover{background:var(--surface-3);color:var(--text)}
+    .icon-btn:active{transform:scale(.93)}
+    .icon-btn:disabled{cursor:default}
+    .icon-btn[aria-expanded="true"]{background:var(--title);border-color:var(--title);color:var(--bg)}
+    .icon-btn.is-busy svg{animation:spin .9s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
 
-    .search-shell{padding:14px}
-    .search-row{display:flex;gap:10px;align-items:center}
+    .statusline{
+      display:flex;align-items:center;gap:8px;flex-wrap:wrap;
+      padding:0 16px 10px;font-size:12.5px;color:var(--text-3);
+      max-height:40px;overflow:hidden;
+      transition:max-height .22s var(--ease), opacity .18s var(--ease), padding .22s var(--ease);
+    }
+    body.is-stuck .statusline{max-height:0;opacity:0;padding-bottom:0}
+    .statusline b{color:var(--text-2);font-weight:700}
+    .dot-live{
+      width:7px;height:7px;border-radius:var(--r-full);background:var(--ok);flex:0 0 auto;
+      box-shadow:0 0 0 0 color-mix(in srgb, var(--ok) 55%, transparent);
+      animation:pulse 2.6s var(--ease) infinite;
+    }
+    .dot-live[data-state="stale"]{background:var(--warn);box-shadow:0 0 0 0 color-mix(in srgb, var(--warn) 55%, transparent)}
+    .dot-live[data-state="off"]{background:var(--text-3);animation:none}
+    @keyframes pulse{0%{box-shadow:0 0 0 0 color-mix(in srgb, var(--ok) 50%, transparent)}70%{box-shadow:0 0 0 7px transparent}100%{box-shadow:0 0 0 0 transparent}}
+
+    /* Search + chips */
+    .searchrow{padding:0 16px 10px}
     .search{
-      flex:1;display:flex;align-items:center;gap:10px;
-      border:1px solid var(--line);border-radius:16px;background:var(--panel-soft);
-      padding:11px 12px;color:#25313d
+      display:flex;align-items:center;gap:9px;
+      background:var(--surface);border:1px solid var(--line);border-radius:var(--r-md);
+      padding:0 10px 0 12px;height:44px;color:var(--text-3);
+      transition:border-color .16s var(--ease), box-shadow .16s var(--ease);
     }
-    .search input{
-      border:0;background:transparent;outline:none;width:100%;min-width:0;color:inherit
+    .search:focus-within{border-color:var(--accent);box-shadow:var(--ring)}
+    .search input{flex:1;min-width:0;border:0;background:transparent;outline:none;height:100%}
+    .search input::placeholder{color:var(--text-3)}
+    .search input::-webkit-search-cancel-button{display:none}
+    .clear-btn{width:28px;height:28px;border-radius:var(--r-full);display:grid;place-items:center;color:var(--text-3)}
+    .clear-btn:hover{background:var(--surface-3);color:var(--text)}
+
+    .chipbar{padding:0 0 10px;position:relative}
+    .chipbar::after{
+      content:"";position:absolute;top:0;right:0;bottom:0;width:30px;pointer-events:none;
+      background:linear-gradient(90deg,transparent,var(--bg));
     }
-    .search input::placeholder{color:#7b8490}
-    .chip-row{display:flex;gap:8px;overflow:auto;padding:12px 0 0;scrollbar-width:none}
+    .chip-row{
+      display:flex;gap:7px;overflow-x:auto;scrollbar-width:none;
+      padding:2px 16px;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch
+    }
     .chip-row::-webkit-scrollbar{display:none}
     .chip{
-      flex:0 0 auto;border:1px solid var(--line);background:#fff;border-radius:999px;
-      padding:9px 12px;font-size:13px;font-weight:800;color:#25313d
+      flex:0 0 auto;scroll-snap-align:start;
+      display:inline-flex;align-items:center;gap:6px;
+      height:34px;padding:0 13px;border-radius:var(--r-full);
+      border:1px solid var(--line);background:var(--surface);
+      font-size:13.5px;font-weight:650;color:var(--text-2);
+      transition:background .16s var(--ease), color .16s var(--ease), border-color .16s var(--ease), transform .08s var(--ease);
     }
-    .chip.active{background:var(--navy);border-color:var(--navy);color:#fff}
-    .chip small{font-weight:700;opacity:.7}
-    .chip[aria-pressed="true"]{box-shadow:0 0 0 2px rgba(16,38,63,.06) inset}
-    .section-head{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin:18px 4px 10px}
-    .section-head h3{margin:0;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
-    .section-head .count{font-size:12px;color:var(--muted);text-align:right}
+    .chip:hover{border-color:var(--line-2);color:var(--text)}
+    .chip:active{transform:scale(.96)}
+    .chip .n{font-size:12px;font-weight:700;color:var(--text-3);font-variant-numeric:tabular-nums}
+    .chip[aria-pressed="true"]{background:var(--title);border-color:var(--title);color:var(--bg)}
+    .chip[aria-pressed="true"] .n{color:var(--bg);opacity:.65}
+    .chip[data-empty="true"]{opacity:.42}
+    .chip .swatch{width:7px;height:7px;border-radius:var(--r-full);background:var(--cat, var(--cat-sonstiges))}
+    .chip[data-cat="Verkehr"]{--cat:var(--cat-verkehr)}
+    .chip[data-cat="Einsatz"]{--cat:var(--cat-einsatz)}
+    .chip[data-cat="Fahndung"]{--cat:var(--cat-fahndung)}
+    .chip[data-cat="Ermittlung"]{--cat:var(--cat-ermittlung)}
+    .chip[data-cat="Sonstiges"]{--cat:var(--cat-sonstiges)}
 
+    /* =========================================================
+       4. Layout + banners
+       ========================================================= */
+    .content{padding:14px 16px 0}
+    .layout{display:grid;grid-template-columns:minmax(0,1fr);gap:14px;align-items:start}
+    .col-main{min-width:0;display:grid;gap:12px}
+    .rail{display:grid;gap:12px;min-width:0}
+
+    .banner{
+      display:flex;align-items:flex-start;gap:10px;
+      padding:12px 14px;border-radius:var(--r-md);margin-bottom:12px;
+      background:color-mix(in srgb, var(--warn) 12%, var(--surface));
+      border:1px solid color-mix(in srgb, var(--warn) 35%, transparent);
+      color:var(--text);font-size:13.5px;line-height:1.45;
+    }
+    .banner[data-tone="error"]{
+      background:color-mix(in srgb, var(--danger) 12%, var(--surface));
+      border-color:color-mix(in srgb, var(--danger) 35%, transparent);
+    }
+    .banner svg{margin-top:1px;color:var(--warn)}
+    .banner[data-tone="error"] svg{color:var(--danger)}
+    .banner b{display:block;margin-bottom:1px}
+    .banner .retry{margin-top:6px;font-weight:750;color:var(--accent);text-decoration:underline;text-underline-offset:2px}
+
+    /* =========================================================
+       5. Cards (shared surface)
+       ========================================================= */
+    .surface{
+      background:var(--surface);
+      border:1px solid var(--line);
+      border-radius:var(--r-xl);
+      box-shadow:var(--sh-2);
+    }
+
+    .tag{
+      display:inline-flex;align-items:center;gap:6px;
+      height:26px;padding:0 10px;border-radius:var(--r-full);
+      font-size:12px;font-weight:750;letter-spacing:.005em;white-space:nowrap;
+      color:var(--cat, var(--cat-sonstiges));
+      background:color-mix(in srgb, var(--cat, var(--cat-sonstiges)) 13%, transparent);
+    }
+    .tag .swatch{width:6px;height:6px;border-radius:var(--r-full);background:currentColor}
+    .tag.neu{color:var(--danger);background:color-mix(in srgb, var(--danger) 13%, transparent)}
+    .tag.neu .swatch{animation:pulse-dot 2s var(--ease) infinite}
+    @keyframes pulse-dot{0%,100%{opacity:1}50%{opacity:.3}}
+
+    [data-cat="Verkehr"]{--cat:var(--cat-verkehr)}
+    [data-cat="Einsatz"]{--cat:var(--cat-einsatz)}
+    [data-cat="Fahndung"]{--cat:var(--cat-fahndung)}
+    [data-cat="Ermittlung"]{--cat:var(--cat-ermittlung)}
+    [data-cat="Sonstiges"]{--cat:var(--cat-sonstiges)}
+
+    /* Hero — top story */
+    .hero{position:relative;padding:18px 17px 15px;overflow:hidden}
+    .hero::before{
+      content:"";position:absolute;inset:0 0 auto 0;height:3px;
+      background:linear-gradient(90deg, var(--cat, var(--cat-sonstiges)), color-mix(in srgb, var(--cat, var(--cat-sonstiges)) 25%, transparent));
+    }
+    .hero-top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:11px}
+    .hero-title{
+      margin:0 0 9px;
+      font:700 clamp(23px,5.6vw,31px)/1.15 var(--font-serif);
+      letter-spacing:-.025em;color:var(--title);text-wrap:balance;
+      display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;
+    }
+    .hero-title a{transition:color .15s var(--ease)}
+    .hero-title a:hover{color:var(--accent)}
+    .hero-sum{margin:0;color:var(--text-2);font-size:15.5px;line-height:1.55;max-width:62ch}
+    .meta-row{
+      display:flex;align-items:center;gap:7px;flex-wrap:wrap;
+      margin-top:13px;color:var(--text-3);font-size:12.5px;font-variant-numeric:tabular-nums;
+    }
+    .meta-row .sep{opacity:.45}
+    .actions{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:14px}
+    .btn{
+      display:inline-flex;align-items:center;justify-content:center;gap:7px;
+      height:40px;padding:0 15px;border-radius:var(--r-md);
+      font-size:14px;font-weight:700;white-space:nowrap;
+      border:1px solid var(--line-2);color:var(--text);background:var(--surface-2);
+      transition:background .16s var(--ease), border-color .16s var(--ease), transform .08s var(--ease), color .16s var(--ease);
+    }
+    .btn:hover{background:var(--surface-3);border-color:var(--text-3)}
+    .btn:active{transform:scale(.975)}
+    .btn.primary{background:var(--title);border-color:var(--title);color:var(--bg)}
+    .btn.primary:hover{background:color-mix(in srgb, var(--title) 85%, var(--accent));border-color:transparent}
+    .btn.ghost{background:transparent;border-color:transparent;color:var(--text-2);padding:0 11px}
+    .btn.ghost:hover{background:var(--surface-3);color:var(--text)}
+    .btn.block{width:100%}
+
+    /* Section heading */
+    .section-head{
+      display:flex;align-items:baseline;justify-content:space-between;gap:10px;
+      padding:6px 4px 0;
+    }
+    .section-head h2{margin:0;font-size:11.5px;font-weight:800;letter-spacing:.13em;text-transform:uppercase;color:var(--text-3)}
+    .section-head .count{font-size:12.5px;color:var(--text-3);font-variant-numeric:tabular-nums;white-space:nowrap}
+
+    /* Feed + day groups */
     .feed{display:grid;gap:10px}
-    .card{padding:14px}
-    .card-top{display:flex;justify-content:space-between;gap:10px;align-items:center;margin-bottom:8px}
-    .card h4{margin:0 0 7px;font-size:18px;line-height:1.18;letter-spacing:-.02em;color:var(--navy)}
-    .summary{margin:0;color:#2f363d}
-    .card-meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;color:var(--muted);font-size:12.5px}
-    .card-meta span{display:inline-flex;align-items:center;gap:6px}
-    .footerline{display:flex;justify-content:space-between;gap:10px;align-items:center;padding-top:10px;margin-top:10px;border-top:1px solid var(--line);font-size:13px;color:var(--muted)}
-    .action{color:var(--blue);font-weight:800;white-space:nowrap}
-
-    .rail-card{padding:14px 15px}
-    .rail-card h4{margin:0 0 6px;font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
-    .rail-card p{margin:0;color:#303740;font-size:13.5px}
-    .rail-card .line{margin-top:8px;font-size:12.5px;color:var(--muted)}
-    .rail-card .line strong{color:var(--navy)}
-
-    .empty{padding:18px;color:var(--muted)}
-    .empty strong{display:block;color:var(--navy);margin-bottom:4px}
-
-    .footer{padding:18px 16px calc(30px + env(safe-area-inset-bottom));color:var(--muted);font-size:12.5px;text-align:center}
-
-    /* Interaction states */
-    .tool,.chip{cursor:pointer;transition:background .15s ease, border-color .15s ease, color .15s ease, box-shadow .15s ease, transform .06s ease}
-    .tool:hover{background:#f1f5f9}
-    .tool:active{transform:translateY(1px)}
-    .chip:hover:not(.active){background:#f3f7fa;border-color:#c7d2dc}
-    .chip:active{transform:translateY(1px)}
-    .search{transition:border-color .15s ease, box-shadow .15s ease}
-    .search:focus-within{border-color:var(--blue);box-shadow:0 0 0 3px rgba(46,94,140,.16)}
-    .card{transition:box-shadow .18s ease, border-color .18s ease, transform .06s ease}
-    .card[data-href]{cursor:pointer}
-    .card[data-href]:hover{box-shadow:0 14px 30px rgba(16,38,63,.10);border-color:#cfd8e1}
-    .card[data-href]:active{transform:translateY(1px)}
-    .card h4 a{color:inherit}
-    .action{transition:color .15s ease}
-    .action:hover{text-decoration:underline}
-
-    /* Rail: live Lagebild */
-    .rail-stats{display:grid;gap:10px;margin-top:4px}
-    .rail-stat{display:grid;grid-template-columns:1fr auto;align-items:center;gap:4px 10px;font-size:12.5px}
-    .rail-stat .name{font-weight:800;color:var(--navy)}
-    .rail-stat .num{color:var(--muted);font-weight:800;font-variant-numeric:tabular-nums}
-    .rail-bar{grid-column:1/-1;height:6px;border-radius:999px;background:var(--soft-gray);overflow:hidden}
-    .rail-bar > i{display:block;height:100%;border-radius:999px;background:var(--blue);transition:width .3s ease}
-    .rail-latest a{display:block;font-weight:800;color:var(--navy);font-size:14px;line-height:1.25;letter-spacing:-.01em}
-    .rail-latest a:hover{text-decoration:underline}
-    .rail-empty{color:var(--muted);font-size:13px}
-
-    @media (min-width: 880px){
-      .topbar-inner{padding:16px 20px 14px}
-      .content{padding:16px 20px 30px}
-      .layout{grid-template-columns:minmax(0,1fr) 320px;gap:14px}
-      .rail{position:sticky;top:94px}
-      .hero h2{max-width:18ch}
-      .section-head{margin-top:20px}
+    .day-head{
+      display:flex;align-items:center;gap:10px;
+      padding:10px 4px 2px;font-size:12px;font-weight:800;letter-spacing:.07em;
+      text-transform:uppercase;color:var(--text-3);
     }
+    .day-head::after{content:"";flex:1;height:1px;background:var(--line)}
+    .day-head:first-child{padding-top:2px}
 
-    @media (max-width: 520px){
-      .status-strip{grid-template-columns:1fr 1fr 1fr}
-      .status-pill{padding:10px 11px;border-radius:14px}
-      .status-pill .v{font-size:13px}
-      h1{font-size:23px}
-      .hero{padding:15px}
-      .hero p{font-size:15px}
-      .search-row{flex-direction:column;align-items:stretch}
-      .tool{padding:0 10px}
-      .tool span:last-child{display:none}
+    .card{
+      position:relative;padding:14px 15px;
+      background:var(--surface);border:1px solid var(--line);
+      border-radius:var(--r-lg);box-shadow:var(--sh-1);
+      transition:box-shadow .18s var(--ease), border-color .18s var(--ease), transform .1s var(--ease);
+    }
+    .feed.anim > .card{animation:rise .3s var(--ease) both}
+    @keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+    .card[data-href]{cursor:pointer}
+    .card:hover{border-color:var(--line-2);box-shadow:var(--sh-2)}
+    .card:active{transform:scale(.995)}
+    .card:focus-within{border-color:var(--accent);box-shadow:var(--ring)}
+    .card-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:9px}
+    .card-head .when{font-size:12px;color:var(--text-3);font-variant-numeric:tabular-nums;white-space:nowrap}
+    .card-title{
+      margin:0 0 6px;font:650 17px/1.3 var(--font-sans);letter-spacing:-.012em;color:var(--title);
+      display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
+    }
+    .card-title a{transition:color .15s var(--ease)}
+    .card:hover .card-title a{color:var(--accent)}
+    .card-sum{
+      margin:0;color:var(--text-2);font-size:14px;line-height:1.5;
+      display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+    }
+    .card-foot{
+      display:flex;align-items:center;justify-content:space-between;gap:8px;
+      margin-top:11px;padding-top:10px;border-top:1px solid var(--line);
+      font-size:12.5px;color:var(--text-3);
+    }
+    .card-actions{display:flex;align-items:center;gap:2px;margin:-6px -6px -6px 0}
+
+    /* Empty + skeleton */
+    .empty{padding:28px 20px;text-align:center;color:var(--text-3)}
+    .empty .glyph{
+      width:52px;height:52px;margin:0 auto 12px;border-radius:var(--r-full);
+      display:grid;place-items:center;background:var(--surface-3);color:var(--text-3);
+    }
+    .empty b{display:block;color:var(--title);font-size:16px;margin-bottom:5px}
+    .empty p{margin:0 auto;max-width:34ch;font-size:14px;line-height:1.5}
+    .empty .btn{margin-top:14px}
+
+    .sk{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-lg);padding:15px}
+    .sk-line{height:11px;border-radius:var(--r-full);background:var(--surface-3);margin-bottom:9px;overflow:hidden;position:relative}
+    .sk-line::after{
+      content:"";position:absolute;inset:0;transform:translateX(-100%);
+      background:linear-gradient(90deg,transparent,color-mix(in srgb, var(--text-3) 14%, transparent),transparent);
+      animation:shimmer 1.4s infinite;
+    }
+    @keyframes shimmer{100%{transform:translateX(100%)}}
+    .sk-line.w40{width:40%}.sk-line.w70{width:70%}.sk-line.w90{width:90%}.sk-line.w55{width:55%}
+    .sk-line.tall{height:17px}
+
+    /* =========================================================
+       6. Rail
+       ========================================================= */
+    .rail-card{padding:15px 16px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r-xl);box-shadow:var(--sh-1)}
+    .rail-card h2{margin:0 0 11px;font-size:11.5px;font-weight:800;letter-spacing:.13em;text-transform:uppercase;color:var(--text-3)}
+    .rail-card p{margin:0;color:var(--text-2);font-size:13.5px;line-height:1.5}
+    .stat{display:grid;grid-template-columns:1fr auto;gap:5px 10px;align-items:center;margin-bottom:11px;font-size:13px}
+    .stat:last-child{margin-bottom:0}
+    .stat .name{display:flex;align-items:center;gap:7px;font-weight:650;color:var(--text)}
+    .stat .name .swatch{width:8px;height:8px;border-radius:var(--r-full);background:var(--cat, var(--cat-sonstiges))}
+    .stat .num{color:var(--text-3);font-weight:700;font-variant-numeric:tabular-nums}
+    .bar{grid-column:1/-1;height:5px;border-radius:var(--r-full);background:var(--surface-3);overflow:hidden}
+    .bar i{display:block;height:100%;border-radius:var(--r-full);background:var(--cat, var(--cat-sonstiges));transform-origin:left;transition:width .5s var(--ease)}
+    .rail-link{display:inline-flex;align-items:center;gap:6px;margin-top:10px;font-size:13.5px;font-weight:700;color:var(--accent)}
+    .rail-link:hover{text-decoration:underline;text-underline-offset:3px}
+    .rail-empty{color:var(--text-3);font-size:13px}
+
+    /* =========================================================
+       7. Footer, toast, FAB, pull-to-refresh
+       ========================================================= */
+    .footer{
+      padding:26px 18px calc(32px + env(safe-area-inset-bottom));
+      color:var(--text-3);font-size:12.5px;line-height:1.6;text-align:center;
+    }
+    .footer a{color:var(--accent);font-weight:650}
+    .footer a:hover{text-decoration:underline;text-underline-offset:3px}
+
+    .toast{
+      position:fixed;left:14px;right:14px;z-index:60;
+      margin:0 auto;width:-moz-fit-content;width:fit-content;
+      bottom:calc(18px + env(safe-area-inset-bottom));
+      transform:translateY(140%);
+      display:flex;align-items:center;gap:12px;
+      max-width:min(92vw,420px);padding:12px 18px;border-radius:var(--r-full);
+      background:var(--scrim);color:var(--scrim-ink);
+      font-size:13.5px;font-weight:650;box-shadow:var(--sh-3);
+      transition:transform .35s var(--ease), opacity .25s var(--ease);
+      opacity:0;pointer-events:none;
+    }
+    .toast.show{transform:translateY(0);opacity:1;pointer-events:auto}
+    .toast > span{flex:1 1 auto}
+    .toast button{flex:0 0 auto;color:inherit;font-weight:800;text-decoration:underline;text-underline-offset:3px;white-space:nowrap}
+
+    .fab{
+      position:fixed;right:calc(16px + env(safe-area-inset-right));z-index:35;
+      bottom:calc(18px + env(safe-area-inset-bottom));
+      width:44px;height:44px;border-radius:var(--r-full);
+      display:grid;place-items:center;
+      background:var(--surface);color:var(--text);border:1px solid var(--line-2);
+      box-shadow:var(--sh-2);
+      opacity:0;transform:translateY(12px) scale(.9);pointer-events:none;
+      transition:opacity .22s var(--ease), transform .22s var(--ease), background .16s var(--ease);
+    }
+    .fab.show{opacity:1;transform:none;pointer-events:auto}
+    .fab:hover{background:var(--surface-3)}
+    .fab:active{transform:scale(.92)}
+
+    .ptr{
+      position:fixed;top:calc(env(safe-area-inset-top) + 6px);left:50%;z-index:50;
+      width:34px;height:34px;border-radius:var(--r-full);
+      display:grid;place-items:center;
+      background:var(--surface);color:var(--text-2);border:1px solid var(--line);
+      box-shadow:var(--sh-2);
+      transform:translate(-50%,-70px);opacity:0;pointer-events:none;
+    }
+    .ptr.armed{color:var(--accent);border-color:var(--accent)}
+    .ptr.snap{transition:transform .3s var(--ease), opacity .3s var(--ease)}
+    .ptr.busy svg{animation:spin .9s linear infinite}
+
+    /* =========================================================
+       8. Responsive
+       ========================================================= */
+    @media (min-width: 700px){
+      .card-sum{-webkit-line-clamp:3}
+    }
+    @media (min-width: 900px){
+      .topbar-inner{padding:14px 22px 10px}
+      .statusline,.searchrow{padding-left:22px;padding-right:22px}
+      .chip-row{padding-left:22px;padding-right:22px}
+      .content{padding:18px 22px 0}
+      .layout{grid-template-columns:minmax(0,1fr) 310px;gap:18px}
+      .rail{position:sticky;top:132px}
+      .searchrow{display:block !important}
+      .chipbar::after{display:none}
+      #searchBtn{display:none}
+      .hero{padding:24px 24px 20px}
+      .card{padding:16px 17px}
+      h1{font-size:24px}
+      body.is-stuck h1{font-size:20px}
+    }
+    @media (max-width: 380px){
+      .topbar-inner{padding-left:13px;padding-right:13px}
+      .statusline,.searchrow{padding-left:13px;padding-right:13px}
+      .chip-row{padding-left:13px;padding-right:13px}
+      .content{padding-left:13px;padding-right:13px}
+      .btn span.label{display:none}
+      .btn{padding:0 12px}
     }
   </style>
 </head>
 <body>
+  <a class="skip" href="#main">Zum Inhalt springen</a>
+
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+    <defs>
+      <symbol id="i-shield" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 3 5 6v5.5c0 4.2 2.9 8 7 9.5 4.1-1.5 7-5.3 7-9.5V6l-7-3Z"/>
+      </symbol>
+      <symbol id="i-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/>
+      </symbol>
+      <symbol id="i-refresh" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 12a8 8 0 1 1-2.7-6"/><path d="M20 4v5h-5"/>
+      </symbol>
+      <symbol id="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>
+      </symbol>
+      <symbol id="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5Z"/>
+      </symbol>
+      <symbol id="i-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
+        <path d="m6 6 12 12M18 6 6 18"/>
+      </symbol>
+      <symbol id="i-share" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 3v13"/><path d="m8 7 4-4 4 4"/><path d="M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/>
+      </symbol>
+      <symbol id="i-external" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14 4h6v6"/><path d="M20 4 10 14"/><path d="M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/>
+      </symbol>
+      <symbol id="i-alert" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="9"/><path d="M12 7.5v5.5M12 16.2v.3"/>
+      </symbol>
+      <symbol id="i-up" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 19V5"/><path d="m5 12 7-7 7 7"/>
+      </symbol>
+      <symbol id="i-inbox" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 13h4l1.5 3h5L16 13h4"/><path d="M5.5 5h13l2.5 8v5a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-5L5.5 5Z"/>
+      </symbol>
+    </defs>
+  </svg>
+
+  <div id="topSentinel" aria-hidden="true"></div>
+
   <div class="app">
     <header class="topbar">
       <div class="topbar-inner">
         <div class="brand">
-          <p class="eyebrow">Offizielle Polizeimeldungen</p>
-          <h1>Polizei Berlin</h1>
-          <div class="headline-line" id="headlineLine">Zuletzt geprüft …</div>
+          <span class="brand-mark" aria-hidden="true"><svg width="21" height="21"><use href="#i-shield"/></svg></span>
+          <span class="brand-text">
+            <span class="eyebrow">Offizielle Meldungen</span>
+            <h1>Polizei Berlin</h1>
+          </span>
         </div>
-        <div class="tools" aria-label="Schnellaktionen">
-          <button class="tool" type="button" id="searchBtn" title="Suche" aria-label="Zur Suche springen"><span aria-hidden="true">⌕</span><span>Suche</span></button>
-          <button class="tool" type="button" id="filterBtn" title="Filter" aria-label="Zu den Filtern springen"><span aria-hidden="true">☰</span><span>Filter</span></button>
+        <div class="tools">
+          <button class="icon-btn" type="button" id="searchBtn" aria-expanded="false" aria-controls="searchRow" aria-label="Suche öffnen">
+            <svg width="20" height="20" aria-hidden="true"><use href="#i-search"/></svg>
+          </button>
+          <button class="icon-btn" type="button" id="refreshBtn" aria-label="Meldungen aktualisieren">
+            <svg width="20" height="20" aria-hidden="true"><use href="#i-refresh"/></svg>
+          </button>
+          <button class="icon-btn" type="button" id="themeBtn" aria-label="Dunkelmodus einschalten">
+            <svg width="20" height="20" aria-hidden="true"><use href="#i-moon"/></svg>
+          </button>
         </div>
+      </div>
+
+      <div class="statusline" id="statusLine">
+        <span class="dot-live" id="liveDot" aria-hidden="true"></span>
+        <span id="statusText">Meldungen werden geladen …</span>
+      </div>
+
+      <div class="searchrow" id="searchRow" hidden>
+        <div class="search">
+          <svg width="18" height="18" aria-hidden="true"><use href="#i-search"/></svg>
+          <input id="query" type="search" placeholder="Meldungen durchsuchen …" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Meldungen durchsuchen" />
+          <button class="clear-btn" type="button" id="clearBtn" aria-label="Suche leeren" hidden>
+            <svg width="16" height="16" aria-hidden="true"><use href="#i-close"/></svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="chipbar">
+        <div class="chip-row" id="chips" role="group" aria-label="Nach Kategorie filtern"></div>
       </div>
     </header>
 
-    <main class="content">
-      <div class="status-strip" aria-label="Status">
-        <div class="status-pill"><div class="l">Datenstatus</div><div class="v" id="dataStatus">Aktuell</div></div>
-        <div class="status-pill"><div class="l">Letzter Abruf</div><div class="v" id="lastCheck">–</div></div>
-        <div class="status-pill"><div class="l">Quelle</div><div class="v">Polizei Berlin</div></div>
-      </div>
+    <main class="content" id="main">
+      <div class="banner" id="banner" hidden></div>
 
       <div class="layout">
-        <section class="main">
-          <section class="hero" id="hero">
-            <div class="hero-top">
-              <span class="badge red" id="heroBadge">Eilmeldung</span>
-              <span class="badge blue" id="heroTime">Neu</span>
-            </div>
-            <h2 id="heroTitle">Lade Meldungen …</h2>
-            <p id="heroSummary">Die offizielle Quelle wird geprüft und die aktuelle Meldung wird gleich angezeigt.</p>
-            <div class="hero-meta" id="heroMeta">
-              <span>Quelle: Polizei Berlin</span>
-              <span>·</span>
-              <span>Original wird geöffnet</span>
-            </div>
-          </section>
-
-          <section class="search-shell" aria-label="Suche und Filter">
-            <div class="search-row">
-              <label class="search" for="query">
-                <span aria-hidden="true">⌕</span>
-                <input id="query" type="search" placeholder="Meldungen durchsuchen …" autocomplete="off" />
-              </label>
-              <button class="tool" type="button" id="resetBtn"><span>↺</span><span>Zurücksetzen</span></button>
-            </div>
-            <div class="chip-row" id="chips" role="group" aria-label="Kategorien">
-              <button class="chip active" type="button" data-cat="Alle" aria-pressed="true">Alle</button>
-              <button class="chip" type="button" data-cat="Verkehr" aria-pressed="false">Verkehr</button>
-              <button class="chip" type="button" data-cat="Einsatz" aria-pressed="false">Einsatz</button>
-              <button class="chip" type="button" data-cat="Fahndung" aria-pressed="false">Fahndung</button>
-              <button class="chip" type="button" data-cat="Ermittlung" aria-pressed="false">Ermittlung</button>
-              <button class="chip" type="button" data-cat="Sonstiges" aria-pressed="false">Sonstiges</button>
-            </div>
-          </section>
+        <div class="col-main">
+          <section id="heroSlot" aria-label="Wichtigste Meldung"></section>
 
           <div class="section-head">
-            <h3>Aktuelle Meldungen</h3>
-            <div class="count" id="resultCount">Lade …</div>
+            <h2 id="feedHeading">Aktuelle Meldungen</h2>
+            <span class="count" id="resultCount">Lade …</span>
           </div>
 
-          <section class="feed" id="feed" aria-live="polite"></section>
-        </section>
+          <section class="feed" id="feed" aria-labelledby="feedHeading"></section>
+
+          <button class="btn block" type="button" id="moreBtn" hidden></button>
+        </div>
 
         <aside class="rail" aria-label="Lagebild und Quelle">
-          <section class="rail-card" aria-live="polite">
-            <h4>Lagebild</h4>
-            <div class="rail-stats" id="railStats">
-              <div class="rail-empty">Wird geladen …</div>
-            </div>
+          <section class="rail-card">
+            <h2>Lagebild</h2>
+            <div id="railStats"><div class="rail-empty">Wird geladen …</div></div>
           </section>
           <section class="rail-card">
-            <h4>Neueste Meldung</h4>
-            <div class="rail-latest" id="railLatest">
-              <div class="rail-empty">Wird geladen …</div>
-            </div>
-          </section>
-          <section class="rail-card">
-            <h4>Originalquelle</h4>
-            <p>Jede Meldung verlinkt direkt auf die offizielle Seite der Polizei Berlin – so bleibt die Quelle transparent und überprüfbar.</p>
-            <div class="line"><a class="action" href="https://www.berlin.de/polizei/polizeimeldungen/" target="_blank" rel="noopener">Offizielles Archiv öffnen ↗</a></div>
+            <h2>Quelle</h2>
+            <p>Jede Meldung verlinkt direkt auf die offizielle Seite der Polizei Berlin – die Quelle bleibt transparent und überprüfbar.</p>
+            <a class="rail-link" href="https://www.berlin.de/polizei/polizeimeldungen/" target="_blank" rel="noopener">
+              Offizielles Archiv öffnen
+              <svg width="15" height="15" aria-hidden="true"><use href="#i-external"/></svg>
+            </a>
           </section>
         </aside>
       </div>
     </main>
 
-    <footer class="footer">Alle Inhalte stammen aus offiziellen Polizeimeldungen von Berlin.de und werden regelmäßig neu geprüft.</footer>
+    <footer class="footer">
+      Alle Inhalte stammen aus den offiziellen Polizeimeldungen von
+      <a href="https://www.berlin.de/polizei/polizeimeldungen/" target="_blank" rel="noopener">berlin.de</a>
+      und werden regelmäßig neu geprüft.<br />
+      Kein amtliches Angebot der Polizei Berlin.
+    </footer>
   </div>
 
+  <div class="ptr" id="ptr" aria-hidden="true"><svg width="18" height="18"><use href="#i-refresh"/></svg></div>
+  <button class="fab" type="button" id="topBtn" aria-label="Nach oben"><svg width="19" height="19" aria-hidden="true"><use href="#i-up"/></svg></button>
+  <div class="toast" id="toast"></div>
+  <p class="sr-only" id="liveRegion" role="status" aria-live="polite"></p>
+
   <script>
+  (function () {
+    'use strict';
+
+    /* =========================================================
+       Konstanten + State
+       ========================================================= */
+    const PAGE_SIZE = 8;
+    const REFRESH_EVERY = 5 * 60 * 1000;   // automatisch nachladen
+    const STALE_AFTER = 45 * 60 * 1000;    // Quelle gilt als verzögert
+    const FRESH_WINDOW = 3 * 60 * 60 * 1000; // "Neu"-Markierung
+    const CATEGORIES = ['Alle', 'Verkehr', 'Einsatz', 'Fahndung', 'Ermittlung', 'Sonstiges'];
+    const ARCHIVE_URL = 'https://www.berlin.de/polizei/polizeimeldungen/';
+
     const state = {
       data: null,
       query: '',
-      category: 'Alle'
+      category: 'Alle',
+      visible: PAGE_SIZE,
+      loading: true,
+      refreshing: false,
+      animate: true,
+      failed: false,
+      lastFetch: 0,
+      knownLinks: new Set(),
     };
 
-    const DEFAULT_LIMIT = 8;
-
+    const $ = (id) => document.getElementById(id);
     const els = {
-      headlineLine: document.getElementById('headlineLine'),
-      dataStatus: document.getElementById('dataStatus'),
-      lastCheck: document.getElementById('lastCheck'),
-      heroBadge: document.getElementById('heroBadge'),
-      heroTime: document.getElementById('heroTime'),
-      heroTitle: document.getElementById('heroTitle'),
-      heroSummary: document.getElementById('heroSummary'),
-      heroMeta: document.getElementById('heroMeta'),
-      query: document.getElementById('query'),
-      chips: document.getElementById('chips'),
-      feed: document.getElementById('feed'),
-      resultCount: document.getElementById('resultCount'),
-      resetBtn: document.getElementById('resetBtn'),
-      searchBtn: document.getElementById('searchBtn'),
-      filterBtn: document.getElementById('filterBtn'),
-      railStats: document.getElementById('railStats'),
-      railLatest: document.getElementById('railLatest'),
+      statusText: $('statusText'), liveDot: $('liveDot'), banner: $('banner'),
+      searchBtn: $('searchBtn'), searchRow: $('searchRow'), query: $('query'), clearBtn: $('clearBtn'),
+      refreshBtn: $('refreshBtn'), themeBtn: $('themeBtn'), chips: $('chips'),
+      heroSlot: $('heroSlot'), feed: $('feed'), resultCount: $('resultCount'), moreBtn: $('moreBtn'),
+      railStats: $('railStats'), toast: $('toast'), topBtn: $('topBtn'), ptr: $('ptr'),
+      liveRegion: $('liveRegion'), sentinel: $('topSentinel'),
+      sectionHead: document.querySelector('.section-head'),
     };
 
-    const CATEGORY_COLOR = {
-      Verkehr: '#2e5e8c',
-      Einsatz: '#10263f',
-      Fahndung: '#9f1e25',
-      Ermittlung: '#b06a1f',
-      Sonstiges: '#6b7682',
-    };
-
-    const prefersReducedMotion = () =>
+    const reduceMotion = () =>
       window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const scrollBehavior = () => (reduceMotion() ? 'auto' : 'smooth');
 
+    /* =========================================================
+       Hilfsfunktionen
+       ========================================================= */
     function escapeHtml(text) {
-      return String(text || '').replace(/[&<>"]/g, s => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[s]));
+      return String(text == null ? '' : text)
+        .replace(/[&<>"']/g, (s) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[s]));
+    }
+
+    // Escaped Ausgabe mit <mark> um die Suchtreffer.
+    function highlight(text, needle) {
+      const src = String(text == null ? '' : text);
+      if (!needle || needle.length < 2) return escapeHtml(src);
+      const hay = src.toLowerCase();
+      const q = needle.toLowerCase();
+      let out = '', from = 0, at;
+      while ((at = hay.indexOf(q, from)) !== -1) {
+        out += escapeHtml(src.slice(from, at)) + '<mark>' + escapeHtml(src.slice(at, at + q.length)) + '</mark>';
+        from = at + q.length;
+      }
+      return out + escapeHtml(src.slice(from));
+    }
+
+    /* Kategorien: Keywords greifen nur am Wortanfang, damit deutsche
+       Komposita weiter matchen ("Verkehrsunfall"), Zufallstreffer im
+       Wortinneren aber nicht ("Restaurant" -> "stau").
+       Spiegelt scripts/update_feed.py – beide Listen synchron halten. */
+    const CATEGORY_RULES = [
+      // Starke Verkehrssignale: das Ereignis selbst ist ein Verkehrsvorgang.
+      ['Verkehr', ['verkehr', 'unfall', 'sperrung', 'stau', 'brücke', 'bruecke', 'a100', 'autobahn', 'fahrzeug', 'pkw', 'lkw', 'fußgänger', 'fussgänger', 'radfahrer', 'radfahrende', 'motorrad', 'roller', 'kollision', 'falschfahrer']],
+      ['Fahndung', ['fahndung', 'gesucht', 'vermisst', 'zeug', 'zeuginnen', 'öffentlichkeitsfahndung']],
+      ['Ermittlung', ['ermittl', 'brandstiftung', 'brand', 'diebstahl', 'einbruch', 'raub', 'überfall', 'angriff', 'drogen', 'betrug', 'sachbeschädig', 'beschädig', 'verletz', 'festnahme', 'festgenommen', 'messer', 'schuss', 'schüsse', 'schießerei', 'tötung', 'tatverdächt', 'tatverdaecht']],
+      ['Einsatz', ['einsatz', 'streife', 'alarmiert', 'razzia', 'durchsuchung', 'kontroll', 'demonstration', 'versammlung', 'absperrung', 'evakuier']],
+      // Schwache Verkehrssignale: blosse Ortsangaben. Erst greifen, wenn oben
+      // nichts passte - sonst wuerde "Bedrohung am U-Bahnhof" zur Verkehrsmeldung.
+      ['Verkehr', ['bahnhof', 's-bahn', 'u-bahn', 'straßenbahn', 'strassenbahn', 'tram', 'bus']],
+    ];
+    // "Brandenburg" darf nicht als Brand durchgehen.
+    const CATEGORY_BLOCKLIST = /\bbrandenburg/i;
+
+    const matcherCache = new Map();
+    function keywordHits(text, keyword) {
+      let re = matcherCache.get(keyword);
+      if (!re) {
+        const safe = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        re = new RegExp('(^|[^a-zà-ÿ0-9])' + safe, 'i');
+        matcherCache.set(keyword, re);
+      }
+      return re.test(text);
     }
 
     function inferCategory(title, summary) {
-      const text = `${title || ''} ${summary || ''}`.toLowerCase();
-      const rules = [
-        ['Verkehr', ['verkehr', 'unfall', 'sperrung', 'stau', 'brücke', 'bruecke', 'a100', 'fahrzeug', 'auto', 'fußgänger', 'fussgänger', 'radfahrer', 'bahn', 's-bahn', 'u-bahn', 'tram', 'bus']],
-        ['Fahndung', ['fahndung', 'gesucht', 'vermisst', 'zeugen', 'tatverdächt', 'tatverdaecht', 'hinweis']],
-        ['Ermittlung', ['ermittlung', 'ermitteln', 'brand', 'diebstahl', 'raub', 'angriff', 'drogen', 'betrug', 'beschädigung', 'sachbeschädigung', 'verletz', 'festnahme']],
-        ['Einsatz', ['einsatz', 'polizei', 'streife', 'kollegen', 'beamte', 'räumt', 'raeumt', 'sichert', 'kontrolle']]
-      ];
-      for (const [cat, keywords] of rules) {
-        if (keywords.some(k => text.includes(k))) return cat;
+      const text = (title || '') + ' ' + (summary || '');
+      const cleaned = text.replace(CATEGORY_BLOCKLIST, ' ');
+      for (const [category, keywords] of CATEGORY_RULES) {
+        if (keywords.some((k) => keywordHits(cleaned, k))) return category;
       }
       return 'Sonstiges';
     }
 
     function itemCategory(item) {
-      return item.category || inferCategory(item.title, item.summary);
+      if (item._cat) return item._cat;
+      const cat = CATEGORIES.includes(item.category) && item.category !== 'Alle'
+        ? item.category
+        : inferCategory(item.title, item.summary);
+      item._cat = cat;
+      return cat;
     }
 
-    function formatClock(iso) {
-      const d = new Date(iso);
-      return new Intl.DateTimeFormat('de-DE', {
-        hour: '2-digit',
-        minute: '2-digit'
-      }).format(d);
+    const timeFmt = new Intl.DateTimeFormat('de-DE', { hour: '2-digit', minute: '2-digit' });
+    const dayFmt = new Intl.DateTimeFormat('de-DE', { weekday: 'long', day: '2-digit', month: 'long' });
+
+    function parseDate(value) {
+      const d = new Date(value);
+      return isNaN(d.getTime()) ? null : d;
     }
 
-    function formatRelative(iso) {
-      const diff = Date.now() - new Date(iso).getTime();
-      const mins = Math.max(0, Math.round(diff / 60000));
+    function formatClock(value) {
+      const d = parseDate(value);
+      return d ? timeFmt.format(d) : '—';
+    }
+
+    function formatRelative(value) {
+      const d = parseDate(value);
+      if (!d) return '';
+      const mins = Math.round((Date.now() - d.getTime()) / 60000);
       if (mins < 1) return 'gerade eben';
-      if (mins < 60) return `vor ${mins} Min.`;
+      if (mins < 60) return 'vor ' + mins + ' Min.';
       const hours = Math.round(mins / 60);
-      if (hours < 24) return `vor ${hours} Std.`;
+      if (hours < 24) return 'vor ' + hours + (hours === 1 ? ' Stunde' : ' Stunden');
       const days = Math.round(hours / 24);
-      return `vor ${days} Tg.`;
+      if (days < 7) return 'vor ' + days + (days === 1 ? ' Tag' : ' Tagen');
+      const weeks = Math.round(days / 7);
+      return 'vor ' + weeks + (weeks === 1 ? ' Woche' : ' Wochen');
     }
 
-    function statusForAge(publishedAt) {
-      const diffHours = (Date.now() - new Date(publishedAt).getTime()) / 36e5;
-      if (diffHours < 6) return { label: 'Neu', className: 'red' };
-      if (diffHours < 24) return { label: 'Aktualisiert', className: 'blue' };
-      return { label: 'Archiv', className: 'gray' };
+    function dayLabel(value) {
+      const d = parseDate(value);
+      if (!d) return 'Ohne Datum';
+      const today = new Date();
+      const startOf = (x) => new Date(x.getFullYear(), x.getMonth(), x.getDate()).getTime();
+      const diffDays = Math.round((startOf(today) - startOf(d)) / 86400000);
+      if (diffDays <= 0) return 'Heute';
+      if (diffDays === 1) return 'Gestern';
+      return dayFmt.format(d);
+    }
+
+    function dayKey(value) {
+      const d = parseDate(value);
+      return d ? d.getFullYear() + '-' + d.getMonth() + '-' + d.getDate() : 'unknown';
+    }
+
+    function isFresh(value) {
+      const d = parseDate(value);
+      return !!d && Date.now() - d.getTime() < FRESH_WINDOW;
+    }
+
+    function plural(n, one, many) {
+      return n + ' ' + (n === 1 ? one : many);
+    }
+
+    /* =========================================================
+       Theme
+       ========================================================= */
+    const THEME_KEY = 'pb-theme';
+    function systemPrefersDark() {
+      return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    }
+    function currentlyDark() {
+      const set = document.documentElement.getAttribute('data-theme');
+      return set ? set === 'dark' : systemPrefersDark();
+    }
+    function paintThemeMeta() {
+      const dark = currentlyDark();
+      document.querySelectorAll('meta[name="theme-color"]').forEach((m) => m.remove());
+      const meta = document.createElement('meta');
+      meta.name = 'theme-color';
+      meta.content = dark ? '#0c1118' : '#f3f1ec';
+      document.head.appendChild(meta);
+      const icon = dark ? '#i-sun' : '#i-moon';
+      els.themeBtn.querySelector('use').setAttribute('href', icon);
+      els.themeBtn.setAttribute('aria-label', dark ? 'Hellmodus einschalten' : 'Dunkelmodus einschalten');
+    }
+    function applyStoredTheme() {
+      let stored = null;
+      try { stored = localStorage.getItem(THEME_KEY); } catch (e) { /* Privatmodus */ }
+      if (stored === 'dark' || stored === 'light') document.documentElement.setAttribute('data-theme', stored);
+      paintThemeMeta();
+    }
+    function toggleTheme() {
+      const next = currentlyDark() ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      try { localStorage.setItem(THEME_KEY, next); } catch (e) { /* ignorieren */ }
+      paintThemeMeta();
+    }
+
+    /* =========================================================
+       Rendering
+       ========================================================= */
+    function icon(name, size) {
+      return '<svg width="' + size + '" height="' + size + '" aria-hidden="true"><use href="#i-' + name + '"/></svg>';
+    }
+
+    function skeletonFeed(count) {
+      let out = '';
+      for (let i = 0; i < count; i++) {
+        out += '<div class="sk" aria-hidden="true">' +
+          '<div class="sk-line w40"></div>' +
+          '<div class="sk-line tall w90"></div>' +
+          '<div class="sk-line w70"></div>' +
+          '<div class="sk-line w55" style="margin-bottom:0"></div>' +
+          '</div>';
+      }
+      return out;
     }
 
     function filteredItems() {
-      if (!state.data) return [];
-      return state.data.items.filter(item => {
+      if (!state.data || !Array.isArray(state.data.items)) return [];
+      const q = state.query.toLowerCase();
+      return state.data.items.filter((item) => {
         const category = itemCategory(item);
-        const matchesCategory = state.category === 'Alle' || category === state.category;
-        const haystack = `${item.title} ${item.summary} ${category}`.toLowerCase();
-        const matchesQuery = !state.query || haystack.includes(state.query.toLowerCase());
-        return matchesCategory && matchesQuery;
+        if (state.category !== 'Alle' && category !== state.category) return false;
+        if (!q) return true;
+        return ((item.title || '') + ' ' + (item.summary || '') + ' ' + category).toLowerCase().includes(q);
       });
     }
 
-    function renderHero(item) {
-      if (!item) return;
-      const status = statusForAge(item.publishedAt);
-      els.heroBadge.textContent = 'Top-Meldung';
-      els.heroBadge.className = 'badge red';
-      els.heroTime.style.display = '';
-      els.heroTime.textContent = `${formatClock(item.publishedAt)} · ${formatRelative(item.publishedAt)}`;
-      els.heroTitle.textContent = item.title;
-      els.heroSummary.textContent = item.summary;
-      els.heroMeta.innerHTML = `
-        <span>Quelle: Polizei Berlin</span>
-        <span>·</span>
-        <span>Zuletzt geprüft ${escapeHtml(state.data.source.checkedTime)}</span>
-        <span>·</span>
-        <span class="link">${escapeHtml(itemCategory(item))} · ${escapeHtml(status.label)}</span>
-        <span>·</span>
-        <a class="link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener">Original öffnen</a>
-      `;
+    function categoryCounts() {
+      const counts = { Alle: 0 };
+      CATEGORIES.forEach((c) => { if (c !== 'Alle') counts[c] = 0; });
+      if (!state.data || !Array.isArray(state.data.items)) return counts;
+      const q = state.query.toLowerCase();
+      state.data.items.forEach((item) => {
+        const category = itemCategory(item);
+        if (q && !((item.title || '') + ' ' + (item.summary || '') + ' ' + category).toLowerCase().includes(q)) return;
+        counts.Alle += 1;
+        counts[category] = (counts[category] || 0) + 1;
+      });
+      return counts;
     }
 
-    function renderHeroState(badge, badgeClass, title, summary) {
-      els.heroBadge.textContent = badge;
-      els.heroBadge.className = `badge ${badgeClass}`;
-      els.heroTime.style.display = 'none';
-      els.heroTitle.textContent = title;
-      els.heroSummary.textContent = summary;
-      els.heroMeta.innerHTML = '<span>Quelle: Polizei Berlin</span>';
-    }
-
-    function renderFeed(items) {
-      if (!items.length) {
-        els.feed.innerHTML = `
-          <div class="empty">
-            <strong>Keine weiteren Meldungen</strong>
-            Die Top-Meldung steht oben. Wenn du suchst oder filterst, erscheint nur der jeweils nächste Treffer hier darunter.
-          </div>
-        `;
-        els.resultCount.textContent = '0 weitere Meldungen';
-        return;
-      }
-
-      const showAll = state.query.length > 0 || state.category !== 'Alle';
-      const displayItems = showAll ? items.slice(1) : items.slice(1, DEFAULT_LIMIT + 1);
-      if (showAll) {
-        els.resultCount.textContent = `${displayItems.length} weitere Meldungen`;
-      } else {
-        els.resultCount.textContent = displayItems.length
-          ? `${displayItems.length} weitere von ${items.length - 1}`
-          : '0 weitere Meldungen';
-      }
-
-      const cards = displayItems.map(item => {
-        const status = statusForAge(item.publishedAt);
-        const badgeClass = status.className;
-        const timeText = `${formatClock(item.publishedAt)} · ${formatRelative(item.publishedAt)}`;
-        const summary = item.summary || item.title;
-        const link = escapeHtml(item.link);
-        return `
-          <article class="card" data-href="${link}">
-            <div class="card-top">
-              <span class="badge ${badgeClass}">${escapeHtml(itemCategory(item))}</span>
-              <span class="badge ${badgeClass === 'gray' ? 'gray' : 'blue'}">${escapeHtml(status.label)}</span>
-            </div>
-            <h4><a href="${link}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></h4>
-            <p class="summary">${escapeHtml(summary)}</p>
-            <div class="card-meta">
-              <span>Veröffentlicht ${escapeHtml(timeText)}</span>
-              <span>·</span>
-              <span>Zuletzt geprüft ${escapeHtml(state.data.source.checkedTime)}</span>
-            </div>
-            <div class="footerline">
-              <span>Quelle: Polizei Berlin</span>
-              <a class="action" href="${link}" target="_blank" rel="noopener">Original öffnen</a>
-            </div>
-          </article>
-        `;
+    function buildChips() {
+      els.chips.innerHTML = CATEGORIES.map((cat) => {
+        const swatch = cat === 'Alle' ? '' : '<span class="swatch" aria-hidden="true"></span>';
+        return '<button class="chip" type="button" data-cat="' + cat + '" aria-pressed="' +
+          (cat === state.category) + '">' + swatch + '<span>' + cat + '</span><span class="n" aria-hidden="true"></span></button>';
       }).join('');
-
-      const moreBox = (!showAll && items.length - 1 > DEFAULT_LIMIT)
-        ? `
-          <div class="empty">
-            <strong>Mehr Meldungen im Archiv</strong>
-            Es werden zunächst die frischesten Einträge unter der Top-Meldung gezeigt. Für die vollständige Liste bitte die offizielle Polizeiseite öffnen.
-            <div style="margin-top:10px"><a class="action" href="https://www.berlin.de/polizei/polizeimeldungen/" target="_blank" rel="noopener">Offizielles Archiv öffnen</a></div>
-          </div>
-        `
-        : '';
-
-      els.feed.innerHTML = cards + moreBox;
     }
 
     function updateChips() {
-      [...els.chips.querySelectorAll('.chip')].forEach(btn => {
-        btn.classList.toggle('active', btn.dataset.cat === state.category);
-        btn.setAttribute('aria-pressed', btn.dataset.cat === state.category ? 'true' : 'false');
+      const counts = categoryCounts();
+      els.chips.querySelectorAll('.chip').forEach((chip) => {
+        const cat = chip.dataset.cat;
+        const n = counts[cat] || 0;
+        chip.setAttribute('aria-pressed', String(cat === state.category));
+        chip.dataset.empty = String(n === 0 && cat !== state.category);
+        const label = chip.querySelector('.n');
+        if (label) label.textContent = state.data ? String(n) : '';
       });
+    }
+
+    function metaRow(item) {
+      return [
+        '<time datetime="' + escapeHtml(item.publishedAt) + '">' + escapeHtml(formatClock(item.publishedAt)) + ' Uhr</time>',
+        '<span data-rel="' + escapeHtml(item.publishedAt) + '">' + escapeHtml(formatRelative(item.publishedAt)) + '</span>',
+        'Polizei Berlin',
+      ].join('<span class="sep">·</span>');
+    }
+
+    // Faellt im Feed keine Beschreibung an, spiegelt summary den Titel - dann weglassen.
+    function usableSummary(item) {
+      const summary = String(item.summary || '').trim();
+      const title = String(item.title || '').trim();
+      return summary && summary !== title ? summary : '';
+    }
+
+    function renderHero(item) {
+      if (!item) { els.heroSlot.innerHTML = ''; return; }
+      const category = itemCategory(item);
+      const summary = usableSummary(item);
+      const link = escapeHtml(item.link || ARCHIVE_URL);
+      const fresh = isFresh(item.publishedAt)
+        ? '<span class="tag neu"><span class="swatch" aria-hidden="true"></span>Neu</span>'
+        : '';
+      els.heroSlot.innerHTML =
+        '<article class="hero surface" data-cat="' + escapeHtml(category) + '">' +
+          '<div class="hero-top">' +
+            '<span class="tag"><span class="swatch" aria-hidden="true"></span>' + escapeHtml(category) + '</span>' +
+            fresh +
+          '</div>' +
+          '<h2 class="hero-title"><a href="' + link + '" target="_blank" rel="noopener">' + escapeHtml(item.title) + '</a></h2>' +
+          (summary ? '<p class="hero-sum">' + escapeHtml(summary) + '</p>' : '') +
+          '<div class="meta-row">' + metaRow(item) + '</div>' +
+          '<div class="actions">' +
+            '<a class="btn primary" href="' + link + '" target="_blank" rel="noopener">Original öffnen' + icon('external', 16) + '</a>' +
+            '<button class="btn" type="button" data-share="' + link + '" data-title="' + escapeHtml(item.title) + '">' +
+              icon('share', 16) + '<span class="label">Teilen</span></button>' +
+          '</div>' +
+        '</article>';
+    }
+
+    function renderCard(item) {
+      const category = itemCategory(item);
+      const summary = usableSummary(item);
+      const link = escapeHtml(item.link || ARCHIVE_URL);
+      const fresh = isFresh(item.publishedAt)
+        ? '<span class="tag neu"><span class="swatch" aria-hidden="true"></span>Neu</span>'
+        : '';
+      return '<article class="card" data-cat="' + escapeHtml(category) + '" data-href="' + link + '">' +
+          '<div class="card-head">' +
+            '<span style="display:inline-flex;gap:6px;flex-wrap:wrap">' +
+              '<span class="tag"><span class="swatch" aria-hidden="true"></span>' + escapeHtml(category) + '</span>' + fresh +
+            '</span>' +
+            '<span class="when"><time datetime="' + escapeHtml(item.publishedAt) + '">' + escapeHtml(formatClock(item.publishedAt)) + '</time></span>' +
+          '</div>' +
+          '<h3 class="card-title"><a href="' + link + '" target="_blank" rel="noopener">' + highlight(item.title, state.query) + '</a></h3>' +
+          (summary ? '<p class="card-sum">' + highlight(summary, state.query) + '</p>' : '') +
+          '<div class="card-foot">' +
+            '<span data-rel="' + escapeHtml(item.publishedAt) + '">' + escapeHtml(formatRelative(item.publishedAt)) + '</span>' +
+            '<span class="card-actions">' +
+              '<button class="btn ghost" type="button" data-share="' + link + '" data-title="' + escapeHtml(item.title) + '" aria-label="Meldung teilen">' +
+                icon('share', 16) + '</button>' +
+              '<a class="btn ghost" href="' + link + '" target="_blank" rel="noopener" aria-label="Original öffnen">' +
+                icon('external', 16) + '</a>' +
+            '</span>' +
+          '</div>' +
+        '</article>';
+    }
+
+    function renderEmpty(filtered) {
+      els.feed.innerHTML =
+        '<div class="empty surface">' +
+          '<div class="glyph" aria-hidden="true">' + icon('inbox', 26) + '</div>' +
+          '<b>' + (filtered ? 'Keine Treffer' : 'Zurzeit keine Meldungen') + '</b>' +
+          '<p>' + (filtered
+            ? 'Für diese Suche oder Kategorie liegt gerade nichts vor.'
+            : 'Sobald die Polizei Berlin neue Meldungen veröffentlicht, erscheinen sie hier.') + '</p>' +
+          (filtered ? '<button class="btn" type="button" id="resetFilters">Filter zurücksetzen</button>' : '') +
+        '</div>';
+      const reset = $('resetFilters');
+      if (reset) reset.addEventListener('click', resetFilters);
+    }
+
+    function renderFeed(items) {
+      const slice = items.slice(0, state.visible);
+      els.feed.classList.toggle('anim', state.animate);
+      if (!slice.length) {
+        renderEmpty(state.query.length > 0 || state.category !== 'Alle');
+        els.moreBtn.hidden = true;
+        return;
+      }
+
+      let html = '';
+      let lastKey = null;
+      slice.forEach((item) => {
+        const key = dayKey(item.publishedAt);
+        if (key !== lastKey) {
+          html += '<h3 class="day-head">' + escapeHtml(dayLabel(item.publishedAt)) + '</h3>';
+          lastKey = key;
+        }
+        html += renderCard(item);
+      });
+      els.feed.innerHTML = html;
+
+      const remaining = items.length - slice.length;
+      els.moreBtn.hidden = remaining <= 0;
+      if (remaining > 0) {
+        els.moreBtn.textContent = 'Weitere ' + Math.min(PAGE_SIZE, remaining) + ' von ' + plural(remaining, 'Meldung', 'Meldungen') + ' laden';
+      }
     }
 
     function renderRail() {
-      if (!state.data || !state.data.items.length) {
-        if (els.railStats) els.railStats.innerHTML = '<div class="rail-empty">Keine Daten verfügbar.</div>';
-        if (els.railLatest) els.railLatest.innerHTML = '<div class="rail-empty">—</div>';
+      if (!state.data || !state.data.items || !state.data.items.length) {
+        els.railStats.innerHTML = '<div class="rail-empty">Noch keine Daten.</div>';
         return;
       }
-      const items = state.data.items;
       const counts = {};
-      items.forEach(it => {
-        const c = itemCategory(it);
+      state.data.items.forEach((item) => {
+        const c = itemCategory(item);
         counts[c] = (counts[c] || 0) + 1;
       });
-      const max = Math.max(...Object.values(counts));
       const rows = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+      const max = rows[0][1];
+      const total = state.data.items.length;
       els.railStats.innerHTML = rows.map(([name, n]) => {
-        const pct = Math.max(8, Math.round((n / max) * 100));
-        const color = CATEGORY_COLOR[name] || CATEGORY_COLOR.Sonstiges;
-        return `
-          <div class="rail-stat">
-            <span class="name">${escapeHtml(name)}</span>
-            <span class="num">${n}</span>
-            <span class="rail-bar"><i style="width:${pct}%;background:${color}"></i></span>
-          </div>
-        `;
+        const pct = Math.max(6, Math.round((n / max) * 100));
+        const share = Math.round((n / total) * 100);
+        return '<div class="stat" data-cat="' + escapeHtml(name) + '">' +
+            '<span class="name"><span class="swatch" aria-hidden="true"></span>' + escapeHtml(name) + '</span>' +
+            '<span class="num">' + n + ' · ' + share + ' %</span>' +
+            '<span class="bar"><i style="width:' + pct + '%"></i></span>' +
+          '</div>';
       }).join('');
+    }
 
-      const latest = items[0];
-      els.railLatest.innerHTML = `
-        <a href="${escapeHtml(latest.link)}" target="_blank" rel="noopener">${escapeHtml(latest.title)}</a>
-        <div class="line">${escapeHtml(formatClock(latest.publishedAt))} · ${escapeHtml(formatRelative(latest.publishedAt))} · ${escapeHtml(itemCategory(latest))}</div>
-      `;
+    function renderStatus() {
+      if (state.failed && !state.data) {
+        els.statusText.textContent = 'Keine Verbindung zur Quelle';
+        els.liveDot.dataset.state = 'off';
+        return;
+      }
+      if (!state.data) return;
+      const source = state.data.source || {};
+      const checked = parseDate(source.checkedAt);
+      const age = checked ? Date.now() - checked.getTime() : 0;
+      const stale = checked && age > STALE_AFTER;
+      els.liveDot.dataset.state = navigator.onLine === false ? 'off' : (stale ? 'stale' : 'live');
+      const count = (state.data.items || []).length;
+      els.statusText.innerHTML =
+        'Zuletzt geprüft <b>' + escapeHtml(checked ? formatRelative(source.checkedAt) : (source.checkedTime || '–')) + '</b>' +
+        '<span class="sep"> · </span>' + escapeHtml(plural(count, 'Meldung', 'Meldungen'));
+    }
+
+    function renderBanner() {
+      const source = (state.data && state.data.source) || null;
+      const checked = source ? parseDate(source.checkedAt) : null;
+      const stale = checked && Date.now() - checked.getTime() > STALE_AFTER;
+
+      let tone = null, title = '', body = '', retry = false;
+      if (navigator.onLine === false) {
+        tone = 'warn';
+        title = 'Offline';
+        body = state.data ? 'Es werden gespeicherte Meldungen angezeigt.' : 'Es liegen keine gespeicherten Meldungen vor.';
+      } else if (state.failed) {
+        tone = 'error';
+        title = 'Aktualisierung fehlgeschlagen';
+        body = state.data ? 'Angezeigt wird der zuletzt geladene Stand.' : 'Die Quelle konnte nicht geladen werden.';
+        retry = true;
+      } else if (stale) {
+        tone = 'warn';
+        title = 'Stand verzögert';
+        body = 'Die Quelle wurde zuletzt ' + formatRelative(source.checkedAt) + ' geprüft.';
+      }
+
+      if (!tone) { els.banner.hidden = true; els.banner.innerHTML = ''; return; }
+      els.banner.dataset.tone = tone === 'error' ? 'error' : 'warn';
+      els.banner.innerHTML = icon('alert', 18) +
+        '<span><b>' + escapeHtml(title) + '</b>' + escapeHtml(body) +
+        (retry ? '<br /><button class="retry" type="button" id="retryBtn">Erneut versuchen</button>' : '') +
+        '</span>';
+      els.banner.hidden = false;
+      const retryBtn = $('retryBtn');
+      if (retryBtn) retryBtn.addEventListener('click', () => refresh(false));
+    }
+
+    // Aktualisiert nur die Zeitstempel im DOM - kein Re-Render der Karten.
+    function refreshTimes() {
+      renderStatus();
+      renderBanner();
+      document.querySelectorAll('[data-rel]').forEach((el) => {
+        el.textContent = formatRelative(el.dataset.rel);
+      });
+    }
+
+    function announce(text) {
+      els.liveRegion.textContent = text;
     }
 
     function render() {
-      if (!state.data) return;
-      els.headlineLine.textContent = `Zuletzt geprüft ${state.data.source.checkedTime} · ${state.data.source.count} Meldungen · Quelle: Polizei Berlin`;
-      els.dataStatus.textContent = state.data.source.statusLabel || 'Aktuell';
-      els.lastCheck.textContent = state.data.source.checkedTime;
-      renderRail();
-      const items = filteredItems();
+      renderStatus();
+      renderBanner();
       updateChips();
 
-      const isFiltered = state.query.length > 0 || state.category !== 'Alle';
-      if (!items.length) {
-        if (isFiltered) {
-          renderHeroState('Keine Treffer', 'gray', 'Keine passende Meldung',
-            'Für deine Suche oder Filterauswahl gibt es aktuell keine Meldung. Setze die Filter zurück, um wieder alle Meldungen zu sehen.');
-        } else {
-          renderHeroState('Keine Meldungen', 'gray', 'Aktuell keine Meldungen',
-            'Es liegen derzeit keine Meldungen vor. Sobald die Quelle aktualisiert wird, erscheinen sie hier.');
-        }
-        els.feed.innerHTML = '';
-        els.resultCount.textContent = '0 Meldungen';
+      if (state.loading && !state.data) {
+        els.feed.innerHTML = skeletonFeed(4);
+        els.resultCount.textContent = 'Lade …';
+        els.moreBtn.hidden = true;
+        return;
+      }
+      if (!state.data) {
+        els.heroSlot.innerHTML = '';
+        renderRail();
+        renderEmpty(false);
+        els.resultCount.textContent = '';
+        els.moreBtn.hidden = true;
         return;
       }
 
-      renderHero(items[0]);
-      renderFeed(items);
+      renderRail();
+
+      const isFiltered = state.query.length > 0 || state.category !== 'Alle';
+      const items = filteredItems();
+
+      // Ohne Filter: Top-Meldung prominent, Rest als Liste.
+      // Mit Filter: reine Trefferliste, damit die Auswahl klar bleibt.
+      const heroItem = !isFiltered ? items[0] : null;
+      const listItems = heroItem ? items.slice(1) : items;
+
+      renderHero(heroItem);
+
+      // Gibt es ausser der Top-Meldung nichts, bleibt die Listenueberschrift weg,
+      // statt einen irrefuehrenden Leerzustand unter dem Hero zu zeigen.
+      const hideList = !!heroItem && listItems.length === 0;
+      els.sectionHead.hidden = hideList;
+      if (hideList) {
+        els.feed.innerHTML = '';
+        els.moreBtn.hidden = true;
+      } else {
+        renderFeed(listItems);
+      }
+
+      const shown = Math.min(state.visible, listItems.length);
+      if (isFiltered) {
+        els.resultCount.textContent = items.length
+          ? shown + ' von ' + plural(items.length, 'Treffer', 'Treffern')
+          : 'Keine Treffer';
+        announce(items.length ? plural(items.length, 'Treffer', 'Treffer') + ' gefunden' : 'Keine Treffer');
+      } else {
+        els.resultCount.textContent = shown + ' von ' + plural(listItems.length, 'weiteren Meldung', 'weiteren Meldungen');
+      }
+      $('feedHeading').textContent = isFiltered ? 'Treffer' : 'Weitere Meldungen';
     }
 
-    async function loadData() {
+    /* =========================================================
+       Daten laden
+       ========================================================= */
+    function linkSet(data) {
+      const set = new Set();
+      ((data && data.items) || []).forEach((i) => { if (i.link) set.add(i.link); });
+      return set;
+    }
+
+    async function load(silent) {
+      if (state.refreshing) return;
+      state.refreshing = true;
+      if (!silent) els.refreshBtn.classList.add('is-busy');
+      els.refreshBtn.disabled = true;
+
+      const hadData = !!state.data;
       try {
         const res = await fetch('data/feed.json', { cache: 'no-store' });
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        state.data = await res.json();
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+        if (!data || !Array.isArray(data.items)) throw new Error('Unerwartetes Format');
+
+        const incoming = linkSet(data);
+        let fresh = 0;
+        if (hadData) incoming.forEach((l) => { if (!state.knownLinks.has(l)) fresh += 1; });
+
+        state.animate = true;
+        state.data = data;
+        state.knownLinks = incoming;
+        state.failed = false;
+        state.loading = false;
+        state.lastFetch = Date.now();
         render();
+
+        if (!hadData) {
+          // Erstes Laden braucht keine Bestaetigung - der Inhalt selbst ist die Rueckmeldung.
+        } else if (fresh > 0) {
+          toast(plural(fresh, 'neue Meldung', 'neue Meldungen'), 'Anzeigen', () => {
+            resetFilters();
+            window.scrollTo({ top: 0, behavior: scrollBehavior() });
+          });
+          announce(plural(fresh, 'neue Meldung', 'neue Meldungen'));
+        } else if (!silent) {
+          toast('Alles aktuell');
+        }
       } catch (err) {
         console.warn('Feed konnte nicht geladen werden:', err);
-        els.dataStatus.textContent = 'Offline';
-        els.lastCheck.textContent = '–';
-        els.headlineLine.textContent = 'Die offizielle Quelle konnte gerade nicht geladen werden.';
-        renderHeroState('Offline', 'gray', 'Daten aktuell nicht abrufbar',
-          'Die offizielle Quelle konnte gerade nicht geladen werden. Bitte später erneut versuchen.');
-        renderRail();
-        els.feed.innerHTML = `
-          <div class="empty">
-            <strong>Daten aktuell nicht abrufbar</strong>
-            Bitte später erneut laden. Es wird nur der letzte verlässliche Stand angezeigt, sobald die Daten wieder verfügbar sind.
-          </div>
-        `;
-        els.resultCount.textContent = '0 Meldungen';
+        state.failed = true;
+        state.loading = false;
+        render();
+        if (!silent) toast(hadData ? 'Aktualisierung fehlgeschlagen' : 'Daten nicht erreichbar');
+      } finally {
+        state.refreshing = false;
+        els.refreshBtn.disabled = false;
+        els.refreshBtn.classList.remove('is-busy');
+        setPtr(0, true);
+        els.ptr.classList.remove('busy', 'armed');
       }
     }
 
-    els.query.addEventListener('input', (e) => {
-      state.query = e.target.value.trim();
-      render();
-    });
+    function refresh(silent) {
+      load(!!silent);
+    }
 
-    els.resetBtn.addEventListener('click', () => {
+    function maybeAutoRefresh() {
+      if (document.hidden || state.refreshing) return;
+      if (Date.now() - state.lastFetch < REFRESH_EVERY) return;
+      refresh(true);
+    }
+
+    /* =========================================================
+       Toast
+       ========================================================= */
+    let toastTimer = null;
+    function toast(message, actionLabel, onAction) {
+      clearTimeout(toastTimer);
+      els.toast.innerHTML = '<span></span>';
+      els.toast.firstChild.textContent = message;
+      if (actionLabel && onAction) {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.textContent = actionLabel;
+        btn.addEventListener('click', () => { hideToast(); onAction(); });
+        els.toast.appendChild(btn);
+      }
+      els.toast.classList.add('show');
+      toastTimer = setTimeout(hideToast, actionLabel ? 7000 : 2600);
+    }
+    function hideToast() {
+      clearTimeout(toastTimer);
+      els.toast.classList.remove('show');
+    }
+
+    /* =========================================================
+       Teilen
+       ========================================================= */
+    async function share(url, title) {
+      const payload = { title: title || 'Polizei Berlin', text: title || '', url: url };
+      if (navigator.share) {
+        try {
+          await navigator.share(payload);
+          return;
+        } catch (err) {
+          if (err && err.name === 'AbortError') return; // Nutzer hat abgebrochen
+        }
+      }
+      try {
+        await navigator.clipboard.writeText(url);
+        toast('Link kopiert');
+      } catch (err) {
+        window.open(url, '_blank', 'noopener');
+      }
+    }
+
+    /* =========================================================
+       Filter-Interaktionen
+       ========================================================= */
+    function resetFilters() {
       state.query = '';
       state.category = 'Alle';
+      state.visible = PAGE_SIZE;
       els.query.value = '';
+      els.clearBtn.hidden = true;
       render();
+    }
+
+    let queryTimer = null;
+    els.query.addEventListener('input', (e) => {
+      const value = e.target.value.trim();
+      els.clearBtn.hidden = value.length === 0;
+      clearTimeout(queryTimer);
+      queryTimer = setTimeout(() => {
+        state.query = value;
+        state.visible = PAGE_SIZE;
+        state.animate = false;
+        render();
+      }, 130);
     });
 
-    els.chips.addEventListener('click', (e) => {
-      const btn = e.target.closest('.chip');
-      if (!btn) return;
-      state.category = btn.dataset.cat;
+    els.query.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        if (els.query.value) {
+          els.query.value = '';
+          els.clearBtn.hidden = true;
+          state.query = '';
+          state.visible = PAGE_SIZE;
+          render();
+        } else {
+          closeSearch();
+        }
+      }
+    });
+
+    els.clearBtn.addEventListener('click', () => {
+      els.query.value = '';
+      els.clearBtn.hidden = true;
+      state.query = '';
+      state.visible = PAGE_SIZE;
       render();
-    });
-
-    els.feed.addEventListener('click', (e) => {
-      if (e.target.closest('a')) return;                                  // real links handle themselves
-      if (window.getSelection && String(window.getSelection()).length) return; // don't hijack text selection
-      const card = e.target.closest('.card[data-href]');
-      if (card) window.open(card.dataset.href, '_blank', 'noopener');
-    });
-
-    els.searchBtn.addEventListener('click', () => {
-      const behavior = prefersReducedMotion() ? 'auto' : 'smooth';
-      els.query.scrollIntoView({ behavior, block: 'center' });
       els.query.focus();
     });
 
-    els.filterBtn.addEventListener('click', () => {
-      const behavior = prefersReducedMotion() ? 'auto' : 'smooth';
-      els.chips.scrollIntoView({ behavior, block: 'center' });
+    els.chips.addEventListener('click', (e) => {
+      const chip = e.target.closest('.chip');
+      if (!chip) return;
+      state.category = chip.dataset.cat;
+      state.visible = PAGE_SIZE;
+      state.animate = true;
+      render();
+      chip.scrollIntoView({ behavior: scrollBehavior(), block: 'nearest', inline: 'center' });
     });
+
+    els.moreBtn.addEventListener('click', () => {
+      state.visible += PAGE_SIZE;
+      state.animate = false;
+      render();
+      const cards = els.feed.querySelectorAll('.card');
+      const focusTarget = cards[Math.max(0, cards.length - PAGE_SIZE)];
+      if (focusTarget) {
+        const anchor = focusTarget.querySelector('a');
+        if (anchor) anchor.focus({ preventScroll: true });
+      }
+    });
+
+    function openSearch() {
+      els.searchRow.hidden = false;
+      els.searchBtn.setAttribute('aria-expanded', 'true');
+      els.searchBtn.setAttribute('aria-label', 'Suche schließen');
+      els.query.focus();
+    }
+    function closeSearch() {
+      if (window.matchMedia('(min-width: 900px)').matches) { els.query.blur(); return; }
+      els.searchRow.hidden = true;
+      els.searchBtn.setAttribute('aria-expanded', 'false');
+      els.searchBtn.setAttribute('aria-label', 'Suche öffnen');
+      els.searchBtn.focus();
+    }
+    els.searchBtn.addEventListener('click', () => {
+      if (els.searchBtn.getAttribute('aria-expanded') === 'true') closeSearch();
+      else openSearch();
+    });
+
+    els.refreshBtn.addEventListener('click', () => refresh(false));
+    els.themeBtn.addEventListener('click', toggleTheme);
+
+    // Karte als Ganzes anklickbar – echte Links und Textauswahl bleiben unangetastet.
+    document.addEventListener('click', (e) => {
+      const shareBtn = e.target.closest('[data-share]');
+      if (shareBtn) {
+        e.preventDefault();
+        share(shareBtn.dataset.share, shareBtn.dataset.title);
+        return;
+      }
+      if (e.target.closest('a')) return;
+      const card = e.target.closest('.card[data-href]');
+      if (!card) return;
+      if (window.getSelection && String(window.getSelection()).length) return;
+      window.open(card.dataset.href, '_blank', 'noopener');
+    });
+
+    document.addEventListener('keydown', (e) => {
+      const active = document.activeElement;
+      const typing = !!active && (/^(INPUT|TEXTAREA|SELECT)$/.test(active.tagName) || active.isContentEditable);
+      if ((e.key === 'k' && (e.metaKey || e.ctrlKey)) || (e.key === '/' && !typing)) {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape' && !typing) {
+        hideToast();
+      }
+    });
+
+    /* =========================================================
+       Scroll: kompakte Kopfzeile + Nach-oben-Button
+       ========================================================= */
+    if ('IntersectionObserver' in window) {
+      new IntersectionObserver((entries) => {
+        document.body.classList.toggle('is-stuck', !entries[0].isIntersecting);
+      }, { rootMargin: '0px' }).observe(els.sentinel);
+    }
+
+    let scrollTick = false;
+    window.addEventListener('scroll', () => {
+      if (scrollTick) return;
+      scrollTick = true;
+      requestAnimationFrame(() => {
+        els.topBtn.classList.toggle('show', window.scrollY > 700);
+        scrollTick = false;
+      });
+    }, { passive: true });
+
+    els.topBtn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: scrollBehavior() });
+    });
+
+    /* =========================================================
+       Pull-to-Refresh (Touch)
+       ========================================================= */
+    const PTR_TRIGGER = 68;
+    const PTR_MAX = 104;
+    let ptrStart = null, ptrDist = 0, ptrEngaged = false;
+
+    function setPtr(distance, snap) {
+      els.ptr.classList.toggle('snap', !!snap);
+      if (distance <= 0) {
+        els.ptr.style.transform = 'translate(-50%,-70px)';
+        els.ptr.style.opacity = '0';
+        return;
+      }
+      const travel = Math.min(distance, PTR_MAX);
+      els.ptr.style.transform = 'translate(-50%,' + (travel - 46) + 'px) rotate(' + travel * 3 + 'deg)';
+      els.ptr.style.opacity = String(Math.min(1, travel / PTR_TRIGGER));
+    }
+
+    function endPtr() {
+      if (ptrEngaged && ptrDist >= PTR_TRIGGER && !state.refreshing) {
+        els.ptr.classList.add('busy');
+        els.ptr.style.transform = 'translate(-50%,24px)';
+        els.ptr.style.opacity = '1';
+        refresh(false);
+      } else {
+        setPtr(0, true);
+        els.ptr.classList.remove('armed');
+      }
+      ptrStart = null; ptrDist = 0; ptrEngaged = false;
+    }
+
+    document.addEventListener('touchstart', (e) => {
+      if (state.refreshing || e.touches.length !== 1 || window.scrollY > 0) { ptrStart = null; return; }
+      ptrStart = e.touches[0].clientY;
+      ptrDist = 0; ptrEngaged = false;
+      els.ptr.classList.remove('snap');
+    }, { passive: true });
+
+    document.addEventListener('touchmove', (e) => {
+      if (ptrStart === null) return;
+      const delta = e.touches[0].clientY - ptrStart;
+      if (delta <= 0 || window.scrollY > 0) { ptrStart = null; setPtr(0, true); return; }
+      ptrEngaged = true;
+      ptrDist = delta * 0.5;
+      els.ptr.classList.toggle('armed', ptrDist >= PTR_TRIGGER);
+      if (e.cancelable) e.preventDefault();
+      setPtr(ptrDist, false);
+    }, { passive: false });
+
+    document.addEventListener('touchend', endPtr, { passive: true });
+    document.addEventListener('touchcancel', endPtr, { passive: true });
+
+    /* =========================================================
+       Lebenszyklus
+       ========================================================= */
+    document.addEventListener('visibilitychange', () => { if (!document.hidden) maybeAutoRefresh(); });
+    window.addEventListener('focus', maybeAutoRefresh);
+    window.addEventListener('online', () => { render(); refresh(true); });
+    window.addEventListener('offline', render);
+    setInterval(maybeAutoRefresh, 60 * 1000);
+    // Relative Zeitangaben ("vor 3 Min.") mitlaufen lassen, ohne die Liste neu zu bauen.
+    setInterval(() => { if (!document.hidden && state.data) refreshTimes(); }, 60 * 1000);
+
+    if (window.matchMedia) {
+      const mq = window.matchMedia('(prefers-color-scheme: dark)');
+      const onChange = () => paintThemeMeta();
+      if (mq.addEventListener) mq.addEventListener('change', onChange);
+      else if (mq.addListener) mq.addListener(onChange);
+    }
 
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('./sw.js', { scope: './' })
-          .catch(err => console.warn('Service worker registration failed:', err));
+          .catch((err) => console.warn('Service Worker nicht registriert:', err));
       });
     }
 
-    loadData();
+    /* =========================================================
+       Start
+       ========================================================= */
+    applyStoredTheme();
+    buildChips();
+    if (window.matchMedia('(min-width: 900px)').matches) els.searchRow.hidden = false;
+    render();
+    load(false);
+  })();
   </script>
 </body>
 </html>
