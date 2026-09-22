@@ -60,16 +60,35 @@ def meta_description(page_html: str) -> str:
     return ""
 
 
+# Keywords greifen nur am Wortanfang. Deutsche Komposita matchen damit weiter
+# ("Verkehrsunfall" -> verkehr), Zufallstreffer im Wortinneren nicht mehr
+# ("Restaurant" enthielt zuvor "stau" und landete unter Verkehr).
+# Spiegelt CATEGORY_RULES in index.html - beide Listen synchron halten.
+CATEGORY_RULES = [
+    # Starke Verkehrssignale: das Ereignis selbst ist ein Verkehrsvorgang.
+    ("Verkehr", ["verkehr", "unfall", "sperrung", "stau", "brücke", "bruecke", "a100", "autobahn", "fahrzeug", "pkw", "lkw", "fußgänger", "fussgänger", "radfahrer", "radfahrende", "motorrad", "roller", "kollision", "falschfahrer"]),
+    ("Fahndung", ["fahndung", "gesucht", "vermisst", "zeug", "zeuginnen", "öffentlichkeitsfahndung"]),
+    ("Ermittlung", ["ermittl", "brandstiftung", "brand", "diebstahl", "einbruch", "raub", "überfall", "angriff", "drogen", "betrug", "sachbeschädig", "beschädig", "verletz", "festnahme", "festgenommen", "messer", "schuss", "schüsse", "schießerei", "tötung", "tatverdächt", "tatverdaecht"]),
+    ("Einsatz", ["einsatz", "streife", "alarmiert", "razzia", "durchsuchung", "kontroll", "demonstration", "versammlung", "absperrung", "evakuier"]),
+    # Schwache Verkehrssignale: blosse Ortsangaben. Erst greifen, wenn oben
+    # nichts passte - sonst wuerde "Bedrohung am U-Bahnhof" zur Verkehrsmeldung.
+    ("Verkehr", ["bahnhof", "s-bahn", "u-bahn", "straßenbahn", "strassenbahn", "tram", "bus"]),
+]
+
+# "Brandenburg" darf nicht als Brand durchgehen.
+CATEGORY_BLOCKLIST = re.compile(r"(?<![0-9A-Za-zÀ-ÖØ-öø-ÿ])brandenburg", re.I)
+
+WORD_START = r"(?<![0-9A-Za-zÀ-ÖØ-öø-ÿ])"
+_MATCHERS = [
+    (category, [re.compile(WORD_START + re.escape(k), re.I) for k in keywords])
+    for category, keywords in CATEGORY_RULES
+]
+
+
 def infer_category(title: str, summary: str) -> str:
-    text = f"{title} {summary}".lower()
-    rules = [
-        ("Verkehr", ["verkehr", "unfall", "sperrung", "stau", "brücke", "bruecke", "a100", "fahrzeug", "auto", "fußgänger", "fussgänger", "radfahrer", "bahn", "s-bahn", "u-bahn", "tram", "bus"]),
-        ("Fahndung", ["fahndung", "gesucht", "vermisst", "zeugen", "tatverdächt", "tatverdaecht", "hinweis"]),
-        ("Ermittlung", ["ermittlung", "ermitteln", "brand", "diebstahl", "raub", "angriff", "drogen", "betrug", "beschädigung", "sachbeschädigung", "verletz", "festnahme"]),
-        ("Einsatz", ["einsatz", "polizei", "streife", "beamte", "sichert", "kontrolle"]),
-    ]
-    for category, keywords in rules:
-        if any(k in text for k in keywords):
+    text = CATEGORY_BLOCKLIST.sub(" ", f"{title} {summary}")
+    for category, matchers in _MATCHERS:
+        if any(m.search(text) for m in matchers):
             return category
     return "Sonstiges"
 
