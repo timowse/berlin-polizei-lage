@@ -3,27 +3,83 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-22T07:25:40.375286+00:00",
-    "checkedTime": "07:25 Uhr",
+    "checkedAt": "2026-09-22T12:46:01.105577+00:00",
+    "checkedTime": "12:46 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Koordinierte internationale Kontrollmaßnahmen in indischen Restaurants wegen des Verdachts des Menschenhandels zum Zwecke der Arbeitsausbeutung",
-    "latestPublishedAt": "2026-09-21T13:17:08+00:00"
+    "latestTitle": "Tödlicher Verkehrsunfall – Zeuginnen und Zeugen gesucht",
+    "latestPublishedAt": "2026-09-22T12:08:28+00:00"
   },
   "items": [
+    {
+      "title": "Tödlicher Verkehrsunfall – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717214.php",
+      "publishedAt": "2026-09-22T12:08:28+00:00",
+      "publishedLabel": "22.09.2026 12:08",
+      "summary": "Die Polizei sucht Zeuginnen und Zeugen zu einem tödlichen Verkehrsunfall, der sich am 19. September 2026 in Prenzlauer Berg ereignete.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Ermittlungen nach Schussabgabe auf Wohnungsfenster",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717195.php",
+      "publishedAt": "2026-09-22T11:36:15+00:00",
+      "publishedLabel": "22.09.2026 11:36",
+      "summary": "Gestern Morgen wurden Einsatzkräfte der Polizei Berlin wegen eines beschädigten Fensters in den Ortsteil Britz alarmiert.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Allgemeinverfügung zum 52. Berlin-Marathon erlassen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717143.php",
+      "publishedAt": "2026-09-22T10:17:54+00:00",
+      "publishedLabel": "22.09.2026 10:17",
+      "summary": "Aufgrund des 52. BMW Berlin-Marathons am 26. und 27. September hat die Polizei Berlin eine temporäre Allgemeinverfügung erlassen.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Überfall auf Geldtransporter – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717101.php",
+      "publishedAt": "2026-09-22T09:37:36+00:00",
+      "publishedLabel": "22.09.2026 09:37",
+      "summary": "Am Montag, den 30. Januar 2023, überfielen bisher Unbekannte einen Geldtransporter in Wedding.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Kind bei Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717074.php",
+      "publishedAt": "2026-09-22T09:11:57+00:00",
+      "publishedLabel": "22.09.2026 09:11",
+      "summary": "Gestern Nachmittag ereignete sich in Reinickendorf ein Verkehrsunfall, bei dem ein Kind verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Motorradfahrer bei Verkehrsunfall auf der Stadtautobahn verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717068.php",
+      "publishedAt": "2026-09-22T08:58:39+00:00",
+      "publishedLabel": "22.09.2026 08:58",
+      "summary": "Gestern Morgen kam es in Tempelhof zu einem Verkehrsunfall auf der Stadtautobahn.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Raub mit Schusswaffe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717056.php",
+      "publishedAt": "2026-09-22T08:49:33+00:00",
+      "publishedLabel": "22.09.2026 08:49",
+      "summary": "Raub mit Schusswaffe",
+      "category": "Ermittlung"
+    },
     {
       "title": "Koordinierte internationale Kontrollmaßnahmen in indischen Restaurants wegen des Verdachts des Menschenhandels zum Zwecke der Arbeitsausbeutung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716861.php",
       "publishedAt": "2026-09-21T13:17:08+00:00",
       "publishedLabel": "21.09.2026 13:17",
       "summary": "Im Rahmen der EMPACT Action Days unterstützten das LKA und das HZA Berlin am Freitagabend Maßnahmen der niederländischen Strafverfolgungsbehörden.",
-      "category": "Verkehr"
+      "category": "Einsatz"
     },
     {
       "title": "Verdacht des bandenmäßigen Drogenhandels mit Waffen – vier Festnahmen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716784.php",
       "publishedAt": "2026-09-21T11:58:00+00:00",
       "publishedLabel": "21.09.2026 11:58",
-      "summary": "Verdacht des bandenmäßigen Drogenhandels mit Waffen – vier Festnahmen",
+      "summary": "Einsatzkräfte der 13. und 14. Einsatzhundertschaft nahmen am vergangenen Freitag eine mutmaßliche Drogenbande in Friedrichshain fest.",
       "category": "Ermittlung"
     },
     {
@@ -63,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716503.php",
       "publishedAt": "2026-09-21T08:26:26+00:00",
       "publishedLabel": "21.09.2026 08:26",
-      "summary": "Raubüberfall auf Lokal",
+      "summary": "Gestern Abend kam es im Ortsteil Charlottenburg-Nord zu einem schweren Raub.",
       "category": "Ermittlung"
     },
     {
@@ -71,15 +127,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716380.php",
       "publishedAt": "2026-09-20T10:13:21+00:00",
       "publishedLabel": "20.09.2026 10:13",
-      "summary": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
-      "category": "Verkehr"
+      "summary": "Bei einer Veranstaltung in Rosenthal wurde am Samstagabend ein Einsatzfahrzeug der Polizei beschädigt.",
+      "category": "Ermittlung"
     },
     {
       "title": "Jugendliche nach mehreren mutmaßlichen Raubtaten im Mauerpark festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716379.php",
       "publishedAt": "2026-09-20T10:04:47+00:00",
       "publishedLabel": "20.09.2026 10:04",
-      "summary": "Jugendliche nach mehreren mutmaßlichen Raubtaten im Mauerpark festgenommen",
+      "summary": "Gestern Abend nahmen Polizeikräfte in Prenzlauer Berg zwei Jugendliche fest, die im Verdacht stehen, mehrere Gleichaltrige beraubt zu haben.",
       "category": "Ermittlung"
     },
     {
@@ -87,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716378.php",
       "publishedAt": "2026-09-20T09:54:21+00:00",
       "publishedLabel": "20.09.2026 09:54",
-      "summary": "In der vergangenen Nacht ist ein Mann in Hellersdorf bei einer Auseinandersetzung erheblich verletzt worden.",
+      "summary": "Mann nach schwerer Körperverletzung festgenommen",
       "category": "Ermittlung"
     },
     {
@@ -96,63 +152,7 @@
       "publishedAt": "2026-09-20T09:38:07+00:00",
       "publishedLabel": "20.09.2026 09:38",
       "summary": "Gestern Abend wurden Einsatzkräfte zu einer Bedrohung mit einer Schusswaffe am U-Bahnhof Schönleinstraße in Kreuzberg alarmiert.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Bedrohung mit Machete - Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716375.php",
-      "publishedAt": "2026-09-20T09:29:30+00:00",
-      "publishedLabel": "20.09.2026 09:29",
-      "summary": "Gestern Nachmittag kam es in Hellersdorf zu einer Auseinandersetzung zwischen zwei Männern, bei der einer von beiden verletzt und mit einer Machete bedroht worden sein soll.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Polizeiliche Einsatzmaßnahmen an kriminalitätsbelasteten Orten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716373.php",
-      "publishedAt": "2026-09-20T09:05:55+00:00",
-      "publishedLabel": "20.09.2026 09:05",
-      "summary": "Zur Bekämpfung der Kriminalität an kriminalitätsbelasteten Orten (kbO) führte die Direktion 5 (City) gestern umfangreiche Kontrollen durch.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716310.php",
-      "publishedAt": "2026-09-19T11:48:04+00:00",
-      "publishedLabel": "19.09.2026 11:48",
-      "summary": "Einsatzkräfte des Abschnitts 22 wurden in der vergangenen Nacht zu randalierenden Personen nach Spandau gerufen.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Festnahme nach Brandstiftung an Wohnmobilen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716297.php",
-      "publishedAt": "2026-09-19T09:43:47+00:00",
-      "publishedLabel": "19.09.2026 09:43",
-      "summary": "In Marzahn nahmen Polizeikräfte gestern Abend einen Tatverdächtigen nach einer Brandstiftung auf einem Firmengelände fest.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Unbekannter schlägt Parteimitglied",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716295.php",
-      "publishedAt": "2026-09-19T09:15:22+00:00",
-      "publishedLabel": "19.09.2026 09:15",
-      "summary": "In Charlottenburg-Nord wurde gestern Abend ein Mitglied einer Partei von einem Unbekannten angegriffen.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Festnahmen nach Scheinankäufen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716233.php",
-      "publishedAt": "2026-09-18T14:13:24+00:00",
-      "publishedLabel": "18.09.2026 14:13",
-      "summary": "In Absprache mit der Staatsanwaltschaft Berlin vollzogen Polizeibeamte mehrere Scheinankäufe von illegalen Betäubungsmitteln.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Drogenerkennung im Straßenverkehr – Bilanz zu Schwerpunktkontrollen im Rahmen der 7. Berliner DiS-Tage",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716234.php",
-      "publishedAt": "2026-09-18T14:01:00+00:00",
-      "publishedLabel": "18.09.2026 14:01",
-      "summary": "Die Polizei führte in den vergangenen drei Tagen Verkehrssonderkontrollen mit dem Schwerpunkt „Drogenerkennung im Straßenverkehr“ im Stadtgebiet durch",
-      "category": "Verkehr"
     }
   ]
 }
