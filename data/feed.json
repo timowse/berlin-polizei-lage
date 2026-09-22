@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-22T01:50:58.503253+00:00",
-    "checkedTime": "01:50 Uhr",
+    "checkedAt": "2026-09-22T07:25:40.375286+00:00",
+    "checkedTime": "07:25 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Koordinierte internationale Kontrollmaßnahmen in indischen Restaurants wegen des Verdachts des Menschenhandels zum Zwecke der Arbeitsausbeutung",
     "latestPublishedAt": "2026-09-21T13:17:08+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716784.php",
       "publishedAt": "2026-09-21T11:58:00+00:00",
       "publishedLabel": "21.09.2026 11:58",
-      "summary": "Einsatzkräfte der 13. und 14. Einsatzhundertschaft nahmen am vergangenen Freitag eine mutmaßliche Drogenbande in Friedrichshain fest.",
+      "summary": "Verdacht des bandenmäßigen Drogenhandels mit Waffen – vier Festnahmen",
       "category": "Ermittlung"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716503.php",
       "publishedAt": "2026-09-21T08:26:26+00:00",
       "publishedLabel": "21.09.2026 08:26",
-      "summary": "Gestern Abend kam es im Ortsteil Charlottenburg-Nord zu einem schweren Raub.",
+      "summary": "Raubüberfall auf Lokal",
       "category": "Ermittlung"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716380.php",
       "publishedAt": "2026-09-20T10:13:21+00:00",
       "publishedLabel": "20.09.2026 10:13",
-      "summary": "Bei einer Veranstaltung in Rosenthal wurde am Samstagabend ein Einsatzfahrzeug der Polizei beschädigt.",
+      "summary": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
       "category": "Verkehr"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716379.php",
       "publishedAt": "2026-09-20T10:04:47+00:00",
       "publishedLabel": "20.09.2026 10:04",
-      "summary": "Gestern Abend nahmen Polizeikräfte in Prenzlauer Berg zwei Jugendliche fest, die im Verdacht stehen, mehrere Gleichaltrige beraubt zu haben.",
+      "summary": "Jugendliche nach mehreren mutmaßlichen Raubtaten im Mauerpark festgenommen",
       "category": "Ermittlung"
     },
     {
