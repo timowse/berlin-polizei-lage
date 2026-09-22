@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-22T17:20:31.240806+00:00",
-    "checkedTime": "17:20 Uhr",
+    "checkedAt": "2026-09-22T23:09:45.356409+00:00",
+    "checkedTime": "23:09 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Unter Alkoholeinfluss – E-Scooter-Fahrerin fährt gegen wartendes Auto",
     "latestPublishedAt": "2026-09-22T14:41:15+00:00"
@@ -95,8 +95,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716770.php",
       "publishedAt": "2026-09-21T11:45:23+00:00",
       "publishedLabel": "21.09.2026 11:45",
-      "summary": "Mehrere Straftaten festgestellt – Polizeilicher Staatsschutz ermittelt",
-      "category": "Sonstiges"
+      "summary": "Gestern Abend wurden Einsatzkräfte der Polizei Berlin wegen mehrerer Farbschmierereien nach Blankenburg alarmiert.",
+      "category": "Einsatz"
     },
     {
       "title": "Festnahme nach Handel mit Arzneimitteln",
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716503.php",
       "publishedAt": "2026-09-21T08:26:26+00:00",
       "publishedLabel": "21.09.2026 08:26",
-      "summary": "Raubüberfall auf Lokal",
+      "summary": "Gestern Abend kam es im Ortsteil Charlottenburg-Nord zu einem schweren Raub.",
       "category": "Ermittlung"
     },
     {
