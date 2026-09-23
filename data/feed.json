@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-23T06:38:03.452067+00:00",
-    "checkedTime": "06:38 Uhr",
+    "checkedAt": "2026-09-23T12:11:09.847268+00:00",
+    "checkedTime": "12:11 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Unter Alkoholeinfluss – E-Scooter-Fahrerin fährt gegen wartendes Auto",
-    "latestPublishedAt": "2026-09-22T14:41:15+00:00"
+    "latestTitle": "Nach Brand in Seniorenheim – Patient im Krankenhaus verstorben",
+    "latestPublishedAt": "2026-09-23T09:27:54+00:00"
   },
   "items": [
+    {
+      "title": "Nach Brand in Seniorenheim – Patient im Krankenhaus verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717486.php",
+      "publishedAt": "2026-09-23T09:27:54+00:00",
+      "publishedLabel": "23.09.2026 09:27",
+      "summary": "Nach einem Brand in einem Seniorenpflegewohnheim am vergangenen Samstag ist der einst schwerverletzte 74-Jährige gestern in einem Krankenhaus verstorben.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Frau bei Sturz in Linienbus lebensgefährlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717481.php",
+      "publishedAt": "2026-09-23T09:19:02+00:00",
+      "publishedLabel": "23.09.2026 09:19",
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Mitte alarmiert.",
+      "category": "Verkehr"
+    },
     {
       "title": "Unter Alkoholeinfluss – E-Scooter-Fahrerin fährt gegen wartendes Auto",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717289.php",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-09-20T10:13:21+00:00",
       "publishedLabel": "20.09.2026 10:13",
       "summary": "Bei einer Veranstaltung in Rosenthal wurde am Samstagabend ein Einsatzfahrzeug der Polizei beschädigt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Jugendliche nach mehreren mutmaßlichen Raubtaten im Mauerpark festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716379.php",
-      "publishedAt": "2026-09-20T10:04:47+00:00",
-      "publishedLabel": "20.09.2026 10:04",
-      "summary": "Gestern Abend nahmen Polizeikräfte in Prenzlauer Berg zwei Jugendliche fest, die im Verdacht stehen, mehrere Gleichaltrige beraubt zu haben.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann nach schwerer Körperverletzung festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716378.php",
-      "publishedAt": "2026-09-20T09:54:21+00:00",
-      "publishedLabel": "20.09.2026 09:54",
-      "summary": "In der vergangenen Nacht ist ein Mann in Hellersdorf bei einer Auseinandersetzung erheblich verletzt worden.",
       "category": "Ermittlung"
     }
   ]
