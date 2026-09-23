@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-23T17:12:30.047233+00:00",
-    "checkedTime": "17:12 Uhr",
+    "checkedAt": "2026-09-23T20:28:35.167576+00:00",
+    "checkedTime": "20:28 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
     "latestPublishedAt": "2026-09-23T14:02:35+00:00"
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717143.php",
       "publishedAt": "2026-09-22T10:17:54+00:00",
       "publishedLabel": "22.09.2026 10:17",
-      "summary": "Allgemeinverfügung zum 52. Berlin-Marathon erlassen",
+      "summary": "Aufgrund des 52. BMW Berlin-Marathons am 26. und 27. September hat die Polizei Berlin eine temporäre Allgemeinverfügung erlassen.",
       "category": "Sonstiges"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717101.php",
       "publishedAt": "2026-09-22T09:37:36+00:00",
       "publishedLabel": "22.09.2026 09:37",
-      "summary": "Überfall auf Geldtransporter – Zeuginnen und Zeugen gesucht",
+      "summary": "Am Montag, den 30. Januar 2023, überfielen bisher Unbekannte einen Geldtransporter in Wedding.",
       "category": "Fahndung"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717074.php",
       "publishedAt": "2026-09-22T09:11:57+00:00",
       "publishedLabel": "22.09.2026 09:11",
-      "summary": "Kind bei Unfall verletzt",
+      "summary": "Gestern Nachmittag ereignete sich in Reinickendorf ein Verkehrsunfall, bei dem ein Kind verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -143,15 +143,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716770.php",
       "publishedAt": "2026-09-21T11:45:23+00:00",
       "publishedLabel": "21.09.2026 11:45",
-      "summary": "Mehrere Straftaten festgestellt – Polizeilicher Staatsschutz ermittelt",
-      "category": "Sonstiges"
+      "summary": "Gestern Abend wurden Einsatzkräfte der Polizei Berlin wegen mehrerer Farbschmierereien nach Blankenburg alarmiert.",
+      "category": "Einsatz"
     },
     {
       "title": "Festnahme nach Handel mit Arzneimitteln",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716752.php",
       "publishedAt": "2026-09-21T11:33:12+00:00",
       "publishedLabel": "21.09.2026 11:33",
-      "summary": "Festnahme nach Handel mit Arzneimitteln",
+      "summary": "Gestern Abend wurden Polizeieinsatzkräfte in Schöneberg auf zwei Personen aufmerksam.",
       "category": "Ermittlung"
     }
   ]
