@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-24T11:58:49.058463+00:00",
-    "checkedTime": "11:58 Uhr",
+    "checkedAt": "2026-09-24T17:01:36.163132+00:00",
+    "checkedTime": "17:01 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Sachbeschädigung durch Feuer und Farbschmiererei",
-    "latestPublishedAt": "2026-09-24T11:29:41+00:00"
+    "latestTitle": "Allgemeinverfügung zur Kampfmittelbeseitigung am 30. September 2026",
+    "latestPublishedAt": "2026-09-24T14:24:40+00:00"
   },
   "items": [
+    {
+      "title": "Allgemeinverfügung zur Kampfmittelbeseitigung am 30. September 2026",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718070.php",
+      "publishedAt": "2026-09-24T14:24:40+00:00",
+      "publishedLabel": "24.09.2026 14:24",
+      "summary": "Am 30. September wird ab 9:30 Uhr im Zusammenhang mit einer Kampfmittelbeseitigung in Brandenburg ein Sperrkreis errichtet, der sich bis nach Gatow erstreckt.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Bauarbeiter bei Auseinandersetzungen verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718012.php",
+      "publishedAt": "2026-09-24T12:49:28+00:00",
+      "publishedLabel": "24.09.2026 12:49",
+      "summary": "Bei einem mehrstündigen Polizeieinsatz in Friedrichshain wurden gestern Nachmittag zwei Bauarbeiter durch Angriffe aus einem Gebäude heraus verletzt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Berlin startet mit KI-gestütztem Videoschutz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718008.php",
+      "publishedAt": "2026-09-24T12:30:00+00:00",
+      "publishedLabel": "24.09.2026 12:30",
+      "summary": "An den kriminalitätsbelasteten Orten (kbO) ist eine hohe Anzahl von Straftaten feststellbar, die das Sicherheitsgefühl beeinträchtigen.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Sachbeschädigung durch Feuer und Farbschmiererei",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717930.php",
@@ -39,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717835.php",
       "publishedAt": "2026-09-24T09:17:32+00:00",
       "publishedLabel": "24.09.2026 09:17",
-      "summary": "Überfall auf Hotel",
+      "summary": "In der vergangenen Nacht kam es zu einem schweren Raub auf ein Hotel in Charlottenburg.",
       "category": "Ermittlung"
     },
     {
@@ -47,8 +71,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717825.php",
       "publishedAt": "2026-09-24T09:07:00+00:00",
       "publishedLabel": "24.09.2026 09:07",
-      "summary": "Seniorin fährt Kind an",
-      "category": "Sonstiges"
+      "summary": "Gestern Mittag ereignete sich ein Verkehrsunfall in Westend, bei dem ein Kind schwer verletzt wurde.",
+      "category": "Verkehr"
     },
     {
       "title": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
@@ -103,15 +127,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717289.php",
       "publishedAt": "2026-09-22T14:41:15+00:00",
       "publishedLabel": "22.09.2026 14:41",
-      "summary": "Unter Alkoholeinfluss – E-Scooter-Fahrerin fährt gegen wartendes Auto",
-      "category": "Sonstiges"
+      "summary": "Heute früh ereignete sich ein Verkehrsunfall im Ortsteil Plänterwald.",
+      "category": "Verkehr"
     },
     {
       "title": "Tödlicher Verkehrsunfall – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717214.php",
       "publishedAt": "2026-09-22T12:08:28+00:00",
       "publishedLabel": "22.09.2026 12:08",
-      "summary": "Tödlicher Verkehrsunfall – Zeuginnen und Zeugen gesucht",
+      "summary": "Die Polizei sucht Zeuginnen und Zeugen zu einem tödlichen Verkehrsunfall, der sich am 19. September 2026 in Prenzlauer Berg ereignete.",
       "category": "Verkehr"
     },
     {
@@ -119,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717195.php",
       "publishedAt": "2026-09-22T11:36:15+00:00",
       "publishedLabel": "22.09.2026 11:36",
-      "summary": "Ermittlungen nach Schussabgabe auf Wohnungsfenster",
+      "summary": "Gestern Morgen wurden Einsatzkräfte der Polizei Berlin wegen eines beschädigten Fensters in den Ortsteil Britz alarmiert.",
       "category": "Ermittlung"
     },
     {
@@ -127,32 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717143.php",
       "publishedAt": "2026-09-22T10:17:54+00:00",
       "publishedLabel": "22.09.2026 10:17",
-      "summary": "Allgemeinverfügung zum 52. Berlin-Marathon erlassen",
+      "summary": "Aufgrund des 52. BMW Berlin-Marathons am 26. und 27. September hat die Polizei Berlin eine temporäre Allgemeinverfügung erlassen.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Überfall auf Geldtransporter – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717101.php",
-      "publishedAt": "2026-09-22T09:37:36+00:00",
-      "publishedLabel": "22.09.2026 09:37",
-      "summary": "Am Montag, den 30. Januar 2023, überfielen bisher Unbekannte einen Geldtransporter in Wedding.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Kind bei Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717074.php",
-      "publishedAt": "2026-09-22T09:11:57+00:00",
-      "publishedLabel": "22.09.2026 09:11",
-      "summary": "Gestern Nachmittag ereignete sich in Reinickendorf ein Verkehrsunfall, bei dem ein Kind verletzt wurde.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Motorradfahrer bei Verkehrsunfall auf der Stadtautobahn verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717068.php",
-      "publishedAt": "2026-09-22T08:58:39+00:00",
-      "publishedLabel": "22.09.2026 08:58",
-      "summary": "Motorradfahrer bei Verkehrsunfall auf der Stadtautobahn verletzt",
-      "category": "Verkehr"
     }
   ]
 }
