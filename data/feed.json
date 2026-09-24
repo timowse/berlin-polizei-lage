@@ -3,27 +3,67 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-24T06:17:54.280268+00:00",
-    "checkedTime": "06:17 Uhr",
+    "checkedAt": "2026-09-24T11:58:49.058463+00:00",
+    "checkedTime": "11:58 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
-    "latestPublishedAt": "2026-09-23T14:02:35+00:00"
+    "latestTitle": "Sachbeschädigung durch Feuer und Farbschmiererei",
+    "latestPublishedAt": "2026-09-24T11:29:41+00:00"
   },
   "items": [
+    {
+      "title": "Sachbeschädigung durch Feuer und Farbschmiererei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717930.php",
+      "publishedAt": "2026-09-24T11:29:41+00:00",
+      "publishedLabel": "24.09.2026 11:29",
+      "summary": "In der vergangenen Nacht kam es zu einer Sachbeschädigung durch Feuer und einer Farbschmiererei in Rummelsburg.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Versuchter Raub auf Motorrollerfahrerin – Tatverdächtige festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717917.php",
+      "publishedAt": "2026-09-24T11:14:01+00:00",
+      "publishedLabel": "24.09.2026 11:14",
+      "summary": "Gestern Abend wurde eine Frau bei einem versuchten schweren Raub in Neukölln verletzt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mann kündigte Amoktat an – mehrere Waffen beschlagnahmt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717897.php",
+      "publishedAt": "2026-09-24T10:34:20+00:00",
+      "publishedLabel": "24.09.2026 10:34",
+      "summary": "In der vergangenen Nacht wurden Polizeieinsatzkräfte aufgrund einer verdächtigen Person zu einer Bar nach Marzahn alarmiert.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Überfall auf Hotel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717835.php",
+      "publishedAt": "2026-09-24T09:17:32+00:00",
+      "publishedLabel": "24.09.2026 09:17",
+      "summary": "Überfall auf Hotel",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Seniorin fährt Kind an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717825.php",
+      "publishedAt": "2026-09-24T09:07:00+00:00",
+      "publishedLabel": "24.09.2026 09:07",
+      "summary": "Seniorin fährt Kind an",
+      "category": "Sonstiges"
+    },
     {
       "title": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717681.php",
       "publishedAt": "2026-09-23T14:02:35+00:00",
       "publishedLabel": "23.09.2026 14:02",
-      "summary": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
-      "category": "Ermittlung"
+      "summary": "Heute Morgen wurden im Aufrag der StA Berlin insgesamt 14 Durchsuchungsbeschlüsse für elf Wohnanschriften, drei Gewerbeobjekte und mehrere Pkw vollstreckt.",
+      "category": "Verkehr"
     },
     {
       "title": "Distanzelektroimpulsgerät eingesetzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717600.php",
       "publishedAt": "2026-09-23T12:19:53+00:00",
       "publishedLabel": "23.09.2026 12:19",
-      "summary": "Distanzelektroimpulsgerät eingesetzt",
+      "summary": "Gestern Mittag setzten Polizeieinsatzkräfte in Lichtenberg gegen einen Mann das Distanzelektroimpulsgerät (DEIG) ein.",
       "category": "Sonstiges"
     },
     {
@@ -31,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717592.php",
       "publishedAt": "2026-09-23T12:11:28+00:00",
       "publishedLabel": "23.09.2026 12:11",
-      "summary": "Festnahme nach Straßenraub",
+      "summary": "Weil er in einem Rucksack wühlte und diesen anschließend in ein Gebüsch warf, wurden Einsatzkräfte gestern auf einen Mann in Charlottenburg aufmerksam.",
       "category": "Ermittlung"
     },
     {
@@ -39,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717584.php",
       "publishedAt": "2026-09-23T12:05:08+00:00",
       "publishedLabel": "23.09.2026 12:05",
-      "summary": "14-jähriger E-Scooter-Fahrer flüchtet vor Verkehrskontrolle – Beamter setzt DEIG ein",
+      "summary": "Bei einer Verkehrssonderkontrolle in Köpenick hat ein Polizist gestern Nachmittag das DEIG gegen einen 14-jährigen E-Scooter-Fahrer eingesetzt.",
       "category": "Verkehr"
     },
     {
@@ -63,15 +103,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717289.php",
       "publishedAt": "2026-09-22T14:41:15+00:00",
       "publishedLabel": "22.09.2026 14:41",
-      "summary": "Heute früh ereignete sich ein Verkehrsunfall im Ortsteil Plänterwald.",
-      "category": "Verkehr"
+      "summary": "Unter Alkoholeinfluss – E-Scooter-Fahrerin fährt gegen wartendes Auto",
+      "category": "Sonstiges"
     },
     {
       "title": "Tödlicher Verkehrsunfall – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717214.php",
       "publishedAt": "2026-09-22T12:08:28+00:00",
       "publishedLabel": "22.09.2026 12:08",
-      "summary": "Die Polizei sucht Zeuginnen und Zeugen zu einem tödlichen Verkehrsunfall, der sich am 19. September 2026 in Prenzlauer Berg ereignete.",
+      "summary": "Tödlicher Verkehrsunfall – Zeuginnen und Zeugen gesucht",
       "category": "Verkehr"
     },
     {
@@ -79,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717195.php",
       "publishedAt": "2026-09-22T11:36:15+00:00",
       "publishedLabel": "22.09.2026 11:36",
-      "summary": "Gestern Morgen wurden Einsatzkräfte der Polizei Berlin wegen eines beschädigten Fensters in den Ortsteil Britz alarmiert.",
+      "summary": "Ermittlungen nach Schussabgabe auf Wohnungsfenster",
       "category": "Ermittlung"
     },
     {
@@ -87,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717143.php",
       "publishedAt": "2026-09-22T10:17:54+00:00",
       "publishedLabel": "22.09.2026 10:17",
-      "summary": "Aufgrund des 52. BMW Berlin-Marathons am 26. und 27. September hat die Polizei Berlin eine temporäre Allgemeinverfügung erlassen.",
+      "summary": "Allgemeinverfügung zum 52. Berlin-Marathon erlassen",
       "category": "Sonstiges"
     },
     {
@@ -95,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717101.php",
       "publishedAt": "2026-09-22T09:37:36+00:00",
       "publishedLabel": "22.09.2026 09:37",
-      "summary": "Überfall auf Geldtransporter – Zeuginnen und Zeugen gesucht",
+      "summary": "Am Montag, den 30. Januar 2023, überfielen bisher Unbekannte einen Geldtransporter in Wedding.",
       "category": "Fahndung"
     },
     {
@@ -111,48 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717068.php",
       "publishedAt": "2026-09-22T08:58:39+00:00",
       "publishedLabel": "22.09.2026 08:58",
-      "summary": "Gestern Morgen kam es in Tempelhof zu einem Verkehrsunfall auf der Stadtautobahn.",
+      "summary": "Motorradfahrer bei Verkehrsunfall auf der Stadtautobahn verletzt",
       "category": "Verkehr"
-    },
-    {
-      "title": "Raub mit Schusswaffe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717056.php",
-      "publishedAt": "2026-09-22T08:49:33+00:00",
-      "publishedLabel": "22.09.2026 08:49",
-      "summary": "Gestern Mittag ereignete sich in Spandau ein schwerer Raub, bei dem unter Vorhalten einer Schusswaffe Bargeld und ein Handy geraubt wurden.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Koordinierte internationale Kontrollmaßnahmen in indischen Restaurants wegen des Verdachts des Menschenhandels zum Zwecke der Arbeitsausbeutung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716861.php",
-      "publishedAt": "2026-09-21T13:17:08+00:00",
-      "publishedLabel": "21.09.2026 13:17",
-      "summary": "Im Rahmen der EMPACT Action Days unterstützten das LKA und das HZA Berlin am Freitagabend Maßnahmen der niederländischen Strafverfolgungsbehörden.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Verdacht des bandenmäßigen Drogenhandels mit Waffen – vier Festnahmen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716784.php",
-      "publishedAt": "2026-09-21T11:58:00+00:00",
-      "publishedLabel": "21.09.2026 11:58",
-      "summary": "Einsatzkräfte der 13. und 14. Einsatzhundertschaft nahmen am vergangenen Freitag eine mutmaßliche Drogenbande in Friedrichshain fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mehrere Straftaten festgestellt – Polizeilicher Staatsschutz ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716770.php",
-      "publishedAt": "2026-09-21T11:45:23+00:00",
-      "publishedLabel": "21.09.2026 11:45",
-      "summary": "Gestern Abend wurden Einsatzkräfte der Polizei Berlin wegen mehrerer Farbschmierereien nach Blankenburg alarmiert.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Festnahme nach Handel mit Arzneimitteln",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716752.php",
-      "publishedAt": "2026-09-21T11:33:12+00:00",
-      "publishedLabel": "21.09.2026 11:33",
-      "summary": "Gestern Abend wurden Polizeieinsatzkräfte in Schöneberg auf zwei Personen aufmerksam.",
-      "category": "Ermittlung"
     }
   ]
 }
