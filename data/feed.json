@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-24T17:01:36.163132+00:00",
-    "checkedTime": "17:01 Uhr",
+    "checkedAt": "2026-09-24T20:27:02.929871+00:00",
+    "checkedTime": "20:27 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Allgemeinverfügung zur Kampfmittelbeseitigung am 30. September 2026",
     "latestPublishedAt": "2026-09-24T14:24:40+00:00"
@@ -71,16 +71,16 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717825.php",
       "publishedAt": "2026-09-24T09:07:00+00:00",
       "publishedLabel": "24.09.2026 09:07",
-      "summary": "Gestern Mittag ereignete sich ein Verkehrsunfall in Westend, bei dem ein Kind schwer verletzt wurde.",
-      "category": "Verkehr"
+      "summary": "Seniorin fährt Kind an",
+      "category": "Sonstiges"
     },
     {
       "title": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717681.php",
       "publishedAt": "2026-09-23T14:02:35+00:00",
       "publishedLabel": "23.09.2026 14:02",
-      "summary": "Heute Morgen wurden im Aufrag der StA Berlin insgesamt 14 Durchsuchungsbeschlüsse für elf Wohnanschriften, drei Gewerbeobjekte und mehrere Pkw vollstreckt.",
-      "category": "Verkehr"
+      "summary": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
+      "category": "Ermittlung"
     },
     {
       "title": "Distanzelektroimpulsgerät eingesetzt",
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717592.php",
       "publishedAt": "2026-09-23T12:11:28+00:00",
       "publishedLabel": "23.09.2026 12:11",
-      "summary": "Weil er in einem Rucksack wühlte und diesen anschließend in ein Gebüsch warf, wurden Einsatzkräfte gestern auf einen Mann in Charlottenburg aufmerksam.",
+      "summary": "Festnahme nach Straßenraub",
       "category": "Ermittlung"
     },
     {
@@ -119,23 +119,23 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717481.php",
       "publishedAt": "2026-09-23T09:19:02+00:00",
       "publishedLabel": "23.09.2026 09:19",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Mitte alarmiert.",
-      "category": "Verkehr"
+      "summary": "Frau bei Sturz in Linienbus lebensgefährlich verletzt",
+      "category": "Ermittlung"
     },
     {
       "title": "Unter Alkoholeinfluss – E-Scooter-Fahrerin fährt gegen wartendes Auto",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717289.php",
       "publishedAt": "2026-09-22T14:41:15+00:00",
       "publishedLabel": "22.09.2026 14:41",
-      "summary": "Heute früh ereignete sich ein Verkehrsunfall im Ortsteil Plänterwald.",
-      "category": "Verkehr"
+      "summary": "Unter Alkoholeinfluss – E-Scooter-Fahrerin fährt gegen wartendes Auto",
+      "category": "Sonstiges"
     },
     {
       "title": "Tödlicher Verkehrsunfall – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717214.php",
       "publishedAt": "2026-09-22T12:08:28+00:00",
       "publishedLabel": "22.09.2026 12:08",
-      "summary": "Die Polizei sucht Zeuginnen und Zeugen zu einem tödlichen Verkehrsunfall, der sich am 19. September 2026 in Prenzlauer Berg ereignete.",
+      "summary": "Tödlicher Verkehrsunfall – Zeuginnen und Zeugen gesucht",
       "category": "Verkehr"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717143.php",
       "publishedAt": "2026-09-22T10:17:54+00:00",
       "publishedLabel": "22.09.2026 10:17",
-      "summary": "Aufgrund des 52. BMW Berlin-Marathons am 26. und 27. September hat die Polizei Berlin eine temporäre Allgemeinverfügung erlassen.",
+      "summary": "Allgemeinverfügung zum 52. Berlin-Marathon erlassen",
       "category": "Sonstiges"
     }
   ]
