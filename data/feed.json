@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-25T17:21:38.808873+00:00",
-    "checkedTime": "17:21 Uhr",
+    "checkedAt": "2026-09-25T20:38:59.092491+00:00",
+    "checkedTime": "20:38 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Späti ausgeraubt",
     "latestPublishedAt": "2026-09-25T11:12:15+00:00"
@@ -31,8 +31,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718257.php",
       "publishedAt": "2026-09-25T09:03:14+00:00",
       "publishedLabel": "25.09.2026 09:03",
-      "summary": "Gestern Nachmittag wurden zwei Zehnjährige bei einem Verkehrsunfall in Steglitz verletzt.",
-      "category": "Verkehr"
+      "summary": "Kinder auf Tretrollern angefahren",
+      "category": "Sonstiges"
     },
     {
       "title": "Jugendlicher mit Schussverletzungen im Krankenhaus",
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717584.php",
       "publishedAt": "2026-09-23T12:05:08+00:00",
       "publishedLabel": "23.09.2026 12:05",
-      "summary": "Bei einer Verkehrssonderkontrolle in Köpenick hat ein Polizist gestern Nachmittag das DEIG gegen einen 14-jährigen E-Scooter-Fahrer eingesetzt.",
+      "summary": "14-jähriger E-Scooter-Fahrer flüchtet vor Verkehrskontrolle – Beamter setzt DEIG ein",
       "category": "Verkehr"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717486.php",
       "publishedAt": "2026-09-23T09:27:54+00:00",
       "publishedLabel": "23.09.2026 09:27",
-      "summary": "Nach einem Brand in einem Seniorenpflegewohnheim am vergangenen Samstag ist der einst schwerverletzte 74-Jährige gestern in einem Krankenhaus verstorben.",
+      "summary": "Nach Brand in Seniorenheim – Patient im Krankenhaus verstorben",
       "category": "Ermittlung"
     }
   ]
