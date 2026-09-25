@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-25T06:41:55.131688+00:00",
-    "checkedTime": "06:41 Uhr",
+    "checkedAt": "2026-09-25T12:20:08.426419+00:00",
+    "checkedTime": "12:20 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Allgemeinverfügung zur Kampfmittelbeseitigung am 30. September 2026",
-    "latestPublishedAt": "2026-09-24T14:24:40+00:00"
+    "latestTitle": "Späti ausgeraubt",
+    "latestPublishedAt": "2026-09-25T11:12:15+00:00"
   },
   "items": [
+    {
+      "title": "Späti ausgeraubt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718351.php",
+      "publishedAt": "2026-09-25T11:12:15+00:00",
+      "publishedLabel": "25.09.2026 11:12",
+      "summary": "Heute Morgen kam es zu einem schweren Raub auf einen Spätkauf in Wilmersdorf.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "13-Jährige bei Unfall erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718262.php",
+      "publishedAt": "2026-09-25T09:11:47+00:00",
+      "publishedLabel": "25.09.2026 09:11",
+      "summary": "In der vergangenen Nacht ereignete sich in Prenzlauer Berg ein Verkehrsunfall, bei dem ein 13-jähriges Mädchen erheblich verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Kinder auf Tretrollern angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718257.php",
+      "publishedAt": "2026-09-25T09:03:14+00:00",
+      "publishedLabel": "25.09.2026 09:03",
+      "summary": "Gestern Nachmittag wurden zwei Zehnjährige bei einem Verkehrsunfall in Steglitz verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Jugendlicher mit Schussverletzungen im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718201.php",
+      "publishedAt": "2026-09-25T07:59:41+00:00",
+      "publishedLabel": "25.09.2026 07:59",
+      "summary": "Seit der vergangenen Nacht ermitteln die 8. Mordkommission des LKA und die Staatsanwaltschaft Berlin zu einem versuchten Tötungsdelikt in Steglitz.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Regenbogenbank im Großen Tiergarten erneut beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718187.php",
+      "publishedAt": "2026-09-25T07:35:53+00:00",
+      "publishedLabel": "25.09.2026 07:35",
+      "summary": "Einsatzkräfte stellten gestern Abend eine Sachbeschädigung an einer als Gedenkort aufgestellten Regenbogenbank in Tiergarten fest.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Allgemeinverfügung zur Kampfmittelbeseitigung am 30. September 2026",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718070.php",
@@ -113,46 +153,6 @@
       "publishedLabel": "23.09.2026 09:27",
       "summary": "Nach einem Brand in einem Seniorenpflegewohnheim am vergangenen Samstag ist der einst schwerverletzte 74-Jährige gestern in einem Krankenhaus verstorben.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Frau bei Sturz in Linienbus lebensgefährlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717481.php",
-      "publishedAt": "2026-09-23T09:19:02+00:00",
-      "publishedLabel": "23.09.2026 09:19",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Mitte alarmiert.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Unter Alkoholeinfluss – E-Scooter-Fahrerin fährt gegen wartendes Auto",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717289.php",
-      "publishedAt": "2026-09-22T14:41:15+00:00",
-      "publishedLabel": "22.09.2026 14:41",
-      "summary": "Heute früh ereignete sich ein Verkehrsunfall im Ortsteil Plänterwald.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Tödlicher Verkehrsunfall – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717214.php",
-      "publishedAt": "2026-09-22T12:08:28+00:00",
-      "publishedLabel": "22.09.2026 12:08",
-      "summary": "Die Polizei sucht Zeuginnen und Zeugen zu einem tödlichen Verkehrsunfall, der sich am 19. September 2026 in Prenzlauer Berg ereignete.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Ermittlungen nach Schussabgabe auf Wohnungsfenster",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717195.php",
-      "publishedAt": "2026-09-22T11:36:15+00:00",
-      "publishedLabel": "22.09.2026 11:36",
-      "summary": "Gestern Morgen wurden Einsatzkräfte der Polizei Berlin wegen eines beschädigten Fensters in den Ortsteil Britz alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Allgemeinverfügung zum 52. Berlin-Marathon erlassen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717143.php",
-      "publishedAt": "2026-09-22T10:17:54+00:00",
-      "publishedLabel": "22.09.2026 10:17",
-      "summary": "Aufgrund des 52. BMW Berlin-Marathons am 26. und 27. September hat die Polizei Berlin eine temporäre Allgemeinverfügung erlassen.",
-      "category": "Sonstiges"
     }
   ]
 }
