@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-26T16:35:58.238719+00:00",
-    "checkedTime": "16:35 Uhr",
+    "checkedAt": "2026-09-26T19:22:13.586013+00:00",
+    "checkedTime": "19:22 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann bei Raub mit Messer verletzt",
     "latestPublishedAt": "2026-09-26T12:03:22+00:00"
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718519.php",
       "publishedAt": "2026-09-26T10:41:17+00:00",
       "publishedLabel": "26.09.2026 10:41",
-      "summary": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
+      "summary": "In der vergangenen Nach wurde eine 41-jährige Autofahrerin bei einem Verkehrsunfall in Gatow erheblich verletzt.",
       "category": "Verkehr"
     },
     {
@@ -39,15 +39,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718351.php",
       "publishedAt": "2026-09-25T11:12:15+00:00",
       "publishedLabel": "25.09.2026 11:12",
-      "summary": "Späti ausgeraubt",
-      "category": "Sonstiges"
+      "summary": "Heute Morgen kam es zu einem schweren Raub auf einen Spätkauf in Wilmersdorf.",
+      "category": "Ermittlung"
     },
     {
       "title": "13-Jährige bei Unfall erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718262.php",
       "publishedAt": "2026-09-25T09:11:47+00:00",
       "publishedLabel": "25.09.2026 09:11",
-      "summary": "13-Jährige bei Unfall erheblich verletzt",
+      "summary": "In der vergangenen Nacht ereignete sich in Prenzlauer Berg ein Verkehrsunfall, bei dem ein 13-jähriges Mädchen erheblich verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718070.php",
       "publishedAt": "2026-09-24T14:24:40+00:00",
       "publishedLabel": "24.09.2026 14:24",
-      "summary": "Allgemeinverfügung zur Kampfmittelbeseitigung am 30. September 2026",
+      "summary": "Am 30. September wird ab 9:30 Uhr im Zusammenhang mit einer Kampfmittelbeseitigung in Brandenburg ein Sperrkreis errichtet, der sich bis nach Gatow erstreckt.",
       "category": "Sonstiges"
     },
     {
@@ -87,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718012.php",
       "publishedAt": "2026-09-24T12:49:28+00:00",
       "publishedLabel": "24.09.2026 12:49",
-      "summary": "Bauarbeiter bei Auseinandersetzungen verletzt",
+      "summary": "Bei einem mehrstündigen Polizeieinsatz in Friedrichshain wurden gestern Nachmittag zwei Bauarbeiter durch Angriffe aus einem Gebäude heraus verletzt.",
       "category": "Ermittlung"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718008.php",
       "publishedAt": "2026-09-24T12:30:00+00:00",
       "publishedLabel": "24.09.2026 12:30",
-      "summary": "Berlin startet mit KI-gestütztem Videoschutz",
+      "summary": "An den kriminalitätsbelasteten Orten (kbO) ist eine hohe Anzahl von Straftaten feststellbar, die das Sicherheitsgefühl beeinträchtigen.",
       "category": "Sonstiges"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717930.php",
       "publishedAt": "2026-09-24T11:29:41+00:00",
       "publishedLabel": "24.09.2026 11:29",
-      "summary": "Sachbeschädigung durch Feuer und Farbschmiererei",
+      "summary": "In der vergangenen Nacht kam es zu einer Sachbeschädigung durch Feuer und einer Farbschmiererei in Rummelsburg.",
       "category": "Ermittlung"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717917.php",
       "publishedAt": "2026-09-24T11:14:01+00:00",
       "publishedLabel": "24.09.2026 11:14",
-      "summary": "Versuchter Raub auf Motorrollerfahrerin – Tatverdächtige festgenommen",
+      "summary": "Gestern Abend wurde eine Frau bei einem versuchten schweren Raub in Neukölln verletzt.",
       "category": "Ermittlung"
     },
     {
@@ -119,8 +119,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717897.php",
       "publishedAt": "2026-09-24T10:34:20+00:00",
       "publishedLabel": "24.09.2026 10:34",
-      "summary": "Mann kündigte Amoktat an – mehrere Waffen beschlagnahmt",
-      "category": "Sonstiges"
+      "summary": "In der vergangenen Nacht wurden Polizeieinsatzkräfte aufgrund einer verdächtigen Person zu einer Bar nach Marzahn alarmiert.",
+      "category": "Einsatz"
     },
     {
       "title": "Überfall auf Hotel",
@@ -135,8 +135,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717825.php",
       "publishedAt": "2026-09-24T09:07:00+00:00",
       "publishedLabel": "24.09.2026 09:07",
-      "summary": "Seniorin fährt Kind an",
-      "category": "Sonstiges"
+      "summary": "Gestern Mittag ereignete sich ein Verkehrsunfall in Westend, bei dem ein Kind schwer verletzt wurde.",
+      "category": "Verkehr"
     },
     {
       "title": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
