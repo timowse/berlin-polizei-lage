@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-26T01:56:59.194592+00:00",
-    "checkedTime": "01:56 Uhr",
+    "checkedAt": "2026-09-26T07:25:30.293346+00:00",
+    "checkedTime": "07:25 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Späti ausgeraubt",
     "latestPublishedAt": "2026-09-25T11:12:15+00:00"
@@ -15,15 +15,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718351.php",
       "publishedAt": "2026-09-25T11:12:15+00:00",
       "publishedLabel": "25.09.2026 11:12",
-      "summary": "Späti ausgeraubt",
-      "category": "Sonstiges"
+      "summary": "Heute Morgen kam es zu einem schweren Raub auf einen Spätkauf in Wilmersdorf.",
+      "category": "Ermittlung"
     },
     {
       "title": "13-Jährige bei Unfall erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718262.php",
       "publishedAt": "2026-09-25T09:11:47+00:00",
       "publishedLabel": "25.09.2026 09:11",
-      "summary": "13-Jährige bei Unfall erheblich verletzt",
+      "summary": "In der vergangenen Nacht ereignete sich in Prenzlauer Berg ein Verkehrsunfall, bei dem ein 13-jähriges Mädchen erheblich verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -119,8 +119,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717681.php",
       "publishedAt": "2026-09-23T14:02:35+00:00",
       "publishedLabel": "23.09.2026 14:02",
-      "summary": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
-      "category": "Ermittlung"
+      "summary": "Heute Morgen wurden im Aufrag der StA Berlin insgesamt 14 Durchsuchungsbeschlüsse für elf Wohnanschriften, drei Gewerbeobjekte und mehrere Pkw vollstreckt.",
+      "category": "Verkehr"
     },
     {
       "title": "Distanzelektroimpulsgerät eingesetzt",
