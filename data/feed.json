@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-26T07:25:30.293346+00:00",
-    "checkedTime": "07:25 Uhr",
+    "checkedAt": "2026-09-26T12:21:27.280714+00:00",
+    "checkedTime": "12:21 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Späti ausgeraubt",
-    "latestPublishedAt": "2026-09-25T11:12:15+00:00"
+    "latestTitle": "Mann bei Raub mit Messer verletzt",
+    "latestPublishedAt": "2026-09-26T12:03:22+00:00"
   },
   "items": [
+    {
+      "title": "Mann bei Raub mit Messer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718523.php",
+      "publishedAt": "2026-09-26T12:03:22+00:00",
+      "publishedLabel": "26.09.2026 12:03",
+      "summary": "In der vergangenen Nacht wurde ein Mann bei einem Raub verletzt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Bilanz zu einem Versammlungsgeschehen gegen die Wehrpflicht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718522.php",
+      "publishedAt": "2026-09-26T11:57:08+00:00",
+      "publishedLabel": "26.09.2026 11:57",
+      "summary": "Mit in der Spitze rund 3400 Personen fand gestern in Mitte eine Versammlung statt.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718519.php",
+      "publishedAt": "2026-09-26T10:41:17+00:00",
+      "publishedLabel": "26.09.2026 10:41",
+      "summary": "In der vergangenen Nach wurde eine 41-jährige Autofahrerin bei einem Verkehrsunfall in Gatow erheblich verletzt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Späti ausgeraubt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718351.php",
@@ -103,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717835.php",
       "publishedAt": "2026-09-24T09:17:32+00:00",
       "publishedLabel": "24.09.2026 09:17",
-      "summary": "In der vergangenen Nacht kam es zu einem schweren Raub auf ein Hotel in Charlottenburg.",
+      "summary": "Überfall auf Hotel",
       "category": "Ermittlung"
     },
     {
@@ -119,8 +143,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717681.php",
       "publishedAt": "2026-09-23T14:02:35+00:00",
       "publishedLabel": "23.09.2026 14:02",
-      "summary": "Heute Morgen wurden im Aufrag der StA Berlin insgesamt 14 Durchsuchungsbeschlüsse für elf Wohnanschriften, drei Gewerbeobjekte und mehrere Pkw vollstreckt.",
-      "category": "Verkehr"
+      "summary": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
+      "category": "Ermittlung"
     },
     {
       "title": "Distanzelektroimpulsgerät eingesetzt",
@@ -129,30 +153,6 @@
       "publishedLabel": "23.09.2026 12:19",
       "summary": "Gestern Mittag setzten Polizeieinsatzkräfte in Lichtenberg gegen einen Mann das Distanzelektroimpulsgerät (DEIG) ein.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Festnahme nach Straßenraub",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717592.php",
-      "publishedAt": "2026-09-23T12:11:28+00:00",
-      "publishedLabel": "23.09.2026 12:11",
-      "summary": "Weil er in einem Rucksack wühlte und diesen anschließend in ein Gebüsch warf, wurden Einsatzkräfte gestern auf einen Mann in Charlottenburg aufmerksam.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "14-jähriger E-Scooter-Fahrer flüchtet vor Verkehrskontrolle – Beamter setzt DEIG ein",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717584.php",
-      "publishedAt": "2026-09-23T12:05:08+00:00",
-      "publishedLabel": "23.09.2026 12:05",
-      "summary": "Bei einer Verkehrssonderkontrolle in Köpenick hat ein Polizist gestern Nachmittag das DEIG gegen einen 14-jährigen E-Scooter-Fahrer eingesetzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Nach Brand in Seniorenheim – Patient im Krankenhaus verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717486.php",
-      "publishedAt": "2026-09-23T09:27:54+00:00",
-      "publishedLabel": "23.09.2026 09:27",
-      "summary": "Nach einem Brand in einem Seniorenpflegewohnheim am vergangenen Samstag ist der einst schwerverletzte 74-Jährige gestern in einem Krankenhaus verstorben.",
-      "category": "Ermittlung"
     }
   ]
 }
