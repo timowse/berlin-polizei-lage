@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-26T22:06:17.002605+00:00",
-    "checkedTime": "22:06 Uhr",
+    "checkedAt": "2026-09-27T00:32:33.846348+00:00",
+    "checkedTime": "00:32 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Mann bei Raub mit Messer verletzt",
     "latestPublishedAt": "2026-09-26T12:03:22+00:00"
@@ -39,15 +39,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718351.php",
       "publishedAt": "2026-09-25T11:12:15+00:00",
       "publishedLabel": "25.09.2026 11:12",
-      "summary": "Heute Morgen kam es zu einem schweren Raub auf einen Spätkauf in Wilmersdorf.",
-      "category": "Ermittlung"
+      "summary": "Späti ausgeraubt",
+      "category": "Sonstiges"
     },
     {
       "title": "13-Jährige bei Unfall erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718262.php",
       "publishedAt": "2026-09-25T09:11:47+00:00",
       "publishedLabel": "25.09.2026 09:11",
-      "summary": "In der vergangenen Nacht ereignete sich in Prenzlauer Berg ein Verkehrsunfall, bei dem ein 13-jähriges Mädchen erheblich verletzt wurde.",
+      "summary": "13-Jährige bei Unfall erheblich verletzt",
       "category": "Verkehr"
     },
     {
@@ -55,15 +55,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718257.php",
       "publishedAt": "2026-09-25T09:03:14+00:00",
       "publishedLabel": "25.09.2026 09:03",
-      "summary": "Gestern Nachmittag wurden zwei Zehnjährige bei einem Verkehrsunfall in Steglitz verletzt.",
-      "category": "Verkehr"
+      "summary": "Kinder auf Tretrollern angefahren",
+      "category": "Sonstiges"
     },
     {
       "title": "Jugendlicher mit Schussverletzungen im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718201.php",
       "publishedAt": "2026-09-25T07:59:41+00:00",
       "publishedLabel": "25.09.2026 07:59",
-      "summary": "Seit der vergangenen Nacht ermitteln die 8. Mordkommission des LKA und die Staatsanwaltschaft Berlin zu einem versuchten Tötungsdelikt in Steglitz.",
+      "summary": "Jugendlicher mit Schussverletzungen im Krankenhaus",
       "category": "Ermittlung"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718187.php",
       "publishedAt": "2026-09-25T07:35:53+00:00",
       "publishedLabel": "25.09.2026 07:35",
-      "summary": "Einsatzkräfte stellten gestern Abend eine Sachbeschädigung an einer als Gedenkort aufgestellten Regenbogenbank in Tiergarten fest.",
+      "summary": "Regenbogenbank im Großen Tiergarten erneut beschädigt",
       "category": "Ermittlung"
     },
     {
@@ -135,8 +135,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717825.php",
       "publishedAt": "2026-09-24T09:07:00+00:00",
       "publishedLabel": "24.09.2026 09:07",
-      "summary": "Gestern Mittag ereignete sich ein Verkehrsunfall in Westend, bei dem ein Kind schwer verletzt wurde.",
-      "category": "Verkehr"
+      "summary": "Seniorin fährt Kind an",
+      "category": "Sonstiges"
     },
     {
       "title": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
