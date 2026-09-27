@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-27T10:49:03.396448+00:00",
-    "checkedTime": "10:49 Uhr",
+    "checkedAt": "2026-09-27T15:23:29.331513+00:00",
+    "checkedTime": "15:23 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Homophober Angriff",
-    "latestPublishedAt": "2026-09-27T10:25:10+00:00"
+    "latestTitle": "Flucht vor Polizeikontrolle endete mit Verkehrsunfall",
+    "latestPublishedAt": "2026-09-27T11:57:44+00:00"
   },
   "items": [
+    {
+      "title": "Flucht vor Polizeikontrolle endete mit Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718579.php",
+      "publishedAt": "2026-09-27T11:57:44+00:00",
+      "publishedLabel": "27.09.2026 11:57",
+      "summary": "Bereits in der Nacht vom vergangenen Freitag zum Samstag flüchtete ein Mann in Mariendorf vor einer Polizeikontrolle und fuhr gegen ein Baustellenfahrzeug.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Auto vollständig ausgebrannt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718578.php",
+      "publishedAt": "2026-09-27T11:43:46+00:00",
+      "publishedLabel": "27.09.2026 11:43",
+      "summary": "Heute früh brannte ein Auto in Charlottenburg.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Große Gruppe greift Trio an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718572.php",
+      "publishedAt": "2026-09-27T10:48:59+00:00",
+      "publishedLabel": "27.09.2026 10:48",
+      "summary": "In der vergangenen Nacht erlitten drei junge Männer in Zehlendorf nach einem Angriff Verletzungen.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Heranwachsender mit Messer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718571.php",
+      "publishedAt": "2026-09-27T10:43:23+00:00",
+      "publishedLabel": "27.09.2026 10:43",
+      "summary": "Gestern Nachmittag wurde in Mitte eine Heranwachsender mit einem Messer verletzt.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Homophober Angriff",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718567.php",
@@ -121,38 +153,6 @@
       "publishedLabel": "24.09.2026 11:14",
       "summary": "Gestern Abend wurde eine Frau bei einem versuchten schweren Raub in Neukölln verletzt.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Mann kündigte Amoktat an – mehrere Waffen beschlagnahmt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717897.php",
-      "publishedAt": "2026-09-24T10:34:20+00:00",
-      "publishedLabel": "24.09.2026 10:34",
-      "summary": "In der vergangenen Nacht wurden Polizeieinsatzkräfte aufgrund einer verdächtigen Person zu einer Bar nach Marzahn alarmiert.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Überfall auf Hotel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717835.php",
-      "publishedAt": "2026-09-24T09:17:32+00:00",
-      "publishedLabel": "24.09.2026 09:17",
-      "summary": "In der vergangenen Nacht kam es zu einem schweren Raub auf ein Hotel in Charlottenburg.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Seniorin fährt Kind an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717825.php",
-      "publishedAt": "2026-09-24T09:07:00+00:00",
-      "publishedLabel": "24.09.2026 09:07",
-      "summary": "Gestern Mittag ereignete sich ein Verkehrsunfall in Westend, bei dem ein Kind schwer verletzt wurde.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717681.php",
-      "publishedAt": "2026-09-23T14:02:35+00:00",
-      "publishedLabel": "23.09.2026 14:02",
-      "summary": "Heute Morgen wurden im Aufrag der StA Berlin insgesamt 14 Durchsuchungsbeschlüsse für elf Wohnanschriften, drei Gewerbeobjekte und mehrere Pkw vollstreckt.",
-      "category": "Verkehr"
     }
   ]
 }
