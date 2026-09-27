@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-27T05:42:46.130560+00:00",
-    "checkedTime": "05:42 Uhr",
+    "checkedAt": "2026-09-27T10:49:03.396448+00:00",
+    "checkedTime": "10:49 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Mann bei Raub mit Messer verletzt",
-    "latestPublishedAt": "2026-09-26T12:03:22+00:00"
+    "latestTitle": "Homophober Angriff",
+    "latestPublishedAt": "2026-09-27T10:25:10+00:00"
   },
   "items": [
+    {
+      "title": "Homophober Angriff",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718567.php",
+      "publishedAt": "2026-09-27T10:25:10+00:00",
+      "publishedLabel": "27.09.2026 10:25",
+      "summary": "In der vergangenen Nacht wurde ein Mann in Schöneberg von Unbekannten attackiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Mann bei Raub mit Messer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718523.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "23.09.2026 14:02",
       "summary": "Heute Morgen wurden im Aufrag der StA Berlin insgesamt 14 Durchsuchungsbeschlüsse für elf Wohnanschriften, drei Gewerbeobjekte und mehrere Pkw vollstreckt.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Distanzelektroimpulsgerät eingesetzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717600.php",
-      "publishedAt": "2026-09-23T12:19:53+00:00",
-      "publishedLabel": "23.09.2026 12:19",
-      "summary": "Gestern Mittag setzten Polizeieinsatzkräfte in Lichtenberg gegen einen Mann das Distanzelektroimpulsgerät (DEIG) ein.",
-      "category": "Sonstiges"
     }
   ]
 }
