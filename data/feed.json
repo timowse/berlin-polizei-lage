@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-28T14:19:58.982073+00:00",
-    "checkedTime": "14:19 Uhr",
+    "checkedAt": "2026-09-28T20:37:05.306697+00:00",
+    "checkedTime": "20:37 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "13-Jährige vermisst – Polizei bittet um Mithilfe",
-    "latestPublishedAt": "2026-09-28T14:05:05+00:00"
+    "latestTitle": "Messerangriff verletzte Polizisten und Schussabgabe",
+    "latestPublishedAt": "2026-09-28T14:35:38+00:00"
   },
   "items": [
+    {
+      "title": "Messerangriff verletzte Polizisten und Schussabgabe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719167.php",
+      "publishedAt": "2026-09-28T14:35:38+00:00",
+      "publishedLabel": "28.09.2026 14:35",
+      "summary": "Gestern Abend wurden Einsatzkräfte des Regionalabschnitts 17/18 nach Wedding alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "13-Jährige vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719143.php",
@@ -144,14 +152,6 @@
       "publishedAt": "2026-09-25T07:59:41+00:00",
       "publishedLabel": "25.09.2026 07:59",
       "summary": "Seit der vergangenen Nacht ermitteln die 8. Mordkommission des LKA und die Staatsanwaltschaft Berlin zu einem versuchten Tötungsdelikt in Steglitz.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Regenbogenbank im Großen Tiergarten erneut beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718187.php",
-      "publishedAt": "2026-09-25T07:35:53+00:00",
-      "publishedLabel": "25.09.2026 07:35",
-      "summary": "Einsatzkräfte stellten gestern Abend eine Sachbeschädigung an einer als Gedenkort aufgestellten Regenbogenbank in Tiergarten fest.",
       "category": "Ermittlung"
     }
   ]
