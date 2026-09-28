@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-28T06:23:26.127571+00:00",
-    "checkedTime": "06:23 Uhr",
+    "checkedAt": "2026-09-28T14:19:58.982073+00:00",
+    "checkedTime": "14:19 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Flucht vor Polizeikontrolle endete mit Verkehrsunfall",
-    "latestPublishedAt": "2026-09-27T11:57:44+00:00"
+    "latestTitle": "13-Jährige vermisst – Polizei bittet um Mithilfe",
+    "latestPublishedAt": "2026-09-28T14:05:05+00:00"
   },
   "items": [
+    {
+      "title": "13-Jährige vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719143.php",
+      "publishedAt": "2026-09-28T14:05:05+00:00",
+      "publishedLabel": "28.09.2026 14:05",
+      "summary": "Mit der Veröffentlichung eines Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach der 13-jährigen Bảo Anh LE.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "64-Jähriger wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716014.php",
+      "publishedAt": "2026-09-28T13:56:00+00:00",
+      "publishedLabel": "28.09.2026 13:56",
+      "summary": "Der 64-Jährige, der in Tegel vermisst wurde, ist inzwischen wohlbehalten an einer Tankstelle im Land Brandenburg angetroffen worden.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Live-Einbruchversuch und Experten-Tipps: Polizei Berlin zeigt wirksame Sicherungstechnik am Tag des Einbruchschutzes am 25. Oktober 2026",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718998.php",
+      "publishedAt": "2026-09-28T11:52:24+00:00",
+      "publishedLabel": "28.09.2026 11:52",
+      "summary": "Zu Beginn der dunklen Jahreszeit steigen die Einbruchszahlen wieder an, da Täter verstärkt im Schutz der früh einsetzenden Dunkelheit agieren.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mann mutmaßlich durch Messerstich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718916.php",
+      "publishedAt": "2026-09-28T10:38:37+00:00",
+      "publishedLabel": "28.09.2026 10:38",
+      "summary": "Gestern Abend kam es in Britz zu einem Angriff, bei dem ein Mann eine Stichverletzung erlitt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mann bei Auseinandersetzung verletzt - Zeugenaufruf",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718894.php",
+      "publishedAt": "2026-09-28T10:22:39+00:00",
+      "publishedLabel": "28.09.2026 10:22",
+      "summary": "In der vergangenen Nacht kam es in Moabit zu einer Auseinandersetzung, bei der ein Mann verletzt wurde",
+      "category": "Fahndung"
+    },
     {
       "title": "Flucht vor Polizeikontrolle endete mit Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718579.php",
@@ -112,46 +152,6 @@
       "publishedAt": "2026-09-25T07:35:53+00:00",
       "publishedLabel": "25.09.2026 07:35",
       "summary": "Einsatzkräfte stellten gestern Abend eine Sachbeschädigung an einer als Gedenkort aufgestellten Regenbogenbank in Tiergarten fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Allgemeinverfügung zur Kampfmittelbeseitigung am 30. September 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718070.php",
-      "publishedAt": "2026-09-24T14:24:40+00:00",
-      "publishedLabel": "24.09.2026 14:24",
-      "summary": "Am 30. September wird ab 9:30 Uhr im Zusammenhang mit einer Kampfmittelbeseitigung in Brandenburg ein Sperrkreis errichtet, der sich bis nach Gatow erstreckt.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Bauarbeiter bei Auseinandersetzungen verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718012.php",
-      "publishedAt": "2026-09-24T12:49:28+00:00",
-      "publishedLabel": "24.09.2026 12:49",
-      "summary": "Bei einem mehrstündigen Polizeieinsatz in Friedrichshain wurden gestern Nachmittag zwei Bauarbeiter durch Angriffe aus einem Gebäude heraus verletzt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Berlin startet mit KI-gestütztem Videoschutz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718008.php",
-      "publishedAt": "2026-09-24T12:30:00+00:00",
-      "publishedLabel": "24.09.2026 12:30",
-      "summary": "An den kriminalitätsbelasteten Orten (kbO) ist eine hohe Anzahl von Straftaten feststellbar, die das Sicherheitsgefühl beeinträchtigen.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Sachbeschädigung durch Feuer und Farbschmiererei",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717930.php",
-      "publishedAt": "2026-09-24T11:29:41+00:00",
-      "publishedLabel": "24.09.2026 11:29",
-      "summary": "In der vergangenen Nacht kam es zu einer Sachbeschädigung durch Feuer und einer Farbschmiererei in Rummelsburg.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Versuchter Raub auf Motorrollerfahrerin – Tatverdächtige festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717917.php",
-      "publishedAt": "2026-09-24T11:14:01+00:00",
-      "publishedLabel": "24.09.2026 11:14",
-      "summary": "Gestern Abend wurde eine Frau bei einem versuchten schweren Raub in Neukölln verletzt.",
       "category": "Ermittlung"
     }
   ]
