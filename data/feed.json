@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-28T20:37:05.306697+00:00",
-    "checkedTime": "20:37 Uhr",
+    "checkedAt": "2026-09-29T06:10:19.891216+00:00",
+    "checkedTime": "06:10 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Messerangriff verletzte Polizisten und Schussabgabe",
     "latestPublishedAt": "2026-09-28T14:35:38+00:00"
@@ -47,7 +47,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718916.php",
       "publishedAt": "2026-09-28T10:38:37+00:00",
       "publishedLabel": "28.09.2026 10:38",
-      "summary": "Gestern Abend kam es in Britz zu einem Angriff, bei dem ein Mann eine Stichverletzung erlitt.",
+      "summary": "Mann mutmaßlich durch Messerstich verletzt",
       "category": "Ermittlung"
     },
     {
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718894.php",
       "publishedAt": "2026-09-28T10:22:39+00:00",
       "publishedLabel": "28.09.2026 10:22",
-      "summary": "In der vergangenen Nacht kam es in Moabit zu einer Auseinandersetzung, bei der ein Mann verletzt wurde",
+      "summary": "Mann bei Auseinandersetzung verletzt - Zeugenaufruf",
       "category": "Fahndung"
     },
     {
@@ -63,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718579.php",
       "publishedAt": "2026-09-27T11:57:44+00:00",
       "publishedLabel": "27.09.2026 11:57",
-      "summary": "Bereits in der Nacht vom vergangenen Freitag zum Samstag flüchtete ein Mann in Mariendorf vor einer Polizeikontrolle und fuhr gegen ein Baustellenfahrzeug.",
+      "summary": "Flucht vor Polizeikontrolle endete mit Verkehrsunfall",
       "category": "Verkehr"
     },
     {
@@ -71,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718578.php",
       "publishedAt": "2026-09-27T11:43:46+00:00",
       "publishedLabel": "27.09.2026 11:43",
-      "summary": "Heute früh brannte ein Auto in Charlottenburg.",
+      "summary": "Auto vollständig ausgebrannt",
       "category": "Sonstiges"
     },
     {
@@ -79,15 +79,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718572.php",
       "publishedAt": "2026-09-27T10:48:59+00:00",
       "publishedLabel": "27.09.2026 10:48",
-      "summary": "In der vergangenen Nacht erlitten drei junge Männer in Zehlendorf nach einem Angriff Verletzungen.",
-      "category": "Ermittlung"
+      "summary": "Große Gruppe greift Trio an",
+      "category": "Sonstiges"
     },
     {
       "title": "Heranwachsender mit Messer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718571.php",
       "publishedAt": "2026-09-27T10:43:23+00:00",
       "publishedLabel": "27.09.2026 10:43",
-      "summary": "Gestern Nachmittag wurde in Mitte eine Heranwachsender mit einem Messer verletzt.",
+      "summary": "Heranwachsender mit Messer verletzt",
       "category": "Ermittlung"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718567.php",
       "publishedAt": "2026-09-27T10:25:10+00:00",
       "publishedLabel": "27.09.2026 10:25",
-      "summary": "In der vergangenen Nacht wurde ein Mann in Schöneberg von Unbekannten attackiert.",
+      "summary": "Homophober Angriff",
       "category": "Ermittlung"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718523.php",
       "publishedAt": "2026-09-26T12:03:22+00:00",
       "publishedLabel": "26.09.2026 12:03",
-      "summary": "In der vergangenen Nacht wurde ein Mann bei einem Raub verletzt.",
+      "summary": "Mann bei Raub mit Messer verletzt",
       "category": "Ermittlung"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718522.php",
       "publishedAt": "2026-09-26T11:57:08+00:00",
       "publishedLabel": "26.09.2026 11:57",
-      "summary": "Mit in der Spitze rund 3400 Personen fand gestern in Mitte eine Versammlung statt.",
+      "summary": "Bilanz zu einem Versammlungsgeschehen gegen die Wehrpflicht",
       "category": "Einsatz"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718519.php",
       "publishedAt": "2026-09-26T10:41:17+00:00",
       "publishedLabel": "26.09.2026 10:41",
-      "summary": "In der vergangenen Nach wurde eine 41-jährige Autofahrerin bei einem Verkehrsunfall in Gatow erheblich verletzt.",
+      "summary": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
       "category": "Verkehr"
     },
     {
@@ -127,15 +127,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718351.php",
       "publishedAt": "2026-09-25T11:12:15+00:00",
       "publishedLabel": "25.09.2026 11:12",
-      "summary": "Heute Morgen kam es zu einem schweren Raub auf einen Spätkauf in Wilmersdorf.",
-      "category": "Ermittlung"
+      "summary": "Späti ausgeraubt",
+      "category": "Sonstiges"
     },
     {
       "title": "13-Jährige bei Unfall erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718262.php",
       "publishedAt": "2026-09-25T09:11:47+00:00",
       "publishedLabel": "25.09.2026 09:11",
-      "summary": "In der vergangenen Nacht ereignete sich in Prenzlauer Berg ein Verkehrsunfall, bei dem ein 13-jähriges Mädchen erheblich verletzt wurde.",
+      "summary": "13-Jährige bei Unfall erheblich verletzt",
       "category": "Verkehr"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718201.php",
       "publishedAt": "2026-09-25T07:59:41+00:00",
       "publishedLabel": "25.09.2026 07:59",
-      "summary": "Seit der vergangenen Nacht ermitteln die 8. Mordkommission des LKA und die Staatsanwaltschaft Berlin zu einem versuchten Tötungsdelikt in Steglitz.",
+      "summary": "Jugendlicher mit Schussverletzungen im Krankenhaus",
       "category": "Ermittlung"
     }
   ]
