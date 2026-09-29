@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-29T06:10:19.891216+00:00",
-    "checkedTime": "06:10 Uhr",
+    "checkedAt": "2026-09-29T13:04:24.141375+00:00",
+    "checkedTime": "13:04 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Messerangriff verletzte Polizisten und Schussabgabe",
-    "latestPublishedAt": "2026-09-28T14:35:38+00:00"
+    "latestTitle": "Leichnam aus Tegeler See geborgen – Mordkommission und Staatsanwaltschaft ermitteln",
+    "latestPublishedAt": "2026-09-29T12:25:58+00:00"
   },
   "items": [
+    {
+      "title": "Leichnam aus Tegeler See geborgen – Mordkommission und Staatsanwaltschaft ermitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719543.php",
+      "publishedAt": "2026-09-29T12:25:58+00:00",
+      "publishedLabel": "29.09.2026 12:25",
+      "summary": "Gestern gegen 14 Uhr entdeckten Bootsfahrer einen im Tegeler See treibenden Leichnam und alarmierten die Berliner Feuerwehr, die den toten Mann barg.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Festnahme nach Einbruch in Bäckerei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719443.php",
+      "publishedAt": "2026-09-29T10:43:30+00:00",
+      "publishedLabel": "29.09.2026 10:43",
+      "summary": "In der vergangenen Nacht brachen zwei Männer in eine Bäckerei in Niederschönhausen ein.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Regenbogenbank erneut beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719347.php",
+      "publishedAt": "2026-09-29T08:44:13+00:00",
+      "publishedLabel": "29.09.2026 08:44",
+      "summary": "In Tiergarten haben Unbekannte eine als Gedenkort anlässlich des Anschlags auf den Berliner CSD aufgestellte Regenbogenbank beschädigt.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Messerangriff verletzte Polizisten und Schussabgabe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719167.php",
@@ -47,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718916.php",
       "publishedAt": "2026-09-28T10:38:37+00:00",
       "publishedLabel": "28.09.2026 10:38",
-      "summary": "Mann mutmaßlich durch Messerstich verletzt",
+      "summary": "Gestern Abend kam es in Britz zu einem Angriff, bei dem ein Mann eine Stichverletzung erlitt.",
       "category": "Ermittlung"
     },
     {
@@ -55,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718894.php",
       "publishedAt": "2026-09-28T10:22:39+00:00",
       "publishedLabel": "28.09.2026 10:22",
-      "summary": "Mann bei Auseinandersetzung verletzt - Zeugenaufruf",
+      "summary": "In der vergangenen Nacht kam es in Moabit zu einer Auseinandersetzung, bei der ein Mann verletzt wurde",
       "category": "Fahndung"
     },
     {
@@ -63,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718579.php",
       "publishedAt": "2026-09-27T11:57:44+00:00",
       "publishedLabel": "27.09.2026 11:57",
-      "summary": "Flucht vor Polizeikontrolle endete mit Verkehrsunfall",
+      "summary": "Bereits in der Nacht vom vergangenen Freitag zum Samstag flüchtete ein Mann in Mariendorf vor einer Polizeikontrolle und fuhr gegen ein Baustellenfahrzeug.",
       "category": "Verkehr"
     },
     {
@@ -71,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718578.php",
       "publishedAt": "2026-09-27T11:43:46+00:00",
       "publishedLabel": "27.09.2026 11:43",
-      "summary": "Auto vollständig ausgebrannt",
+      "summary": "Heute früh brannte ein Auto in Charlottenburg.",
       "category": "Sonstiges"
     },
     {
@@ -79,15 +103,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718572.php",
       "publishedAt": "2026-09-27T10:48:59+00:00",
       "publishedLabel": "27.09.2026 10:48",
-      "summary": "Große Gruppe greift Trio an",
-      "category": "Sonstiges"
+      "summary": "In der vergangenen Nacht erlitten drei junge Männer in Zehlendorf nach einem Angriff Verletzungen.",
+      "category": "Ermittlung"
     },
     {
       "title": "Heranwachsender mit Messer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718571.php",
       "publishedAt": "2026-09-27T10:43:23+00:00",
       "publishedLabel": "27.09.2026 10:43",
-      "summary": "Heranwachsender mit Messer verletzt",
+      "summary": "Gestern Nachmittag wurde in Mitte eine Heranwachsender mit einem Messer verletzt.",
       "category": "Ermittlung"
     },
     {
@@ -95,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718567.php",
       "publishedAt": "2026-09-27T10:25:10+00:00",
       "publishedLabel": "27.09.2026 10:25",
-      "summary": "Homophober Angriff",
+      "summary": "In der vergangenen Nacht wurde ein Mann in Schöneberg von Unbekannten attackiert.",
       "category": "Ermittlung"
     },
     {
@@ -103,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718523.php",
       "publishedAt": "2026-09-26T12:03:22+00:00",
       "publishedLabel": "26.09.2026 12:03",
-      "summary": "Mann bei Raub mit Messer verletzt",
+      "summary": "In der vergangenen Nacht wurde ein Mann bei einem Raub verletzt.",
       "category": "Ermittlung"
     },
     {
@@ -111,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718522.php",
       "publishedAt": "2026-09-26T11:57:08+00:00",
       "publishedLabel": "26.09.2026 11:57",
-      "summary": "Bilanz zu einem Versammlungsgeschehen gegen die Wehrpflicht",
+      "summary": "Mit in der Spitze rund 3400 Personen fand gestern in Mitte eine Versammlung statt.",
       "category": "Einsatz"
     },
     {
@@ -119,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718519.php",
       "publishedAt": "2026-09-26T10:41:17+00:00",
       "publishedLabel": "26.09.2026 10:41",
-      "summary": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
+      "summary": "In der vergangenen Nach wurde eine 41-jährige Autofahrerin bei einem Verkehrsunfall in Gatow erheblich verletzt.",
       "category": "Verkehr"
     },
     {
@@ -127,31 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718351.php",
       "publishedAt": "2026-09-25T11:12:15+00:00",
       "publishedLabel": "25.09.2026 11:12",
-      "summary": "Späti ausgeraubt",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "13-Jährige bei Unfall erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718262.php",
-      "publishedAt": "2026-09-25T09:11:47+00:00",
-      "publishedLabel": "25.09.2026 09:11",
-      "summary": "13-Jährige bei Unfall erheblich verletzt",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Kinder auf Tretrollern angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718257.php",
-      "publishedAt": "2026-09-25T09:03:14+00:00",
-      "publishedLabel": "25.09.2026 09:03",
-      "summary": "Gestern Nachmittag wurden zwei Zehnjährige bei einem Verkehrsunfall in Steglitz verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Jugendlicher mit Schussverletzungen im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718201.php",
-      "publishedAt": "2026-09-25T07:59:41+00:00",
-      "publishedLabel": "25.09.2026 07:59",
-      "summary": "Jugendlicher mit Schussverletzungen im Krankenhaus",
+      "summary": "Heute Morgen kam es zu einem schweren Raub auf einen Spätkauf in Wilmersdorf.",
       "category": "Ermittlung"
     }
   ]
