@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-09-30T07:24:50.293632+00:00",
-    "checkedTime": "07:24 Uhr",
+    "checkedAt": "2026-09-30T14:05:39.430790+00:00",
+    "checkedTime": "14:05 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Leichnam aus Tegeler See geborgen – Mordkommission und Staatsanwaltschaft ermitteln",
-    "latestPublishedAt": "2026-09-29T12:25:58+00:00"
+    "latestTitle": "Gräberanlage beschmiert",
+    "latestPublishedAt": "2026-09-30T12:37:23+00:00"
   },
   "items": [
+    {
+      "title": "Gräberanlage beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720062.php",
+      "publishedAt": "2026-09-30T12:37:23+00:00",
+      "publishedLabel": "30.09.2026 12:37",
+      "summary": "Unbekannte beschmierten eine Gräberanlage in Niederschönhausen.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Fußgänger nach Zusammenstoß im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720046.php",
+      "publishedAt": "2026-09-30T12:20:35+00:00",
+      "publishedLabel": "30.09.2026 12:20",
+      "summary": "Bei einem Verkehrsunfall, der sich vergangene Nacht in Marzahn ereignete, wurde ein Mann schwer verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Schüsse von Motorroller in Treptow-Köpenick",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720036.php",
+      "publishedAt": "2026-09-30T12:09:33+00:00",
+      "publishedLabel": "30.09.2026 12:09",
+      "summary": "Gestern Abend schossen Unbekannte auf drei Männer im Ortsteil Baumschulenweg.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "13-Jährige wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719143.php",
+      "publishedAt": "2026-09-30T09:19:00+00:00",
+      "publishedLabel": "30.09.2026 09:19",
+      "summary": "Die 13-Jährige, die seit dem 23. September 2026 vermisst wurde, ist wieder da.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718519.php",
+      "publishedAt": "2026-09-30T07:53:00+00:00",
+      "publishedLabel": "30.09.2026 07:53",
+      "summary": "Die 41-jährige Autofahrerin, die vergangenen Samstag bei einem so genannten Alleinunfall in Gatow lebensgefährliche Verletzungen davontrug, ist bereits in der Nacht zu Montag in einem Krankenhaus verstorben.",
+      "category": "Verkehr"
+    },
     {
       "title": "Leichnam aus Tegeler See geborgen – Mordkommission und Staatsanwaltschaft ermitteln",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719543.php",
@@ -41,14 +81,6 @@
       "publishedLabel": "28.09.2026 14:35",
       "summary": "Gestern Abend wurden Einsatzkräfte des Regionalabschnitts 17/18 nach Wedding alarmiert.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "13-Jährige vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719143.php",
-      "publishedAt": "2026-09-28T14:05:05+00:00",
-      "publishedLabel": "28.09.2026 14:05",
-      "summary": "Mit der Veröffentlichung eines Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach der 13-jährigen Bảo Anh LE.",
-      "category": "Fahndung"
     },
     {
       "title": "64-Jähriger wieder da",
@@ -120,38 +152,6 @@
       "publishedAt": "2026-09-27T10:25:10+00:00",
       "publishedLabel": "27.09.2026 10:25",
       "summary": "In der vergangenen Nacht wurde ein Mann in Schöneberg von Unbekannten attackiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann bei Raub mit Messer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718523.php",
-      "publishedAt": "2026-09-26T12:03:22+00:00",
-      "publishedLabel": "26.09.2026 12:03",
-      "summary": "In der vergangenen Nacht wurde ein Mann bei einem Raub verletzt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Bilanz zu einem Versammlungsgeschehen gegen die Wehrpflicht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718522.php",
-      "publishedAt": "2026-09-26T11:57:08+00:00",
-      "publishedLabel": "26.09.2026 11:57",
-      "summary": "Mit in der Spitze rund 3400 Personen fand gestern in Mitte eine Versammlung statt.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718519.php",
-      "publishedAt": "2026-09-26T10:41:17+00:00",
-      "publishedLabel": "26.09.2026 10:41",
-      "summary": "In der vergangenen Nach wurde eine 41-jährige Autofahrerin bei einem Verkehrsunfall in Gatow erheblich verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Späti ausgeraubt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718351.php",
-      "publishedAt": "2026-09-25T11:12:15+00:00",
-      "publishedLabel": "25.09.2026 11:12",
-      "summary": "Heute Morgen kam es zu einem schweren Raub auf einen Spätkauf in Wilmersdorf.",
       "category": "Ermittlung"
     }
   ]
