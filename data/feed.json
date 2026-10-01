@@ -3,13 +3,61 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-01T08:49:31.889059+00:00",
-    "checkedTime": "08:49 Uhr",
+    "checkedAt": "2026-10-01T15:44:59.975930+00:00",
+    "checkedTime": "15:44 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Auftaktveranstaltung der Präventionswoche „Taschendiebstahl“",
-    "latestPublishedAt": "2026-10-01T06:46:00+00:00"
+    "latestTitle": "Rassistische Beleidigung und Körperverletzung – Zeuginnen und Zeugen gesucht",
+    "latestPublishedAt": "2026-10-01T13:55:01+00:00"
   },
   "items": [
+    {
+      "title": "Rassistische Beleidigung und Körperverletzung – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720637.php",
+      "publishedAt": "2026-10-01T13:55:01+00:00",
+      "publishedLabel": "01.10.2026 13:55",
+      "summary": "Am 8. September 2026 soll es zu einer rassistischen Beleidigung, Körperverletzung und einem gefährlichen Eingriff in den Straßenverkehr gekommen sein.",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Glasflasche auf den Kopf geschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720450.php",
+      "publishedAt": "2026-10-01T10:56:23+00:00",
+      "publishedLabel": "01.10.2026 10:56",
+      "summary": "In der vergangenen Nacht schlug ein bisher Unbekannter einem Mann in Lichtenrade eine Glasflasche auf den Kopf.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Nach Diebstahl aus Pkw mit mutmaßlicher Schusswaffe bedroht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720399.php",
+      "publishedAt": "2026-10-01T09:58:38+00:00",
+      "publishedLabel": "01.10.2026 09:58",
+      "summary": "Gestern Nachmittag kam es in Kreuzberg zu einem räuberischen Diebstahl.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Storno in Handfesseln – Räuberisch erpresste Fahrt endet mit vier Festnahmen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720392.php",
+      "publishedAt": "2026-10-01T09:49:16+00:00",
+      "publishedLabel": "01.10.2026 09:49",
+      "summary": "Gestern Abend wurde ein Essensauslieferer in Neukölln von einer fünfköpfigen Personengruppe überfallen.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Rettungskräfte angegriffen und bespuckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720334.php",
+      "publishedAt": "2026-10-01T09:15:59+00:00",
+      "publishedLabel": "01.10.2026 09:15",
+      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Polizei Berlin zur Unterstützung von Kräften der Berliner Feuerwehr nach Marzahn alarmiert.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Senior nach Verkehrsunfall im Krankenhaus verstorben – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720324.php",
+      "publishedAt": "2026-10-01T09:00:18+00:00",
+      "publishedLabel": "01.10.2026 09:00",
+      "summary": "In der Nacht zu Mittwoch erlag ein Senior Verletzungen, die er Dienstagnachmittag bei einem Verkehrsunfall in Nikolassee erlitten hatte.",
+      "category": "Verkehr"
+    },
     {
       "title": "Auftaktveranstaltung der Präventionswoche „Taschendiebstahl“",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720255.php",
@@ -105,54 +153,6 @@
       "publishedLabel": "28.09.2026 13:56",
       "summary": "Der 64-Jährige, der in Tegel vermisst wurde, ist inzwischen wohlbehalten an einer Tankstelle im Land Brandenburg angetroffen worden.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Live-Einbruchversuch und Experten-Tipps: Polizei Berlin zeigt wirksame Sicherungstechnik am Tag des Einbruchschutzes am 25. Oktober 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718998.php",
-      "publishedAt": "2026-09-28T11:52:24+00:00",
-      "publishedLabel": "28.09.2026 11:52",
-      "summary": "Zu Beginn der dunklen Jahreszeit steigen die Einbruchszahlen wieder an, da Täter verstärkt im Schutz der früh einsetzenden Dunkelheit agieren.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann mutmaßlich durch Messerstich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718916.php",
-      "publishedAt": "2026-09-28T10:38:37+00:00",
-      "publishedLabel": "28.09.2026 10:38",
-      "summary": "Gestern Abend kam es in Britz zu einem Angriff, bei dem ein Mann eine Stichverletzung erlitt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann bei Auseinandersetzung verletzt - Zeugenaufruf",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718894.php",
-      "publishedAt": "2026-09-28T10:22:39+00:00",
-      "publishedLabel": "28.09.2026 10:22",
-      "summary": "In der vergangenen Nacht kam es in Moabit zu einer Auseinandersetzung, bei der ein Mann verletzt wurde",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Flucht vor Polizeikontrolle endete mit Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718579.php",
-      "publishedAt": "2026-09-27T11:57:44+00:00",
-      "publishedLabel": "27.09.2026 11:57",
-      "summary": "Bereits in der Nacht vom vergangenen Freitag zum Samstag flüchtete ein Mann in Mariendorf vor einer Polizeikontrolle und fuhr gegen ein Baustellenfahrzeug.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Auto vollständig ausgebrannt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718578.php",
-      "publishedAt": "2026-09-27T11:43:46+00:00",
-      "publishedLabel": "27.09.2026 11:43",
-      "summary": "Heute früh brannte ein Auto in Charlottenburg.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Große Gruppe greift Trio an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718572.php",
-      "publishedAt": "2026-09-27T10:48:59+00:00",
-      "publishedLabel": "27.09.2026 10:48",
-      "summary": "In der vergangenen Nacht erlitten drei junge Männer in Zehlendorf nach einem Angriff Verletzungen.",
-      "category": "Ermittlung"
     }
   ]
 }
