@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-01T02:04:55.085772+00:00",
-    "checkedTime": "02:04 Uhr",
+    "checkedAt": "2026-10-01T08:49:31.889059+00:00",
+    "checkedTime": "08:49 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Gräberanlage beschmiert",
-    "latestPublishedAt": "2026-09-30T12:37:23+00:00"
+    "latestTitle": "Auftaktveranstaltung der Präventionswoche „Taschendiebstahl“",
+    "latestPublishedAt": "2026-10-01T06:46:00+00:00"
   },
   "items": [
+    {
+      "title": "Auftaktveranstaltung der Präventionswoche „Taschendiebstahl“",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720255.php",
+      "publishedAt": "2026-10-01T06:46:00+00:00",
+      "publishedLabel": "01.10.2026 06:46",
+      "summary": "Vom 5. bis 9. Oktober 2026 informieren die Polizei Berlin, die Polizei Brandenburg und die Bundespolizei im Rahmen einer Präventionswoche über das Thema Taschendiebstahl.",
+      "category": "Sonstiges"
+    },
     {
       "title": "Gräberanlage beschmiert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720062.php",
@@ -17,6 +25,14 @@
       "publishedLabel": "30.09.2026 12:37",
       "summary": "Unbekannte beschmierten eine Gräberanlage in Niederschönhausen.",
       "category": "Sonstiges"
+    },
+    {
+      "title": "Drei Tatverdächtige nach Wohnungseinbruch festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720216.php",
+      "publishedAt": "2026-09-30T12:32:00+00:00",
+      "publishedLabel": "30.09.2026 12:32",
+      "summary": "Zivile Einsatzkräfte nahmen gestern Mittag in Zusammenarbeit mit der OGW der Polizeidirektion 4 (Süd) in Lichtenrade drei mutmaßliche Einbrecher fest.",
+      "category": "Ermittlung"
     },
     {
       "title": "Fußgänger nach Zusammenstoß im Krankenhaus",
@@ -136,22 +152,6 @@
       "publishedAt": "2026-09-27T10:48:59+00:00",
       "publishedLabel": "27.09.2026 10:48",
       "summary": "In der vergangenen Nacht erlitten drei junge Männer in Zehlendorf nach einem Angriff Verletzungen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Heranwachsender mit Messer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718571.php",
-      "publishedAt": "2026-09-27T10:43:23+00:00",
-      "publishedLabel": "27.09.2026 10:43",
-      "summary": "Gestern Nachmittag wurde in Mitte eine Heranwachsender mit einem Messer verletzt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Homophober Angriff",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718567.php",
-      "publishedAt": "2026-09-27T10:25:10+00:00",
-      "publishedLabel": "27.09.2026 10:25",
-      "summary": "In der vergangenen Nacht wurde ein Mann in Schöneberg von Unbekannten attackiert.",
       "category": "Ermittlung"
     }
   ]
