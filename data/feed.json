@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-02T12:02:15.952480+00:00",
-    "checkedTime": "12:02 Uhr",
+    "checkedAt": "2026-10-02T17:50:08.558664+00:00",
+    "checkedTime": "17:50 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Duo nach Diebstahl festgenommen",
-    "latestPublishedAt": "2026-10-02T10:55:09+00:00"
+    "latestTitle": "Regenbogenbank im Großen Tiergarten beschmiert",
+    "latestPublishedAt": "2026-10-02T13:16:32+00:00"
   },
   "items": [
+    {
+      "title": "Regenbogenbank im Großen Tiergarten beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721089.php",
+      "publishedAt": "2026-10-02T13:16:32+00:00",
+      "publishedLabel": "02.10.2026 13:16",
+      "summary": "Einsatzkräfte stellten heute früh fest, dass ein oder mehrere Unbekannte die Gedenkbank zum Anschlag auf den CSD in Tiergarten beschmiert hatten.",
+      "category": "Einsatz"
+    },
     {
       "title": "Duo nach Diebstahl festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720997.php",
@@ -71,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720399.php",
       "publishedAt": "2026-10-01T09:58:38+00:00",
       "publishedLabel": "01.10.2026 09:58",
-      "summary": "Nach Diebstahl aus Pkw mit mutmaßlicher Schusswaffe bedroht",
+      "summary": "Gestern Nachmittag kam es in Kreuzberg zu einem räuberischen Diebstahl.",
       "category": "Verkehr"
     },
     {
@@ -127,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720036.php",
       "publishedAt": "2026-09-30T12:09:33+00:00",
       "publishedLabel": "30.09.2026 12:09",
-      "summary": "Schüsse von Motorroller in Treptow-Köpenick",
+      "summary": "Gestern Abend schossen Unbekannte auf drei Männer im Ortsteil Baumschulenweg.",
       "category": "Ermittlung"
     },
     {
@@ -135,24 +143,16 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719143.php",
       "publishedAt": "2026-09-30T09:19:00+00:00",
       "publishedLabel": "30.09.2026 09:19",
-      "summary": "13-Jährige wieder da",
-      "category": "Sonstiges"
+      "summary": "Die 13-Jährige, die seit dem 23. September 2026 vermisst wurde, ist wieder da.",
+      "category": "Fahndung"
     },
     {
       "title": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718519.php",
       "publishedAt": "2026-09-30T07:53:00+00:00",
       "publishedLabel": "30.09.2026 07:53",
-      "summary": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
+      "summary": "Die 41-jährige Autofahrerin, die vergangenen Samstag bei einem so genannten Alleinunfall in Gatow lebensgefährliche Verletzungen davontrug, ist bereits in der Nacht zu Montag in einem Krankenhaus verstorben.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Leichnam aus Tegeler See geborgen – Mordkommission und Staatsanwaltschaft ermitteln",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719543.php",
-      "publishedAt": "2026-09-29T12:25:58+00:00",
-      "publishedLabel": "29.09.2026 12:25",
-      "summary": "Leichnam aus Tegeler See geborgen – Mordkommission und Staatsanwaltschaft ermitteln",
-      "category": "Sonstiges"
     }
   ]
 }
