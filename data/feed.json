@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-02T05:50:31.762822+00:00",
-    "checkedTime": "05:50 Uhr",
+    "checkedAt": "2026-10-02T12:02:15.952480+00:00",
+    "checkedTime": "12:02 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Rassistische Beleidigung und Körperverletzung – Zeuginnen und Zeugen gesucht",
-    "latestPublishedAt": "2026-10-01T13:55:01+00:00"
+    "latestTitle": "Duo nach Diebstahl festgenommen",
+    "latestPublishedAt": "2026-10-02T10:55:09+00:00"
   },
   "items": [
+    {
+      "title": "Duo nach Diebstahl festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720997.php",
+      "publishedAt": "2026-10-02T10:55:09+00:00",
+      "publishedLabel": "02.10.2026 10:55",
+      "summary": "Polizeieinsatzkräfte nahmen gestern Nachmittag zwei Männer nach einem Autoeinbruch in Kreuzberg fest.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Keine Straftat – Geplante Nachbeschriftungsarbeiten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720062.php",
+      "publishedAt": "2026-10-02T10:06:00+00:00",
+      "publishedLabel": "02.10.2026 10:06",
+      "summary": "Die am 29. September festgestellten Beschmierungen mehrerer Grabplatten mit schwarzer Farbe stellten sich als geplante Arbeiten einer Steinmetzfirma heraus.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Verkehrsunfall mit lebensbedrohlich verletztem E-Scooter-Fahrer",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720912.php",
+      "publishedAt": "2026-10-02T09:48:40+00:00",
+      "publishedLabel": "02.10.2026 09:48",
+      "summary": "Gestern Nachmittag kam es in Marzahn zu einem Verkehrsunfall, bei dem ein E-Scooter-Fahrer lebensbedrohlich verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Unbekannte Person flüchtet nach Unfall mit vierjährigem Kind",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720907.php",
+      "publishedAt": "2026-10-02T09:43:53+00:00",
+      "publishedLabel": "02.10.2026 09:43",
+      "summary": "Nach einem Verkehrsunfall in Hellersdorf musste ein vierjähriger Junge gestern Abend ins Krankenhaus gebracht werden.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "20-Jährige bei E-Scooter-Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720894.php",
+      "publishedAt": "2026-10-02T09:26:35+00:00",
+      "publishedLabel": "02.10.2026 09:26",
+      "summary": "Bei einem Verkehrsunfall im Ortsteil Tiergarten wurde gestern Nachmittag eine 20-Jährige erheblich verletzt.",
+      "category": "Verkehr"
+    },
     {
       "title": "Rassistische Beleidigung und Körperverletzung – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720637.php",
@@ -31,7 +71,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720399.php",
       "publishedAt": "2026-10-01T09:58:38+00:00",
       "publishedLabel": "01.10.2026 09:58",
-      "summary": "Gestern Nachmittag kam es in Kreuzberg zu einem räuberischen Diebstahl.",
+      "summary": "Nach Diebstahl aus Pkw mit mutmaßlicher Schusswaffe bedroht",
       "category": "Verkehr"
     },
     {
@@ -67,14 +107,6 @@
       "category": "Sonstiges"
     },
     {
-      "title": "Gräberanlage beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720062.php",
-      "publishedAt": "2026-09-30T12:37:23+00:00",
-      "publishedLabel": "30.09.2026 12:37",
-      "summary": "Unbekannte beschmierten eine Gräberanlage in Niederschönhausen.",
-      "category": "Sonstiges"
-    },
-    {
       "title": "Drei Tatverdächtige nach Wohnungseinbruch festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720216.php",
       "publishedAt": "2026-09-30T12:32:00+00:00",
@@ -95,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720036.php",
       "publishedAt": "2026-09-30T12:09:33+00:00",
       "publishedLabel": "30.09.2026 12:09",
-      "summary": "Gestern Abend schossen Unbekannte auf drei Männer im Ortsteil Baumschulenweg.",
+      "summary": "Schüsse von Motorroller in Treptow-Köpenick",
       "category": "Ermittlung"
     },
     {
@@ -103,15 +135,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719143.php",
       "publishedAt": "2026-09-30T09:19:00+00:00",
       "publishedLabel": "30.09.2026 09:19",
-      "summary": "Die 13-Jährige, die seit dem 23. September 2026 vermisst wurde, ist wieder da.",
-      "category": "Fahndung"
+      "summary": "13-Jährige wieder da",
+      "category": "Sonstiges"
     },
     {
       "title": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718519.php",
       "publishedAt": "2026-09-30T07:53:00+00:00",
       "publishedLabel": "30.09.2026 07:53",
-      "summary": "Die 41-jährige Autofahrerin, die vergangenen Samstag bei einem so genannten Alleinunfall in Gatow lebensgefährliche Verletzungen davontrug, ist bereits in der Nacht zu Montag in einem Krankenhaus verstorben.",
+      "summary": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
       "category": "Verkehr"
     },
     {
@@ -119,40 +151,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719543.php",
       "publishedAt": "2026-09-29T12:25:58+00:00",
       "publishedLabel": "29.09.2026 12:25",
-      "summary": "Gestern gegen 14 Uhr entdeckten Bootsfahrer einen im Tegeler See treibenden Leichnam und alarmierten die Berliner Feuerwehr, die den toten Mann barg.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Festnahme nach Einbruch in Bäckerei",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719443.php",
-      "publishedAt": "2026-09-29T10:43:30+00:00",
-      "publishedLabel": "29.09.2026 10:43",
-      "summary": "In der vergangenen Nacht brachen zwei Männer in eine Bäckerei in Niederschönhausen ein.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Regenbogenbank erneut beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719347.php",
-      "publishedAt": "2026-09-29T08:44:13+00:00",
-      "publishedLabel": "29.09.2026 08:44",
-      "summary": "In Tiergarten haben Unbekannte eine als Gedenkort anlässlich des Anschlags auf den Berliner CSD aufgestellte Regenbogenbank beschädigt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Messerangriff verletzte Polizisten und Schussabgabe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719167.php",
-      "publishedAt": "2026-09-28T14:35:38+00:00",
-      "publishedLabel": "28.09.2026 14:35",
-      "summary": "Gestern Abend wurden Einsatzkräfte des Regionalabschnitts 17/18 nach Wedding alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "64-Jähriger wieder da",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716014.php",
-      "publishedAt": "2026-09-28T13:56:00+00:00",
-      "publishedLabel": "28.09.2026 13:56",
-      "summary": "Der 64-Jährige, der in Tegel vermisst wurde, ist inzwischen wohlbehalten an einer Tankstelle im Land Brandenburg angetroffen worden.",
-      "category": "Fahndung"
+      "summary": "Leichnam aus Tegeler See geborgen – Mordkommission und Staatsanwaltschaft ermitteln",
+      "category": "Sonstiges"
     }
   ]
 }
