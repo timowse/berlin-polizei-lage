@@ -3,19 +3,35 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-03T11:54:38.074244+00:00",
-    "checkedTime": "11:54 Uhr",
+    "checkedAt": "2026-10-03T15:52:28.581864+00:00",
+    "checkedTime": "15:52 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Auseinandersetzung zwischen zwei Personengruppen – drei Männer mit Schnitt- und Stichverletzungen im Krankenhaus",
-    "latestPublishedAt": "2026-10-03T10:57:00+00:00"
+    "latestTitle": "Einbruch in Einfamilienhaus – Ein Tatverdächtiger festgenommen",
+    "latestPublishedAt": "2026-10-03T12:14:34+00:00"
   },
   "items": [
+    {
+      "title": "Einbruch in Einfamilienhaus – Ein Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721183.php",
+      "publishedAt": "2026-10-03T12:14:34+00:00",
+      "publishedLabel": "03.10.2026 12:14",
+      "summary": "Gestern Abend kam es zu einem Einbruch in ein Einfamilienhaus in Lichterfelde.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Zwei fremdenfeindliche Angriffe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721181.php",
+      "publishedAt": "2026-10-03T12:08:46+00:00",
+      "publishedLabel": "03.10.2026 12:08",
+      "summary": "Gestern Abend ist es zu zwei fremdenfeindlichen Angriffen in Köpenick und Alt-Hohenschönhausen gekommen.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Auseinandersetzung zwischen zwei Personengruppen – drei Männer mit Schnitt- und Stichverletzungen im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721178.php",
       "publishedAt": "2026-10-03T10:57:00+00:00",
       "publishedLabel": "03.10.2026 10:57",
-      "summary": "In der vergangenen Nacht eskalierte ein Streit in Moabit.",
+      "summary": "Auseinandersetzung zwischen zwei Personengruppen – drei Männer mit Schnitt- und Stichverletzungen im Krankenhaus",
       "category": "Sonstiges"
     },
     {
@@ -23,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721177.php",
       "publishedAt": "2026-10-03T10:43:50+00:00",
       "publishedLabel": "03.10.2026 10:43",
-      "summary": "Gestern früh wurden Einsatzkräfte zu einer verhaltensauffälligen Person nach Mitte alarmiert.",
+      "summary": "DEIG-Einsatz – Festnahme nach Hausfriedensbruch, Sachbeschädigung und Widerstand gegen Vollstreckungsbeamte",
       "category": "Ermittlung"
     },
     {
@@ -63,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720062.php",
       "publishedAt": "2026-10-02T10:06:00+00:00",
       "publishedLabel": "02.10.2026 10:06",
-      "summary": "Die am 29. September festgestellten Beschmierungen mehrerer Grabplatten mit schwarzer Farbe stellten sich als geplante Arbeiten einer Steinmetzfirma heraus.",
+      "summary": "Keine Straftat – Geplante Nachbeschriftungsarbeiten",
       "category": "Sonstiges"
     },
     {
@@ -103,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720450.php",
       "publishedAt": "2026-10-01T10:56:23+00:00",
       "publishedLabel": "01.10.2026 10:56",
-      "summary": "In der vergangenen Nacht schlug ein bisher Unbekannter einem Mann in Lichtenrade eine Glasflasche auf den Kopf.",
+      "summary": "Glasflasche auf den Kopf geschlagen",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720399.php",
       "publishedAt": "2026-10-01T09:58:38+00:00",
       "publishedLabel": "01.10.2026 09:58",
-      "summary": "Gestern Nachmittag kam es in Kreuzberg zu einem räuberischen Diebstahl.",
+      "summary": "Nach Diebstahl aus Pkw mit mutmaßlicher Schusswaffe bedroht",
       "category": "Verkehr"
     },
     {
@@ -137,22 +153,6 @@
       "publishedLabel": "01.10.2026 09:00",
       "summary": "In der Nacht zu Mittwoch erlag ein Senior Verletzungen, die er Dienstagnachmittag bei einem Verkehrsunfall in Nikolassee erlitten hatte.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Auftaktveranstaltung der Präventionswoche „Taschendiebstahl“",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720255.php",
-      "publishedAt": "2026-10-01T06:46:00+00:00",
-      "publishedLabel": "01.10.2026 06:46",
-      "summary": "Vom 5. bis 9. Oktober 2026 informieren die Polizei Berlin, die Polizei Brandenburg und die Bundespolizei im Rahmen einer Präventionswoche über das Thema Taschendiebstahl.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Drei Tatverdächtige nach Wohnungseinbruch festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720216.php",
-      "publishedAt": "2026-09-30T12:32:00+00:00",
-      "publishedLabel": "30.09.2026 12:32",
-      "summary": "Zivile Einsatzkräfte nahmen gestern Mittag in Zusammenarbeit mit der OGW der Polizeidirektion 4 (Süd) in Lichtenrade drei mutmaßliche Einbrecher fest.",
-      "category": "Ermittlung"
     }
   ]
 }
