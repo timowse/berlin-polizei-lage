@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-03T15:52:28.581864+00:00",
-    "checkedTime": "15:52 Uhr",
+    "checkedAt": "2026-10-03T19:03:51.342221+00:00",
+    "checkedTime": "19:03 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Einbruch in Einfamilienhaus – Ein Tatverdächtiger festgenommen",
     "latestPublishedAt": "2026-10-03T12:14:34+00:00"
@@ -31,7 +31,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721178.php",
       "publishedAt": "2026-10-03T10:57:00+00:00",
       "publishedLabel": "03.10.2026 10:57",
-      "summary": "Auseinandersetzung zwischen zwei Personengruppen – drei Männer mit Schnitt- und Stichverletzungen im Krankenhaus",
+      "summary": "In der vergangenen Nacht eskalierte ein Streit in Moabit.",
       "category": "Sonstiges"
     },
     {
@@ -39,7 +39,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721177.php",
       "publishedAt": "2026-10-03T10:43:50+00:00",
       "publishedLabel": "03.10.2026 10:43",
-      "summary": "DEIG-Einsatz – Festnahme nach Hausfriedensbruch, Sachbeschädigung und Widerstand gegen Vollstreckungsbeamte",
+      "summary": "Gestern früh wurden Einsatzkräfte zu einer verhaltensauffälligen Person nach Mitte alarmiert.",
       "category": "Ermittlung"
     },
     {
@@ -79,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720062.php",
       "publishedAt": "2026-10-02T10:06:00+00:00",
       "publishedLabel": "02.10.2026 10:06",
-      "summary": "Keine Straftat – Geplante Nachbeschriftungsarbeiten",
+      "summary": "Die am 29. September festgestellten Beschmierungen mehrerer Grabplatten mit schwarzer Farbe stellten sich als geplante Arbeiten einer Steinmetzfirma heraus.",
       "category": "Sonstiges"
     },
     {
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720637.php",
       "publishedAt": "2026-10-01T13:55:01+00:00",
       "publishedLabel": "01.10.2026 13:55",
-      "summary": "Am 8. September 2026 soll es zu einer rassistischen Beleidigung, Körperverletzung und einem gefährlichen Eingriff in den Straßenverkehr gekommen sein.",
+      "summary": "Rassistische Beleidigung und Körperverletzung – Zeuginnen und Zeugen gesucht",
       "category": "Fahndung"
     },
     {
@@ -127,7 +127,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720399.php",
       "publishedAt": "2026-10-01T09:58:38+00:00",
       "publishedLabel": "01.10.2026 09:58",
-      "summary": "Nach Diebstahl aus Pkw mit mutmaßlicher Schusswaffe bedroht",
+      "summary": "Gestern Nachmittag kam es in Kreuzberg zu einem räuberischen Diebstahl.",
       "category": "Verkehr"
     },
     {
