@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-03T06:21:05.077583+00:00",
-    "checkedTime": "06:21 Uhr",
+    "checkedAt": "2026-10-03T11:54:38.074244+00:00",
+    "checkedTime": "11:54 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Regenbogenbank im Großen Tiergarten beschmiert",
-    "latestPublishedAt": "2026-10-02T13:16:32+00:00"
+    "latestTitle": "Auseinandersetzung zwischen zwei Personengruppen – drei Männer mit Schnitt- und Stichverletzungen im Krankenhaus",
+    "latestPublishedAt": "2026-10-03T10:57:00+00:00"
   },
   "items": [
+    {
+      "title": "Auseinandersetzung zwischen zwei Personengruppen – drei Männer mit Schnitt- und Stichverletzungen im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721178.php",
+      "publishedAt": "2026-10-03T10:57:00+00:00",
+      "publishedLabel": "03.10.2026 10:57",
+      "summary": "In der vergangenen Nacht eskalierte ein Streit in Moabit.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "DEIG-Einsatz – Festnahme nach Hausfriedensbruch, Sachbeschädigung und Widerstand gegen Vollstreckungsbeamte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721177.php",
+      "publishedAt": "2026-10-03T10:43:50+00:00",
+      "publishedLabel": "03.10.2026 10:43",
+      "summary": "Gestern früh wurden Einsatzkräfte zu einer verhaltensauffälligen Person nach Mitte alarmiert.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Gedenksteine mit Farbe besprüht – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721172.php",
+      "publishedAt": "2026-10-03T08:32:47+00:00",
+      "publishedLabel": "03.10.2026 08:32",
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte wegen einer Sachbeschädigung durch Farbschmiererei zum Ortsteil Prenzlauer Berg alarmiert.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Messerangriff auf Jugendlichen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721169.php",
+      "publishedAt": "2026-10-03T07:50:55+00:00",
+      "publishedLabel": "03.10.2026 07:50",
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte wegen einer gefährlichen Körperverletzung zum Ortsteil Gesundbrunnen alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Regenbogenbank im Großen Tiergarten beschmiert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721089.php",
@@ -71,7 +103,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720450.php",
       "publishedAt": "2026-10-01T10:56:23+00:00",
       "publishedLabel": "01.10.2026 10:56",
-      "summary": "Glasflasche auf den Kopf geschlagen",
+      "summary": "In der vergangenen Nacht schlug ein bisher Unbekannter einem Mann in Lichtenrade eine Glasflasche auf den Kopf.",
       "category": "Sonstiges"
     },
     {
@@ -79,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720399.php",
       "publishedAt": "2026-10-01T09:58:38+00:00",
       "publishedLabel": "01.10.2026 09:58",
-      "summary": "Nach Diebstahl aus Pkw mit mutmaßlicher Schusswaffe bedroht",
+      "summary": "Gestern Nachmittag kam es in Kreuzberg zu einem räuberischen Diebstahl.",
       "category": "Verkehr"
     },
     {
@@ -121,38 +153,6 @@
       "publishedLabel": "30.09.2026 12:32",
       "summary": "Zivile Einsatzkräfte nahmen gestern Mittag in Zusammenarbeit mit der OGW der Polizeidirektion 4 (Süd) in Lichtenrade drei mutmaßliche Einbrecher fest.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Fußgänger nach Zusammenstoß im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720046.php",
-      "publishedAt": "2026-09-30T12:20:35+00:00",
-      "publishedLabel": "30.09.2026 12:20",
-      "summary": "Bei einem Verkehrsunfall, der sich vergangene Nacht in Marzahn ereignete, wurde ein Mann schwer verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Schüsse von Motorroller in Treptow-Köpenick",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720036.php",
-      "publishedAt": "2026-09-30T12:09:33+00:00",
-      "publishedLabel": "30.09.2026 12:09",
-      "summary": "Gestern Abend schossen Unbekannte auf drei Männer im Ortsteil Baumschulenweg.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "13-Jährige wieder da",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719143.php",
-      "publishedAt": "2026-09-30T09:19:00+00:00",
-      "publishedLabel": "30.09.2026 09:19",
-      "summary": "Die 13-Jährige, die seit dem 23. September 2026 vermisst wurde, ist wieder da.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718519.php",
-      "publishedAt": "2026-09-30T07:53:00+00:00",
-      "publishedLabel": "30.09.2026 07:53",
-      "summary": "Die 41-jährige Autofahrerin, die vergangenen Samstag bei einem so genannten Alleinunfall in Gatow lebensgefährliche Verletzungen davontrug, ist bereits in der Nacht zu Montag in einem Krankenhaus verstorben.",
-      "category": "Verkehr"
     }
   ]
 }
