@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-04T06:18:56.950072+00:00",
-    "checkedTime": "06:18 Uhr",
+    "checkedAt": "2026-10-04T12:34:16.951062+00:00",
+    "checkedTime": "12:34 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Einbruch in Einfamilienhaus – Ein Tatverdächtiger festgenommen",
-    "latestPublishedAt": "2026-10-03T12:14:34+00:00"
+    "latestTitle": "Schussabgabe auf ein Restaurant",
+    "latestPublishedAt": "2026-10-04T12:16:20+00:00"
   },
   "items": [
+    {
+      "title": "Schussabgabe auf ein Restaurant",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721251.php",
+      "publishedAt": "2026-10-04T12:16:20+00:00",
+      "publishedLabel": "04.10.2026 12:16",
+      "summary": "Heute Mittag wurden Einschusslöcher an einem Restaurant in Moabit festgestellt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Widerstand und tätlicher Angriff - Polizist bei Festnahme verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721249.php",
+      "publishedAt": "2026-10-04T11:19:51+00:00",
+      "publishedLabel": "04.10.2026 11:19",
+      "summary": "Heute früh verletzte ein Heranwachsender einen Polizisten in Friedrichshain.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Reizstoff gesprüht – zwei Verletzte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721247.php",
+      "publishedAt": "2026-10-04T11:08:48+00:00",
+      "publishedLabel": "04.10.2026 11:08",
+      "summary": "Gestern Abend versprühte ein Unbekannter in Hellersdorf Reizstoff.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Auseinandersetzung im Hotel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721243.php",
+      "publishedAt": "2026-10-04T09:44:04+00:00",
+      "publishedLabel": "04.10.2026 09:44",
+      "summary": "Gestern Abend wurden Einsatzkräfte des Polizeiabschnitts 24 und 26 zu einer gefährlichen Körperverletzung nach Charlottenburg alarmiert.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Unbekannter Kradfahrer entzieht sich einer Verkehrskontrolle, fährt Einsatzwagen an und flüchtet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721241.php",
+      "publishedAt": "2026-10-04T09:36:12+00:00",
+      "publishedLabel": "04.10.2026 09:36",
+      "summary": "In der vorletzten Nacht entzog sich ein Kradfahrer in Reinickendorf einer Verkehrskontrolle und fuhr auf seiner Flucht gegen einen Einsatzwagen in Hakenfelde.",
+      "category": "Verkehr"
+    },
     {
       "title": "Einbruch in Einfamilienhaus – Ein Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721183.php",
@@ -113,46 +153,6 @@
       "publishedLabel": "01.10.2026 13:55",
       "summary": "Am 8. September 2026 soll es zu einer rassistischen Beleidigung, Körperverletzung und einem gefährlichen Eingriff in den Straßenverkehr gekommen sein.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Glasflasche auf den Kopf geschlagen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720450.php",
-      "publishedAt": "2026-10-01T10:56:23+00:00",
-      "publishedLabel": "01.10.2026 10:56",
-      "summary": "In der vergangenen Nacht schlug ein bisher Unbekannter einem Mann in Lichtenrade eine Glasflasche auf den Kopf.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Nach Diebstahl aus Pkw mit mutmaßlicher Schusswaffe bedroht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720399.php",
-      "publishedAt": "2026-10-01T09:58:38+00:00",
-      "publishedLabel": "01.10.2026 09:58",
-      "summary": "Nach Diebstahl aus Pkw mit mutmaßlicher Schusswaffe bedroht",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Storno in Handfesseln – Räuberisch erpresste Fahrt endet mit vier Festnahmen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720392.php",
-      "publishedAt": "2026-10-01T09:49:16+00:00",
-      "publishedLabel": "01.10.2026 09:49",
-      "summary": "Gestern Abend wurde ein Essensauslieferer in Neukölln von einer fünfköpfigen Personengruppe überfallen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Rettungskräfte angegriffen und bespuckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720334.php",
-      "publishedAt": "2026-10-01T09:15:59+00:00",
-      "publishedLabel": "01.10.2026 09:15",
-      "summary": "In der vergangenen Nacht wurden Einsatzkräfte der Polizei Berlin zur Unterstützung von Kräften der Berliner Feuerwehr nach Marzahn alarmiert.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Senior nach Verkehrsunfall im Krankenhaus verstorben – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720324.php",
-      "publishedAt": "2026-10-01T09:00:18+00:00",
-      "publishedLabel": "01.10.2026 09:00",
-      "summary": "In der Nacht zu Mittwoch erlag ein Senior Verletzungen, die er Dienstagnachmittag bei einem Verkehrsunfall in Nikolassee erlitten hatte.",
-      "category": "Verkehr"
     }
   ]
 }
