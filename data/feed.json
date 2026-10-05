@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-05T01:59:09.244300+00:00",
-    "checkedTime": "01:59 Uhr",
+    "checkedAt": "2026-10-05T08:50:30.713867+00:00",
+    "checkedTime": "08:50 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Schussabgabe auf ein Restaurant",
-    "latestPublishedAt": "2026-10-04T12:16:20+00:00"
+    "latestTitle": "Kind auf E-Scooter bei Unfall verletzt",
+    "latestPublishedAt": "2026-10-05T08:42:42+00:00"
   },
   "items": [
+    {
+      "title": "Kind auf E-Scooter bei Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721376.php",
+      "publishedAt": "2026-10-05T08:42:42+00:00",
+      "publishedLabel": "05.10.2026 08:42",
+      "summary": "Bereits gestern Mittag ereignete sich ein Verkehrsunfall in Marzahn, bei dem ein Kind verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Motorradfahrer bei Verkehrsunfall erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721362.php",
+      "publishedAt": "2026-10-05T08:30:39+00:00",
+      "publishedLabel": "05.10.2026 08:30",
+      "summary": "Gestern Abend kam es in Lichtenberg zu einem Verkehrsunfall, bei dem ein Motorradfahrer verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mutmaßlicher Brandstifter identifiziert und mit Lichtbild gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1624068.php",
+      "publishedAt": "2026-10-05T07:12:00+00:00",
+      "publishedLabel": "05.10.2026 07:12",
+      "summary": "LKA und StA Berlin bitten um Mithilfe bei der Aufklärung eines versuchten Tötungsdelikts. Gesucht wird Enrico JAHN.",
+      "category": "Fahndung"
+    },
     {
       "title": "Schussabgabe auf ein Restaurant",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721251.php",
@@ -129,30 +153,6 @@
       "publishedLabel": "02.10.2026 09:48",
       "summary": "Gestern Nachmittag kam es in Marzahn zu einem Verkehrsunfall, bei dem ein E-Scooter-Fahrer lebensbedrohlich verletzt wurde.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Unbekannte Person flüchtet nach Unfall mit vierjährigem Kind",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720907.php",
-      "publishedAt": "2026-10-02T09:43:53+00:00",
-      "publishedLabel": "02.10.2026 09:43",
-      "summary": "Nach einem Verkehrsunfall in Hellersdorf musste ein vierjähriger Junge gestern Abend ins Krankenhaus gebracht werden.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "20-Jährige bei E-Scooter-Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720894.php",
-      "publishedAt": "2026-10-02T09:26:35+00:00",
-      "publishedLabel": "02.10.2026 09:26",
-      "summary": "Bei einem Verkehrsunfall im Ortsteil Tiergarten wurde gestern Nachmittag eine 20-Jährige erheblich verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Rassistische Beleidigung und Körperverletzung – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720637.php",
-      "publishedAt": "2026-10-01T13:55:01+00:00",
-      "publishedLabel": "01.10.2026 13:55",
-      "summary": "Am 8. September 2026 soll es zu einer rassistischen Beleidigung, Körperverletzung und einem gefährlichen Eingriff in den Straßenverkehr gekommen sein.",
-      "category": "Fahndung"
     }
   ]
 }
