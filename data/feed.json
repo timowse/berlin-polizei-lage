@@ -3,13 +3,53 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-05T08:50:30.713867+00:00",
-    "checkedTime": "08:50 Uhr",
+    "checkedAt": "2026-10-05T18:02:09.863359+00:00",
+    "checkedTime": "18:02 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Kind auf E-Scooter bei Unfall verletzt",
-    "latestPublishedAt": "2026-10-05T08:42:42+00:00"
+    "latestTitle": "Zwei Personen bei Auseinandersetzung zwischen Jugendgruppen verletzt",
+    "latestPublishedAt": "2026-10-05T13:38:19+00:00"
   },
   "items": [
+    {
+      "title": "Zwei Personen bei Auseinandersetzung zwischen Jugendgruppen verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721644.php",
+      "publishedAt": "2026-10-05T13:38:19+00:00",
+      "publishedLabel": "05.10.2026 13:38",
+      "summary": "Gestern Nachmittag wurde die Polizei nach Altglienicke alarmiert, nachdem mehrere Anwohner Schussgeräusche gemeldet hatten.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Auseinandersetzungen nach Fußballspiel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721615.php",
+      "publishedAt": "2026-10-05T12:53:16+00:00",
+      "publishedLabel": "05.10.2026 12:53",
+      "summary": "Auseinandersetzungen nach Fußballspiel",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Schüsse auf vorbeifahrendes Auto – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721590.php",
+      "publishedAt": "2026-10-05T12:36:46+00:00",
+      "publishedLabel": "05.10.2026 12:36",
+      "summary": "Schüsse auf vorbeifahrendes Auto – Zeuginnen und Zeugen gesucht",
+      "category": "Fahndung"
+    },
+    {
+      "title": "Schwere Brandstiftung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721507.php",
+      "publishedAt": "2026-10-05T11:26:49+00:00",
+      "publishedLabel": "05.10.2026 11:26",
+      "summary": "Bisher Unbekannte versuchten heute früh, Starkstromkabel in Marzahn in Brand zu setzen.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Kollision mit geparktem Pkw – E-Scooter-Fahrer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721417.php",
+      "publishedAt": "2026-10-05T09:32:23+00:00",
+      "publishedLabel": "05.10.2026 09:32",
+      "summary": "Gestern Abend kam es in Lichtenberg zu einem Unfall, an dem ein E-Scooter-Fahrer beteiligt war.",
+      "category": "Verkehr"
+    },
     {
       "title": "Kind auf E-Scooter bei Unfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721376.php",
@@ -63,8 +103,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721243.php",
       "publishedAt": "2026-10-04T09:44:04+00:00",
       "publishedLabel": "04.10.2026 09:44",
-      "summary": "Gestern Abend wurden Einsatzkräfte des Polizeiabschnitts 24 und 26 zu einer gefährlichen Körperverletzung nach Charlottenburg alarmiert.",
-      "category": "Einsatz"
+      "summary": "Auseinandersetzung im Hotel",
+      "category": "Sonstiges"
     },
     {
       "title": "Unbekannter Kradfahrer entzieht sich einer Verkehrskontrolle, fährt Einsatzwagen an und flüchtet",
@@ -103,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721177.php",
       "publishedAt": "2026-10-03T10:43:50+00:00",
       "publishedLabel": "03.10.2026 10:43",
-      "summary": "Gestern früh wurden Einsatzkräfte zu einer verhaltensauffälligen Person nach Mitte alarmiert.",
+      "summary": "DEIG-Einsatz – Festnahme nach Hausfriedensbruch, Sachbeschädigung und Widerstand gegen Vollstreckungsbeamte",
       "category": "Ermittlung"
     },
     {
@@ -113,46 +153,6 @@
       "publishedLabel": "03.10.2026 08:32",
       "summary": "Gestern Nachmittag wurden Einsatzkräfte wegen einer Sachbeschädigung durch Farbschmiererei zum Ortsteil Prenzlauer Berg alarmiert.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Messerangriff auf Jugendlichen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721169.php",
-      "publishedAt": "2026-10-03T07:50:55+00:00",
-      "publishedLabel": "03.10.2026 07:50",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte wegen einer gefährlichen Körperverletzung zum Ortsteil Gesundbrunnen alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Regenbogenbank im Großen Tiergarten beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721089.php",
-      "publishedAt": "2026-10-02T13:16:32+00:00",
-      "publishedLabel": "02.10.2026 13:16",
-      "summary": "Einsatzkräfte stellten heute früh fest, dass ein oder mehrere Unbekannte die Gedenkbank zum Anschlag auf den CSD in Tiergarten beschmiert hatten.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Duo nach Diebstahl festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720997.php",
-      "publishedAt": "2026-10-02T10:55:09+00:00",
-      "publishedLabel": "02.10.2026 10:55",
-      "summary": "Polizeieinsatzkräfte nahmen gestern Nachmittag zwei Männer nach einem Autoeinbruch in Kreuzberg fest.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Keine Straftat – Geplante Nachbeschriftungsarbeiten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720062.php",
-      "publishedAt": "2026-10-02T10:06:00+00:00",
-      "publishedLabel": "02.10.2026 10:06",
-      "summary": "Die am 29. September festgestellten Beschmierungen mehrerer Grabplatten mit schwarzer Farbe stellten sich als geplante Arbeiten einer Steinmetzfirma heraus.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Verkehrsunfall mit lebensbedrohlich verletztem E-Scooter-Fahrer",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720912.php",
-      "publishedAt": "2026-10-02T09:48:40+00:00",
-      "publishedLabel": "02.10.2026 09:48",
-      "summary": "Gestern Nachmittag kam es in Marzahn zu einem Verkehrsunfall, bei dem ein E-Scooter-Fahrer lebensbedrohlich verletzt wurde.",
-      "category": "Verkehr"
     }
   ]
 }
