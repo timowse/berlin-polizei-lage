@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-05T18:02:09.863359+00:00",
-    "checkedTime": "18:02 Uhr",
+    "checkedAt": "2026-10-06T00:00:00.672194+00:00",
+    "checkedTime": "00:00 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Zwei Personen bei Auseinandersetzung zwischen Jugendgruppen verletzt",
     "latestPublishedAt": "2026-10-05T13:38:19+00:00"
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721615.php",
       "publishedAt": "2026-10-05T12:53:16+00:00",
       "publishedLabel": "05.10.2026 12:53",
-      "summary": "Auseinandersetzungen nach Fußballspiel",
+      "summary": "Gestern Nachmittag kam es in Westend nach einem Fußballspiel zu mehreren Straftaten.",
       "category": "Sonstiges"
     },
     {
@@ -31,8 +31,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721590.php",
       "publishedAt": "2026-10-05T12:36:46+00:00",
       "publishedLabel": "05.10.2026 12:36",
-      "summary": "Schüsse auf vorbeifahrendes Auto – Zeuginnen und Zeugen gesucht",
-      "category": "Fahndung"
+      "summary": "Gestern Abend soll aus einer Personengruppe in Charlottenburg auf ein vorbeifahrendes Fahrzeug geschossen worden sein.",
+      "category": "Verkehr"
     },
     {
       "title": "Schwere Brandstiftung",
@@ -103,8 +103,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721243.php",
       "publishedAt": "2026-10-04T09:44:04+00:00",
       "publishedLabel": "04.10.2026 09:44",
-      "summary": "Auseinandersetzung im Hotel",
-      "category": "Sonstiges"
+      "summary": "Gestern Abend wurden Einsatzkräfte des Polizeiabschnitts 24 und 26 zu einer gefährlichen Körperverletzung nach Charlottenburg alarmiert.",
+      "category": "Einsatz"
     },
     {
       "title": "Unbekannter Kradfahrer entzieht sich einer Verkehrskontrolle, fährt Einsatzwagen an und flüchtet",
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721177.php",
       "publishedAt": "2026-10-03T10:43:50+00:00",
       "publishedLabel": "03.10.2026 10:43",
-      "summary": "DEIG-Einsatz – Festnahme nach Hausfriedensbruch, Sachbeschädigung und Widerstand gegen Vollstreckungsbeamte",
+      "summary": "Gestern früh wurden Einsatzkräfte zu einer verhaltensauffälligen Person nach Mitte alarmiert.",
       "category": "Ermittlung"
     },
     {
