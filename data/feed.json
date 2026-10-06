@@ -3,13 +3,61 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-06T06:09:20.193520+00:00",
-    "checkedTime": "06:09 Uhr",
+    "checkedAt": "2026-10-06T13:17:47.294058+00:00",
+    "checkedTime": "13:17 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Zwei Personen bei Auseinandersetzung zwischen Jugendgruppen verletzt",
-    "latestPublishedAt": "2026-10-05T13:38:19+00:00"
+    "latestTitle": "18-Jähriger soll Reizgas in Schule versprüht haben",
+    "latestPublishedAt": "2026-10-06T11:23:41+00:00"
   },
   "items": [
+    {
+      "title": "18-Jähriger soll Reizgas in Schule versprüht haben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721976.php",
+      "publishedAt": "2026-10-06T11:23:41+00:00",
+      "publishedLabel": "06.10.2026 11:23",
+      "summary": "Gestern Vormittag wurde die Polizei zu einer Schule in Kreuzberg alarmiert, nachdem ein ehemaliger Schüler dort Reizgas versprüht haben soll.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Mögliches Tötungsdelikt - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721932.php",
+      "publishedAt": "2026-10-06T10:53:09+00:00",
+      "publishedLabel": "06.10.2026 10:53",
+      "summary": "Mit Verletzungen im Bauch und erheblichen Armverletzungen ist gestern Mittag ein Mann in ein Krankenhaus gebracht worden.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Durchsuchungen nach Messerangriff am Ottoplatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721178.php",
+      "publishedAt": "2026-10-06T10:48:00+00:00",
+      "publishedLabel": "06.10.2026 10:48",
+      "summary": "Nach gefährlichen Körperverletzungen in Moabit durchsuchten Einsatzkräfte der Polizei Berlin sechs Wohnanschriften und ein Café.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Geldausgabeautomat gesprengt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721903.php",
+      "publishedAt": "2026-10-06T10:16:48+00:00",
+      "publishedLabel": "06.10.2026 10:16",
+      "summary": "Bisher Unbekannte sprengten heute früh einen Geldausgabeautomaten in Biesdorf.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Mann durch Schuss ins Bein verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721860.php",
+      "publishedAt": "2026-10-06T09:34:26+00:00",
+      "publishedLabel": "06.10.2026 09:34",
+      "summary": "In der vergangenen Nacht wurden Polizeikräfte zu einem verletzten Mann nach Neukölln alarmiert.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Senior vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721751.php",
+      "publishedAt": "2026-10-06T07:29:33+00:00",
+      "publishedLabel": "06.10.2026 07:29",
+      "summary": "Mit der Veröffentlichung eines Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach dem 89-jährigen Kurt Rüdiger GLAGE.",
+      "category": "Fahndung"
+    },
     {
       "title": "Zwei Personen bei Auseinandersetzung zwischen Jugendgruppen verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721644.php",
@@ -105,54 +153,6 @@
       "publishedLabel": "04.10.2026 09:44",
       "summary": "Gestern Abend wurden Einsatzkräfte des Polizeiabschnitts 24 und 26 zu einer gefährlichen Körperverletzung nach Charlottenburg alarmiert.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Unbekannter Kradfahrer entzieht sich einer Verkehrskontrolle, fährt Einsatzwagen an und flüchtet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721241.php",
-      "publishedAt": "2026-10-04T09:36:12+00:00",
-      "publishedLabel": "04.10.2026 09:36",
-      "summary": "In der vorletzten Nacht entzog sich ein Kradfahrer in Reinickendorf einer Verkehrskontrolle und fuhr auf seiner Flucht gegen einen Einsatzwagen in Hakenfelde.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Einbruch in Einfamilienhaus – Ein Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721183.php",
-      "publishedAt": "2026-10-03T12:14:34+00:00",
-      "publishedLabel": "03.10.2026 12:14",
-      "summary": "Gestern Abend kam es zu einem Einbruch in ein Einfamilienhaus in Lichterfelde.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Zwei fremdenfeindliche Angriffe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721181.php",
-      "publishedAt": "2026-10-03T12:08:46+00:00",
-      "publishedLabel": "03.10.2026 12:08",
-      "summary": "Gestern Abend ist es zu zwei fremdenfeindlichen Angriffen in Köpenick und Alt-Hohenschönhausen gekommen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Auseinandersetzung zwischen zwei Personengruppen – drei Männer mit Schnitt- und Stichverletzungen im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721178.php",
-      "publishedAt": "2026-10-03T10:57:00+00:00",
-      "publishedLabel": "03.10.2026 10:57",
-      "summary": "In der vergangenen Nacht eskalierte ein Streit in Moabit.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "DEIG-Einsatz – Festnahme nach Hausfriedensbruch, Sachbeschädigung und Widerstand gegen Vollstreckungsbeamte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721177.php",
-      "publishedAt": "2026-10-03T10:43:50+00:00",
-      "publishedLabel": "03.10.2026 10:43",
-      "summary": "Gestern früh wurden Einsatzkräfte zu einer verhaltensauffälligen Person nach Mitte alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Gedenksteine mit Farbe besprüht – Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721172.php",
-      "publishedAt": "2026-10-03T08:32:47+00:00",
-      "publishedLabel": "03.10.2026 08:32",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte wegen einer Sachbeschädigung durch Farbschmiererei zum Ortsteil Prenzlauer Berg alarmiert.",
-      "category": "Ermittlung"
     }
   ]
 }
