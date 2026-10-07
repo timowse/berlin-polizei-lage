@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-07T08:49:31.101512+00:00",
-    "checkedTime": "08:49 Uhr",
+    "checkedAt": "2026-10-07T15:50:07.790111+00:00",
+    "checkedTime": "15:50 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "18-Jähriger soll Reizgas in Schule versprüht haben",
-    "latestPublishedAt": "2026-10-06T11:23:41+00:00"
+    "latestTitle": "Fußgänger verstorben",
+    "latestPublishedAt": "2026-10-07T12:40:00+00:00"
   },
   "items": [
+    {
+      "title": "Fußgänger verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713418.php",
+      "publishedAt": "2026-10-07T12:40:00+00:00",
+      "publishedLabel": "07.10.2026 12:40",
+      "summary": "Der Mann, der am 13. September in Zehlendorf von einem Autofahrer angefahren wurde, ist verstorben.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Nach Fund von Kameras in Damentoiletten – Durchsuchung bei Tatverdächtigem",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722613.php",
+      "publishedAt": "2026-10-07T12:37:00+00:00",
+      "publishedLabel": "07.10.2026 12:37",
+      "summary": "Einsatzkräfte des LKA und der Polizeidirektion 3 (Ost) durchsuchten heute im Auftrag der Staatsanwaltschaft die Wohnung eines 66-jährigen Mannes in Treptow.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Kind fällt aus dem Fenster – Mann fängt es auf",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722584.php",
+      "publishedAt": "2026-10-07T12:15:23+00:00",
+      "publishedLabel": "07.10.2026 12:15",
+      "summary": "Gestern Abend wurde die Polizei zu einem Fenstersturz nach Neukölln alarmiert.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Seniorin angefahren und geflüchtet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722571.php",
+      "publishedAt": "2026-10-07T12:05:26+00:00",
+      "publishedLabel": "07.10.2026 12:05",
+      "summary": "Nachdem er gestern Nachmittag eine Seniorin in Spandau angefahren hatte, flüchtete ein unbekannt gebliebener E-Scooter-Fahrer vom Unfallort.",
+      "category": "Verkehr"
+    },
     {
       "title": "18-Jähriger soll Reizgas in Schule versprüht haben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721976.php",
@@ -121,38 +153,6 @@
       "publishedLabel": "05.10.2026 07:12",
       "summary": "LKA und StA Berlin bitten um Mithilfe bei der Aufklärung eines versuchten Tötungsdelikts. Gesucht wird Enrico JAHN.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Schussabgabe auf ein Restaurant",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721251.php",
-      "publishedAt": "2026-10-04T12:16:20+00:00",
-      "publishedLabel": "04.10.2026 12:16",
-      "summary": "Heute Mittag wurden Einschusslöcher an einem Restaurant in Moabit festgestellt.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Widerstand und tätlicher Angriff - Polizist bei Festnahme verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721249.php",
-      "publishedAt": "2026-10-04T11:19:51+00:00",
-      "publishedLabel": "04.10.2026 11:19",
-      "summary": "Heute früh verletzte ein Heranwachsender einen Polizisten in Friedrichshain.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Reizstoff gesprüht – zwei Verletzte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721247.php",
-      "publishedAt": "2026-10-04T11:08:48+00:00",
-      "publishedLabel": "04.10.2026 11:08",
-      "summary": "Gestern Abend versprühte ein Unbekannter in Hellersdorf Reizstoff.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Auseinandersetzung im Hotel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721243.php",
-      "publishedAt": "2026-10-04T09:44:04+00:00",
-      "publishedLabel": "04.10.2026 09:44",
-      "summary": "Gestern Abend wurden Einsatzkräfte des Polizeiabschnitts 24 und 26 zu einer gefährlichen Körperverletzung nach Charlottenburg alarmiert.",
-      "category": "Einsatz"
     }
   ]
 }
