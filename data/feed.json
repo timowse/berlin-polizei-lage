@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-08T06:42:01.165136+00:00",
-    "checkedTime": "06:42 Uhr",
+    "checkedAt": "2026-10-08T14:04:40.064078+00:00",
+    "checkedTime": "14:04 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Fußgänger verstorben",
-    "latestPublishedAt": "2026-10-07T12:40:00+00:00"
+    "latestTitle": "Drei Fahrzeuge auf Parkplatz in Brand geraten",
+    "latestPublishedAt": "2026-10-08T13:34:18+00:00"
   },
   "items": [
+    {
+      "title": "Drei Fahrzeuge auf Parkplatz in Brand geraten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723186.php",
+      "publishedAt": "2026-10-08T13:34:18+00:00",
+      "publishedLabel": "08.10.2026 13:34",
+      "summary": "In der vergangenen Nacht brannten in Alt-Hohenschönhausen drei Fahrzeuge auf einem öffentlichen Großraumparkplatz.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Radfahrer von Lkw-Fahrer angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723117.php",
+      "publishedAt": "2026-10-08T12:53:46+00:00",
+      "publishedLabel": "08.10.2026 12:53",
+      "summary": "Gestern Vormittag wurde ein Radfahrer bei einem Verkehrsunfall in Charlottenburg verletzt.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Versuchte schwere Brandstiftung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723003.php",
+      "publishedAt": "2026-10-08T11:19:48+00:00",
+      "publishedLabel": "08.10.2026 11:19",
+      "summary": "In der vergangenen Nacht kam es in Neukölln zu einer versuchten schweren Brandstiftung.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Einsatzkräfte mit Steinen und Pyrotechnik angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722985.php",
+      "publishedAt": "2026-10-08T11:01:57+00:00",
+      "publishedLabel": "08.10.2026 11:01",
+      "summary": "Bisher Unbekannte griffen in der vergangenen Nacht Polizeieinsatzkräfte in Friedrichshain an.",
+      "category": "Einsatz"
+    },
     {
       "title": "Fußgänger verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713418.php",
@@ -121,38 +153,6 @@
       "publishedLabel": "05.10.2026 11:26",
       "summary": "Bisher Unbekannte versuchten heute früh, Starkstromkabel in Marzahn in Brand zu setzen.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Kollision mit geparktem Pkw – E-Scooter-Fahrer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721417.php",
-      "publishedAt": "2026-10-05T09:32:23+00:00",
-      "publishedLabel": "05.10.2026 09:32",
-      "summary": "Gestern Abend kam es in Lichtenberg zu einem Unfall, an dem ein E-Scooter-Fahrer beteiligt war.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Kind auf E-Scooter bei Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721376.php",
-      "publishedAt": "2026-10-05T08:42:42+00:00",
-      "publishedLabel": "05.10.2026 08:42",
-      "summary": "Bereits gestern Mittag ereignete sich ein Verkehrsunfall in Marzahn, bei dem ein Kind verletzt wurde.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Motorradfahrer bei Verkehrsunfall erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721362.php",
-      "publishedAt": "2026-10-05T08:30:39+00:00",
-      "publishedLabel": "05.10.2026 08:30",
-      "summary": "Gestern Abend kam es in Lichtenberg zu einem Verkehrsunfall, bei dem ein Motorradfahrer verletzt wurde.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Mutmaßlicher Brandstifter identifiziert und mit Lichtbild gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1624068.php",
-      "publishedAt": "2026-10-05T07:12:00+00:00",
-      "publishedLabel": "05.10.2026 07:12",
-      "summary": "LKA und StA Berlin bitten um Mithilfe bei der Aufklärung eines versuchten Tötungsdelikts. Gesucht wird Enrico JAHN.",
-      "category": "Fahndung"
     }
   ]
 }
