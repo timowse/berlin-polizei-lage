@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-08T14:04:40.064078+00:00",
-    "checkedTime": "14:04 Uhr",
+    "checkedAt": "2026-10-08T19:54:06.293879+00:00",
+    "checkedTime": "19:54 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Drei Fahrzeuge auf Parkplatz in Brand geraten",
-    "latestPublishedAt": "2026-10-08T13:34:18+00:00"
+    "latestTitle": "Autofahrer verursacht mehrere Verkehrsunfälle mit hohem Sachschaden",
+    "latestPublishedAt": "2026-10-08T14:42:40+00:00"
   },
   "items": [
+    {
+      "title": "Autofahrer verursacht mehrere Verkehrsunfälle mit hohem Sachschaden",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723273.php",
+      "publishedAt": "2026-10-08T14:42:40+00:00",
+      "publishedLabel": "08.10.2026 14:42",
+      "summary": "Gestern Nachmittag kam es zunächst in Alt-Hohenschönhausen zu einem Verkehrsunfall mit anschließender Verkehrsunfallflucht.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Bilanz zur Versammlungslage mit Bezug zum Nahostkonflikt vom 7. Oktober 2026",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723246.php",
+      "publishedAt": "2026-10-08T14:01:37+00:00",
+      "publishedLabel": "08.10.2026 14:01",
+      "summary": "Die Polizei sicherte und begleitete über den gestrigen Tag das Versammlungsgeschehen anlässlich des dritten Jahrestages des Hamas-Angriffs auf Israel.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Drei Fahrzeuge auf Parkplatz in Brand geraten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723186.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "05.10.2026 12:53",
       "summary": "Gestern Nachmittag kam es in Westend nach einem Fußballspiel zu mehreren Straftaten.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Schüsse auf vorbeifahrendes Auto – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721590.php",
-      "publishedAt": "2026-10-05T12:36:46+00:00",
-      "publishedLabel": "05.10.2026 12:36",
-      "summary": "Gestern Abend soll aus einer Personengruppe in Charlottenburg auf ein vorbeifahrendes Fahrzeug geschossen worden sein.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Schwere Brandstiftung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721507.php",
-      "publishedAt": "2026-10-05T11:26:49+00:00",
-      "publishedLabel": "05.10.2026 11:26",
-      "summary": "Bisher Unbekannte versuchten heute früh, Starkstromkabel in Marzahn in Brand zu setzen.",
-      "category": "Ermittlung"
     }
   ]
 }
