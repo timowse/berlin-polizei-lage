@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-09T00:10:35.289253+00:00",
-    "checkedTime": "00:10 Uhr",
+    "checkedAt": "2026-10-09T06:18:57.166681+00:00",
+    "checkedTime": "06:18 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Autofahrer verursacht mehrere Verkehrsunfälle mit hohem Sachschaden",
-    "latestPublishedAt": "2026-10-08T14:42:40+00:00"
+    "latestTitle": "Seniorin betrogen – Wer erkennt den Tatverdächtigen?",
+    "latestPublishedAt": "2026-10-09T05:45:09+00:00"
   },
   "items": [
+    {
+      "title": "Seniorin betrogen – Wer erkennt den Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723337.php",
+      "publishedAt": "2026-10-09T05:45:09+00:00",
+      "publishedLabel": "09.10.2026 05:45",
+      "summary": "Mit Aufnahmen aus einer Überwachungskamera sucht die Polizei Berlin nach einem Unbekannten, der am 17.09.2025 in Neukölln eine Seniorin betrogen haben soll.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Autofahrer verursacht mehrere Verkehrsunfälle mit hohem Sachschaden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723273.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "05.10.2026 13:38",
       "summary": "Gestern Nachmittag wurde die Polizei nach Altglienicke alarmiert, nachdem mehrere Anwohner Schussgeräusche gemeldet hatten.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Auseinandersetzungen nach Fußballspiel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721615.php",
-      "publishedAt": "2026-10-05T12:53:16+00:00",
-      "publishedLabel": "05.10.2026 12:53",
-      "summary": "Gestern Nachmittag kam es in Westend nach einem Fußballspiel zu mehreren Straftaten.",
-      "category": "Sonstiges"
     }
   ]
 }
