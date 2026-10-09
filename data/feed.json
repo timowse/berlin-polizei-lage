@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-09T06:18:57.166681+00:00",
-    "checkedTime": "06:18 Uhr",
+    "checkedAt": "2026-10-09T13:30:03.528149+00:00",
+    "checkedTime": "13:30 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Seniorin betrogen – Wer erkennt den Tatverdächtigen?",
-    "latestPublishedAt": "2026-10-09T05:45:09+00:00"
+    "latestTitle": "Schüsse auf Einfamilienhaus",
+    "latestPublishedAt": "2026-10-09T10:24:03+00:00"
   },
   "items": [
+    {
+      "title": "Schüsse auf Einfamilienhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1723617.php",
+      "publishedAt": "2026-10-09T10:24:03+00:00",
+      "publishedLabel": "09.10.2026 10:24",
+      "summary": "Heute früh wurden Schüsse auf ein Einfamilienhaus in Rudow abgegeben.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Seniorin betrogen – Wer erkennt den Tatverdächtigen?",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723337.php",
@@ -145,14 +153,6 @@
       "publishedLabel": "06.10.2026 07:29",
       "summary": "Mit der Veröffentlichung eines Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach dem 89-jährigen Kurt Rüdiger GLAGE.",
       "category": "Fahndung"
-    },
-    {
-      "title": "Zwei Personen bei Auseinandersetzung zwischen Jugendgruppen verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721644.php",
-      "publishedAt": "2026-10-05T13:38:19+00:00",
-      "publishedLabel": "05.10.2026 13:38",
-      "summary": "Gestern Nachmittag wurde die Polizei nach Altglienicke alarmiert, nachdem mehrere Anwohner Schussgeräusche gemeldet hatten.",
-      "category": "Ermittlung"
     }
   ]
 }
