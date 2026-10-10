@@ -3,13 +3,69 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-10T08:40:15.979392+00:00",
-    "checkedTime": "08:40 Uhr",
+    "checkedAt": "2026-10-10T14:47:57.655174+00:00",
+    "checkedTime": "14:47 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Schüsse auf Einfamilienhaus",
-    "latestPublishedAt": "2026-10-09T10:24:03+00:00"
+    "latestTitle": "Auseinandersetzung zwischen zwei Männergruppen",
+    "latestPublishedAt": "2026-10-10T12:56:29+00:00"
   },
   "items": [
+    {
+      "title": "Auseinandersetzung zwischen zwei Männergruppen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723882.php",
+      "publishedAt": "2026-10-10T12:56:29+00:00",
+      "publishedLabel": "10.10.2026 12:56",
+      "summary": "Zwei Männergruppen schlugen sich heute früh vor einer Diskothek im Stadtteil Tiergarten.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Fahrradfahrerin bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723880.php",
+      "publishedAt": "2026-10-10T12:53:08+00:00",
+      "publishedLabel": "10.10.2026 12:53",
+      "summary": "Gestern Morgen wurden Einsatzkräfte der Polizei und Feuerwehr zu einem Verkehrsunfall nach Tempelhof alarmiert.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Jugendlicher fährt gegen wartendes Auto und verletzt sich am Kopf",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723879.php",
+      "publishedAt": "2026-10-10T12:44:43+00:00",
+      "publishedLabel": "10.10.2026 12:44",
+      "summary": "Gestern Mittag wurde die Polizei zu einem Verkehrsunfall nach Alt-Hohenschönhausen alarmiert.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mann durch Messerstiche verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723875.php",
+      "publishedAt": "2026-10-10T10:59:00+00:00",
+      "publishedLabel": "10.10.2026 10:59",
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei zu einer verletzten Person nach Moabit alarmiert.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Einsatzwagen der Polizei geriet ins Schlingern",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723873.php",
+      "publishedAt": "2026-10-10T10:44:50+00:00",
+      "publishedLabel": "10.10.2026 10:44",
+      "summary": "Ein Einsatzwagen der Polizei geriet gestern Abend auf der BAB 111 ins Schlingern.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Frau wird von Sattelzug angefahren und tödlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723869.php",
+      "publishedAt": "2026-10-10T09:11:46+00:00",
+      "publishedLabel": "10.10.2026 09:11",
+      "summary": "Gestern Vormittag ist eine 59-jährige Frau bei einem Verkehrsunfall in Wedding verstorben.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Aus mutmaßlich antisemitischen Gründen wiederholt beleidigt und angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723867.php",
+      "publishedAt": "2026-10-10T08:39:40+00:00",
+      "publishedLabel": "10.10.2026 08:39",
+      "summary": "Aus mutmaßlich antisemitischen Gründen wiederholt beleidigt und angegriffen",
+      "category": "Sonstiges"
+    },
     {
       "title": "Schüsse auf Einfamilienhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1723617.php",
@@ -23,7 +79,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723337.php",
       "publishedAt": "2026-10-09T05:45:09+00:00",
       "publishedLabel": "09.10.2026 05:45",
-      "summary": "Mit Aufnahmen aus einer Überwachungskamera sucht die Polizei Berlin nach einem Unbekannten, der am 17.09.2025 in Neukölln eine Seniorin betrogen haben soll.",
+      "summary": "Seniorin betrogen – Wer erkennt den Tatverdächtigen?",
       "category": "Ermittlung"
     },
     {
@@ -31,7 +87,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723273.php",
       "publishedAt": "2026-10-08T14:42:40+00:00",
       "publishedLabel": "08.10.2026 14:42",
-      "summary": "Gestern Nachmittag kam es zunächst in Alt-Hohenschönhausen zu einem Verkehrsunfall mit anschließender Verkehrsunfallflucht.",
+      "summary": "Autofahrer verursacht mehrere Verkehrsunfälle mit hohem Sachschaden",
       "category": "Verkehr"
     },
     {
@@ -63,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723003.php",
       "publishedAt": "2026-10-08T11:19:48+00:00",
       "publishedLabel": "08.10.2026 11:19",
-      "summary": "In der vergangenen Nacht kam es in Neukölln zu einer versuchten schweren Brandstiftung.",
+      "summary": "Versuchte schwere Brandstiftung",
       "category": "Ermittlung"
     },
     {
@@ -97,62 +153,6 @@
       "publishedLabel": "07.10.2026 12:15",
       "summary": "Gestern Abend wurde die Polizei zu einem Fenstersturz nach Neukölln alarmiert.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Seniorin angefahren und geflüchtet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722571.php",
-      "publishedAt": "2026-10-07T12:05:26+00:00",
-      "publishedLabel": "07.10.2026 12:05",
-      "summary": "Nachdem er gestern Nachmittag eine Seniorin in Spandau angefahren hatte, flüchtete ein unbekannt gebliebener E-Scooter-Fahrer vom Unfallort.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "18-Jähriger soll Reizgas in Schule versprüht haben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721976.php",
-      "publishedAt": "2026-10-06T11:23:41+00:00",
-      "publishedLabel": "06.10.2026 11:23",
-      "summary": "Gestern Vormittag wurde die Polizei zu einer Schule in Kreuzberg alarmiert, nachdem ein ehemaliger Schüler dort Reizgas versprüht haben soll.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Mögliches Tötungsdelikt - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721932.php",
-      "publishedAt": "2026-10-06T10:53:09+00:00",
-      "publishedLabel": "06.10.2026 10:53",
-      "summary": "Mit Verletzungen im Bauch und erheblichen Armverletzungen ist gestern Mittag ein Mann in ein Krankenhaus gebracht worden.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Durchsuchungen nach Messerangriff am Ottoplatz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721178.php",
-      "publishedAt": "2026-10-06T10:48:00+00:00",
-      "publishedLabel": "06.10.2026 10:48",
-      "summary": "Nach gefährlichen Körperverletzungen in Moabit durchsuchten Einsatzkräfte der Polizei Berlin sechs Wohnanschriften und ein Café.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Geldausgabeautomat gesprengt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721903.php",
-      "publishedAt": "2026-10-06T10:16:48+00:00",
-      "publishedLabel": "06.10.2026 10:16",
-      "summary": "Bisher Unbekannte sprengten heute früh einen Geldausgabeautomaten in Biesdorf.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Mann durch Schuss ins Bein verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721860.php",
-      "publishedAt": "2026-10-06T09:34:26+00:00",
-      "publishedLabel": "06.10.2026 09:34",
-      "summary": "In der vergangenen Nacht wurden Polizeikräfte zu einem verletzten Mann nach Neukölln alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Senior vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721751.php",
-      "publishedAt": "2026-10-06T07:29:33+00:00",
-      "publishedLabel": "06.10.2026 07:29",
-      "summary": "Mit der Veröffentlichung eines Fotos bittet die Polizei Berlin um Mithilfe bei der Suche nach dem 89-jährigen Kurt Rüdiger GLAGE.",
-      "category": "Fahndung"
     }
   ]
 }
