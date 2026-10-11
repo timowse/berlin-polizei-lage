@@ -3,13 +3,61 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-11T07:11:45.909001+00:00",
-    "checkedTime": "07:11 Uhr",
+    "checkedAt": "2026-10-11T14:08:57.578226+00:00",
+    "checkedTime": "14:08 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Auseinandersetzung zwischen zwei Männergruppen",
-    "latestPublishedAt": "2026-10-10T12:56:29+00:00"
+    "latestTitle": "Zwei gegen Einen",
+    "latestPublishedAt": "2026-10-11T11:32:19+00:00"
   },
   "items": [
+    {
+      "title": "Zwei gegen Einen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723947.php",
+      "publishedAt": "2026-10-11T11:32:19+00:00",
+      "publishedLabel": "11.10.2026 11:32",
+      "summary": "Gestern Abend gingen in Marzahn Kinder aufeinander los.",
+      "category": "Sonstiges"
+    },
+    {
+      "title": "Fahrer eines Leichtkraftrades bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723946.php",
+      "publishedAt": "2026-10-11T11:29:51+00:00",
+      "publishedLabel": "11.10.2026 11:29",
+      "summary": "Einsatzkräfte von Polizei und Feuerwehr wurden gestern Mittag zu einem Verkehrsunfall nach Oberschöneweide alarmiert.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Stichverletzung im Oberkörper – lebensgefährlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723944.php",
+      "publishedAt": "2026-10-11T10:56:24+00:00",
+      "publishedLabel": "11.10.2026 10:56",
+      "summary": "Stich- und Schnittverletzungen im Oberkörper erlitt gestern Abend ein Mann in Neu-Hohenschönhausen.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Alkoholisierter Mann schlägt Nachbarn, greift Polizeibeamte an und leistet Widerstand bei Festnahme – DEIG-Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723943.php",
+      "publishedAt": "2026-10-11T10:54:19+00:00",
+      "publishedLabel": "11.10.2026 10:54",
+      "summary": "In der vergangenen Nacht wurde die Polizei aufgrund einer Körperverletzung zu einem Mehrfamilienhaus in Gesundbrunnen alarmiert.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mann niedergeschlagen – lebensgefährlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723939.php",
+      "publishedAt": "2026-10-11T10:00:06+00:00",
+      "publishedLabel": "11.10.2026 10:00",
+      "summary": "Gestern Abend schlug ein Heranwachsender einen Mann in Köpenick nieder.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Kind wird von Jugendgruppe bedroht und beraubt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723938.php",
+      "publishedAt": "2026-10-11T09:58:24+00:00",
+      "publishedLabel": "11.10.2026 09:58",
+      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei zu einem Raub nach Spandau alarmiert.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Auseinandersetzung zwischen zwei Männergruppen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723882.php",
@@ -105,54 +153,6 @@
       "publishedLabel": "08.10.2026 13:34",
       "summary": "In der vergangenen Nacht brannten in Alt-Hohenschönhausen drei Fahrzeuge auf einem öffentlichen Großraumparkplatz.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Radfahrer von Lkw-Fahrer angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723117.php",
-      "publishedAt": "2026-10-08T12:53:46+00:00",
-      "publishedLabel": "08.10.2026 12:53",
-      "summary": "Gestern Vormittag wurde ein Radfahrer bei einem Verkehrsunfall in Charlottenburg verletzt.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Versuchte schwere Brandstiftung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723003.php",
-      "publishedAt": "2026-10-08T11:19:48+00:00",
-      "publishedLabel": "08.10.2026 11:19",
-      "summary": "In der vergangenen Nacht kam es in Neukölln zu einer versuchten schweren Brandstiftung.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Einsatzkräfte mit Steinen und Pyrotechnik angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722985.php",
-      "publishedAt": "2026-10-08T11:01:57+00:00",
-      "publishedLabel": "08.10.2026 11:01",
-      "summary": "Bisher Unbekannte griffen in der vergangenen Nacht Polizeieinsatzkräfte in Friedrichshain an.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Fußgänger verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713418.php",
-      "publishedAt": "2026-10-07T12:40:00+00:00",
-      "publishedLabel": "07.10.2026 12:40",
-      "summary": "Der Mann, der am 13. September in Zehlendorf von einem Autofahrer angefahren wurde, ist verstorben.",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Nach Fund von Kameras in Damentoiletten – Durchsuchung bei Tatverdächtigem",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722613.php",
-      "publishedAt": "2026-10-07T12:37:00+00:00",
-      "publishedLabel": "07.10.2026 12:37",
-      "summary": "Einsatzkräfte des LKA und der Polizeidirektion 3 (Ost) durchsuchten heute im Auftrag der Staatsanwaltschaft die Wohnung eines 66-jährigen Mannes in Treptow.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Kind fällt aus dem Fenster – Mann fängt es auf",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722584.php",
-      "publishedAt": "2026-10-07T12:15:23+00:00",
-      "publishedLabel": "07.10.2026 12:15",
-      "summary": "Gestern Abend wurde die Polizei zu einem Fenstersturz nach Neukölln alarmiert.",
-      "category": "Einsatz"
     }
   ]
 }
