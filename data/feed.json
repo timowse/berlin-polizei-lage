@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-11T18:53:41.464814+00:00",
-    "checkedTime": "18:53 Uhr",
+    "checkedAt": "2026-10-11T22:42:32.434634+00:00",
+    "checkedTime": "22:42 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Zwei gegen Einen",
     "latestPublishedAt": "2026-10-11T11:32:19+00:00"
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723873.php",
       "publishedAt": "2026-10-10T10:44:50+00:00",
       "publishedLabel": "10.10.2026 10:44",
-      "summary": "Einsatzwagen der Polizei geriet ins Schlingern",
+      "summary": "Ein Einsatzwagen der Polizei geriet gestern Abend auf der BAB 111 ins Schlingern.",
       "category": "Einsatz"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1723617.php",
       "publishedAt": "2026-10-09T10:24:03+00:00",
       "publishedLabel": "09.10.2026 10:24",
-      "summary": "Schüsse auf Einfamilienhaus",
+      "summary": "Heute früh wurden Schüsse auf ein Einfamilienhaus in Rudow abgegeben.",
       "category": "Ermittlung"
     },
     {
