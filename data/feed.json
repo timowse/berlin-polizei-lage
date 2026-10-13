@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-13T00:15:38.307607+00:00",
-    "checkedTime": "00:15 Uhr",
+    "checkedAt": "2026-10-13T06:53:11.202618+00:00",
+    "checkedTime": "06:53 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Ermittlungen der BAO Ferrum nach mutmaßlicher Sprengstoffexplosion",
     "latestPublishedAt": "2026-10-12T15:19:53+00:00"
@@ -23,15 +23,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724583.php",
       "publishedAt": "2026-10-12T14:13:10+00:00",
       "publishedLabel": "12.10.2026 14:13",
-      "summary": "Vorrichtungen zum Anbringen von versteckten Kameras entdeckt",
-      "category": "Sonstiges"
+      "summary": "Polizeieinsatzkräfte wurden heute Vormittag nach Friedrichsfelde alarmiert.",
+      "category": "Einsatz"
     },
     {
       "title": "Festnahmen und Haftbefehle wegen mutmaßlichen schweren Bandendiebstahls",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724506.php",
       "publishedAt": "2026-10-12T13:00:18+00:00",
       "publishedLabel": "12.10.2026 13:00",
-      "summary": "Festnahmen und Haftbefehle wegen mutmaßlichen schweren Bandendiebstahls",
+      "summary": "Bereits am 6. Oktober 2026 nahmen Einsatzkräfte vier mutmaßliche Felgendiebe in Britz wegen des Verdachts des schweren Bandendiebstahls fest.",
       "category": "Ermittlung"
     },
     {
