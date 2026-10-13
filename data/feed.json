@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-13T06:53:11.202618+00:00",
-    "checkedTime": "06:53 Uhr",
+    "checkedAt": "2026-10-13T14:50:54.317180+00:00",
+    "checkedTime": "14:50 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Ermittlungen der BAO Ferrum nach mutmaßlicher Sprengstoffexplosion",
-    "latestPublishedAt": "2026-10-12T15:19:53+00:00"
+    "latestTitle": "Verdacht der Beihilfe zum Computerbetrug – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt",
+    "latestPublishedAt": "2026-10-13T12:12:05+00:00"
   },
   "items": [
+    {
+      "title": "Verdacht der Beihilfe zum Computerbetrug – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724968.php",
+      "publishedAt": "2026-10-13T12:12:05+00:00",
+      "publishedLabel": "13.10.2026 12:12",
+      "summary": "Am 7. Oktober 2026 vollstreckten Kräfte der Polizei Berlin gemeinsam mit serbischen Behörden in Serbien drei Durchsuchungsbeschlüsse.",
+      "category": "Einsatz"
+    },
+    {
+      "title": "Schüsse auf Café",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724948.php",
+      "publishedAt": "2026-10-13T11:44:28+00:00",
+      "publishedLabel": "13.10.2026 11:44",
+      "summary": "In der vergangenen Nacht sollen mehrere Männer in Neukölln auf ein geschlossenes Café geschossen haben.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Mutmaßlicher Einbrecher festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724840.php",
+      "publishedAt": "2026-10-13T09:50:42+00:00",
+      "publishedLabel": "13.10.2026 09:50",
+      "summary": "Einsatzkräfte des Regionalabschnitts 52/53 nahmen gestern Morgen einen mutmaßlichen Einbrecher in Kreuzberg fest.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Ermittlungen der BAO Ferrum nach mutmaßlicher Sprengstoffexplosion",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724608.php",
@@ -129,30 +153,6 @@
       "publishedLabel": "11.10.2026 10:00",
       "summary": "Gestern Abend schlug ein Heranwachsender einen Mann in Köpenick nieder.",
       "category": "Ermittlung"
-    },
-    {
-      "title": "Kind wird von Jugendgruppe bedroht und beraubt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723938.php",
-      "publishedAt": "2026-10-11T09:58:24+00:00",
-      "publishedLabel": "11.10.2026 09:58",
-      "summary": "Gestern Nachmittag wurden Einsatzkräfte der Polizei zu einem Raub nach Spandau alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Auseinandersetzung zwischen zwei Männergruppen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723882.php",
-      "publishedAt": "2026-10-10T12:56:29+00:00",
-      "publishedLabel": "10.10.2026 12:56",
-      "summary": "Zwei Männergruppen schlugen sich heute früh vor einer Diskothek im Stadtteil Tiergarten.",
-      "category": "Sonstiges"
-    },
-    {
-      "title": "Fahrradfahrerin bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723880.php",
-      "publishedAt": "2026-10-10T12:53:08+00:00",
-      "publishedLabel": "10.10.2026 12:53",
-      "summary": "Gestern Morgen wurden Einsatzkräfte der Polizei und Feuerwehr zu einem Verkehrsunfall nach Tempelhof alarmiert.",
-      "category": "Verkehr"
     }
   ]
 }
