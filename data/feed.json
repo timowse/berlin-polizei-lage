@@ -3,13 +3,37 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-14T09:23:24.032834+00:00",
-    "checkedTime": "09:23 Uhr",
+    "checkedAt": "2026-10-14T14:36:45.997209+00:00",
+    "checkedTime": "14:36 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verdacht der Beihilfe zum Computerbetrug – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt",
-    "latestPublishedAt": "2026-10-13T12:12:05+00:00"
+    "latestTitle": "Sachbeschädigung durch Schüsse",
+    "latestPublishedAt": "2026-10-14T13:45:38+00:00"
   },
   "items": [
+    {
+      "title": "Sachbeschädigung durch Schüsse",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725791.php",
+      "publishedAt": "2026-10-14T13:45:38+00:00",
+      "publishedLabel": "14.10.2026 13:45",
+      "summary": "Gestern Vormittag alarmierte eine Frau die Polizei, nachdem sie eine erneute Sachbeschädigung an ihrem Blumengeschäft in Wilmersdorf festgestellt hatte.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Brandstiftung auf Fahrbahn",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725788.php",
+      "publishedAt": "2026-10-14T13:31:31+00:00",
+      "publishedLabel": "14.10.2026 13:31",
+      "summary": "In der vergangenen Nacht brannte es auf einer Friedrichshainer Fahrbahn.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Schussabgabe eines Polizeibeamten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725507.php",
+      "publishedAt": "2026-10-14T09:48:06+00:00",
+      "publishedLabel": "14.10.2026 09:48",
+      "summary": "Gestern Abend gab ein Polizist in Mitte einen Schuss auf einen flüchtenden Autofahrer ab, der auf einen Polizisten zugefahren sein soll.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Verdacht der Beihilfe zum Computerbetrug – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724968.php",
@@ -129,30 +153,6 @@
       "publishedLabel": "11.10.2026 11:29",
       "summary": "Einsatzkräfte von Polizei und Feuerwehr wurden gestern Mittag zu einem Verkehrsunfall nach Oberschöneweide alarmiert.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Stichverletzung im Oberkörper – lebensgefährlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723944.php",
-      "publishedAt": "2026-10-11T10:56:24+00:00",
-      "publishedLabel": "11.10.2026 10:56",
-      "summary": "Stich- und Schnittverletzungen im Oberkörper erlitt gestern Abend ein Mann in Neu-Hohenschönhausen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Alkoholisierter Mann schlägt Nachbarn, greift Polizeibeamte an und leistet Widerstand bei Festnahme – DEIG-Einsatz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723943.php",
-      "publishedAt": "2026-10-11T10:54:19+00:00",
-      "publishedLabel": "11.10.2026 10:54",
-      "summary": "In der vergangenen Nacht wurde die Polizei aufgrund einer Körperverletzung zu einem Mehrfamilienhaus in Gesundbrunnen alarmiert.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mann niedergeschlagen – lebensgefährlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723939.php",
-      "publishedAt": "2026-10-11T10:00:06+00:00",
-      "publishedLabel": "11.10.2026 10:00",
-      "summary": "Gestern Abend schlug ein Heranwachsender einen Mann in Köpenick nieder.",
-      "category": "Ermittlung"
     }
   ]
 }
