@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-13T23:51:07.884570+00:00",
-    "checkedTime": "23:51 Uhr",
+    "checkedAt": "2026-10-14T03:56:26.647563+00:00",
+    "checkedTime": "03:56 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Verdacht der Beihilfe zum Computerbetrug – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt",
     "latestPublishedAt": "2026-10-13T12:12:05+00:00"
@@ -55,7 +55,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724506.php",
       "publishedAt": "2026-10-12T13:00:18+00:00",
       "publishedLabel": "12.10.2026 13:00",
-      "summary": "Bereits am 6. Oktober 2026 nahmen Einsatzkräfte vier mutmaßliche Felgendiebe in Britz wegen des Verdachts des schweren Bandendiebstahls fest.",
+      "summary": "Festnahmen und Haftbefehle wegen mutmaßlichen schweren Bandendiebstahls",
       "category": "Ermittlung"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721932.php",
       "publishedAt": "2026-10-12T10:04:00+00:00",
       "publishedLabel": "12.10.2026 10:04",
-      "summary": "Am Vormittag des 5. Oktobers 2026 kam es auf dem Gelände eines Lichtenberger Großmarkts zu einem versuchten Tötungsdelikt.",
+      "summary": "Zeugenaufruf zu versuchtem Tötungsdelikt",
       "category": "Fahndung"
     },
     {
@@ -103,15 +103,15 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724307.php",
       "publishedAt": "2026-10-12T09:58:53+00:00",
       "publishedLabel": "12.10.2026 09:58",
-      "summary": "Bereits in der Nacht zu Sonntag wurden Einsatzkräfte wegen einer Schlägerei nach Köpenick alarmiert.",
-      "category": "Einsatz"
+      "summary": "19-Jähriger von Unbekannten angegriffen",
+      "category": "Sonstiges"
     },
     {
       "title": "Seniorin um Bankkarte betrogen – Wer erkennt die Tatverdächtigen?",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724227.php",
       "publishedAt": "2026-10-12T08:56:00+00:00",
       "publishedLabel": "12.10.2026 08:56",
-      "summary": "Die Polizei Berlin sucht zwei unbekannte Tatverdächtige, die am 25. Juli 2026 eine 66-jährige Frau in Schöneberg um ihre Bankkarte betrogen haben sollen.",
+      "summary": "Seniorin um Bankkarte betrogen – Wer erkennt die Tatverdächtigen?",
       "category": "Ermittlung"
     },
     {
