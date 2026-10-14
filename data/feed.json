@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-14T14:36:45.997209+00:00",
-    "checkedTime": "14:36 Uhr",
+    "checkedAt": "2026-10-14T18:52:40.832427+00:00",
+    "checkedTime": "18:52 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Sachbeschädigung durch Schüsse",
-    "latestPublishedAt": "2026-10-14T13:45:38+00:00"
+    "latestTitle": "Verkehrsunfall mit Fahrerflucht – Polizei bittet um Mithilfe",
+    "latestPublishedAt": "2026-10-14T14:39:24+00:00"
   },
   "items": [
+    {
+      "title": "Verkehrsunfall mit Fahrerflucht – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725812.php",
+      "publishedAt": "2026-10-14T14:39:24+00:00",
+      "publishedLabel": "14.10.2026 14:39",
+      "summary": "Die Polizei Berlin sucht Zeuginnen und Zeugen zu einem Verkehrsunfall, der sich am Mittwoch, dem 7. Oktober 2026, in Kreuzberg ereignet hat.",
+      "category": "Verkehr"
+    },
     {
       "title": "Sachbeschädigung durch Schüsse",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725791.php",
@@ -55,7 +63,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724840.php",
       "publishedAt": "2026-10-13T09:50:42+00:00",
       "publishedLabel": "13.10.2026 09:50",
-      "summary": "Einsatzkräfte des Regionalabschnitts 52/53 nahmen gestern Morgen einen mutmaßlichen Einbrecher in Kreuzberg fest.",
+      "summary": "Mutmaßlicher Einbrecher festgenommen",
       "category": "Ermittlung"
     },
     {
@@ -145,14 +153,6 @@
       "publishedLabel": "11.10.2026 11:32",
       "summary": "Gestern Abend gingen in Marzahn Kinder aufeinander los.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Fahrer eines Leichtkraftrades bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723946.php",
-      "publishedAt": "2026-10-11T11:29:51+00:00",
-      "publishedLabel": "11.10.2026 11:29",
-      "summary": "Einsatzkräfte von Polizei und Feuerwehr wurden gestern Mittag zu einem Verkehrsunfall nach Oberschöneweide alarmiert.",
-      "category": "Verkehr"
     }
   ]
 }
