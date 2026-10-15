@@ -3,13 +3,45 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-15T09:50:00.063598+00:00",
-    "checkedTime": "09:50 Uhr",
+    "checkedAt": "2026-10-15T14:29:48.588962+00:00",
+    "checkedTime": "14:29 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verkehrsunfall – beim Fahrstreifenwechsel Motorradfahrer übersehen",
-    "latestPublishedAt": "2026-10-15T09:31:28+00:00"
+    "latestTitle": "Fußgänger bei Verkehrsunfall verletzt",
+    "latestPublishedAt": "2026-10-15T13:42:28+00:00"
   },
   "items": [
+    {
+      "title": "Fußgänger bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726395.php",
+      "publishedAt": "2026-10-15T13:42:28+00:00",
+      "publishedLabel": "15.10.2026 13:42",
+      "summary": "Gestern Abend kam es in Neu-Hohenschönhausen zu einem Verkehrsunfall, bei dem ein Fußgänger verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Kleinkrafträder gestohlen - Festnahmen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726361.php",
+      "publishedAt": "2026-10-15T12:56:50+00:00",
+      "publishedLabel": "15.10.2026 12:56",
+      "summary": "Zwei mutmaßliche Rollerdiebe wurden gestern Abend in Johannisthal festgenommen.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Schlag gegen mutmaßliche kriminelle Vereinigung – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt sowie Vermögenswerte in Millionenhöhe gesichert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726313.php",
+      "publishedAt": "2026-10-15T11:52:28+00:00",
+      "publishedLabel": "15.10.2026 11:52",
+      "summary": "Im Rahmen intensiver Ermittlungen der Staatsanwaltschaft Berlin und des Landeskriminalamts Berlin wurden Haftbefehle und Durchsuchungsbeschlüsse vollstreckt.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Sachbeschädigungen an Parteibüros – eine Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726211.php",
+      "publishedAt": "2026-10-15T10:06:17+00:00",
+      "publishedLabel": "15.10.2026 10:06",
+      "summary": "In der vergangenen Nacht kam es zu Sachbeschädigungen an mehreren Parteibüros in Britz, Kreuzberg und Wilmersdorf.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Verkehrsunfall – beim Fahrstreifenwechsel Motorradfahrer übersehen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726170.php",
@@ -121,38 +153,6 @@
       "publishedLabel": "12.10.2026 10:55",
       "summary": "Am morgigen 13. Oktober findet der 3. Seniorensicherheitstag 2026 statt.",
       "category": "Sonstiges"
-    },
-    {
-      "title": "Schussabgaben auf Einfamilienhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724332.php",
-      "publishedAt": "2026-10-12T10:40:54+00:00",
-      "publishedLabel": "12.10.2026 10:40",
-      "summary": "Gestern früh kam es zu Schussabgaben im Märkischen Viertel.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Vermisste Frau wieder da",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724165.php",
-      "publishedAt": "2026-10-12T10:19:00+00:00",
-      "publishedLabel": "12.10.2026 10:19",
-      "summary": "Die seit gestern Morgen vermisste 38-Jährige ist wieder da.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "Zeugenaufruf zu versuchtem Tötungsdelikt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721932.php",
-      "publishedAt": "2026-10-12T10:04:00+00:00",
-      "publishedLabel": "12.10.2026 10:04",
-      "summary": "Am Vormittag des 5. Oktobers 2026 kam es auf dem Gelände eines Lichtenberger Großmarkts zu einem versuchten Tötungsdelikt.",
-      "category": "Fahndung"
-    },
-    {
-      "title": "19-Jähriger von Unbekannten angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724307.php",
-      "publishedAt": "2026-10-12T09:58:53+00:00",
-      "publishedLabel": "12.10.2026 09:58",
-      "summary": "Bereits in der Nacht zu Sonntag wurden Einsatzkräfte wegen einer Schlägerei nach Köpenick alarmiert.",
-      "category": "Einsatz"
     }
   ]
 }
