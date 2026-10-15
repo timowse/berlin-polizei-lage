@@ -3,13 +3,29 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-15T05:05:01.533746+00:00",
-    "checkedTime": "05:05 Uhr",
+    "checkedAt": "2026-10-15T09:50:00.063598+00:00",
+    "checkedTime": "09:50 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Verkehrsunfall mit Fahrerflucht – Polizei bittet um Mithilfe",
-    "latestPublishedAt": "2026-10-14T14:39:24+00:00"
+    "latestTitle": "Verkehrsunfall – beim Fahrstreifenwechsel Motorradfahrer übersehen",
+    "latestPublishedAt": "2026-10-15T09:31:28+00:00"
   },
   "items": [
+    {
+      "title": "Verkehrsunfall – beim Fahrstreifenwechsel Motorradfahrer übersehen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726170.php",
+      "publishedAt": "2026-10-15T09:31:28+00:00",
+      "publishedLabel": "15.10.2026 09:31",
+      "summary": "Gestern Abend ereignete sich ein Verkehrsunfall in Westend.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Mann bedroht Ehefrau und Kinder – Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726132.php",
+      "publishedAt": "2026-10-15T08:51:18+00:00",
+      "publishedLabel": "15.10.2026 08:51",
+      "summary": "In der vergangenen Nacht kam es im Ortsteil Altglienicke zu einer Bedrohungslage.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Verkehrsunfall mit Fahrerflucht – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725812.php",
@@ -137,22 +153,6 @@
       "publishedLabel": "12.10.2026 09:58",
       "summary": "Bereits in der Nacht zu Sonntag wurden Einsatzkräfte wegen einer Schlägerei nach Köpenick alarmiert.",
       "category": "Einsatz"
-    },
-    {
-      "title": "Seniorin um Bankkarte betrogen – Wer erkennt die Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724227.php",
-      "publishedAt": "2026-10-12T08:56:00+00:00",
-      "publishedLabel": "12.10.2026 08:56",
-      "summary": "Die Polizei Berlin sucht zwei unbekannte Tatverdächtige, die am 25. Juli 2026 eine 66-jährige Frau in Schöneberg um ihre Bankkarte betrogen haben sollen.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Zwei gegen Einen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723947.php",
-      "publishedAt": "2026-10-11T11:32:19+00:00",
-      "publishedLabel": "11.10.2026 11:32",
-      "summary": "Gestern Abend gingen in Marzahn Kinder aufeinander los.",
-      "category": "Sonstiges"
     }
   ]
 }
