@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-15T18:34:55.156601+00:00",
-    "checkedTime": "18:34 Uhr",
+    "checkedAt": "2026-10-15T21:44:52.980776+00:00",
+    "checkedTime": "21:44 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Fußgänger bei Verkehrsunfall verletzt",
     "latestPublishedAt": "2026-10-15T13:42:28+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726395.php",
       "publishedAt": "2026-10-15T13:42:28+00:00",
       "publishedLabel": "15.10.2026 13:42",
-      "summary": "Gestern Abend kam es in Neu-Hohenschönhausen zu einem Verkehrsunfall, bei dem ein Fußgänger verletzt wurde.",
+      "summary": "Fußgänger bei Verkehrsunfall verletzt",
       "category": "Verkehr"
     },
     {
@@ -119,7 +119,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724608.php",
       "publishedAt": "2026-10-12T15:19:53+00:00",
       "publishedLabel": "12.10.2026 15:19",
-      "summary": "In der vergangenen Nacht soll es zu einer Sprengstoffexplosion in Charlottenburg gekommen sein.",
+      "summary": "Ermittlungen der BAO Ferrum nach mutmaßlicher Sprengstoffexplosion",
       "category": "Ermittlung"
     },
     {
