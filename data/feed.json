@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-15T23:54:55.446169+00:00",
-    "checkedTime": "23:54 Uhr",
+    "checkedAt": "2026-10-16T03:34:07.096879+00:00",
+    "checkedTime": "03:34 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Fußgänger bei Verkehrsunfall verletzt",
     "latestPublishedAt": "2026-10-15T13:42:28+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726395.php",
       "publishedAt": "2026-10-15T13:42:28+00:00",
       "publishedLabel": "15.10.2026 13:42",
-      "summary": "Fußgänger bei Verkehrsunfall verletzt",
+      "summary": "Gestern Abend kam es in Neu-Hohenschönhausen zu einem Verkehrsunfall, bei dem ein Fußgänger verletzt wurde.",
       "category": "Verkehr"
     },
     {
@@ -23,8 +23,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726361.php",
       "publishedAt": "2026-10-15T12:56:50+00:00",
       "publishedLabel": "15.10.2026 12:56",
-      "summary": "Kleinkrafträder gestohlen - Festnahmen",
-      "category": "Ermittlung"
+      "summary": "Zwei mutmaßliche Rollerdiebe wurden gestern Abend in Johannisthal festgenommen.",
+      "category": "Verkehr"
     },
     {
       "title": "Schlag gegen mutmaßliche kriminelle Vereinigung – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt sowie Vermögenswerte in Millionenhöhe gesichert",
@@ -111,7 +111,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724840.php",
       "publishedAt": "2026-10-13T09:50:42+00:00",
       "publishedLabel": "13.10.2026 09:50",
-      "summary": "Mutmaßlicher Einbrecher festgenommen",
+      "summary": "Einsatzkräfte des Regionalabschnitts 52/53 nahmen gestern Morgen einen mutmaßlichen Einbrecher in Kreuzberg fest.",
       "category": "Ermittlung"
     },
     {
