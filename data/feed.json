@@ -3,13 +3,21 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-16T03:34:07.096879+00:00",
-    "checkedTime": "03:34 Uhr",
+    "checkedAt": "2026-10-16T08:29:01.250316+00:00",
+    "checkedTime": "08:29 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Fußgänger bei Verkehrsunfall verletzt",
-    "latestPublishedAt": "2026-10-15T13:42:28+00:00"
+    "latestTitle": "Unbekannte nach gefährlicher Körperverletzung gesucht – Wer erkennt die Tatverdächtigen?",
+    "latestPublishedAt": "2026-10-16T07:55:00+00:00"
   },
   "items": [
+    {
+      "title": "Unbekannte nach gefährlicher Körperverletzung gesucht – Wer erkennt die Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726589.php",
+      "publishedAt": "2026-10-16T07:55:00+00:00",
+      "publishedLabel": "16.10.2026 07:55",
+      "summary": "Mit Bildern sucht die Polizei zwei Unbekannte, die am 30.08.2025 am U-Bahnhof Alt-Mariendorf einen Mann beleidigt und körperlich angegriffen haben sollen.",
+      "category": "Fahndung"
+    },
     {
       "title": "Fußgänger bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726395.php",
@@ -100,17 +108,17 @@
     },
     {
       "title": "Schüsse auf Café",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724948.php",
-      "publishedAt": "2026-10-13T11:44:28+00:00",
-      "publishedLabel": "13.10.2026 11:44",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1726531.php",
+      "publishedAt": "2026-10-13T10:00:00+00:00",
+      "publishedLabel": "13.10.2026 10:00",
       "summary": "In der vergangenen Nacht sollen mehrere Männer in Neukölln auf ein geschlossenes Café geschossen haben.",
       "category": "Ermittlung"
     },
     {
       "title": "Mutmaßlicher Einbrecher festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724840.php",
-      "publishedAt": "2026-10-13T09:50:42+00:00",
-      "publishedLabel": "13.10.2026 09:50",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1726523.php",
+      "publishedAt": "2026-10-13T08:30:00+00:00",
+      "publishedLabel": "13.10.2026 08:30",
       "summary": "Einsatzkräfte des Regionalabschnitts 52/53 nahmen gestern Morgen einen mutmaßlichen Einbrecher in Kreuzberg fest.",
       "category": "Ermittlung"
     },
@@ -145,14 +153,6 @@
       "publishedLabel": "12.10.2026 11:38",
       "summary": "In der vergangenen Nacht wurde ein mutmaßlicher Motorraddieb in Neukölln festgenommen.",
       "category": "Verkehr"
-    },
-    {
-      "title": "3. Seniorensicherheitstag 2026 der Polizei Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724349.php",
-      "publishedAt": "2026-10-12T10:55:18+00:00",
-      "publishedLabel": "12.10.2026 10:55",
-      "summary": "Am morgigen 13. Oktober findet der 3. Seniorensicherheitstag 2026 statt.",
-      "category": "Sonstiges"
     }
   ]
 }
