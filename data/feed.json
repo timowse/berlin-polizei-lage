@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-16T13:28:37.002595+00:00",
-    "checkedTime": "13:28 Uhr",
+    "checkedAt": "2026-10-16T17:39:22.352691+00:00",
+    "checkedTime": "17:39 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Polizeibeamter bei Verkehrskontrolle angegriffen",
     "latestPublishedAt": "2026-10-16T11:33:11+00:00"
@@ -15,7 +15,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726853.php",
       "publishedAt": "2026-10-16T11:33:11+00:00",
       "publishedLabel": "16.10.2026 11:33",
-      "summary": "Polizeibeamter bei Verkehrskontrolle angegriffen",
+      "summary": "Gestern Abend wurde ein Polizist im Ortsteil Westend bei einem tätlichen Angriff verletzt.",
       "category": "Verkehr"
     },
     {
@@ -23,7 +23,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726838.php",
       "publishedAt": "2026-10-16T11:24:44+00:00",
       "publishedLabel": "16.10.2026 11:24",
-      "summary": "Erneut Schüsse auf Café",
+      "summary": "In Neukölln wurden heute früh erneut Schüsse auf ein geschlossenes Café abgegeben.",
       "category": "Ermittlung"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726132.php",
       "publishedAt": "2026-10-15T08:51:18+00:00",
       "publishedLabel": "15.10.2026 08:51",
-      "summary": "Mann bedroht Ehefrau und Kinder – Festnahme",
+      "summary": "In der vergangenen Nacht kam es im Ortsteil Altglienicke zu einer Bedrohungslage.",
       "category": "Ermittlung"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1726531.php",
       "publishedAt": "2026-10-13T10:00:00+00:00",
       "publishedLabel": "13.10.2026 10:00",
-      "summary": "Schüsse auf Café",
+      "summary": "In der vergangenen Nacht sollen mehrere Männer in Neukölln auf ein geschlossenes Café geschossen haben.",
       "category": "Ermittlung"
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1726523.php",
       "publishedAt": "2026-10-13T08:30:00+00:00",
       "publishedLabel": "13.10.2026 08:30",
-      "summary": "Mutmaßlicher Einbrecher festgenommen",
+      "summary": "Einsatzkräfte des Regionalabschnitts 52/53 nahmen gestern Morgen einen mutmaßlichen Einbrecher in Kreuzberg fest.",
       "category": "Ermittlung"
     }
   ]
