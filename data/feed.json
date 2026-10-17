@@ -3,8 +3,8 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-17T00:49:17.159835+00:00",
-    "checkedTime": "00:49 Uhr",
+    "checkedAt": "2026-10-17T05:05:01.314575+00:00",
+    "checkedTime": "05:05 Uhr",
     "statusLabel": "Aktuell",
     "latestTitle": "Polizeibeamter bei Verkehrskontrolle angegriffen",
     "latestPublishedAt": "2026-10-16T11:33:11+00:00"
@@ -39,8 +39,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726768.php",
       "publishedAt": "2026-10-16T10:39:47+00:00",
       "publishedLabel": "16.10.2026 10:39",
-      "summary": "Gestern Mittag wurden Einsatzkräfte wegen einer gefährlichen Körperverletzung nach Marzahn alarmiert.",
-      "category": "Einsatz"
+      "summary": "Mann mit Stichverletzungen im Krankenhaus",
+      "category": "Sonstiges"
     },
     {
       "title": "Unbekannte nach gefährlicher Körperverletzung gesucht – Wer erkennt die Tatverdächtigen?",
@@ -95,7 +95,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726132.php",
       "publishedAt": "2026-10-15T08:51:18+00:00",
       "publishedLabel": "15.10.2026 08:51",
-      "summary": "In der vergangenen Nacht kam es im Ortsteil Altglienicke zu einer Bedrohungslage.",
+      "summary": "Mann bedroht Ehefrau und Kinder – Festnahme",
       "category": "Ermittlung"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1726531.php",
       "publishedAt": "2026-10-13T10:00:00+00:00",
       "publishedLabel": "13.10.2026 10:00",
-      "summary": "In der vergangenen Nacht sollen mehrere Männer in Neukölln auf ein geschlossenes Café geschossen haben.",
+      "summary": "Schüsse auf Café",
       "category": "Ermittlung"
     },
     {
