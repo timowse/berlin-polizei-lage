@@ -3,13 +3,61 @@
     "name": "Polizei Berlin",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
     "count": 18,
-    "checkedAt": "2026-10-17T09:17:28.360882+00:00",
-    "checkedTime": "09:17 Uhr",
+    "checkedAt": "2026-10-17T16:21:30.630540+00:00",
+    "checkedTime": "16:21 Uhr",
     "statusLabel": "Aktuell",
-    "latestTitle": "Polizeibeamter bei Verkehrskontrolle angegriffen",
-    "latestPublishedAt": "2026-10-16T11:33:11+00:00"
+    "latestTitle": "Fußgängerin nach Zusammenstoß mit Auto verletzt",
+    "latestPublishedAt": "2026-10-17T11:24:00+00:00"
   },
   "items": [
+    {
+      "title": "Fußgängerin nach Zusammenstoß mit Auto verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727163.php",
+      "publishedAt": "2026-10-17T11:24:00+00:00",
+      "publishedLabel": "17.10.2026 11:24",
+      "summary": "Gestern Abend kam es in Pankow zu einem Verkehrsunfall, bei dem eine Fußgängerin verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Scheibe mit Stein eingeworfen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727162.php",
+      "publishedAt": "2026-10-17T11:12:41+00:00",
+      "publishedLabel": "17.10.2026 11:12",
+      "summary": "Polizeikräfte wurden in der vergangenen Nacht zu einer Filiale einer Kaffeehauskette in Friedrichshain gerufen, die Unbekannte beschädigt hatten.",
+      "category": "Ermittlung"
+    },
+    {
+      "title": "Fußgängerin mit Gesichtsverletzungen in Krankenhaus gebracht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727145.php",
+      "publishedAt": "2026-10-17T10:22:02+00:00",
+      "publishedLabel": "17.10.2026 10:22",
+      "summary": "Gestern Mittag wurden Einsatzkräfte der Polizei Berlin zu einem Verkehrsunfall nach Staaken alarmiert.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Kind nach Unfall im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727143.php",
+      "publishedAt": "2026-10-17T09:49:47+00:00",
+      "publishedLabel": "17.10.2026 09:49",
+      "summary": "Gestern Nachmittag kam es im Ortsteil Rosenthal zu einem Verkehrsunfall, bei dem ein Kind verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "82-Jähriger nach Verkehrsunfall im Krankenhaus verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727138.php",
+      "publishedAt": "2026-10-17T09:20:00+00:00",
+      "publishedLabel": "17.10.2026 09:20",
+      "summary": "Gestern Nachmittag kam es in Spandau zu einem Verkehrsunfall, bei dem ein Mann tödlich verletzt wurde.",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Versuchtes Tötungsdelikt – Mordkommission ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727134.php",
+      "publishedAt": "2026-10-17T09:15:00+00:00",
+      "publishedLabel": "17.10.2026 09:15",
+      "summary": "Die 4. Mordkommission des Landeskriminalamtes hat in der vergangenen Nacht die Ermittlungen zu einem versuchten Tötungsdelikt in Kreuzberg übernommen.",
+      "category": "Ermittlung"
+    },
     {
       "title": "Polizeibeamter bei Verkehrskontrolle angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726853.php",
@@ -63,8 +111,8 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726361.php",
       "publishedAt": "2026-10-15T12:56:50+00:00",
       "publishedLabel": "15.10.2026 12:56",
-      "summary": "Zwei mutmaßliche Rollerdiebe wurden gestern Abend in Johannisthal festgenommen.",
-      "category": "Verkehr"
+      "summary": "Kleinkrafträder gestohlen - Festnahmen",
+      "category": "Ermittlung"
     },
     {
       "title": "Schlag gegen mutmaßliche kriminelle Vereinigung – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt sowie Vermögenswerte in Millionenhöhe gesichert",
@@ -87,7 +135,7 @@
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726170.php",
       "publishedAt": "2026-10-15T09:31:28+00:00",
       "publishedLabel": "15.10.2026 09:31",
-      "summary": "Gestern Abend ereignete sich ein Verkehrsunfall in Westend.",
+      "summary": "Verkehrsunfall – beim Fahrstreifenwechsel Motorradfahrer übersehen",
       "category": "Verkehr"
     },
     {
@@ -105,54 +153,6 @@
       "publishedLabel": "14.10.2026 14:39",
       "summary": "Die Polizei Berlin sucht Zeuginnen und Zeugen zu einem Verkehrsunfall, der sich am Mittwoch, dem 7. Oktober 2026, in Kreuzberg ereignet hat.",
       "category": "Verkehr"
-    },
-    {
-      "title": "Sachbeschädigung durch Schüsse",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725791.php",
-      "publishedAt": "2026-10-14T13:45:38+00:00",
-      "publishedLabel": "14.10.2026 13:45",
-      "summary": "Gestern Vormittag alarmierte eine Frau die Polizei, nachdem sie eine erneute Sachbeschädigung an ihrem Blumengeschäft in Wilmersdorf festgestellt hatte.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Brandstiftung auf Fahrbahn",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725788.php",
-      "publishedAt": "2026-10-14T13:31:31+00:00",
-      "publishedLabel": "14.10.2026 13:31",
-      "summary": "In der vergangenen Nacht brannte es auf einer Friedrichshainer Fahrbahn.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Schussabgabe eines Polizeibeamten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725507.php",
-      "publishedAt": "2026-10-14T09:48:06+00:00",
-      "publishedLabel": "14.10.2026 09:48",
-      "summary": "Gestern Abend gab ein Polizist in Mitte einen Schuss auf einen flüchtenden Autofahrer ab, der auf einen Polizisten zugefahren sein soll.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Verdacht der Beihilfe zum Computerbetrug – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724968.php",
-      "publishedAt": "2026-10-13T12:12:05+00:00",
-      "publishedLabel": "13.10.2026 12:12",
-      "summary": "Am 7. Oktober 2026 vollstreckten Kräfte der Polizei Berlin gemeinsam mit serbischen Behörden in Serbien drei Durchsuchungsbeschlüsse.",
-      "category": "Einsatz"
-    },
-    {
-      "title": "Schüsse auf Café",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1726531.php",
-      "publishedAt": "2026-10-13T10:00:00+00:00",
-      "publishedLabel": "13.10.2026 10:00",
-      "summary": "In der vergangenen Nacht sollen mehrere Männer in Neukölln auf ein geschlossenes Café geschossen haben.",
-      "category": "Ermittlung"
-    },
-    {
-      "title": "Mutmaßlicher Einbrecher festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1726523.php",
-      "publishedAt": "2026-10-13T08:30:00+00:00",
-      "publishedLabel": "13.10.2026 08:30",
-      "summary": "Einsatzkräfte des Regionalabschnitts 52/53 nahmen gestern Morgen einen mutmaßlichen Einbrecher in Kreuzberg fest.",
-      "category": "Ermittlung"
     }
   ]
 }
